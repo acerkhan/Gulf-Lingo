@@ -1,0 +1,12 @@
+﻿sound_id,trigger,filename,status
+tap,Answer selection,audio/sfx/tap.mp3,pending_creation
+tile-select,Select tile,audio/sfx/tile-select.mp3,pending_creation
+tile-remove,Remove tile,audio/sfx/tile-remove.mp3,pending_creation
+correct,Correct answer,audio/sfx/correct.mp3,pending_creation
+incorrect,Incorrect answer,audio/sfx/incorrect.mp3,pending_creation
+exercise-complete,Exercise complete,audio/sfx/exercise-complete.mp3,pending_creation
+lesson-complete,Lesson complete,audio/sfx/lesson-complete.mp3,pending_creation
+xp-reward,XP reward,audio/sfx/xp-reward.mp3,pending_creation
+lesson-unlock,Lesson unlock,audio/sfx/lesson-unlock.mp3,pending_creation
+unit-unlock,Unit unlock,audio/sfx/unit-unlock.mp3,pending_creation
+streak,Streak milestone,audio/sfx/streak.mp3,pending_creation

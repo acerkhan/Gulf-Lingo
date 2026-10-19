@@ -1,0 +1,1346 @@
+[
+  {
+    "lessonId": "U01L01",
+    "questionIndex": 14,
+    "text": "مع السلامة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L01",
+    "questionIndex": 15,
+    "text": "السلام عليكم",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L02",
+    "questionIndex": 14,
+    "text": "بخير الحمد لله",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L02",
+    "questionIndex": 15,
+    "text": "أنا بخير",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L03",
+    "questionIndex": 14,
+    "text": "لا مشكور",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L03",
+    "questionIndex": 15,
+    "text": "لو سمحت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L04",
+    "questionIndex": 14,
+    "text": "كل شي زين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L04",
+    "questionIndex": 15,
+    "text": "ما شي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L05",
+    "questionIndex": 14,
+    "text": "شو تبغي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L05",
+    "questionIndex": 15,
+    "text": "وين المحل",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L06",
+    "questionIndex": 14,
+    "text": "كل شي زين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U01L06",
+    "questionIndex": 15,
+    "text": "باجر عقب الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L07",
+    "questionIndex": 14,
+    "text": "تبغي قهوة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L07",
+    "questionIndex": 15,
+    "text": "أبغي أروح المحل باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L08",
+    "questionIndex": 16,
+    "text": "أبغي شي ثاني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L08",
+    "questionIndex": 17,
+    "text": "ممكن تييب لي ماي لو سمحت؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L09",
+    "questionIndex": 16,
+    "text": "أبغي شي خفيف",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L09",
+    "questionIndex": 17,
+    "text": "عندي شغل، عشان جي ما أبغي قهوة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L10",
+    "questionIndex": 16,
+    "text": "وين رايح الحين؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L10",
+    "questionIndex": 17,
+    "text": "أبغي أروح المحل الحين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L11",
+    "questionIndex": 16,
+    "text": "نبغي نطلع باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L11",
+    "questionIndex": 17,
+    "text": "أبغي أروح باجر عقب الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L12",
+    "questionIndex": 16,
+    "text": "ما أبغي قهوة الحين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U02L12",
+    "questionIndex": 17,
+    "text": "أبغي أروح المحل باجر عقب الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L01",
+    "questionIndex": 16,
+    "text": "بكلم ربيعي عقب الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L01",
+    "questionIndex": 17,
+    "text": "منو بيكون هناك؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L01",
+    "questionIndex": 18,
+    "text": "سلّم عليهم مني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L02",
+    "questionIndex": 15,
+    "text": "هالأغراض مالي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L02",
+    "questionIndex": 16,
+    "text": "هذا الكتاب مالك؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L02",
+    "questionIndex": 17,
+    "text": "ذاك بيت ربيعي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L03",
+    "questionIndex": 17,
+    "text": "بمرّ على المحل عقب",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L03",
+    "questionIndex": 18,
+    "text": "هي رايحة البيت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L03",
+    "questionIndex": 19,
+    "text": "وين تبغي تروح باجر؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L04",
+    "questionIndex": 17,
+    "text": "أختي تطبخ في البيت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L04",
+    "questionIndex": 18,
+    "text": "خلصت ترتيب الغرفة؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L04",
+    "questionIndex": 19,
+    "text": "لازم أنظّف الغرفة قبل لا أطلع",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L05",
+    "questionIndex": 16,
+    "text": "خلّني أخلّص هني أول",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L05",
+    "questionIndex": 17,
+    "text": "ما أقدر أساعدك الحين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L05",
+    "questionIndex": 18,
+    "text": "ولا يهمك بساعدك عقب",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L06",
+    "questionIndex": 17,
+    "text": "لازم أخلّص شغلي أول",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L06",
+    "questionIndex": 18,
+    "text": "عندي أغراض في الغرفة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U03L06",
+    "questionIndex": 19,
+    "text": "إذا خلّصت بكلمك عقب",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L01",
+    "questionIndex": 17,
+    "text": "بزور أهلي اليوم بالليل",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L01",
+    "questionIndex": 18,
+    "text": "عندي دوام باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L01",
+    "questionIndex": 19,
+    "text": "وين كنت أمس بالليل؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L02",
+    "questionIndex": 17,
+    "text": "للحين ما خلّصت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L02",
+    "questionIndex": 18,
+    "text": "كنت في المحل قبل شوي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L02",
+    "questionIndex": 19,
+    "text": "خلّنا نطلع بعد الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L03",
+    "questionIndex": 17,
+    "text": "شفت ربيعي أمس",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L03",
+    "questionIndex": 18,
+    "text": "كنت تعبان وارتحت شوي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L03",
+    "questionIndex": 19,
+    "text": "طلعت عقب الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L04",
+    "questionIndex": 17,
+    "text": "ممكن نتفق عقب شوي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L04",
+    "questionIndex": 18,
+    "text": "بكلمك قبل لا أطلع",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L04",
+    "questionIndex": 19,
+    "text": "ما أقدر أطلع اليوم لأني متأخر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L05",
+    "questionIndex": 17,
+    "text": "يمكن أكون مشغول باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L05",
+    "questionIndex": 18,
+    "text": "إذا ما تقدر اليوم نطلع باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L05",
+    "questionIndex": 19,
+    "text": "متى نقدر نتفق على الموعد؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L06",
+    "questionIndex": 17,
+    "text": "ما قدرت أطلع لأن كنت تعبان",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L06",
+    "questionIndex": 18,
+    "text": "باجر بنزور أهلي عقب الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U04L06",
+    "questionIndex": 19,
+    "text": "إذا عندك وقت نطلع عقب شوي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L01",
+    "questionIndex": 16,
+    "text": "عندي فلوس بس السعر غالي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L01",
+    "questionIndex": 17,
+    "text": "بكم يكلف هذا؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L01",
+    "questionIndex": 18,
+    "text": "أبغي أعرف السعر قبل لا أشتري",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L02",
+    "questionIndex": 17,
+    "text": "عندي خمسين درهم",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L02",
+    "questionIndex": 18,
+    "text": "أبغي ثلاثة أكواب ماي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L02",
+    "questionIndex": 19,
+    "text": "هذا يكلف عشرين درهم",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L03",
+    "questionIndex": 17,
+    "text": "أبغي قطعة أرخص من هذي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L03",
+    "questionIndex": 18,
+    "text": "في خصم على هالقطعة؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L03",
+    "questionIndex": 19,
+    "text": "هذا أغلى من الثاني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L04",
+    "questionIndex": 17,
+    "text": "هذا صغير عليّ",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L04",
+    "questionIndex": 18,
+    "text": "أبغي واحد أزرق",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L04",
+    "questionIndex": 19,
+    "text": "اللون الأبيض أحسن من الأحمر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L05",
+    "questionIndex": 17,
+    "text": "يمكن اللون الثاني يناسبني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L05",
+    "questionIndex": 18,
+    "text": "أبغي أشتري هالقطعة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L05",
+    "questionIndex": 19,
+    "text": "إذا عندكم أرخص خلّني أشوفه",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L06",
+    "questionIndex": 17,
+    "text": "إذا في خصم بشتري اثنين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L06",
+    "questionIndex": 18,
+    "text": "خلّني أشوف القطعة قبل لا أشتري",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U05L06",
+    "questionIndex": 19,
+    "text": "السعر مناسب بس اللون ما يناسبني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L01",
+    "questionIndex": 16,
+    "text": "أنا بطلب شاي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L01",
+    "questionIndex": 17,
+    "text": "تبغي ماي ولا عصير؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L01",
+    "questionIndex": 18,
+    "text": "يمكن آخذ قهوة عقب الأكل",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L02",
+    "questionIndex": 17,
+    "text": "عندنا خبز وجبن في البيت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L02",
+    "questionIndex": 18,
+    "text": "خلّنا ناكل العشا الحين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L02",
+    "questionIndex": 19,
+    "text": "ما أبغي أكل وايد اليوم",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L03",
+    "questionIndex": 17,
+    "text": "أبغي عصير مع ثلج",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L03",
+    "questionIndex": 18,
+    "text": "حط سكر قليل لو سمحت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L03",
+    "questionIndex": 19,
+    "text": "الشاي بدون حليب",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L04",
+    "questionIndex": 17,
+    "text": "ما أحب الشاي الثقيل",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L04",
+    "questionIndex": 18,
+    "text": "هالساندويتش وايد لذيذ",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L04",
+    "questionIndex": 19,
+    "text": "أنا أفضل العصير على القهوة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L05",
+    "questionIndex": 17,
+    "text": "ممكن آخذ ماي بعد؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L05",
+    "questionIndex": 18,
+    "text": "إذا ما عندكم عصير بطلب شاي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L05",
+    "questionIndex": 19,
+    "text": "لو سمحت خلّ الطلب خفيف",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L06",
+    "questionIndex": 17,
+    "text": "الصراحة أفضل الشاي بدون سكر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L06",
+    "questionIndex": 18,
+    "text": "ممكن الحساب لو سمحت؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U06L06",
+    "questionIndex": 19,
+    "text": "إذا ما عندكم قهوة باخذ عصير",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L01",
+    "questionIndex": 17,
+    "text": "أبغي أروح المستشفى",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L01",
+    "questionIndex": 18,
+    "text": "وين هالمكان بالضبط؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L01",
+    "questionIndex": 19,
+    "text": "المطعم بعيد عن البيت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L02",
+    "questionIndex": 17,
+    "text": "المطار بعيد شوي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L02",
+    "questionIndex": 18,
+    "text": "المكتب ورا المحل",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L02",
+    "questionIndex": 19,
+    "text": "أقرب محل هناك",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L03",
+    "questionIndex": 17,
+    "text": "لف يسار عند الإشارة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L03",
+    "questionIndex": 18,
+    "text": "امش في هالشارع",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L03",
+    "questionIndex": 19,
+    "text": "المكتب عقب الإشارة على اليمين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L04",
+    "questionIndex": 17,
+    "text": "متى أوصل المكتب؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L04",
+    "questionIndex": 18,
+    "text": "أركب الباص من هني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L04",
+    "questionIndex": 19,
+    "text": "أنزل عند المحطة الثانية",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L05",
+    "questionIndex": 17,
+    "text": "ممكن تقولها ببطء؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L05",
+    "questionIndex": 18,
+    "text": "تقصد الشارع الثاني؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L05",
+    "questionIndex": 19,
+    "text": "عيد آخر شي مرة ثانية",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L06",
+    "questionIndex": 17,
+    "text": "المطار بعيد ولا قريب من هني؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L06",
+    "questionIndex": 18,
+    "text": "ما فهمت ممكن تعيد الطريق؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U07L06",
+    "questionIndex": 19,
+    "text": "إذا ركبت التاكسي متى أوصل؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L01",
+    "questionIndex": 17,
+    "text": "لازم أخلّص التقرير باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L01",
+    "questionIndex": 18,
+    "text": "الدوام يبدأ مبكر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L01",
+    "questionIndex": 19,
+    "text": "بكلمك قبل الاجتماع",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L02",
+    "questionIndex": 16,
+    "text": "باقي شوي وبخلّص",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L02",
+    "questionIndex": 17,
+    "text": "تقريباً خلصت الشغل",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L02",
+    "questionIndex": 18,
+    "text": "انتظر لين توصل البيانات",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L03",
+    "questionIndex": 17,
+    "text": "عندي مشكلة في الكمبيوتر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L03",
+    "questionIndex": 18,
+    "text": "تقدر تساعدني عقب الاجتماع؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L03",
+    "questionIndex": 19,
+    "text": "إذا احتجت شي خبرني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L04",
+    "questionIndex": 17,
+    "text": "الكمبيوتر ما يشتغل الحين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L04",
+    "questionIndex": 18,
+    "text": "ممكن تشرح لي التعليمات؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L04",
+    "questionIndex": 19,
+    "text": "إذا حدّثت البرنامج يمكن يشتغل",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L05",
+    "questionIndex": 17,
+    "text": "إذا ما قدرت اليوم بطرشها باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L05",
+    "questionIndex": 18,
+    "text": "عندي شغل وايد وما أقدر أخلّص الحين",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L05",
+    "questionIndex": 19,
+    "text": "خبرني إذا صار أي تأخير",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L06",
+    "questionIndex": 17,
+    "text": "ممكن تساعدني أفتح هالملف؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L06",
+    "questionIndex": 18,
+    "text": "بكلمك عقب الاجتماع إذا عندك وقت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U08L06",
+    "questionIndex": 19,
+    "text": "إذا ما قدرت أخلّص اليوم بخلّص باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L01",
+    "questionIndex": 17,
+    "text": "شو السبب في التأخير؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L01",
+    "questionIndex": 18,
+    "text": "ما رديت لأن كنت مشغول",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L01",
+    "questionIndex": 19,
+    "text": "ليش ما قدرت تخلص التقرير؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L01",
+    "questionIndex": 33,
+    "text": "ليش ما ييت الاجتماع؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L01",
+    "questionIndex": 34,
+    "text": "ما قدرت لأن السيارة اختربت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L02",
+    "questionIndex": 17,
+    "text": "عشان جي ما رديت عليك",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L02",
+    "questionIndex": 18,
+    "text": "توّي شفت اتصالك",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L02",
+    "questionIndex": 19,
+    "text": "كان الدرب زحمة عشان جي تأخرت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L02",
+    "questionIndex": 33,
+    "text": "السيارة اختربت عشان جي تأخرت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L02",
+    "questionIndex": 34,
+    "text": "ما سمعت الاتصال بسبب الزحمة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L03",
+    "questionIndex": 17,
+    "text": "المكان هادي يعني مب زحمة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L03",
+    "questionIndex": 18,
+    "text": "يعني تنصحني أروح؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L03",
+    "questionIndex": 19,
+    "text": "شو تقصد بالضبط؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L03",
+    "questionIndex": 33,
+    "text": "شو يعني هالكلمة؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L03",
+    "questionIndex": 34,
+    "text": "تقصد المكان الثاني؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L04",
+    "questionIndex": 17,
+    "text": "الحين فهمت عليك",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L04",
+    "questionIndex": 18,
+    "text": "ممكن تقولها ببطء؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L04",
+    "questionIndex": 19,
+    "text": "سمح لي الكلام مب واضح",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L04",
+    "questionIndex": 33,
+    "text": "ممكن تعيد آخر شي؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L04",
+    "questionIndex": 34,
+    "text": "ما فهمت اشرح لي شوي شوي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L05",
+    "questionIndex": 17,
+    "text": "نسوي الشي الضروري أول",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L05",
+    "questionIndex": 18,
+    "text": "أنا ما أتفق وياك في هالشي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L05",
+    "questionIndex": 19,
+    "text": "خلّنا نخلّص المهم والباقي عقب",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L05",
+    "questionIndex": 33,
+    "text": "أحس هالخطة أحسن",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L05",
+    "questionIndex": 34,
+    "text": "على حسب إذا عندنا وقت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L06",
+    "questionIndex": 17,
+    "text": "تأخرت لأن كان الدرب زحمة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L06",
+    "questionIndex": 18,
+    "text": "تقصد نخلص المهم أول والباقي عقب؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L06",
+    "questionIndex": 19,
+    "text": "الحين فهمت ليش ما رديت عليّ",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L06",
+    "questionIndex": 33,
+    "text": "ما فهمت قصدك ممكن تشرح مرة ثانية؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U09L06",
+    "questionIndex": 34,
+    "text": "إذا عندنا وقت هالخطة أحسن",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L01",
+    "questionIndex": 17,
+    "text": "صدق وبعدين شو صار؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L01",
+    "questionIndex": 18,
+    "text": "رتّبوا الموضوع عقب",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L01",
+    "questionIndex": 19,
+    "text": "خذ الموضوع وقت بس خلص",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L01",
+    "questionIndex": 33,
+    "text": "سمعت السالفة اللي استوت في الدوام؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L01",
+    "questionIndex": 34,
+    "text": "صار لخبطة في الجدول",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L02",
+    "questionIndex": 17,
+    "text": "ما سمعت التلفون لأن المكان زحمة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L02",
+    "questionIndex": 18,
+    "text": "كلّمني إذا وصلت البيت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L02",
+    "questionIndex": 19,
+    "text": "توّي وصلت وشفت اتصالك",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L02",
+    "questionIndex": 33,
+    "text": "وين كنت دقيت عليك قبل شوي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L02",
+    "questionIndex": 34,
+    "text": "كنت في المحل وتوّي طالع",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L03",
+    "questionIndex": 17,
+    "text": "سمح لي الحين فهمت عليك",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L03",
+    "questionIndex": 18,
+    "text": "ما عليه خلّنا نعدّل المكان",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L03",
+    "questionIndex": 19,
+    "text": "إذا ما فهمت اسألني قبل لا تبدأ",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L03",
+    "questionIndex": 33,
+    "text": "أنا فهمت إنك تقصد المكان الثاني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L03",
+    "questionIndex": 34,
+    "text": "لا قصدي هالمكان بالضبط",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L04",
+    "questionIndex": 17,
+    "text": "إذا الموضوع ضروري تواصل وياي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L04",
+    "questionIndex": 18,
+    "text": "ما قدرت أجي لأن صار عندي ظرف",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L04",
+    "questionIndex": 19,
+    "text": "خلّنا نحل المشكلة قبل الاجتماع",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L04",
+    "questionIndex": 33,
+    "text": "السيارة اختربت عشان جي تأخرت",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L04",
+    "questionIndex": 34,
+    "text": "بحاول ألاقي حل بسرعة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L05",
+    "questionIndex": 17,
+    "text": "إذا ما ردوا بتواصل وياهم مرة ثانية",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L05",
+    "questionIndex": 18,
+    "text": "إذا احتجت مساعدة خبرني",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L05",
+    "questionIndex": 19,
+    "text": "عسى خير وبخبرك إذا استوى شي",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L05",
+    "questionIndex": 33,
+    "text": "للحين ما في رد على موضوع الوظيفة",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L05",
+    "questionIndex": 34,
+    "text": "يمكن يردون عليّ باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L06",
+    "questionIndex": 17,
+    "text": "يعني إذا ما عندهم هالمقاس بتشوف واحد ثاني؟",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L06",
+    "questionIndex": 18,
+    "text": "إذا ما قدرت أروح اليوم بخبرك ونرتّب الموعد باجر",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L06",
+    "questionIndex": 19,
+    "text": "على حسب متى أخلّص الشغل يمكن أطلع عقب",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L06",
+    "questionIndex": 33,
+    "text": "إذا خلّصت التقرير مبكر بتواصل وياك عقب الدوام",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  },
+  {
+    "lessonId": "U10L06",
+    "questionIndex": 34,
+    "text": "للحين ما رديت لأن كنت مشغول في الاجتماع",
+    "audioSrc": null,
+    "status": "needs_exact_audio_match"
+  }
+]

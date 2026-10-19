@@ -1,0 +1,1032 @@
+﻿audio_id,arabic_text,kind,voice,elevenlabs_voice_id,filename,usage_count,categories,lessons,status,review
+AR_0001,آخذ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0001.mp3,10,word_or_tile,U06L01|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0002,آخر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0002.mp3,5,word_or_tile,U07L05|U09L04,pending_generation,pending_linguistic_review
+AR_0003,أبغي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0003.mp3,90,choice_option|vocabulary|word_or_tile,U02L07|U02L08|U02L09|U02L10|U02L11|U02L12|U04L06|U05L01|U05L02|U05L03|U05L04|U05L05|U05L06|U06L01|U06L02|U06L03|U06L05|U07L01,pending_generation,pending_linguistic_review
+AR_0004,أبيض,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0004.mp3,1,vocabulary,U05L04,pending_generation,pending_linguistic_review
+AR_0005,أتفق,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0005.mp3,8,vocabulary|word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0006,أجرّب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0006.mp3,6,vocabulary|word_or_tile,U05L05,pending_generation,pending_linguistic_review
+AR_0007,أجي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0007.mp3,4,word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0008,أحب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0008.mp3,9,vocabulary|word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0009,أحس,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0009.mp3,3,word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0010,أحسن,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0010.mp3,11,vocabulary|word_or_tile,U05L04|U09L05|U09L06,pending_generation,pending_linguistic_review
+AR_0011,أحمر,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0011.mp3,5,vocabulary|word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0012,أخبارك؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0012.mp3,2,word_or_tile,U01L05,pending_generation,pending_linguistic_review
+AR_0013,أختي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0013.mp3,8,vocabulary|word_or_tile,U03L01|U03L02|U03L04,pending_generation,pending_linguistic_review
+AR_0014,أخلص,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0014.mp3,1,vocabulary,U02L11,pending_generation,pending_linguistic_review
+AR_0015,أخلّص,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0015.mp3,24,vocabulary|word_or_tile,U03L05|U03L06|U04L05|U08L01|U08L05|U08L06|U10L06,pending_generation,pending_linguistic_review
+AR_0016,أخوي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0016.mp3,11,vocabulary|word_or_tile,U03L01|U03L02|U03L06,pending_generation,pending_linguistic_review
+AR_0017,أرتّب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0017.mp3,6,vocabulary|word_or_tile,U03L04,pending_generation,pending_linguistic_review
+AR_0018,أرخص,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0018.mp3,13,vocabulary|word_or_tile,U05L03|U05L05|U05L06,pending_generation,pending_linguistic_review
+AR_0019,أرخص؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0019.mp3,3,word_or_tile,U05L03|U05L06,pending_generation,pending_linguistic_review
+AR_0020,أرسل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0020.mp3,5,vocabulary|word_or_tile,U08L05,pending_generation,pending_linguistic_review
+AR_0021,أركب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0021.mp3,5,vocabulary|word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0022,أروح,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0022.mp3,30,vocabulary|word_or_tile,U02L07|U02L10|U02L11|U02L12|U04L06|U07L01|U10L06,pending_generation,pending_linguistic_review
+AR_0023,أروح؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0023.mp3,3,word_or_tile,U09L03,pending_generation,pending_linguistic_review
+AR_0024,أزرق,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0024.mp3,7,vocabulary|word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0025,أزور,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0025.mp3,4,vocabulary|word_or_tile,U03L01|U03L06,pending_generation,pending_linguistic_review
+AR_0026,أساعدك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0026.mp3,11,vocabulary|word_or_tile,U03L05|U08L03,pending_generation,pending_linguistic_review
+AR_0027,أساعدك؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0027.mp3,1,word_or_tile,U03L05,pending_generation,pending_linguistic_review
+AR_0028,أسود,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0028.mp3,2,vocabulary|word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0029,أشتري,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0029.mp3,15,vocabulary|word_or_tile,U05L01|U05L05|U05L06,pending_generation,pending_linguistic_review
+AR_0030,أشوف,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0030.mp3,12,vocabulary|word_or_tile,U05L05|U05L06|U08L03,pending_generation,pending_linguistic_review
+AR_0031,أشوفك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0031.mp3,3,vocabulary|word_or_tile,U01L06,pending_generation,pending_linguistic_review
+AR_0032,أشوفه,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0032.mp3,3,word_or_tile,U05L05,pending_generation,pending_linguistic_review
+AR_0033,أطبخ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0033.mp3,2,vocabulary|word_or_tile,U03L04,pending_generation,pending_linguistic_review
+AR_0034,أطلب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0034.mp3,1,vocabulary,U06L01,pending_generation,pending_linguistic_review
+AR_0035,أطلع,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0035.mp3,17,vocabulary|word_or_tile,U02L11|U03L04|U04L04|U04L06|U10L06,pending_generation,pending_linguistic_review
+AR_0036,أعرف,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0036.mp3,3,word_or_tile,U05L01,pending_generation,pending_linguistic_review
+AR_0037,أغراض,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0037.mp3,5,vocabulary|word_or_tile,U03L04|U03L06,pending_generation,pending_linguistic_review
+AR_0038,أغراضي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0038.mp3,1,vocabulary,U03L02,pending_generation,pending_linguistic_review
+AR_0039,أغلى,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0039.mp3,4,vocabulary|word_or_tile,U05L03,pending_generation,pending_linguistic_review
+AR_0040,أفتح,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0040.mp3,5,word_or_tile,U08L03|U08L06,pending_generation,pending_linguistic_review
+AR_0041,أفضل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0041.mp3,17,vocabulary|word_or_tile,U06L04|U06L06,pending_generation,pending_linguistic_review
+AR_0042,أقدر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0042.mp3,15,vocabulary|word_or_tile,U02L08|U03L05|U04L04|U08L03|U08L05,pending_generation,pending_linguistic_review
+AR_0043,أقرب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0043.mp3,6,word_or_tile,U07L01|U07L02|U07L06,pending_generation,pending_linguistic_review
+AR_0044,أكبر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0044.mp3,2,word_or_tile,U05L06,pending_generation,pending_linguistic_review
+AR_0045,أكبر؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0045.mp3,2,word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0046,أكل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0046.mp3,8,vocabulary|word_or_tile,U06L02,pending_generation,pending_linguistic_review
+AR_0047,أكواب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0047.mp3,3,word_or_tile,U05L02,pending_generation,pending_linguistic_review
+AR_0048,أكون,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0048.mp3,4,word_or_tile,U04L05,pending_generation,pending_linguistic_review
+AR_0049,أكيد,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0049.mp3,6,choice_option|vocabulary|word_or_tile,U01L03|U08L03,pending_generation,pending_linguistic_review
+AR_0050,ألاقي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0050.mp3,4,word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0051,ألف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0051.mp3,2,word_or_tile,U07L05,pending_generation,pending_linguistic_review
+AR_0052,أمرّ,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0052.mp3,1,vocabulary,U03L03,pending_generation,pending_linguistic_review
+AR_0053,أمس,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0053.mp3,14,choice_option|vocabulary|word_or_tile,U02L08|U02L11|U04L01|U04L03|U04L06,pending_generation,pending_linguistic_review
+AR_0054,أمس؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0054.mp3,2,word_or_tile,U04L01,pending_generation,pending_linguistic_review
+AR_0055,أنا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0055.mp3,24,vocabulary|word_or_tile,U01L02|U01L04|U02L07|U03L03|U03L04|U06L01|U06L04|U09L05|U10L03,pending_generation,pending_linguistic_review
+AR_0056,أنزل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0056.mp3,4,vocabulary|word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0057,أنظّف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0057.mp3,5,vocabulary|word_or_tile,U03L04,pending_generation,pending_linguistic_review
+AR_0058,أهلك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0058.mp3,5,vocabulary|word_or_tile,U03L06,pending_generation,pending_linguistic_review
+AR_0059,أهلي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0059.mp3,15,vocabulary|word_or_tile,U03L01|U03L06|U04L01|U04L06,pending_generation,pending_linguistic_review
+AR_0060,أوصل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0060.mp3,5,vocabulary|word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0061,أوصل؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0061.mp3,3,word_or_tile,U07L06,pending_generation,pending_linguistic_review
+AR_0062,أول,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0062.mp3,14,vocabulary|word_or_tile,U03L05|U03L06|U09L05|U09L06,pending_generation,pending_linguistic_review
+AR_0063,أي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0063.mp3,3,word_or_tile,U08L05,pending_generation,pending_linguistic_review
+AR_0064,إذا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0064.mp3,107,vocabulary|word_or_tile,U03L05|U03L06|U04L04|U04L05|U04L06|U05L05|U05L06|U06L05|U06L06|U07L06|U08L03|U08L04|U08L05|U08L06|U09L05|U09L06|U10L02|U10L03|U10L04|U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0065,إشارة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0065.mp3,3,vocabulary|word_or_tile,U07L03|U07L06,pending_generation,pending_linguistic_review
+AR_0066,إنت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0066.mp3,1,vocabulary,U01L04,pending_generation,pending_linguistic_review
+AR_0067,إنك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0067.mp3,3,word_or_tile,U10L03,pending_generation,pending_linguistic_review
+AR_0068,إي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0068.mp3,2,choice_option|vocabulary,U01L03|U01L04,pending_generation,pending_linguistic_review
+AR_0069,اتصال,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0069.mp3,1,vocabulary,U09L02,pending_generation,pending_linguistic_review
+AR_0070,اتصالك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0070.mp3,6,word_or_tile,U09L02|U10L02,pending_generation,pending_linguistic_review
+AR_0071,اثنين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0071.mp3,9,vocabulary|word_or_tile,U05L02|U05L06,pending_generation,pending_linguistic_review
+AR_0072,اجتماع,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0072.mp3,3,vocabulary|word_or_tile,U08L01,pending_generation,pending_linguistic_review
+AR_0073,احتجت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0073.mp3,7,word_or_tile,U08L03|U10L05,pending_generation,pending_linguistic_review
+AR_0074,اختربت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0074.mp3,14,vocabulary|word_or_tile,U09L01|U09L02|U10L04,pending_generation,pending_linguistic_review
+AR_0075,ارتحت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0075.mp3,1,vocabulary,U04L03,pending_generation,pending_linguistic_review
+AR_0076,اسألني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0076.mp3,3,word_or_tile,U10L03,pending_generation,pending_linguistic_review
+AR_0077,استوت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0077.mp3,2,word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0078,استوى,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0078.mp3,8,vocabulary|word_or_tile,U10L01|U10L05,pending_generation,pending_linguistic_review
+AR_0079,اشرح,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0079.mp3,8,vocabulary|word_or_tile,U09L04,pending_generation,pending_linguistic_review
+AR_0080,الأبيض,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0080.mp3,3,word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0081,الأحمر,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0081.mp3,3,word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0082,الأسبوع,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0082.mp3,1,vocabulary,U04L01,pending_generation,pending_linguistic_review
+AR_0083,الأسود,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0083.mp3,1,word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0084,الأكل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0084.mp3,6,word_or_tile,U06L01|U06L04,pending_generation,pending_linguistic_review
+AR_0085,الإشارة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0085.mp3,8,word_or_tile,U07L03|U07L06,pending_generation,pending_linguistic_review
+AR_0086,الاتصال,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0086.mp3,3,word_or_tile,U09L02,pending_generation,pending_linguistic_review
+AR_0087,الاجتماع,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0087.mp3,13,word_or_tile,U08L01|U08L06|U10L04|U10L06,pending_generation,pending_linguistic_review
+AR_0088,الاجتماع؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0088.mp3,5,word_or_tile,U08L03|U09L01,pending_generation,pending_linguistic_review
+AR_0089,الباص,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0089.mp3,4,word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0090,الباص؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0090.mp3,2,word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0091,الباقي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0091.mp3,1,vocabulary,U09L05,pending_generation,pending_linguistic_review
+AR_0092,البرنامج,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0092.mp3,5,word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0093,البيانات,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0093.mp3,10,vocabulary|word_or_tile,U08L02|U08L05|U08L06,pending_generation,pending_linguistic_review
+AR_0094,البيت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0094.mp3,25,vocabulary|word_or_tile,U02L10|U03L01|U03L03|U03L04|U04L02|U04L03|U06L02|U07L01|U07L02|U10L02,pending_generation,pending_linguistic_review
+AR_0095,التأخير؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0095.mp3,3,word_or_tile,U09L01,pending_generation,pending_linguistic_review
+AR_0096,التاكسي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0096.mp3,3,word_or_tile,U07L06,pending_generation,pending_linguistic_review
+AR_0097,التعليمات؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0097.mp3,3,word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0098,التفاصيل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0098.mp3,4,word_or_tile,U08L05|U08L06,pending_generation,pending_linguistic_review
+AR_0099,التقرير,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0099.mp3,7,word_or_tile,U08L01|U08L06|U10L06,pending_generation,pending_linguistic_review
+AR_0100,التقرير؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0100.mp3,4,word_or_tile,U08L02|U09L01,pending_generation,pending_linguistic_review
+AR_0101,التلفون,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0101.mp3,5,vocabulary|word_or_tile,U10L02,pending_generation,pending_linguistic_review
+AR_0102,الثاني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0102.mp3,8,word_or_tile,U05L03|U05L05|U10L03,pending_generation,pending_linguistic_review
+AR_0103,الثاني؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0103.mp3,6,word_or_tile,U07L05|U09L03,pending_generation,pending_linguistic_review
+AR_0104,الثانية,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0104.mp3,3,word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0105,الثقيل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0105.mp3,3,word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0106,الجدول,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0106.mp3,4,vocabulary|word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0107,الحساب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0107.mp3,4,word_or_tile,U06L06,pending_generation,pending_linguistic_review
+AR_0108,الحمد,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0108.mp3,3,word_or_tile,U01L02,pending_generation,pending_linguistic_review
+AR_0109,الحين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0109.mp3,46,vocabulary|word_or_tile,U01L05|U02L07|U02L09|U02L10|U02L11|U02L12|U03L01|U03L04|U03L05|U04L02|U06L02|U08L04|U08L05|U09L04|U09L06|U10L03,pending_generation,pending_linguistic_review
+AR_0110,الحين؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0110.mp3,4,word_or_tile,U01L05|U02L10|U03L03,pending_generation,pending_linguistic_review
+AR_0111,الخفيف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0111.mp3,2,word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0112,الدرب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0112.mp3,6,word_or_tile,U09L02|U09L06,pending_generation,pending_linguistic_review
+AR_0113,الدوام,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0113.mp3,32,vocabulary|word_or_tile,U01L06|U02L10|U02L11|U02L12|U03L01|U03L06|U04L02|U04L03|U04L06|U08L01|U10L06,pending_generation,pending_linguistic_review
+AR_0114,الدوام؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0114.mp3,3,word_or_tile,U04L04|U10L01,pending_generation,pending_linguistic_review
+AR_0115,الزحمة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0115.mp3,4,vocabulary|word_or_tile,U09L02,pending_generation,pending_linguistic_review
+AR_0116,السالفة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0116.mp3,3,word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0117,السبب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0117.mp3,8,vocabulary|word_or_tile,U09L01,pending_generation,pending_linguistic_review
+AR_0118,السعر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0118.mp3,17,vocabulary|word_or_tile,U05L01|U05L02|U05L06,pending_generation,pending_linguistic_review
+AR_0119,السلام,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0119.mp3,3,vocabulary|word_or_tile,U01L01,pending_generation,pending_linguistic_review
+AR_0120,السلامة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0120.mp3,2,word_or_tile,U01L01,pending_generation,pending_linguistic_review
+AR_0121,السوق,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0121.mp3,7,vocabulary|word_or_tile,U03L03|U04L03|U04L05,pending_generation,pending_linguistic_review
+AR_0122,السيارة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0122.mp3,10,vocabulary|word_or_tile,U09L01|U09L02|U10L04,pending_generation,pending_linguistic_review
+AR_0123,الشارع,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0123.mp3,4,word_or_tile,U07L05,pending_generation,pending_linguistic_review
+AR_0124,الشاي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0124.mp3,9,word_or_tile,U06L03|U06L04|U06L06,pending_generation,pending_linguistic_review
+AR_0125,الشغل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0125.mp3,6,word_or_tile,U08L02|U10L06,pending_generation,pending_linguistic_review
+AR_0126,الشي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0126.mp3,4,word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0127,الصبح,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0127.mp3,2,vocabulary|word_or_tile,U04L01,pending_generation,pending_linguistic_review
+AR_0128,الصراحة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0128.mp3,8,vocabulary|word_or_tile,U06L04|U06L06,pending_generation,pending_linguistic_review
+AR_0129,الضروري,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0129.mp3,3,word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0130,الطريق؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0130.mp3,3,word_or_tile,U07L06,pending_generation,pending_linguistic_review
+AR_0131,الطلب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0131.mp3,5,vocabulary|word_or_tile,U06L05,pending_generation,pending_linguistic_review
+AR_0132,العشا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0132.mp3,3,word_or_tile,U06L02,pending_generation,pending_linguistic_review
+AR_0133,العصير,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0133.mp3,3,word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0134,الغرفة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0134.mp3,11,vocabulary|word_or_tile,U03L04|U03L06,pending_generation,pending_linguistic_review
+AR_0135,الغرفة؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0135.mp3,3,word_or_tile,U03L04,pending_generation,pending_linguistic_review
+AR_0136,القطعة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0136.mp3,4,word_or_tile,U05L06,pending_generation,pending_linguistic_review
+AR_0137,القهوة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0137.mp3,4,word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0138,الكتاب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0138.mp3,4,word_or_tile,U03L02,pending_generation,pending_linguistic_review
+AR_0139,الكلام,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0139.mp3,3,word_or_tile,U09L04,pending_generation,pending_linguistic_review
+AR_0140,الكمبيوتر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0140.mp3,8,vocabulary|word_or_tile,U08L03|U08L04,pending_generation,pending_linguistic_review
+AR_0141,اللون,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0141.mp3,12,word_or_tile,U05L04|U05L05|U05L06,pending_generation,pending_linguistic_review
+AR_0142,اللي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0142.mp3,3,word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0143,الليل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0143.mp3,1,vocabulary,U04L01,pending_generation,pending_linguistic_review
+AR_0144,المحطة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0144.mp3,3,word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0145,المحل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0145.mp3,33,vocabulary|word_or_tile,U01L05|U02L07|U02L10|U02L12|U03L03|U04L02|U07L02|U07L03|U10L02,pending_generation,pending_linguistic_review
+AR_0146,المستشفى,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0146.mp3,4,vocabulary|word_or_tile,U07L01,pending_generation,pending_linguistic_review
+AR_0147,المشكلة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0147.mp3,3,word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0148,المطار,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0148.mp3,17,vocabulary|word_or_tile,U07L01|U07L02|U07L04|U07L06,pending_generation,pending_linguistic_review
+AR_0149,المطعم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0149.mp3,7,vocabulary|word_or_tile,U07L01|U07L02,pending_generation,pending_linguistic_review
+AR_0150,المكان,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0150.mp3,21,vocabulary|word_or_tile,U07L01|U09L03|U10L02|U10L03,pending_generation,pending_linguistic_review
+AR_0151,المكتب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0151.mp3,14,vocabulary|word_or_tile,U07L01|U07L02|U07L03,pending_generation,pending_linguistic_review
+AR_0152,المكتب؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0152.mp3,3,word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0153,المهم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0153.mp3,7,word_or_tile,U09L05|U09L06,pending_generation,pending_linguistic_review
+AR_0154,الموضوع,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0154.mp3,11,word_or_tile,U10L01|U10L04,pending_generation,pending_linguistic_review
+AR_0155,الموعد,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0155.mp3,3,word_or_tile,U10L06,pending_generation,pending_linguistic_review
+AR_0156,الموعد؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0156.mp3,3,word_or_tile,U04L05,pending_generation,pending_linguistic_review
+AR_0157,الوظيفة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0157.mp3,2,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0158,اليسار,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0158.mp3,2,word_or_tile,U07L03,pending_generation,pending_linguistic_review
+AR_0159,اليمين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0159.mp3,3,word_or_tile,U07L03,pending_generation,pending_linguistic_review
+AR_0160,اليوم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0160.mp3,33,vocabulary|word_or_tile,U01L06|U02L11|U04L01|U04L04|U04L05|U06L02|U08L01|U08L05|U08L06|U10L06,pending_generation,pending_linguistic_review
+AR_0161,اليوم؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0161.mp3,3,word_or_tile,U04L03|U06L02|U06L06,pending_generation,pending_linguistic_review
+AR_0162,امش,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0162.mp3,10,vocabulary|word_or_tile,U07L03|U07L06,pending_generation,pending_linguistic_review
+AR_0163,انتظر,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0163.mp3,4,vocabulary|word_or_tile,U08L02,pending_generation,pending_linguistic_review
+AR_0164,باجر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0164.mp3,67,choice_option|vocabulary|word_or_tile,U01L01|U01L02|U01L03|U01L04|U01L06|U02L07|U02L08|U02L09|U02L10|U02L11|U02L12|U03L01|U03L06|U04L01|U04L05|U04L06|U08L01|U08L05|U08L06|U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0165,باجر؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0165.mp3,3,word_or_tile,U03L03,pending_generation,pending_linguistic_review
+AR_0166,باخذ,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0166.mp3,3,word_or_tile,U06L06,pending_generation,pending_linguistic_review
+AR_0167,باص,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0167.mp3,1,vocabulary,U07L04,pending_generation,pending_linguistic_review
+AR_0168,باص؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0168.mp3,1,word_or_tile,U07L06,pending_generation,pending_linguistic_review
+AR_0169,باقي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0169.mp3,11,vocabulary|word_or_tile,U03L04|U08L02,pending_generation,pending_linguistic_review
+AR_0170,بالتاكسي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0170.mp3,1,word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0171,بالضبط,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0171.mp3,7,vocabulary|word_or_tile,U09L03|U10L03,pending_generation,pending_linguistic_review
+AR_0172,بالضبط؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0172.mp3,6,word_or_tile,U07L01|U09L03,pending_generation,pending_linguistic_review
+AR_0173,بالليل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0173.mp3,3,word_or_tile,U04L01,pending_generation,pending_linguistic_review
+AR_0174,بالليل؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0174.mp3,3,word_or_tile,U04L01,pending_generation,pending_linguistic_review
+AR_0175,ببطء,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0175.mp3,1,vocabulary,U09L04,pending_generation,pending_linguistic_review
+AR_0176,ببطء؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0176.mp3,6,word_or_tile,U07L05|U09L04,pending_generation,pending_linguistic_review
+AR_0177,بتشوف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0177.mp3,3,word_or_tile,U10L06,pending_generation,pending_linguistic_review
+AR_0178,بتطلب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0178.mp3,7,vocabulary|word_or_tile,U06L01|U06L06,pending_generation,pending_linguistic_review
+AR_0179,بتطلب؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0179.mp3,1,word_or_tile,U06L01,pending_generation,pending_linguistic_review
+AR_0180,بتواصل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0180.mp3,7,vocabulary|word_or_tile,U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0181,بحاول,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0181.mp3,10,vocabulary|word_or_tile,U08L05|U10L04,pending_generation,pending_linguistic_review
+AR_0182,بخبرك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0182.mp3,3,word_or_tile,U10L06,pending_generation,pending_linguistic_review
+AR_0183,بخلّص,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0183.mp3,3,word_or_tile,U08L06,pending_generation,pending_linguistic_review
+AR_0184,بخير,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0184.mp3,5,choice_option|vocabulary|word_or_tile,U01L02|U01L04|U01L06,pending_generation,pending_linguistic_review
+AR_0185,بخير،,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0185.mp3,1,word_or_tile,U01L02,pending_generation,pending_linguistic_review
+AR_0186,بدون,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0186.mp3,18,vocabulary|word_or_tile,U06L03|U06L04|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0187,بدّل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0187.mp3,1,vocabulary,U06L05,pending_generation,pending_linguistic_review
+AR_0188,برنامج,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0188.mp3,5,vocabulary|word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0189,بروح,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0189.mp3,2,word_or_tile,U07L04,pending_generation,pending_linguistic_review
+AR_0190,بزور,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0190.mp3,6,word_or_tile,U03L01|U04L01,pending_generation,pending_linguistic_review
+AR_0191,بس,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0191.mp3,12,vocabulary|word_or_tile,U02L08|U04L06|U05L01|U05L06|U10L01,pending_generation,pending_linguistic_review
+AR_0192,بساعدك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0192.mp3,3,word_or_tile,U03L05,pending_generation,pending_linguistic_review
+AR_0193,بسبب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0193.mp3,7,vocabulary|word_or_tile,U09L02,pending_generation,pending_linguistic_review
+AR_0194,بسرعة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0194.mp3,4,vocabulary|word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0195,بشتري,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0195.mp3,3,word_or_tile,U05L06,pending_generation,pending_linguistic_review
+AR_0196,بطرش,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0196.mp3,2,word_or_tile,U08L06,pending_generation,pending_linguistic_review
+AR_0197,بطرشها,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0197.mp3,3,word_or_tile,U08L05,pending_generation,pending_linguistic_review
+AR_0198,بطلب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0198.mp3,7,word_or_tile,U06L01|U06L05,pending_generation,pending_linguistic_review
+AR_0199,بطيء,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0199.mp3,1,vocabulary,U07L05,pending_generation,pending_linguistic_review
+AR_0200,بعد,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0200.mp3,10,vocabulary|word_or_tile,U04L02|U04L06|U06L05,pending_generation,pending_linguistic_review
+AR_0201,بعد؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0201.mp3,3,word_or_tile,U06L05,pending_generation,pending_linguistic_review
+AR_0202,بعدين,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0202.mp3,2,vocabulary,U04L02|U10L01,pending_generation,pending_linguistic_review
+AR_0203,بعيد,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0203.mp3,13,vocabulary|word_or_tile,U07L01|U07L02|U07L06,pending_generation,pending_linguistic_review
+AR_0204,بكلم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0204.mp3,6,word_or_tile,U03L01|U03L06,pending_generation,pending_linguistic_review
+AR_0205,بكلمك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0205.mp3,20,vocabulary|word_or_tile,U02L11|U03L06|U04L02|U04L04|U04L06|U08L01|U08L06,pending_generation,pending_linguistic_review
+AR_0206,بكلمهم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0206.mp3,1,vocabulary,U03L06,pending_generation,pending_linguistic_review
+AR_0207,بكم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0207.mp3,16,choice_option|vocabulary|word_or_tile,U01L01|U01L03|U01L06|U05L01|U05L06,pending_generation,pending_linguistic_review
+AR_0208,بكم؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0208.mp3,2,choice_option,U01L02|U01L06,pending_generation,pending_linguistic_review
+AR_0209,بمرّ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0209.mp3,4,word_or_tile,U03L03,pending_generation,pending_linguistic_review
+AR_0210,بنتريا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0210.mp3,3,vocabulary|word_or_tile,U04L04,pending_generation,pending_linguistic_review
+AR_0211,بنتظر,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0211.mp3,2,vocabulary|word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0212,بنروح,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0212.mp3,2,vocabulary|word_or_tile,U04L05,pending_generation,pending_linguistic_review
+AR_0213,بنزور,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0213.mp3,4,word_or_tile,U04L06,pending_generation,pending_linguistic_review
+AR_0214,بيت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0214.mp3,3,word_or_tile,U03L02,pending_generation,pending_linguistic_review
+AR_0215,بيكون,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0215.mp3,4,word_or_tile,U03L01,pending_generation,pending_linguistic_review
+AR_0216,تأخرت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0216.mp3,19,vocabulary|word_or_tile,U08L05|U09L02|U09L06|U10L04,pending_generation,pending_linguistic_review
+AR_0217,تأخير,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0217.mp3,8,vocabulary|word_or_tile,U08L05,pending_generation,pending_linguistic_review
+AR_0218,تاكسي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0218.mp3,10,vocabulary|word_or_tile,U07L04|U07L06,pending_generation,pending_linguistic_review
+AR_0219,تبدأ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0219.mp3,3,word_or_tile,U10L03,pending_generation,pending_linguistic_review
+AR_0220,تبدّل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0220.mp3,2,word_or_tile,U06L05,pending_generation,pending_linguistic_review
+AR_0221,تبغي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0221.mp3,15,choice_option|vocabulary|word_or_tile,U01L05|U02L07|U02L12|U03L03|U03L05|U06L01|U06L02,pending_generation,pending_linguistic_review
+AR_0222,تبغي؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0222.mp3,1,word_or_tile,U02L07,pending_generation,pending_linguistic_review
+AR_0223,تتعشّى,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0223.mp3,1,word_or_tile,U06L02,pending_generation,pending_linguistic_review
+AR_0224,تحتاج,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0224.mp3,3,word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0225,تحديث,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0225.mp3,1,vocabulary,U08L04,pending_generation,pending_linguistic_review
+AR_0226,تحدّث,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0226.mp3,2,word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0227,تخلص,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0227.mp3,3,word_or_tile,U09L01,pending_generation,pending_linguistic_review
+AR_0228,ترتيب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0228.mp3,4,word_or_tile,U03L04,pending_generation,pending_linguistic_review
+AR_0229,تروح,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0229.mp3,3,word_or_tile,U03L03,pending_generation,pending_linguistic_review
+AR_0230,تساعدني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0230.mp3,9,vocabulary|word_or_tile,U02L08|U08L03|U08L06,pending_generation,pending_linguistic_review
+AR_0231,تساعدني؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0231.mp3,2,word_or_tile,U02L08|U08L03,pending_generation,pending_linguistic_review
+AR_0232,تسلم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0232.mp3,1,vocabulary,U01L02,pending_generation,pending_linguistic_review
+AR_0233,تسلم.,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0233.mp3,1,word_or_tile,U01L06,pending_generation,pending_linguistic_review
+AR_0234,تشرح,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0234.mp3,6,word_or_tile,U08L04|U09L06,pending_generation,pending_linguistic_review
+AR_0235,تطبخ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0235.mp3,4,word_or_tile,U03L04,pending_generation,pending_linguistic_review
+AR_0236,تعبان,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0236.mp3,8,vocabulary|word_or_tile,U04L03|U04L06,pending_generation,pending_linguistic_review
+AR_0237,تعليمات,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0237.mp3,1,vocabulary,U08L04,pending_generation,pending_linguistic_review
+AR_0238,تعيد,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0238.mp3,15,vocabulary|word_or_tile,U07L05|U07L06|U09L04,pending_generation,pending_linguistic_review
+AR_0239,تعيد؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0239.mp3,1,word_or_tile,U07L05,pending_generation,pending_linguistic_review
+AR_0240,تفاصيل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0240.mp3,2,vocabulary,U08L05|U08L06,pending_generation,pending_linguistic_review
+AR_0241,تفضل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0241.mp3,5,vocabulary|word_or_tile,U02L08|U08L03,pending_generation,pending_linguistic_review
+AR_0242,تقدر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0242.mp3,15,vocabulary|word_or_tile,U03L05|U04L05|U08L03,pending_generation,pending_linguistic_review
+AR_0243,تقريباً,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0243.mp3,6,vocabulary|word_or_tile,U03L04|U08L02,pending_generation,pending_linguistic_review
+AR_0244,تقرير,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0244.mp3,2,vocabulary,U08L01|U08L06,pending_generation,pending_linguistic_review
+AR_0245,تقصد,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0245.mp3,24,vocabulary|word_or_tile,U07L05|U07L06|U09L03|U09L06|U10L03,pending_generation,pending_linguistic_review
+AR_0246,تقولها,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0246.mp3,8,word_or_tile,U07L05|U09L04,pending_generation,pending_linguistic_review
+AR_0247,تمام,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0247.mp3,1,vocabulary,U01L04,pending_generation,pending_linguistic_review
+AR_0248,تنصحني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0248.mp3,5,vocabulary|word_or_tile,U09L03,pending_generation,pending_linguistic_review
+AR_0249,تواصل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0249.mp3,4,vocabulary|word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0250,توصل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0250.mp3,3,word_or_tile,U08L02,pending_generation,pending_linguistic_review
+AR_0251,توّي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0251.mp3,15,vocabulary|word_or_tile,U04L02|U09L02|U10L02,pending_generation,pending_linguistic_review
+AR_0252,تييب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0252.mp3,2,word_or_tile,U02L08,pending_generation,pending_linguistic_review
+AR_0253,ثاني,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0253.mp3,4,vocabulary|word_or_tile,U02L08|U05L05,pending_generation,pending_linguistic_review
+AR_0254,ثاني؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0254.mp3,3,word_or_tile,U10L06,pending_generation,pending_linguistic_review
+AR_0255,ثانية,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0255.mp3,6,word_or_tile,U07L05|U10L05,pending_generation,pending_linguistic_review
+AR_0256,ثانية؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0256.mp3,2,word_or_tile,U09L06,pending_generation,pending_linguistic_review
+AR_0257,ثقيل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0257.mp3,1,vocabulary,U06L04,pending_generation,pending_linguistic_review
+AR_0258,ثلاثة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0258.mp3,6,vocabulary|word_or_tile,U05L02,pending_generation,pending_linguistic_review
+AR_0259,ثلج,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0259.mp3,4,vocabulary|word_or_tile,U06L03,pending_generation,pending_linguistic_review
+AR_0260,جبن,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0260.mp3,3,vocabulary|word_or_tile,U06L02,pending_generation,pending_linguistic_review
+AR_0261,جدام,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0261.mp3,3,vocabulary|word_or_tile,U07L02,pending_generation,pending_linguistic_review
+AR_0262,جدول,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0262.mp3,10,vocabulary|word_or_tile,U08L01|U08L06,pending_generation,pending_linguistic_review
+AR_0263,جدولي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0263.mp3,3,word_or_tile,U08L01,pending_generation,pending_linguistic_review
+AR_0264,جي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0264.mp3,13,word_or_tile,U02L09|U09L02|U10L04,pending_generation,pending_linguistic_review
+AR_0265,حدّثت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0265.mp3,3,word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0266,حساب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0266.mp3,1,vocabulary,U06L06,pending_generation,pending_linguistic_review
+AR_0267,حسب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0267.mp3,10,word_or_tile,U04L05|U09L05|U10L06,pending_generation,pending_linguistic_review
+AR_0268,حط,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0268.mp3,4,word_or_tile,U06L03,pending_generation,pending_linguistic_review
+AR_0269,حل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0269.mp3,5,vocabulary|word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0270,حليب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0270.mp3,9,vocabulary|word_or_tile,U06L03|U06L05,pending_generation,pending_linguistic_review
+AR_0271,خبرني,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0271.mp3,9,word_or_tile,U08L03|U08L05|U10L05,pending_generation,pending_linguistic_review
+AR_0272,خبز,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0272.mp3,6,vocabulary|word_or_tile,U06L02,pending_generation,pending_linguistic_review
+AR_0273,خذ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0273.mp3,3,word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0274,خصم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0274.mp3,9,vocabulary|word_or_tile,U05L03|U05L06,pending_generation,pending_linguistic_review
+AR_0275,خفيف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0275.mp3,6,vocabulary|word_or_tile,U02L09|U06L04|U06L05,pending_generation,pending_linguistic_review
+AR_0276,خلص,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0276.mp3,3,word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0277,خلصت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0277.mp3,12,vocabulary|word_or_tile,U03L04|U08L02,pending_generation,pending_linguistic_review
+AR_0278,خلّ,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0278.mp3,3,word_or_tile,U06L05,pending_generation,pending_linguistic_review
+AR_0279,خلّصت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0279.mp3,19,word_or_tile,U03L06|U04L02|U04L04|U04L05|U04L06|U08L06|U10L06,pending_generation,pending_linguistic_review
+AR_0280,خلّنا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0280.mp3,16,word_or_tile,U04L02|U06L02|U09L05|U10L03|U10L04,pending_generation,pending_linguistic_review
+AR_0281,خلّني,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0281.mp3,18,vocabulary|word_or_tile,U03L05|U05L05|U05L06|U08L03,pending_generation,pending_linguistic_review
+AR_0282,خمسة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0282.mp3,4,vocabulary|word_or_tile,U05L01|U05L02,pending_generation,pending_linguistic_review
+AR_0283,خمسين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0283.mp3,5,vocabulary|word_or_tile,U05L02,pending_generation,pending_linguistic_review
+AR_0284,خير,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0284.mp3,3,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0285,دراهم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0285.mp3,2,word_or_tile,U05L02,pending_generation,pending_linguistic_review
+AR_0286,درهم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0286.mp3,11,vocabulary|word_or_tile,U05L01|U05L02,pending_generation,pending_linguistic_review
+AR_0287,دقيت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0287.mp3,4,vocabulary|word_or_tile,U10L02,pending_generation,pending_linguistic_review
+AR_0288,دوام,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0288.mp3,9,vocabulary|word_or_tile,U04L01|U08L01,pending_generation,pending_linguistic_review
+AR_0289,ذاك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0289.mp3,6,vocabulary|word_or_tile,U03L02,pending_generation,pending_linguistic_review
+AR_0290,راد,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0290.mp3,2,word_or_tile,U04L02,pending_generation,pending_linguistic_review
+AR_0291,رايح,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0291.mp3,14,vocabulary|word_or_tile,U01L05|U02L10|U03L03,pending_generation,pending_linguistic_review
+AR_0292,رايحة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0292.mp3,8,vocabulary|word_or_tile,U03L03,pending_generation,pending_linguistic_review
+AR_0293,رايك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0293.mp3,2,word_or_tile,U04L04,pending_generation,pending_linguistic_review
+AR_0294,ربيعي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0294.mp3,12,vocabulary|word_or_tile,U03L01|U03L02|U04L03,pending_generation,pending_linguistic_review
+AR_0295,رتّبوا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0295.mp3,5,vocabulary|word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0296,رجعت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0296.mp3,1,vocabulary,U04L03,pending_generation,pending_linguistic_review
+AR_0297,رحت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0297.mp3,7,vocabulary|word_or_tile,U04L03,pending_generation,pending_linguistic_review
+AR_0298,رخيص,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0298.mp3,5,vocabulary|word_or_tile,U05L03,pending_generation,pending_linguistic_review
+AR_0299,رد,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0299.mp3,6,vocabulary|word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0300,ردوا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0300.mp3,4,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0301,رديت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0301.mp3,15,vocabulary|word_or_tile,U09L01|U09L02|U09L06|U10L06,pending_generation,pending_linguistic_review
+AR_0302,ركبت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0302.mp3,3,word_or_tile,U07L06,pending_generation,pending_linguistic_review
+AR_0303,ريوق,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0303.mp3,1,vocabulary,U06L02,pending_generation,pending_linguistic_review
+AR_0304,زحمة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0304.mp3,14,vocabulary|word_or_tile,U09L02|U09L03|U09L06|U10L02,pending_generation,pending_linguistic_review
+AR_0305,زيادة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0305.mp3,8,vocabulary|word_or_tile,U06L03|U06L05,pending_generation,pending_linguistic_review
+AR_0306,زيادة؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0306.mp3,2,word_or_tile,U06L03,pending_generation,pending_linguistic_review
+AR_0307,زين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0307.mp3,26,choice_option|vocabulary|word_or_tile,U01L01|U01L02|U01L03|U01L04|U01L05|U01L06|U02L07|U02L09,pending_generation,pending_linguistic_review
+AR_0308,زين،,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0308.mp3,1,word_or_tile,U01L06,pending_generation,pending_linguistic_review
+AR_0309,زين؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0309.mp3,1,choice_option,U01L05,pending_generation,pending_linguistic_review
+AR_0310,سؤال,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0310.mp3,1,vocabulary,U02L08,pending_generation,pending_linguistic_review
+AR_0311,سالفة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0311.mp3,5,vocabulary|word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0312,ساندويتش,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0312.mp3,9,vocabulary|word_or_tile,U06L02|U06L06,pending_generation,pending_linguistic_review
+AR_0313,سكر,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0313.mp3,12,vocabulary|word_or_tile,U06L03|U06L04|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0314,سلّم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0314.mp3,3,word_or_tile,U03L01,pending_generation,pending_linguistic_review
+AR_0315,سمح,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0315.mp3,11,word_or_tile,U07L05|U07L06|U09L04|U10L03,pending_generation,pending_linguistic_review
+AR_0316,سمحت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0316.mp3,11,word_or_tile,U01L03|U02L08|U02L12|U06L01|U06L03|U06L05,pending_generation,pending_linguistic_review
+AR_0317,سمحت؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0317.mp3,6,word_or_tile,U02L08|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0318,سمعت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0318.mp3,12,vocabulary|word_or_tile,U09L02|U10L01|U10L02,pending_generation,pending_linguistic_review
+AR_0319,سويت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0319.mp3,9,vocabulary|word_or_tile,U04L01|U04L03,pending_generation,pending_linguistic_review
+AR_0320,سيارة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0320.mp3,6,vocabulary|word_or_tile,U02L09|U07L04,pending_generation,pending_linguistic_review
+AR_0321,سيده,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0321.mp3,7,vocabulary|word_or_tile,U07L03|U07L06,pending_generation,pending_linguistic_review
+AR_0322,شارع,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0322.mp3,2,vocabulary|word_or_tile,U07L03,pending_generation,pending_linguistic_review
+AR_0323,شاي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0323.mp3,9,vocabulary|word_or_tile,U06L01|U06L05,pending_generation,pending_linguistic_review
+AR_0324,شحالج,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0324.mp3,1,vocabulary,U01L02,pending_generation,pending_linguistic_review
+AR_0325,شحالج؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0325.mp3,2,choice_answer|choice_option,U01L02,pending_generation,pending_linguistic_review
+AR_0326,شحالك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0326.mp3,3,full_sentence|vocabulary|word_or_tile,U01L02,pending_generation,pending_linguistic_review
+AR_0327,شحالك؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0327.mp3,4,choice_option|word_or_tile,U01L02|U01L03|U01L06,pending_generation,pending_linguistic_review
+AR_0328,شغل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0328.mp3,4,word_or_tile,U08L05,pending_generation,pending_linguistic_review
+AR_0329,شغل،,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0329.mp3,2,word_or_tile,U02L09,pending_generation,pending_linguistic_review
+AR_0330,شغلي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0330.mp3,3,word_or_tile,U03L06,pending_generation,pending_linguistic_review
+AR_0331,شفت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0331.mp3,12,vocabulary|word_or_tile,U04L03|U09L02,pending_generation,pending_linguistic_review
+AR_0332,شلون,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0332.mp3,5,vocabulary|word_or_tile,U09L03,pending_generation,pending_linguistic_review
+AR_0333,شو,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0333.mp3,30,vocabulary|word_or_tile,U01L05|U02L07|U04L01|U04L03|U04L04|U06L01|U06L02|U06L06|U09L01|U09L03|U10L01,pending_generation,pending_linguistic_review
+AR_0334,شو؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0334.mp3,1,choice_option,U01L05,pending_generation,pending_linguistic_review
+AR_0335,شوف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0335.mp3,1,vocabulary,U08L03,pending_generation,pending_linguistic_review
+AR_0336,شوي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0336.mp3,36,vocabulary|word_or_tile,U01L06|U02L08|U03L04|U04L02|U04L03|U04L04|U04L06|U05L03|U07L02|U08L02|U09L04|U10L02,pending_generation,pending_linguistic_review
+AR_0337,شي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0337.mp3,25,word_or_tile,U01L04|U01L06|U02L08|U02L09|U05L03|U05L06|U07L05|U08L03|U10L05,pending_generation,pending_linguistic_review
+AR_0338,شي؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0338.mp3,2,word_or_tile,U09L04,pending_generation,pending_linguistic_review
+AR_0339,شيل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0339.mp3,4,vocabulary|word_or_tile,U03L05,pending_generation,pending_linguistic_review
+AR_0340,صار,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0340.mp3,10,word_or_tile,U08L05|U10L01|U10L04,pending_generation,pending_linguistic_review
+AR_0341,صار؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0341.mp3,3,word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0342,صدق,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0342.mp3,5,vocabulary|word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0343,صغير,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0343.mp3,5,vocabulary|word_or_tile,U05L04,pending_generation,pending_linguistic_review
+AR_0344,ضروري,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0344.mp3,5,vocabulary|word_or_tile,U09L05|U10L04,pending_generation,pending_linguistic_review
+AR_0345,طالع,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0345.mp3,3,word_or_tile,U10L02,pending_generation,pending_linguistic_review
+AR_0346,طلعت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0346.mp3,9,vocabulary|word_or_tile,U04L03|U10L02,pending_generation,pending_linguistic_review
+AR_0347,ظرف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0347.mp3,3,word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0348,عادي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0348.mp3,1,vocabulary,U01L03,pending_generation,pending_linguistic_review
+AR_0349,عسى,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0349.mp3,3,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0350,عشا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0350.mp3,1,vocabulary,U06L02,pending_generation,pending_linguistic_review
+AR_0351,عشان,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0351.mp3,13,word_or_tile,U02L09|U09L02|U10L04,pending_generation,pending_linguistic_review
+AR_0352,عشرة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0352.mp3,4,vocabulary|word_or_tile,U05L02,pending_generation,pending_linguistic_review
+AR_0353,عشرين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0353.mp3,4,vocabulary|word_or_tile,U05L02,pending_generation,pending_linguistic_review
+AR_0354,عصير,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0354.mp3,11,vocabulary|word_or_tile,U06L01|U06L03|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0355,عصير؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0355.mp3,3,word_or_tile,U06L01,pending_generation,pending_linguistic_review
+AR_0356,عقب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0356.mp3,79,choice_option|vocabulary|word_or_tile,U01L04|U01L06|U02L08|U02L10|U02L11|U02L12|U03L01|U03L03|U03L05|U03L06|U04L02|U04L03|U04L04|U04L06|U06L01|U07L03|U08L01|U08L03|U08L06|U09L05|U10L01|U10L06,pending_generation,pending_linguistic_review
+AR_0357,عقب.,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0357.mp3,1,word_or_tile,U01L06,pending_generation,pending_linguistic_review
+AR_0358,عقب؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0358.mp3,3,word_or_tile,U09L06,pending_generation,pending_linguistic_review
+AR_0359,على,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0359.mp3,31,word_or_tile,U03L03|U04L05|U05L03|U06L04|U07L03|U09L05|U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0360,عليك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0360.mp3,11,word_or_tile,U09L02|U09L04|U10L02|U10L03,pending_generation,pending_linguistic_review
+AR_0361,عليكم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0361.mp3,3,vocabulary|word_or_tile,U01L01,pending_generation,pending_linguistic_review
+AR_0362,عليه,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0362.mp3,4,word_or_tile,U10L03,pending_generation,pending_linguistic_review
+AR_0363,عليهم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0363.mp3,3,word_or_tile,U03L01,pending_generation,pending_linguistic_review
+AR_0364,عليّ,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0364.mp3,9,word_or_tile,U05L04|U09L06|U10L05,pending_generation,pending_linguistic_review
+AR_0365,عن,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0365.mp3,3,word_or_tile,U07L01,pending_generation,pending_linguistic_review
+AR_0366,عند,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0366.mp3,8,word_or_tile,U07L03|U07L04|U07L06,pending_generation,pending_linguistic_review
+AR_0367,عندك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0367.mp3,7,vocabulary|word_or_tile,U02L09|U04L06|U08L06,pending_generation,pending_linguistic_review
+AR_0368,عندكم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0368.mp3,17,word_or_tile,U05L03|U05L04|U05L05|U05L06|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0369,عندنا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0369.mp3,11,word_or_tile,U06L02|U09L05|U09L06,pending_generation,pending_linguistic_review
+AR_0370,عندهم,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0370.mp3,4,word_or_tile,U10L06,pending_generation,pending_linguistic_review
+AR_0371,عندي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0371.mp3,42,vocabulary|word_or_tile,U02L09|U02L12|U03L06|U04L01|U05L01|U05L02|U08L01|U08L03|U08L05|U08L06|U10L04,pending_generation,pending_linguistic_review
+AR_0372,عيد,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0372.mp3,3,word_or_tile,U07L05,pending_generation,pending_linguistic_review
+AR_0373,غالي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0373.mp3,9,vocabulary|word_or_tile,U05L01|U05L03,pending_generation,pending_linguistic_review
+AR_0374,غالية,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0374.mp3,2,word_or_tile,U05L06,pending_generation,pending_linguistic_review
+AR_0375,غدا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0375.mp3,1,vocabulary,U06L02,pending_generation,pending_linguistic_review
+AR_0376,غرفتي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0376.mp3,3,vocabulary|word_or_tile,U03L02,pending_generation,pending_linguistic_review
+AR_0377,غير,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0377.mp3,4,vocabulary|word_or_tile,U05L05|U05L06,pending_generation,pending_linguistic_review
+AR_0378,فلوس,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0378.mp3,6,vocabulary|word_or_tile,U02L09|U05L01,pending_generation,pending_linguistic_review
+AR_0379,فهمت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0379.mp3,36,vocabulary|word_or_tile,U07L05|U07L06|U09L04|U09L06|U10L03,pending_generation,pending_linguistic_review
+AR_0380,في,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0380.mp3,53,vocabulary|word_or_tile,U02L09|U03L01|U03L04|U03L06|U04L02|U05L03|U05L06|U06L02|U07L03|U08L03|U09L01|U09L05|U10L01|U10L02|U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0381,قبل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0381.mp3,34,vocabulary|word_or_tile,U02L11|U03L04|U04L02|U04L04|U04L06|U05L01|U05L06|U08L01|U10L02|U10L03|U10L04,pending_generation,pending_linguistic_review
+AR_0382,قدرت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0382.mp3,27,vocabulary|word_or_tile,U04L06|U08L05|U08L06|U09L01|U10L04|U10L06,pending_generation,pending_linguistic_review
+AR_0383,قريب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0383.mp3,11,vocabulary|word_or_tile,U07L01|U07L02|U07L06,pending_generation,pending_linguistic_review
+AR_0384,قصدك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0384.mp3,3,word_or_tile,U09L06,pending_generation,pending_linguistic_review
+AR_0385,قصدي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0385.mp3,8,vocabulary|word_or_tile,U10L03,pending_generation,pending_linguistic_review
+AR_0386,قطعة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0386.mp3,6,vocabulary|word_or_tile,U05L01|U05L03,pending_generation,pending_linguistic_review
+AR_0387,قليل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0387.mp3,4,vocabulary|word_or_tile,U06L03,pending_generation,pending_linguistic_review
+AR_0388,قهوة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0388.mp3,24,vocabulary|word_or_tile,U02L07|U02L09|U02L12|U06L01|U06L03|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0389,كان,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0389.mp3,6,word_or_tile,U09L02|U09L06,pending_generation,pending_linguistic_review
+AR_0390,كبير,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0390.mp3,1,vocabulary,U05L04,pending_generation,pending_linguistic_review
+AR_0391,كل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0391.mp3,5,word_or_tile,U01L04|U01L06,pending_generation,pending_linguistic_review
+AR_0392,كلّمني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0392.mp3,4,word_or_tile,U10L02,pending_generation,pending_linguistic_review
+AR_0393,كنت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0393.mp3,31,vocabulary|word_or_tile,U04L01|U04L02|U04L03|U04L06|U09L01|U10L02|U10L06,pending_generation,pending_linguistic_review
+AR_0394,كوب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0394.mp3,4,vocabulary|word_or_tile,U06L01,pending_generation,pending_linguistic_review
+AR_0395,لأن,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0395.mp3,43,vocabulary|word_or_tile,U04L06|U08L02|U08L05|U08L06|U09L01|U09L06|U10L02|U10L04|U10L06,pending_generation,pending_linguistic_review
+AR_0396,لأني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0396.mp3,3,word_or_tile,U04L04,pending_generation,pending_linguistic_review
+AR_0397,لا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0397.mp3,50,choice_answer|choice_option|vocabulary|word_or_tile,U01L01|U01L02|U01L03|U01L04|U01L05|U01L06|U02L07|U03L04|U04L04|U05L01|U05L06|U08L02|U10L03,pending_generation,pending_linguistic_review
+AR_0398,لا،,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0398.mp3,2,word_or_tile,U01L03|U02L08,pending_generation,pending_linguistic_review
+AR_0399,لازم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0399.mp3,12,vocabulary|word_or_tile,U03L04|U03L06|U08L01,pending_generation,pending_linguistic_review
+AR_0400,لخبطة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0400.mp3,5,vocabulary|word_or_tile,U10L01,pending_generation,pending_linguistic_review
+AR_0401,لذيذ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0401.mp3,4,vocabulary|word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0402,لف,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0402.mp3,6,vocabulary|word_or_tile,U07L03,pending_generation,pending_linguistic_review
+AR_0403,لك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0403.mp3,4,word_or_tile,U04L04|U08L06,pending_generation,pending_linguistic_review
+AR_0404,للحين,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0404.mp3,25,vocabulary|word_or_tile,U04L02|U08L02|U08L06|U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0405,لله,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0405.mp3,2,word_or_tile,U01L02,pending_generation,pending_linguistic_review
+AR_0406,لله.,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0406.mp3,1,word_or_tile,U01L02,pending_generation,pending_linguistic_review
+AR_0407,لو,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0407.mp3,17,word_or_tile,U01L03|U02L08|U02L12|U06L01|U06L03|U06L05|U06L06,pending_generation,pending_linguistic_review
+AR_0408,لي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0408.mp3,21,vocabulary|word_or_tile,U02L08|U07L05|U07L06|U08L04|U09L04|U10L03,pending_generation,pending_linguistic_review
+AR_0409,ليش,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0409.mp3,14,choice_option|vocabulary|word_or_tile,U01L03|U09L01|U09L06,pending_generation,pending_linguistic_review
+AR_0410,ليش؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0410.mp3,1,choice_option,U01L02,pending_generation,pending_linguistic_review
+AR_0411,لين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0411.mp3,3,word_or_tile,U08L02,pending_generation,pending_linguistic_review
+AR_0412,ما,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0412.mp3,144,word_or_tile,U01L04|U01L06|U02L09|U02L12|U03L05|U04L02|U04L04|U04L05|U04L06|U05L06|U06L02|U06L04|U06L05|U06L06|U07L05|U07L06|U08L02|U08L03|U08L04|U08L05|U08L06|U09L01|U09L02|U09L04|U09L05|U09L06|U10L02|U10L03|U10L04|U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0413,مالـي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0413.mp3,1,vocabulary,U03L02,pending_generation,pending_linguistic_review
+AR_0414,مالك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0414.mp3,1,vocabulary,U03L02,pending_generation,pending_linguistic_review
+AR_0415,مالك؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0415.mp3,3,word_or_tile,U03L02,pending_generation,pending_linguistic_review
+AR_0416,مالي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0416.mp3,3,word_or_tile,U03L02,pending_generation,pending_linguistic_review
+AR_0417,ماي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0417.mp3,45,vocabulary|word_or_tile,U02L07|U02L08|U02L09|U02L10|U02L11|U02L12|U05L02|U06L01|U06L05,pending_generation,pending_linguistic_review
+AR_0418,ماي،,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0418.mp3,1,word_or_tile,U02L07,pending_generation,pending_linguistic_review
+AR_0419,مب,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0419.mp3,6,word_or_tile,U09L03|U09L04,pending_generation,pending_linguistic_review
+AR_0420,مبكر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0420.mp3,11,vocabulary|word_or_tile,U04L04|U04L05|U08L01|U10L06,pending_generation,pending_linguistic_review
+AR_0421,متأخر,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0421.mp3,5,vocabulary|word_or_tile,U04L04|U08L01,pending_generation,pending_linguistic_review
+AR_0422,متى,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0422.mp3,19,vocabulary|word_or_tile,U04L05|U07L04|U07L06|U10L06,pending_generation,pending_linguistic_review
+AR_0423,محطة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0423.mp3,5,vocabulary|word_or_tile,U07L04|U07L06,pending_generation,pending_linguistic_review
+AR_0424,محل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0424.mp3,3,word_or_tile,U07L02,pending_generation,pending_linguistic_review
+AR_0425,مرة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0425.mp3,8,word_or_tile,U07L05|U09L06|U10L05,pending_generation,pending_linguistic_review
+AR_0426,مساعدة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0426.mp3,4,vocabulary|word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0427,مشغول,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0427.mp3,14,vocabulary|word_or_tile,U04L05|U04L06|U08L01|U08L05|U09L01|U10L06,pending_generation,pending_linguistic_review
+AR_0428,مشكلة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0428.mp3,10,vocabulary|word_or_tile,U08L03|U08L06,pending_generation,pending_linguistic_review
+AR_0429,مشكور,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0429.mp3,8,choice_answer|choice_option|vocabulary|word_or_tile,U01L01|U01L03|U02L08,pending_generation,pending_linguistic_review
+AR_0430,مطعم؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0430.mp3,1,word_or_tile,U07L01,pending_generation,pending_linguistic_review
+AR_0431,مع,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0431.mp3,11,vocabulary|word_or_tile,U01L01|U06L03|U06L06,pending_generation,pending_linguistic_review
+AR_0432,مفتاح,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0432.mp3,1,vocabulary,U02L09,pending_generation,pending_linguistic_review
+AR_0433,مقاس,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0433.mp3,8,vocabulary|word_or_tile,U05L04|U05L06,pending_generation,pending_linguistic_review
+AR_0434,مكان,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0434.mp3,1,vocabulary,U10L03,pending_generation,pending_linguistic_review
+AR_0435,ملف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0435.mp3,10,vocabulary|word_or_tile,U08L04|U08L06,pending_generation,pending_linguistic_review
+AR_0436,ممكن,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0436.mp3,55,vocabulary|word_or_tile,U02L08|U04L04|U05L05|U06L03|U06L05|U06L06|U07L05|U07L06|U08L03|U08L04|U08L06|U09L04|U09L06,pending_generation,pending_linguistic_review
+AR_0437,من,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0437.mp3,18,word_or_tile,U05L02|U05L03|U05L04|U07L01|U07L04|U07L06,pending_generation,pending_linguistic_review
+AR_0438,مناسب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0438.mp3,3,word_or_tile,U05L06,pending_generation,pending_linguistic_review
+AR_0439,منو,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0439.mp3,16,vocabulary|word_or_tile,U01L05|U02L07|U02L08|U02L10|U02L11|U02L12|U03L01,pending_generation,pending_linguistic_review
+AR_0440,منو؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0440.mp3,5,choice_answer|choice_option,U01L02|U01L05|U01L06,pending_generation,pending_linguistic_review
+AR_0441,مني,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0441.mp3,3,word_or_tile,U03L01,pending_generation,pending_linguistic_review
+AR_0442,موضوع,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0442.mp3,2,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0443,موعد,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0443.mp3,4,vocabulary|word_or_tile,U04L01|U08L01,pending_generation,pending_linguistic_review
+AR_0444,ناكل,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0444.mp3,4,word_or_tile,U06L02,pending_generation,pending_linguistic_review
+AR_0445,نبغي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0445.mp3,8,choice_answer|choice_option|vocabulary|word_or_tile,U02L07|U02L11|U02L12,pending_generation,pending_linguistic_review
+AR_0446,نتفق,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0446.mp3,9,vocabulary|word_or_tile,U04L04|U04L05,pending_generation,pending_linguistic_review
+AR_0447,نحل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0447.mp3,3,word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0448,نخلص,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0448.mp3,4,word_or_tile,U09L06,pending_generation,pending_linguistic_review
+AR_0449,نخلّص,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0449.mp3,3,word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0450,نروح,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0450.mp3,1,word_or_tile,U02L12,pending_generation,pending_linguistic_review
+AR_0451,نسوي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0451.mp3,4,word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0452,نطلع,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0452.mp3,16,vocabulary|word_or_tile,U02L11|U04L02|U04L04|U04L05|U04L06,pending_generation,pending_linguistic_review
+AR_0453,نعدّل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0453.mp3,4,vocabulary|word_or_tile,U10L03,pending_generation,pending_linguistic_review
+AR_0454,نقدر,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0454.mp3,4,vocabulary|word_or_tile,U04L05,pending_generation,pending_linguistic_review
+AR_0455,هادي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0455.mp3,5,vocabulary|word_or_tile,U09L03,pending_generation,pending_linguistic_review
+AR_0456,هالأغراض,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0456.mp3,5,word_or_tile,U03L02|U03L05,pending_generation,pending_linguistic_review
+AR_0457,هالخطة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0457.mp3,6,word_or_tile,U09L05|U09L06,pending_generation,pending_linguistic_review
+AR_0458,هالساندويتش,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0458.mp3,4,word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0459,هالشارع,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0459.mp3,3,word_or_tile,U07L03,pending_generation,pending_linguistic_review
+AR_0460,هالشي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0460.mp3,3,word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0461,هالقطعة,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0461.mp3,7,vocabulary|word_or_tile,U05L01|U05L02|U05L05|U05L06,pending_generation,pending_linguistic_review
+AR_0462,هالقطعة؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0462.mp3,4,word_or_tile,U05L01|U05L03,pending_generation,pending_linguistic_review
+AR_0463,هالكلمة؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0463.mp3,2,word_or_tile,U09L03,pending_generation,pending_linguistic_review
+AR_0464,هالمقاس,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0464.mp3,3,word_or_tile,U10L06,pending_generation,pending_linguistic_review
+AR_0465,هالمقاس؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0465.mp3,2,word_or_tile,U05L05,pending_generation,pending_linguistic_review
+AR_0466,هالمكان,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0466.mp3,7,word_or_tile,U07L01|U10L03,pending_generation,pending_linguistic_review
+AR_0467,هالملف,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0467.mp3,3,word_or_tile,U08L03|U08L04,pending_generation,pending_linguistic_review
+AR_0468,هالملف؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0468.mp3,3,word_or_tile,U08L06,pending_generation,pending_linguistic_review
+AR_0469,هذا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0469.mp3,19,vocabulary|word_or_tile,U03L02|U05L02|U05L03|U05L04,pending_generation,pending_linguistic_review
+AR_0470,هذا؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0470.mp3,3,word_or_tile,U05L01,pending_generation,pending_linguistic_review
+AR_0471,هذي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0471.mp3,8,vocabulary|word_or_tile,U03L02|U05L03,pending_generation,pending_linguistic_review
+AR_0472,هلا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0472.mp3,7,choice_option|full_sentence|vocabulary|word_or_tile,U01L01|U01L02,pending_generation,pending_linguistic_review
+AR_0473,هلا!,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0473.mp3,2,choice_answer|choice_option,U01L06,pending_generation,pending_linguistic_review
+AR_0474,هناك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0474.mp3,11,vocabulary|word_or_tile,U02L10|U07L02,pending_generation,pending_linguistic_review
+AR_0475,هناك؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0475.mp3,3,word_or_tile,U03L01,pending_generation,pending_linguistic_review
+AR_0476,هني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0476.mp3,14,vocabulary|word_or_tile,U02L10|U03L05|U07L02|U07L04,pending_generation,pending_linguistic_review
+AR_0477,هني؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0477.mp3,3,word_or_tile,U07L06,pending_generation,pending_linguistic_review
+AR_0478,هي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0478.mp3,4,word_or_tile,U03L03,pending_generation,pending_linguistic_review
+AR_0479,هيه,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0479.mp3,4,choice_option|vocabulary|word_or_tile,U01L01|U01L03|U01L04,pending_generation,pending_linguistic_review
+AR_0480,هيه،,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0480.mp3,1,word_or_tile,U01L03,pending_generation,pending_linguistic_review
+AR_0481,وإنت؟,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0481.mp3,7,choice_answer|choice_option|full_sentence|word_or_tile,U01L02|U01L04|U01L06|U02L07,pending_generation,pending_linguistic_review
+AR_0482,واحد,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0482.mp3,13,vocabulary|word_or_tile,U05L02|U05L04|U05L05|U10L06,pending_generation,pending_linguistic_review
+AR_0483,وارتحت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0483.mp3,3,word_or_tile,U04L03,pending_generation,pending_linguistic_review
+AR_0484,واضح,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0484.mp3,4,vocabulary|word_or_tile,U09L04,pending_generation,pending_linguistic_review
+AR_0485,والباقي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0485.mp3,6,word_or_tile,U09L05|U09L06,pending_generation,pending_linguistic_review
+AR_0486,والله,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0486.mp3,2,vocabulary|word_or_tile,U01L01,pending_generation,pending_linguistic_review
+AR_0487,وايد,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0487.mp3,14,vocabulary|word_or_tile,U05L03|U06L02|U06L04|U08L01|U08L05,pending_generation,pending_linguistic_review
+AR_0488,وبخبرك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0488.mp3,3,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0489,وبخلّص,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0489.mp3,5,word_or_tile,U03L04|U08L02,pending_generation,pending_linguistic_review
+AR_0490,وبعدين,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0490.mp3,5,word_or_tile,U07L03|U10L01,pending_generation,pending_linguistic_review
+AR_0491,وتوّي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0491.mp3,3,word_or_tile,U10L02,pending_generation,pending_linguistic_review
+AR_0492,وثلاثين,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0492.mp3,2,word_or_tile,U05L01,pending_generation,pending_linguistic_review
+AR_0493,وجبن,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0493.mp3,3,word_or_tile,U06L02,pending_generation,pending_linguistic_review
+AR_0494,ورا,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0494.mp3,5,vocabulary|word_or_tile,U07L02,pending_generation,pending_linguistic_review
+AR_0495,ورجعت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0495.mp3,2,word_or_tile,U04L03,pending_generation,pending_linguistic_review
+AR_0496,وشفت,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0496.mp3,3,word_or_tile,U10L02,pending_generation,pending_linguistic_review
+AR_0497,وصلت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0497.mp3,15,vocabulary|word_or_tile,U08L02|U08L05|U08L06|U10L02,pending_generation,pending_linguistic_review
+AR_0498,وظيفة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0498.mp3,5,vocabulary|word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0499,وقت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0499.mp3,16,vocabulary|word_or_tile,U02L09|U04L06|U08L06|U09L05|U09L06|U10L01,pending_generation,pending_linguistic_review
+AR_0500,وقهوة,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0500.mp3,2,word_or_tile,U06L06,pending_generation,pending_linguistic_review
+AR_0501,ولا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0501.mp3,10,word_or_tile,U03L05|U06L01|U07L06,pending_generation,pending_linguistic_review
+AR_0502,ولف,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0502.mp3,3,word_or_tile,U07L06,pending_generation,pending_linguistic_review
+AR_0503,ولون,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0503.mp3,2,word_or_tile,U05L06,pending_generation,pending_linguistic_review
+AR_0504,وما,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0504.mp3,3,word_or_tile,U08L05,pending_generation,pending_linguistic_review
+AR_0505,ومع,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0505.mp3,2,word_or_tile,U06L05,pending_generation,pending_linguistic_review
+AR_0506,ونرتّب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0506.mp3,3,word_or_tile,U10L06,pending_generation,pending_linguistic_review
+AR_0507,وهذي,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0507.mp3,1,word_or_tile,U03L02,pending_generation,pending_linguistic_review
+AR_0508,وياك,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0508.mp3,5,word_or_tile,U09L05|U10L06,pending_generation,pending_linguistic_review
+AR_0509,وياهم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0509.mp3,3,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0510,وياي,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0510.mp3,3,word_or_tile,U10L04,pending_generation,pending_linguistic_review
+AR_0511,وين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0511.mp3,69,choice_option|vocabulary|word_or_tile,U01L01|U01L02|U01L03|U01L04|U01L05|U01L06|U02L07|U02L08|U02L09|U02L10|U02L12|U03L03|U04L01|U07L01|U07L04|U07L05|U07L06|U10L02,pending_generation,pending_linguistic_review
+AR_0512,وين؟,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0512.mp3,4,choice_option,U01L02|U01L03|U01L05|U02L08,pending_generation,pending_linguistic_review
+AR_0513,يبدأ,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0513.mp3,4,word_or_tile,U08L01,pending_generation,pending_linguistic_review
+AR_0514,يديد،,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0514.mp3,2,word_or_tile,U01L04|U01L06,pending_generation,pending_linguistic_review
+AR_0515,يردون,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0515.mp3,4,word_or_tile,U10L05,pending_generation,pending_linguistic_review
+AR_0516,يسار,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0516.mp3,8,vocabulary|word_or_tile,U07L03,pending_generation,pending_linguistic_review
+AR_0517,يشتغل,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0517.mp3,7,vocabulary|word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0518,يعني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0518.mp3,22,vocabulary|word_or_tile,U09L03|U09L06|U10L06,pending_generation,pending_linguistic_review
+AR_0519,يفتح,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0519.mp3,2,vocabulary|word_or_tile,U08L04,pending_generation,pending_linguistic_review
+AR_0520,يكلف,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0520.mp3,8,vocabulary|word_or_tile,U05L01|U05L02,pending_generation,pending_linguistic_review
+AR_0521,يلا,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0521.mp3,2,vocabulary|word_or_tile,U01L01,pending_generation,pending_linguistic_review
+AR_0522,يلا،,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0522.mp3,1,word_or_tile,U01L06,pending_generation,pending_linguistic_review
+AR_0523,يم,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0523.mp3,2,vocabulary|word_or_tile,U07L02,pending_generation,pending_linguistic_review
+AR_0524,يمكن,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0524.mp3,34,vocabulary|word_or_tile,U03L06|U04L05|U05L05|U06L01|U06L06|U08L04|U10L05|U10L06,pending_generation,pending_linguistic_review
+AR_0525,يمين,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0525.mp3,8,vocabulary|word_or_tile,U07L03|U07L06,pending_generation,pending_linguistic_review
+AR_0526,يناسبني,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0526.mp3,8,vocabulary|word_or_tile,U05L05|U05L06,pending_generation,pending_linguistic_review
+AR_0527,يهمك,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0527.mp3,3,word_or_tile,U03L05,pending_generation,pending_linguistic_review
+AR_0528,ييب,word,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0528.mp3,2,vocabulary|word_or_tile,U02L08,pending_generation,pending_linguistic_review
+AR_0529,ييت,word,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0529.mp3,2,word_or_tile,U09L01,pending_generation,pending_linguistic_review
+AR_0530,آخر شي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0530.mp3,3,vocabulary|word_or_tile,U09L04,pending_generation,pending_linguistic_review
+AR_0531,أبغي أروح,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0531.mp3,3,full_sentence,U02L10|U02L12|U07L01,pending_generation,pending_linguistic_review
+AR_0532,أبغي أشتري,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0532.mp3,1,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0533,أبغي اثنين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0533.mp3,1,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0534,أبغي اللون,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0534.mp3,1,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0535,أبغي ثلاثة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0535.mp3,1,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0536,أبغي ساندويتش,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0536.mp3,1,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0537,أبغي عصير,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0537.mp3,1,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0538,أبغي قطعة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0538.mp3,1,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0539,أبغي قهوة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0539.mp3,3,choice_option|full_sentence,U02L07|U02L09|U06L03,pending_generation,pending_linguistic_review
+AR_0540,أبغي كوب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0540.mp3,1,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0541,أبغي ماي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0541.mp3,4,choice_option|full_sentence,U02L07|U02L10,pending_generation,pending_linguistic_review
+AR_0542,أبغي مقاس,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0542.mp3,1,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0543,أبغي واحد,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0543.mp3,1,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0544,أحس هالخطة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0544.mp3,1,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0545,أختي تطبخ,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0545.mp3,1,full_sentence,U03L04,pending_generation,pending_linguistic_review
+AR_0546,أخوي في,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0546.mp3,1,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0547,أركب الباص,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0547.mp3,1,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0548,أروح باجر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0548.mp3,1,choice_option,U02L12,pending_generation,pending_linguistic_review
+AR_0549,أشوفك عقب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0549.mp3,1,full_sentence,U01L06,pending_generation,pending_linguistic_review
+AR_0550,أفضل الأكل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0550.mp3,1,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0551,أكيد تفضل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0551.mp3,1,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0552,أنا أرتّب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0552.mp3,1,full_sentence,U03L04,pending_generation,pending_linguistic_review
+AR_0553,أنا بخير,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0553.mp3,1,full_sentence,U01L02,pending_generation,pending_linguistic_review
+AR_0554,أنا بطلب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0554.mp3,1,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0555,أنا رايح,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0555.mp3,1,full_sentence,U03L03,pending_generation,pending_linguistic_review
+AR_0556,أنا زين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0556.mp3,1,full_sentence,U01L04,pending_generation,pending_linguistic_review
+AR_0557,إذا احتجت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0557.mp3,1,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_0558,إذا الموضوع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0558.mp3,1,full_sentence,U10L04,pending_generation,pending_linguistic_review
+AR_0559,إذا تقدر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0559.mp3,1,full_sentence,U03L05,pending_generation,pending_linguistic_review
+AR_0560,إذا خلّصت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0560.mp3,3,full_sentence,U04L04|U04L05|U04L06,pending_generation,pending_linguistic_review
+AR_0561,إذا عندنا,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0561.mp3,1,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_0562,إذا في,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0562.mp3,1,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0563,الحمد لله,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0563.mp3,2,vocabulary|word_or_tile,U01L02,pending_generation,pending_linguistic_review
+AR_0564,الحمد لله.,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0564.mp3,1,word_or_tile,U01L02,pending_generation,pending_linguistic_review
+AR_0565,الحين فهمت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0565.mp3,1,full_sentence,U09L04,pending_generation,pending_linguistic_review
+AR_0566,الدوام يبدأ,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0566.mp3,1,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0567,السعر خمسة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0567.mp3,1,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0568,السعر عشرة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0568.mp3,1,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0569,السلام عليكم,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0569.mp3,2,full_sentence|word_or_tile,U01L01,pending_generation,pending_linguistic_review
+AR_0570,السيارة اختربت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0570.mp3,2,full_sentence,U09L02|U10L04,pending_generation,pending_linguistic_review
+AR_0571,الصراحة أحب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0571.mp3,1,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0572,الصراحة أفضل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0572.mp3,1,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0573,الكمبيوتر ما,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0573.mp3,1,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0574,المحل على,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0574.mp3,1,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0575,المحل هني,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0575.mp3,1,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0576,المطار بعيد,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0576.mp3,1,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0577,المطعم هناك,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0577.mp3,1,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0578,المكان هادي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0578.mp3,1,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0579,المكتب قريب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0579.mp3,1,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0580,المكتب ورا,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0580.mp3,1,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0581,امش سيده,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0581.mp3,1,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0582,امش في,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0582.mp3,1,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0583,باجر بنزور,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0583.mp3,1,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_0584,باقي شوي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0584.mp3,2,full_sentence,U03L04|U08L02,pending_generation,pending_linguistic_review
+AR_0585,بحاول أرسل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0585.mp3,1,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_0586,بحاول ألاقي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0586.mp3,1,full_sentence,U10L04,pending_generation,pending_linguistic_review
+AR_0587,بروح المطار,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0587.mp3,1,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0588,بزور أهلي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0588.mp3,2,full_sentence,U03L01|U04L01,pending_generation,pending_linguistic_review
+AR_0589,بكلم أهلي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0589.mp3,1,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0590,بكلم ربيعي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0590.mp3,1,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0591,بكلمك عقب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0591.mp3,1,full_sentence,U04L02,pending_generation,pending_linguistic_review
+AR_0592,بكلمك قبل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0592.mp3,1,full_sentence,U04L04,pending_generation,pending_linguistic_review
+AR_0593,بكم هالقطعة؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0593.mp3,1,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0594,بكم هذا,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0594.mp3,2,choice_option,U01L02|U01L04,pending_generation,pending_linguistic_review
+AR_0595,بكم يكلف,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0595.mp3,1,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0596,بمرّ على,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0596.mp3,1,full_sentence,U03L03,pending_generation,pending_linguistic_review
+AR_0597,بنت عمي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0597.mp3,1,vocabulary,U03L01,pending_generation,pending_linguistic_review
+AR_0598,تأخرت لأن,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0598.mp3,2,full_sentence,U08L05|U09L06,pending_generation,pending_linguistic_review
+AR_0599,تبغي أساعدك؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0599.mp3,1,full_sentence,U03L05,pending_generation,pending_linguistic_review
+AR_0600,تبغي قهوة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0600.mp3,1,full_sentence,U02L07,pending_generation,pending_linguistic_review
+AR_0601,تبغي قهوة؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0601.mp3,1,choice_option,U02L09,pending_generation,pending_linguistic_review
+AR_0602,تبغي ماي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0602.mp3,1,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0603,تبغي ماي؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0603.mp3,3,choice_answer|choice_option,U02L07|U02L12,pending_generation,pending_linguistic_review
+AR_0604,تقدر تساعدني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0604.mp3,1,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0605,تقريباً خلصت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0605.mp3,1,full_sentence,U08L02,pending_generation,pending_linguistic_review
+AR_0606,تقصد الشارع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0606.mp3,1,full_sentence,U07L05,pending_generation,pending_linguistic_review
+AR_0607,تقصد المكان,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0607.mp3,1,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0608,توّي راد,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0608.mp3,1,full_sentence,U04L02,pending_generation,pending_linguistic_review
+AR_0609,توّي شفت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0609.mp3,1,full_sentence,U09L02,pending_generation,pending_linguistic_review
+AR_0610,جدولي اليوم,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0610.mp3,1,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0611,حط سكر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0611.mp3,1,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0612,خلصت التقرير؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0612.mp3,1,full_sentence,U08L02,pending_generation,pending_linguistic_review
+AR_0613,خلصت ترتيب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0613.mp3,1,full_sentence,U03L04,pending_generation,pending_linguistic_review
+AR_0614,خلّنا ناكل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0614.mp3,1,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0615,خلّني أخلّص,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0615.mp3,1,full_sentence,U03L05,pending_generation,pending_linguistic_review
+AR_0616,خلّني أشوف,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0616.mp3,1,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0617,رايح المحل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0617.mp3,2,choice_answer|choice_option,U02L10,pending_generation,pending_linguistic_review
+AR_0618,رتّبوا الموضوع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0618.mp3,1,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0619,رحت السوق,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0619.mp3,1,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0620,سمح لي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0620.mp3,9,full_sentence|vocabulary|word_or_tile,U07L05|U10L03,pending_generation,pending_linguistic_review
+AR_0621,شفت ربيعي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0621.mp3,1,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0622,شو أخبارك؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0622.mp3,4,choice_option|full_sentence,U01L05|U01L06,pending_generation,pending_linguistic_review
+AR_0623,شو السبب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0623.mp3,1,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0624,شو بتطلب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0624.mp3,1,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0625,شو بتطلب؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0625.mp3,1,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0626,شو تبغي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0626.mp3,2,full_sentence,U01L05|U06L02,pending_generation,pending_linguistic_review
+AR_0627,شو تبغي؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0627.mp3,1,full_sentence,U02L07,pending_generation,pending_linguistic_review
+AR_0628,شو رايك,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0628.mp3,6,full_sentence|vocabulary|word_or_tile,U04L04,pending_generation,pending_linguistic_review
+AR_0629,شو سويت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0629.mp3,2,full_sentence,U04L01|U04L03,pending_generation,pending_linguistic_review
+AR_0630,شو يعني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0630.mp3,1,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0631,صار لخبطة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0631.mp3,1,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0632,صدق وبعدين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0632.mp3,1,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0633,عسى خير,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0633.mp3,1,vocabulary,U10L05,pending_generation,pending_linguistic_review
+AR_0634,عشان جي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0634.mp3,11,full_sentence|vocabulary|word_or_tile,U09L02|U09L06,pending_generation,pending_linguistic_review
+AR_0635,عقب شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0635.mp3,1,choice_option,U01L01,pending_generation,pending_linguistic_review
+AR_0636,على حسب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0636.mp3,8,full_sentence|vocabulary|word_or_tile,U04L05|U09L05|U10L06,pending_generation,pending_linguistic_review
+AR_0637,عندكم شي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0637.mp3,1,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0638,عندكم مقاس,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0638.mp3,1,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0639,عندنا خبز,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0639.mp3,1,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0640,عندي أغراض,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0640.mp3,1,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0641,عندي اجتماع,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0641.mp3,1,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0642,عندي خمسين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0642.mp3,1,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0643,عندي دوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0643.mp3,1,full_sentence,U04L01,pending_generation,pending_linguistic_review
+AR_0644,عندي فلوس,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0644.mp3,1,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0645,عندي قهوة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0645.mp3,1,choice_option,U02L09,pending_generation,pending_linguistic_review
+AR_0646,عندي ماي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0646.mp3,2,choice_option|full_sentence,U02L09|U02L12,pending_generation,pending_linguistic_review
+AR_0647,عندي مشكلة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0647.mp3,1,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0648,عندي موعد,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0648.mp3,1,full_sentence,U04L01,pending_generation,pending_linguistic_review
+AR_0649,في خصم,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0649.mp3,1,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0650,قبل شوي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0650.mp3,2,vocabulary|word_or_tile,U04L02,pending_generation,pending_linguistic_review
+AR_0651,كل شي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0651.mp3,3,choice_answer|choice_option|vocabulary,U01L04,pending_generation,pending_linguistic_review
+AR_0652,كلّمني إذا,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0652.mp3,1,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_0653,كنت تعبان,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0653.mp3,1,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0654,كنت في,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0654.mp3,2,full_sentence,U04L02|U10L02,pending_generation,pending_linguistic_review
+AR_0655,لا قصدي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0655.mp3,1,full_sentence,U10L03,pending_generation,pending_linguistic_review
+AR_0656,لا مشكور,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0656.mp3,1,full_sentence,U01L03,pending_generation,pending_linguistic_review
+AR_0657,لا، مشكور,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0657.mp3,6,choice_answer|choice_option|full_sentence,U01L03|U01L06,pending_generation,pending_linguistic_review
+AR_0658,لازم أخلّص,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0658.mp3,2,full_sentence,U03L06|U08L01,pending_generation,pending_linguistic_review
+AR_0659,لف يسار,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0659.mp3,1,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0660,للحين ما,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0660.mp3,1,full_sentence,U04L02,pending_generation,pending_linguistic_review
+AR_0661,لو سمحت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0661.mp3,14,choice_answer|choice_option|full_sentence|vocabulary|word_or_tile,U01L03|U01L04|U02L08|U02L12|U06L05,pending_generation,pending_linguistic_review
+AR_0662,ليش لا؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0662.mp3,1,choice_option,U01L02,pending_generation,pending_linguistic_review
+AR_0663,ليش ما,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0663.mp3,1,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0664,ما أبغي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0664.mp3,2,choice_option,U01L02|U02L07,pending_generation,pending_linguistic_review
+AR_0665,ما أتفق,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0665.mp3,5,vocabulary|word_or_tile,U09L05,pending_generation,pending_linguistic_review
+AR_0666,ما أحب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0666.mp3,6,full_sentence|vocabulary|word_or_tile,U06L04,pending_generation,pending_linguistic_review
+AR_0667,ما أقدر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0667.mp3,4,choice_option|full_sentence|vocabulary,U01L01|U01L06|U02L12|U03L05,pending_generation,pending_linguistic_review
+AR_0668,ما رديت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0668.mp3,1,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0669,ما سمعت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0669.mp3,1,full_sentence,U09L02,pending_generation,pending_linguistic_review
+AR_0670,ما شي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0670.mp3,7,choice_option|full_sentence|vocabulary,U01L01|U01L03|U01L04|U02L08,pending_generation,pending_linguistic_review
+AR_0671,ما عليه,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0671.mp3,2,full_sentence|vocabulary,U10L03,pending_generation,pending_linguistic_review
+AR_0672,ما عندي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0672.mp3,2,vocabulary,U02L09|U02L12,pending_generation,pending_linguistic_review
+AR_0673,ما فهمت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0673.mp3,4,full_sentence|vocabulary,U07L05|U07L06|U09L04,pending_generation,pending_linguistic_review
+AR_0674,ما في,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0674.mp3,1,vocabulary,U02L09,pending_generation,pending_linguistic_review
+AR_0675,ما قدرت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0675.mp3,2,full_sentence|vocabulary,U09L01,pending_generation,pending_linguistic_review
+AR_0676,مب وايد,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0676.mp3,1,choice_option,U01L01,pending_generation,pending_linguistic_review
+AR_0677,متى أوصل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0677.mp3,1,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0678,مرة ثانية,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0678.mp3,2,vocabulary,U07L05|U10L05,pending_generation,pending_linguistic_review
+AR_0679,مع السلامة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0679.mp3,10,choice_answer|choice_option|full_sentence|vocabulary|word_or_tile,U01L01|U01L03|U01L04|U01L06|U02L08,pending_generation,pending_linguistic_review
+AR_0680,ممكن آخذ,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0680.mp3,1,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0681,ممكن أجرّب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0681.mp3,1,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0682,ممكن الحساب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0682.mp3,1,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0683,ممكن تبدّل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0683.mp3,1,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0684,ممكن تساعدني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0684.mp3,1,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_0685,ممكن تساعدني؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0685.mp3,3,choice_answer|choice_option|full_sentence,U02L08|U02L12,pending_generation,pending_linguistic_review
+AR_0686,ممكن تشرح,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0686.mp3,1,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0687,ممكن تعيد,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0687.mp3,1,full_sentence,U09L04,pending_generation,pending_linguistic_review
+AR_0688,ممكن تقولها,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0688.mp3,2,full_sentence,U07L05|U09L04,pending_generation,pending_linguistic_review
+AR_0689,ممكن حليب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0689.mp3,1,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0690,ممكن نتفق,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0690.mp3,1,full_sentence,U04L04,pending_generation,pending_linguistic_review
+AR_0691,منو بيكون,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0691.mp3,1,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0692,نبغي نطلع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0692.mp3,1,choice_option,U02L12,pending_generation,pending_linguistic_review
+AR_0693,نسوي الشي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0693.mp3,1,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0694,هالأغراض مالي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0694.mp3,3,full_sentence,U03L02,pending_generation,pending_linguistic_review
+AR_0695,هالساندويتش وايد,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0695.mp3,1,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0696,هالقطعة غالية,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0696.mp3,1,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0697,هالملف ما,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0697.mp3,1,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0698,هذا أخوي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0698.mp3,1,full_sentence,U03L02,pending_generation,pending_linguistic_review
+AR_0699,هذا الكتاب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0699.mp3,1,full_sentence,U03L02,pending_generation,pending_linguistic_review
+AR_0700,هذا صغير,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0700.mp3,1,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0701,هذا غالي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0701.mp3,1,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0702,هذي غرفتي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0702.mp3,2,full_sentence,U03L02,pending_generation,pending_linguistic_review
+AR_0703,هلا شحالك؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0703.mp3,1,full_sentence,U01L02,pending_generation,pending_linguistic_review
+AR_0704,هلا والله,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0704.mp3,6,choice_answer|choice_option|full_sentence,U01L01|U01L03,pending_generation,pending_linguistic_review
+AR_0705,هي رايحة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0705.mp3,1,full_sentence,U03L03,pending_generation,pending_linguistic_review
+AR_0706,هيه أكيد,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0706.mp3,1,full_sentence,U01L03,pending_generation,pending_linguistic_review
+AR_0707,هيه، أكيد,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0707.mp3,1,choice_option,U01L06,pending_generation,pending_linguistic_review
+AR_0708,هيه، مشكور,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0708.mp3,3,choice_answer|choice_option|full_sentence,U01L03,pending_generation,pending_linguistic_review
+AR_0709,وعليكم السلام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0709.mp3,2,choice_answer|choice_option,U01L01,pending_generation,pending_linguistic_review
+AR_0710,ولا يهمك,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0710.mp3,1,vocabulary,U03L05,pending_generation,pending_linguistic_review
+AR_0711,وين أقرب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0711.mp3,1,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0712,وين المحل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0712.mp3,2,choice_option|full_sentence,U01L02|U01L05,pending_generation,pending_linguistic_review
+AR_0713,وين المحل؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0713.mp3,3,choice_option,U01L06|U02L10|U02L12,pending_generation,pending_linguistic_review
+AR_0714,وين رايح,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0714.mp3,4,choice_option|full_sentence,U01L03|U01L06|U03L03,pending_generation,pending_linguistic_review
+AR_0715,وين رايح؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0715.mp3,1,choice_option,U02L12,pending_generation,pending_linguistic_review
+AR_0716,وين ماي؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0716.mp3,1,choice_option,U02L07,pending_generation,pending_linguistic_review
+AR_0717,وين محطة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0717.mp3,1,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0718,وين هالمكان,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0718.mp3,1,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0719,يعني تنصحني,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0719.mp3,1,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0720,يمكن آخذ,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0720.mp3,1,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0721,يمكن أزور,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0721.mp3,1,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0722,يمكن أكون,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0722.mp3,1,full_sentence,U04L05,pending_generation,pending_linguistic_review
+AR_0723,يمكن اللون,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0723.mp3,1,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0724,يمكن تحتاج,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0724.mp3,1,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0725,يمكن يردون,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0725.mp3,1,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_0726,أبغي أروح البيت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0726.mp3,1,full_sentence,U02L10,pending_generation,pending_linguistic_review
+AR_0727,أبغي أروح المحل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0727.mp3,1,full_sentence,U02L10,pending_generation,pending_linguistic_review
+AR_0728,أبغي أروح المستشفى,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0728.mp3,3,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0729,أبغي أروح اليوم,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0729.mp3,1,full_sentence,U02L11,pending_generation,pending_linguistic_review
+AR_0730,أبغي أروح باجر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0730.mp3,2,full_sentence,U02L11|U02L12,pending_generation,pending_linguistic_review
+AR_0731,أبغي أشتري هالقطعة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0731.mp3,3,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0732,أبغي اللون الأسود,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0732.mp3,1,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0733,أبغي ساندويتش جبن,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0733.mp3,2,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0734,أبغي شي ثاني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0734.mp3,2,full_sentence,U02L08,pending_generation,pending_linguistic_review
+AR_0735,أبغي شي خفيف,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0735.mp3,2,full_sentence,U02L09,pending_generation,pending_linguistic_review
+AR_0736,أبغي قهوة بدون,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0736.mp3,1,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0737,أبغي ماي، وإنت؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0737.mp3,1,full_sentence,U02L07,pending_generation,pending_linguistic_review
+AR_0738,أبغي واحد أزرق,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0738.mp3,3,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0739,أحس هالخطة أحسن,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0739.mp3,2,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0740,أفضل الأكل الخفيف,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0740.mp3,2,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0741,أقرب محل هناك,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0741.mp3,3,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0742,أنا / منو,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0742.mp3,1,choice_option,U01L06,pending_generation,pending_linguistic_review
+AR_0743,أنا بطلب شاي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0743.mp3,3,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0744,أنا رايح السوق,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0744.mp3,2,full_sentence,U03L03,pending_generation,pending_linguistic_review
+AR_0745,أنا فهمت إنك,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0745.mp3,1,full_sentence,U10L03,pending_generation,pending_linguistic_review
+AR_0746,أنا ما أتفق,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0746.mp3,1,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0747,إذا ما تقدر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0747.mp3,1,full_sentence,U04L05,pending_generation,pending_linguistic_review
+AR_0748,إذا ما ردوا,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0748.mp3,1,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_0749,إذا ما عندكم,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0749.mp3,1,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0750,إذا ما قدرت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0750.mp3,1,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_0751,إذا وصلت البيانات,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0751.mp3,1,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_0752,الحين فهمت عليك,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0752.mp3,3,full_sentence,U09L04,pending_generation,pending_linguistic_review
+AR_0753,الدوام يبدأ مبكر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0753.mp3,3,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0754,السعر عشرة دراهم,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0754.mp3,2,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0755,الشاي بدون حليب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0755.mp3,3,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0756,المحل على اليسار,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0756.mp3,2,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0757,المطار بعيد شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0757.mp3,3,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0758,المطار بعيد ولا,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0758.mp3,1,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_0759,المكتب ورا المحل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0759.mp3,3,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0760,امش سيده ولف,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0760.mp3,1,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_0761,امش في هالشارع,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0761.mp3,3,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0762,باجر عقب الدوام,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0762.mp3,1,full_sentence,U01L06,pending_generation,pending_linguistic_review
+AR_0763,باقي شوي وبخلّص,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0763.mp3,5,full_sentence,U03L04|U08L02,pending_generation,pending_linguistic_review
+AR_0764,بخير الحمد لله,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0764.mp3,1,full_sentence,U01L02,pending_generation,pending_linguistic_review
+AR_0765,بخير، الحمد لله,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0765.mp3,2,choice_answer|choice_option,U01L02,pending_generation,pending_linguistic_review
+AR_0766,بروح المطار بالتاكسي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0766.mp3,1,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0767,بزور أهلي باجر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0767.mp3,1,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0768,بكلمك عقب الاجتماع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0768.mp3,1,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_0769,بكلمك عقب شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0769.mp3,2,full_sentence,U04L02,pending_generation,pending_linguistic_review
+AR_0770,بكلمك قبل الاجتماع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0770.mp3,3,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0771,بكم يكلف هذا؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0771.mp3,3,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0772,تقريباً خلصت الشغل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0772.mp3,3,full_sentence,U08L02,pending_generation,pending_linguistic_review
+AR_0773,تقصد الشارع الثاني؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0773.mp3,3,full_sentence,U07L05,pending_generation,pending_linguistic_review
+AR_0774,تقصد المكان الثاني؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0774.mp3,3,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0775,تقصد نخلص المهم,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0775.mp3,1,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_0776,توّي راد البيت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0776.mp3,1,full_sentence,U04L02,pending_generation,pending_linguistic_review
+AR_0777,توّي شفت اتصالك,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0777.mp3,3,full_sentence,U09L02,pending_generation,pending_linguistic_review
+AR_0778,خلصت ترتيب الغرفة؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0778.mp3,3,full_sentence,U03L04,pending_generation,pending_linguistic_review
+AR_0779,خلّني أشوف القطعة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0779.mp3,1,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0780,ذاك بيت ربيعي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0780.mp3,3,full_sentence,U03L02,pending_generation,pending_linguistic_review
+AR_0781,رتّبوا الموضوع عقب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0781.mp3,3,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0782,زين / عقب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0782.mp3,1,choice_option,U01L06,pending_generation,pending_linguistic_review
+AR_0783,زين الحمد لله,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0783.mp3,1,full_sentence,U01L02,pending_generation,pending_linguistic_review
+AR_0784,زين، الحمد لله,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0784.mp3,2,choice_answer|choice_option,U01L06,pending_generation,pending_linguistic_review
+AR_0785,زين، تسلم. وإنت؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0785.mp3,1,full_sentence,U01L06,pending_generation,pending_linguistic_review
+AR_0786,سلّم عليهم مني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0786.mp3,3,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0787,سمح لي وين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0787.mp3,1,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_0788,سمعت السالفة اللي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0788.mp3,1,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0789,شفت ربيعي أمس,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0789.mp3,3,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0790,شو بتطلب اليوم؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0790.mp3,1,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0791,شو تقصد بالضبط؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0791.mp3,3,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0792,شو سويت أمس؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0792.mp3,2,full_sentence,U04L01,pending_generation,pending_linguistic_review
+AR_0793,شو سويت اليوم؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0793.mp3,1,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0794,شو يعني هالكلمة؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0794.mp3,2,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0795,طلعت عقب الدوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0795.mp3,3,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0796,عندكم شي أرخص؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0796.mp3,2,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0797,عندكم مقاس أكبر؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0797.mp3,2,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0798,عندي خمسين درهم,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0798.mp3,3,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0799,عندي دوام باجر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0799.mp3,3,full_sentence,U04L01,pending_generation,pending_linguistic_review
+AR_0800,عندي شغل وايد,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0800.mp3,1,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_0801,كل شي زين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0801.mp3,5,choice_option|full_sentence|vocabulary,U01L04|U01L06,pending_generation,pending_linguistic_review
+AR_0802,كنت أبغي أروح,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0802.mp3,1,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_0803,لا، بس ماي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0803.mp3,3,choice_answer|choice_option|full_sentence,U02L08|U02L12,pending_generation,pending_linguistic_review
+AR_0804,للحين لا لأن,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0804.mp3,1,full_sentence,U08L02,pending_generation,pending_linguistic_review
+AR_0805,للحين ما خلّصت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0805.mp3,4,full_sentence,U04L02|U08L06,pending_generation,pending_linguistic_review
+AR_0806,للحين ما في,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0806.mp3,1,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_0807,ما أبغي قهوة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0807.mp3,2,choice_answer|choice_option,U02L09,pending_generation,pending_linguistic_review
+AR_0808,ما أبغي ماي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0808.mp3,2,choice_option|full_sentence,U02L09|U02L12,pending_generation,pending_linguistic_review
+AR_0809,ما أقدر أفتح,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0809.mp3,1,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0810,ما سمعت التلفون,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0810.mp3,1,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_0811,ما شي يديد,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0811.mp3,6,choice_answer|choice_option,U01L04|U01L06,pending_generation,pending_linguistic_review
+AR_0812,ما عندي شغل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0812.mp3,1,choice_option,U02L12,pending_generation,pending_linguistic_review
+AR_0813,ما عندي ماي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0813.mp3,4,choice_answer|choice_option|full_sentence,U02L07|U02L09|U02L12,pending_generation,pending_linguistic_review
+AR_0814,ما عندي محل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0814.mp3,1,choice_option,U02L10,pending_generation,pending_linguistic_review
+AR_0815,ما فهمت اشرح,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0815.mp3,1,full_sentence,U09L04,pending_generation,pending_linguistic_review
+AR_0816,ما فهمت قصدك,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0816.mp3,1,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_0817,ما قدرت أجي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0817.mp3,1,full_sentence,U10L04,pending_generation,pending_linguistic_review
+AR_0818,ما قدرت أطلع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0818.mp3,1,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_0819,متى أوصل المكتب؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0819.mp3,3,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0820,ممكن أجرّب هالمقاس؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0820.mp3,2,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0821,ممكن تقولها ببطء؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0821.mp3,6,full_sentence,U07L05|U09L04,pending_generation,pending_linguistic_review
+AR_0822,ممكن حليب زيادة؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0822.mp3,2,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0823,منو بيكون هناك؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0823.mp3,3,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0824,نبغي ماي الحين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0824.mp3,1,full_sentence,U02L07,pending_generation,pending_linguistic_review
+AR_0825,نبغي نروح المحل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0825.mp3,1,full_sentence,U02L12,pending_generation,pending_linguistic_review
+AR_0826,نبغي نطلع باجر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0826.mp3,2,full_sentence,U02L11,pending_generation,pending_linguistic_review
+AR_0827,هالساندويتش وايد لذيذ,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0827.mp3,3,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0828,هالملف ما يفتح,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0828.mp3,1,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0829,هذا الكتاب مالك؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0829.mp3,3,full_sentence,U03L02,pending_generation,pending_linguistic_review
+AR_0830,هذا صغير عليّ,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0830.mp3,3,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0831,هذا غالي شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0831.mp3,1,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0832,هلا السلام عليكم,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0832.mp3,1,full_sentence,U01L01,pending_generation,pending_linguistic_review
+AR_0833,هي رايحة البيت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0833.mp3,3,full_sentence,U03L03,pending_generation,pending_linguistic_review
+AR_0834,هيه / لا,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0834.mp3,2,choice_answer|choice_option,U01L06,pending_generation,pending_linguistic_review
+AR_0835,وين / شو,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0835.mp3,1,choice_option,U01L06,pending_generation,pending_linguistic_review
+AR_0836,وين أقرب مطعم؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0836.mp3,1,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0837,وين رايح الحين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0837.mp3,1,full_sentence,U01L05,pending_generation,pending_linguistic_review
+AR_0838,وين رايح الحين؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0838.mp3,6,choice_answer|choice_option|full_sentence,U01L05|U01L06|U02L10|U03L03,pending_generation,pending_linguistic_review
+AR_0839,وين كنت دقيت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0839.mp3,1,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_0840,وين محطة الباص؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0840.mp3,2,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0841,وين هالمكان بالضبط؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0841.mp3,3,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0842,يعني تنصحني أروح؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0842.mp3,3,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0843,يلا مع السلامة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0843.mp3,1,full_sentence,U01L01,pending_generation,pending_linguistic_review
+AR_0844,يلا، أشوفك عقب.,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0844.mp3,1,full_sentence,U01L06,pending_generation,pending_linguistic_review
+AR_0845,أبغي أروح المحل الحين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0845.mp3,2,full_sentence,U02L10,pending_generation,pending_linguistic_review
+AR_0846,أبغي أروح المحل باجر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0846.mp3,1,full_sentence,U02L07,pending_generation,pending_linguistic_review
+AR_0847,أبغي أروح عقب الدوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0847.mp3,1,full_sentence,U02L11,pending_generation,pending_linguistic_review
+AR_0848,أبغي اثنين من هالقطعة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0848.mp3,1,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0849,أبغي ثلاثة أكواب ماي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0849.mp3,3,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0850,أبغي عصير مع ثلج,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0850.mp3,3,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0851,أبغي قهوة بدون سكر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0851.mp3,1,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0852,أبغي ماي لو سمحت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0852.mp3,1,full_sentence,U02L12,pending_generation,pending_linguistic_review
+AR_0853,أختي تطبخ في البيت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0853.mp3,3,full_sentence,U03L04,pending_generation,pending_linguistic_review
+AR_0854,أخوي في البيت الحين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0854.mp3,2,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0855,أركب الباص من هني,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0855.mp3,3,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0856,أكيد تفضل خلّني أشوف,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0856.mp3,2,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0857,أنا أرتّب الغرفة الحين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0857.mp3,1,full_sentence,U03L04,pending_generation,pending_linguistic_review
+AR_0858,أنزل عند المحطة الثانية,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0858.mp3,3,full_sentence,U07L04,pending_generation,pending_linguistic_review
+AR_0859,إذا احتجت شي خبرني,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0859.mp3,3,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0860,إذا احتجت مساعدة خبرني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0860.mp3,3,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_0861,إذا تقدر شيل هالأغراض,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0861.mp3,2,full_sentence,U03L05,pending_generation,pending_linguistic_review
+AR_0862,إذا خلّصت التقرير مبكر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0862.mp3,1,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_0863,إذا خلّصت بكلمك عقب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0863.mp3,3,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0864,إذا ما قدرت أروح,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0864.mp3,1,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_0865,السعر خمسة وثلاثين درهم,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0865.mp3,2,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0866,الكمبيوتر ما يشتغل الحين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0866.mp3,3,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0867,المحل هني يم المكتب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0867.mp3,1,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0868,المطعم بعيد عن البيت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0868.mp3,3,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0869,المطعم هناك جدام البيت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0869.mp3,2,full_sentence,U07L02,pending_generation,pending_linguistic_review
+AR_0870,المكتب قريب من المطار,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0870.mp3,2,full_sentence,U07L01,pending_generation,pending_linguistic_review
+AR_0871,انتظر لين توصل البيانات,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0871.mp3,3,full_sentence,U08L02,pending_generation,pending_linguistic_review
+AR_0872,بحاول أرسل التفاصيل اليوم,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0872.mp3,2,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_0873,بحاول ألاقي حل بسرعة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0873.mp3,3,full_sentence,U10L04,pending_generation,pending_linguistic_review
+AR_0874,بخير، الحمد لله. وإنت؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0874.mp3,1,full_sentence,U01L02,pending_generation,pending_linguistic_review
+AR_0875,بزور أهلي اليوم بالليل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0875.mp3,3,full_sentence,U04L01,pending_generation,pending_linguistic_review
+AR_0876,بكلم أهلي عقب الدوام,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0876.mp3,1,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0877,بكلم ربيعي عقب الدوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0877.mp3,3,full_sentence,U03L01,pending_generation,pending_linguistic_review
+AR_0878,بكلمك قبل لا أطلع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0878.mp3,3,full_sentence,U04L04,pending_generation,pending_linguistic_review
+AR_0879,بمرّ على المحل عقب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0879.mp3,3,full_sentence,U03L03,pending_generation,pending_linguistic_review
+AR_0880,تبغي ماي ولا عصير؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0880.mp3,3,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0881,تقدر تساعدني عقب الاجتماع؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0881.mp3,3,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0882,توّي وصلت وشفت اتصالك,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0882.mp3,3,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_0883,جدولي اليوم وايد مشغول,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0883.mp3,2,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0884,خلّنا ناكل العشا الحين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0884.mp3,3,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0885,خلّنا نطلع بعد الدوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0885.mp3,3,full_sentence,U04L02,pending_generation,pending_linguistic_review
+AR_0886,خلّني أخلّص هني أول,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0886.mp3,3,full_sentence,U03L05,pending_generation,pending_linguistic_review
+AR_0887,خلّني أشوف واحد ثاني,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0887.mp3,1,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0888,رحت السوق ورجعت البيت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0888.mp3,2,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0889,سمح لي ممكن تعيد؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0889.mp3,1,full_sentence,U07L05,pending_generation,pending_linguistic_review
+AR_0890,شو السبب في التأخير؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0890.mp3,3,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0891,شو تبغي تتعشّى اليوم؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0891.mp3,1,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0892,صار لخبطة في الجدول,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0892.mp3,3,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0893,صدق وبعدين شو صار؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0893.mp3,3,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0894,على حسب متى أخلّص,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0894.mp3,2,full_sentence,U04L05,pending_generation,pending_linguistic_review
+AR_0895,عندي أغراض في الغرفة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0895.mp3,3,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0896,عندي اجتماع عقب الدوام,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0896.mp3,1,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0897,عندي مشكلة في الكمبيوتر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0897.mp3,3,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_0898,عندي موعد باجر الصبح,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0898.mp3,1,full_sentence,U04L01,pending_generation,pending_linguistic_review
+AR_0899,في خصم على هالقطعة؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0899.mp3,3,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0900,كلّمني إذا وصلت البيت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0900.mp3,3,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_0901,كنت تعبان وارتحت شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0901.mp3,3,full_sentence,U04L03,pending_generation,pending_linguistic_review
+AR_0902,لا قصدي هالمكان بالضبط,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0902.mp3,3,full_sentence,U10L03,pending_generation,pending_linguistic_review
+AR_0903,لازم أخلّص التقرير باجر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0903.mp3,3,full_sentence,U08L01,pending_generation,pending_linguistic_review
+AR_0904,لازم أخلّص شغلي أول,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0904.mp3,3,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0905,لف يسار عند الإشارة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0905.mp3,3,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0906,للحين ما رديت لأن,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0906.mp3,1,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_0907,ليش ما ييت الاجتماع؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0907.mp3,2,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0908,ما أبغي قهوة الحين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0908.mp3,2,full_sentence,U02L12,pending_generation,pending_linguistic_review
+AR_0909,ما أحب الشاي الثقيل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0909.mp3,3,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0910,ما أقدر أساعدك الحين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0910.mp3,3,full_sentence,U03L05,pending_generation,pending_linguistic_review
+AR_0911,ما فهمت وين ألف,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0911.mp3,2,full_sentence,U07L05,pending_generation,pending_linguistic_review
+AR_0912,ممكن آخذ ماي بعد؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0912.mp3,3,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0913,ممكن الحساب لو سمحت؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0913.mp3,3,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0914,ممكن تساعدني أفتح هالملف؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0914.mp3,3,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_0915,ممكن تشرح لي التعليمات؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0915.mp3,3,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0916,ممكن تعيد آخر شي؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0916.mp3,2,full_sentence,U09L04,pending_generation,pending_linguistic_review
+AR_0917,ممكن نتفق عقب شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0917.mp3,3,full_sentence,U04L04,pending_generation,pending_linguistic_review
+AR_0918,نسوي الشي الضروري أول,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0918.mp3,3,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0919,هذا أخوي وهذي أختي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0919.mp3,1,full_sentence,U03L02,pending_generation,pending_linguistic_review
+AR_0920,هذا أغلى من الثاني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0920.mp3,3,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0921,هذا يكلف عشرين درهم,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0921.mp3,3,full_sentence,U05L02,pending_generation,pending_linguistic_review
+AR_0922,هيه، أبغي شي ثاني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0922.mp3,1,choice_option,U02L12,pending_generation,pending_linguistic_review
+AR_0923,ولا يهمك بساعدك عقب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0923.mp3,3,full_sentence,U03L05,pending_generation,pending_linguistic_review
+AR_0924,وين تبغي تروح باجر؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0924.mp3,3,full_sentence,U03L03,pending_generation,pending_linguistic_review
+AR_0925,وين كنت أمس بالليل؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0925.mp3,3,full_sentence,U04L01,pending_generation,pending_linguistic_review
+AR_0926,يعني إذا ما عندهم,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0926.mp3,1,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_0927,يمكن آخذ ساندويتش وقهوة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0927.mp3,2,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0928,يمكن أزور أخوي باجر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0928.mp3,2,full_sentence,U03L06,pending_generation,pending_linguistic_review
+AR_0929,يمكن أكون مشغول باجر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0929.mp3,3,full_sentence,U04L05,pending_generation,pending_linguistic_review
+AR_0930,يمكن اللون الثاني يناسبني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0930.mp3,3,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0931,يمكن تحتاج تحدّث البرنامج,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0931.mp3,2,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0932,يمكن يردون عليّ باجر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0932.mp3,3,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_0933,أبغي أروح باجر عقب الدوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0933.mp3,3,full_sentence,U02L11|U02L12,pending_generation,pending_linguistic_review
+AR_0934,أبغي قطعة أرخص من هذي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0934.mp3,3,full_sentence,U05L03,pending_generation,pending_linguistic_review
+AR_0935,أبغي كوب قهوة لو سمحت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0935.mp3,2,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0936,أبغي مقاس أكبر ولون غير,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0936.mp3,2,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0937,أنا أفضل العصير على القهوة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0937.mp3,3,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0938,إذا الموضوع ضروري تواصل وياي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0938.mp3,3,full_sentence,U10L04,pending_generation,pending_linguistic_review
+AR_0939,إذا حدّثت البرنامج يمكن يشتغل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0939.mp3,3,full_sentence,U08L04,pending_generation,pending_linguistic_review
+AR_0940,إذا خلّصت قبل الدوام بكلمك,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0940.mp3,2,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_0941,إذا خلّصت مبكر بنتريا لك,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0941.mp3,2,full_sentence,U04L04,pending_generation,pending_linguistic_review
+AR_0942,إذا خلّصت مبكر بنروح السوق,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0942.mp3,1,full_sentence,U04L05,pending_generation,pending_linguistic_review
+AR_0943,إذا ركبت التاكسي متى أوصل؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0943.mp3,3,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_0944,إذا عندكم أرخص خلّني أشوفه,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0944.mp3,3,full_sentence,U05L05,pending_generation,pending_linguistic_review
+AR_0945,إذا عندنا وقت هالخطة أحسن,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0945.mp3,3,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_0946,إذا في خصم بشتري اثنين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0946.mp3,3,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0947,السيارة اختربت عشان جي تأخرت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0947.mp3,4,full_sentence,U09L02|U10L04,pending_generation,pending_linguistic_review
+AR_0948,الصراحة أحب القهوة بدون سكر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0948.mp3,1,full_sentence,U06L04,pending_generation,pending_linguistic_review
+AR_0949,الصراحة أفضل الشاي بدون سكر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0949.mp3,3,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0950,اللون الأبيض أحسن من الأحمر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0950.mp3,3,full_sentence,U05L04,pending_generation,pending_linguistic_review
+AR_0951,المكان هادي يعني مب زحمة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0951.mp3,3,full_sentence,U09L03,pending_generation,pending_linguistic_review
+AR_0952,المكتب عقب الإشارة على اليمين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0952.mp3,3,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0953,امش سيده وبعدين لف يمين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0953.mp3,1,full_sentence,U07L03,pending_generation,pending_linguistic_review
+AR_0954,باجر بنزور أهلي عقب الدوام,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0954.mp3,3,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_0955,تأخرت لأن البيانات ما وصلت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0955.mp3,1,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_0956,تأخرت لأن كان الدرب زحمة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0956.mp3,3,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_0957,حط سكر قليل لو سمحت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0957.mp3,3,full_sentence,U06L03,pending_generation,pending_linguistic_review
+AR_0958,خبرني إذا صار أي تأخير,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0958.mp3,3,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_0959,خذ الموضوع وقت بس خلص,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0959.mp3,3,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_0960,خلّنا نحل المشكلة قبل الاجتماع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0960.mp3,3,full_sentence,U10L04,pending_generation,pending_linguistic_review
+AR_0961,خلّنا نخلّص المهم والباقي عقب,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0961.mp3,3,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0962,سمح لي الحين فهمت عليك,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0962.mp3,3,full_sentence,U10L03,pending_generation,pending_linguistic_review
+AR_0963,سمح لي الكلام مب واضح,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0963.mp3,3,full_sentence,U09L04,pending_generation,pending_linguistic_review
+AR_0964,شو رايك نطلع عقب الدوام؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0964.mp3,1,full_sentence,U04L04,pending_generation,pending_linguistic_review
+AR_0965,عشان جي ما رديت عليك,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0965.mp3,3,full_sentence,U09L02,pending_generation,pending_linguistic_review
+AR_0966,على حسب إذا عندنا وقت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0966.mp3,3,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0967,عندنا خبز وجبن في البيت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0967.mp3,3,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0968,عندي فلوس بس السعر غالي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0968.mp3,3,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0969,عيد آخر شي مرة ثانية,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0969.mp3,3,full_sentence,U07L05,pending_generation,pending_linguistic_review
+AR_0970,كنت في المحل قبل شوي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0970.mp3,3,full_sentence,U04L02,pending_generation,pending_linguistic_review
+AR_0971,كنت في المحل وتوّي طالع,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0971.mp3,3,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_0972,لو سمحت خلّ الطلب خفيف,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0972.mp3,3,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0973,ليش ما قدرت تخلص التقرير؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0973.mp3,3,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0974,ما أبغي أكل وايد اليوم,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0974.mp3,3,full_sentence,U06L02,pending_generation,pending_linguistic_review
+AR_0975,ما رديت لأن كنت مشغول,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0975.mp3,3,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0976,ما سمعت الاتصال بسبب الزحمة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0976.mp3,3,full_sentence,U09L02,pending_generation,pending_linguistic_review
+AR_0977,ما عليه خلّنا نعدّل المكان,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0977.mp3,3,full_sentence,U10L03,pending_generation,pending_linguistic_review
+AR_0978,ما فهمت ممكن تعيد الطريق؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0978.mp3,3,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_0979,ما قدرت لأن السيارة اختربت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0979.mp3,3,full_sentence,U09L01,pending_generation,pending_linguistic_review
+AR_0980,متى نقدر نتفق على الموعد؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0980.mp3,3,full_sentence,U04L05,pending_generation,pending_linguistic_review
+AR_0981,ممكن تبدّل الطلب لو سمحت؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0981.mp3,1,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0982,هالقطعة غالية عندكم شي أرخص؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0982.mp3,1,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0983,يمكن آخذ قهوة عقب الأكل,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0983.mp3,3,full_sentence,U06L01,pending_generation,pending_linguistic_review
+AR_0984,ييب لي ماي لو سمحت,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0984.mp3,1,full_sentence,U02L08,pending_generation,pending_linguistic_review
+AR_0985,أبغي أروح المحل باجر عقب الدوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0985.mp3,2,full_sentence,U02L12,pending_generation,pending_linguistic_review
+AR_0986,أبغي أعرف السعر قبل لا أشتري,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0986.mp3,3,full_sentence,U05L01,pending_generation,pending_linguistic_review
+AR_0987,أنا فهمت إنك تقصد المكان الثاني,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0987.mp3,2,full_sentence,U10L03,pending_generation,pending_linguistic_review
+AR_0988,أنا ما أتفق وياك في هالشي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0988.mp3,3,full_sentence,U09L05,pending_generation,pending_linguistic_review
+AR_0989,إذا عندك وقت نطلع عقب شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0989.mp3,3,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_0990,إذا ما تقدر اليوم نطلع باجر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0990.mp3,3,full_sentence,U04L05,pending_generation,pending_linguistic_review
+AR_0991,إذا ما عندكم عصير بطلب شاي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0991.mp3,3,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_0992,إذا ما عندكم قهوة باخذ عصير,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0992.mp3,3,full_sentence,U06L06,pending_generation,pending_linguistic_review
+AR_0993,إذا ما قدرت اليوم بطرشها باجر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0993.mp3,3,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_0994,إذا وصلت البيانات بطرش لك التفاصيل,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0994.mp3,2,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_0995,الحين فهمت ليش ما رديت عليّ,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0995.mp3,3,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_0996,السعر مناسب بس اللون ما يناسبني,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0996.mp3,3,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_0997,المطار بعيد ولا قريب من هني؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0997.mp3,3,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_0998,امش سيده ولف يمين عند الإشارة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_0998.mp3,2,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_0999,بكلمك عقب الاجتماع إذا عندك وقت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_0999.mp3,3,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_1000,تقصد نخلص المهم أول والباقي عقب؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1000.mp3,3,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_1001,خلّني أشوف القطعة قبل لا أشتري,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1001.mp3,3,full_sentence,U05L06,pending_generation,pending_linguistic_review
+AR_1002,سمح لي وين أقرب محطة باص؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1002.mp3,1,full_sentence,U07L06,pending_generation,pending_linguistic_review
+AR_1003,سمعت السالفة اللي استوت في الدوام؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1003.mp3,2,full_sentence,U10L01,pending_generation,pending_linguistic_review
+AR_1004,عسى خير وبخبرك إذا استوى شي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1004.mp3,3,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_1005,كان الدرب زحمة عشان جي تأخرت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1005.mp3,3,full_sentence,U09L02,pending_generation,pending_linguistic_review
+AR_1006,لازم أنظّف الغرفة قبل لا أطلع,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1006.mp3,3,full_sentence,U03L04,pending_generation,pending_linguistic_review
+AR_1007,للحين لا لأن البيانات ما وصلت,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1007.mp3,2,full_sentence,U08L02,pending_generation,pending_linguistic_review
+AR_1008,ما أقدر أطلع اليوم لأني متأخر,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1008.mp3,3,full_sentence,U04L04,pending_generation,pending_linguistic_review
+AR_1009,ما أقدر أفتح هالملف ممكن تساعدني؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1009.mp3,1,full_sentence,U08L03,pending_generation,pending_linguistic_review
+AR_1010,ما سمعت التلفون لأن المكان زحمة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1010.mp3,3,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_1011,ما شي يديد، كل شي زين,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1011.mp3,2,full_sentence,U01L04|U01L06,pending_generation,pending_linguistic_review
+AR_1012,ما فهمت اشرح لي شوي شوي,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1012.mp3,3,full_sentence,U09L04,pending_generation,pending_linguistic_review
+AR_1013,ما قدرت أطلع لأن كنت تعبان,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1013.mp3,3,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_1014,ممكن تييب لي ماي لو سمحت؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1014.mp3,2,full_sentence,U02L08,pending_generation,pending_linguistic_review
+AR_1015,وين كنت دقيت عليك قبل شوي,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1015.mp3,2,full_sentence,U10L02,pending_generation,pending_linguistic_review
+AR_1016,أبغي قهوة بدون سكر ومع حليب زيادة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1016.mp3,2,full_sentence,U06L05,pending_generation,pending_linguistic_review
+AR_1017,إذا ما ردوا بتواصل وياهم مرة ثانية,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1017.mp3,3,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_1018,إذا ما فهمت اسألني قبل لا تبدأ,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1018.mp3,3,full_sentence,U10L03,pending_generation,pending_linguistic_review
+AR_1019,إذا ما قدرت أخلّص اليوم بخلّص باجر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1019.mp3,3,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_1020,عندي شغل وايد وما أقدر أخلّص الحين,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1020.mp3,3,full_sentence,U08L05,pending_generation,pending_linguistic_review
+AR_1021,عندي شغل، عشان جي ما أبغي قهوة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1021.mp3,2,full_sentence,U02L09,pending_generation,pending_linguistic_review
+AR_1022,كنت أبغي أروح أمس بس كنت مشغول,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1022.mp3,1,full_sentence,U04L06,pending_generation,pending_linguistic_review
+AR_1023,للحين ما خلّصت التقرير لأن عندي مشكلة,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1023.mp3,1,full_sentence,U08L06,pending_generation,pending_linguistic_review
+AR_1024,للحين ما في رد على موضوع الوظيفة,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1024.mp3,2,full_sentence,U10L05,pending_generation,pending_linguistic_review
+AR_1025,ما فهمت قصدك ممكن تشرح مرة ثانية؟,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1025.mp3,2,full_sentence,U09L06,pending_generation,pending_linguistic_review
+AR_1026,ما قدرت أجي لأن صار عندي ظرف,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1026.mp3,3,full_sentence,U10L04,pending_generation,pending_linguistic_review
+AR_1027,إذا خلّصت التقرير مبكر بتواصل وياك عقب الدوام,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1027.mp3,2,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_1028,على حسب متى أخلّص الشغل يمكن أطلع عقب,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1028.mp3,3,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_1029,للحين ما رديت لأن كنت مشغول في الاجتماع,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1029.mp3,3,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_1030,يعني إذا ما عندهم هالمقاس بتشوف واحد ثاني؟,phrase,female,6rbNSV8qvjiwBtVjUjCk,audio/speech/AR_1030.mp3,3,full_sentence,U10L06,pending_generation,pending_linguistic_review
+AR_1031,إذا ما قدرت أروح اليوم بخبرك ونرتّب الموعد باجر,phrase,male,kce2Lrd9QaRFFmnnvhlS,audio/speech/AR_1031.mp3,3,full_sentence,U10L06,pending_generation,pending_linguistic_review

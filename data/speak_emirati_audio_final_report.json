@@ -1,0 +1,35 @@
+{
+  "lessons": 60,
+  "units": 10,
+  "question_types": {
+    "choice": 761,
+    "tiles": 674,
+    "listen": 192
+  },
+  "vocabulary_entries": 429,
+  "speech_unique": 1031,
+  "speech_words": 529,
+  "speech_phrases": 502,
+  "voice_counts": {
+    "male": 516,
+    "female": 515
+  },
+  "category_occurrences": {
+    "vocabulary": 429,
+    "choice_answer": 30,
+    "choice_option": 120,
+    "full_sentence": 866,
+    "word_or_tile": 3813
+  },
+  "category_unique": {
+    "vocabulary": 294,
+    "choice_answer": 25,
+    "choice_option": 74,
+    "full_sentence": 466,
+    "word_or_tile": 495
+  },
+  "speech_uses": 5258,
+  "sfx": 11,
+  "total_files": 1042,
+  "duplicate_speech_uses": 4227
+}
