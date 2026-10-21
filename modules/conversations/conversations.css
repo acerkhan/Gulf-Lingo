@@ -1,0 +1,101 @@
+
+/* Gulf Lingo Conversations — premium Android-first module. Scoped to #conversationsArea. */
+#conversationsArea{min-width:0;max-width:100%;padding:14px 0 120px;color:#1b3431;overflow-x:clip}
+#conversationsArea *{box-sizing:border-box}
+#conversationsArea button{cursor:pointer;font-family:inherit;transition:transform .15s,background .15s,box-shadow .15s}
+#conversationsArea button:active{transform:scale(.97)}
+#conversationsArea button:focus-visible{outline:3px solid #48bb86;outline-offset:3px}
+#conversationsArea .conv-kicker{font-size:11px;letter-spacing:1.6px;font-weight:850;color:#23865f}
+#conversationsArea .conv-hero{position:relative;min-height:265px;padding:28px;border-radius:26px;overflow:hidden;display:flex;background:radial-gradient(circle at 85% 20%,#266b5c 0%,transparent 40%),linear-gradient(125deg,#102c31,#155744 85%);color:#fff}
+#conversationsArea .conv-hero-copy{position:relative;z-index:2;max-width:65%;min-width:0}
+#conversationsArea .conv-hero .conv-kicker{color:#a3edc5}
+#conversationsArea .conv-hero h1{font-size:clamp(30px,5vw,48px);line-height:1.08;margin:16px 0 10px;letter-spacing:-1.2px;color:#fff}
+#conversationsArea .conv-hero h1 em{font-style:normal;color:#b0efce}
+#conversationsArea .conv-hero p{font-size:13px;line-height:1.65;color:#d4eee1;max-width:390px}
+#conversationsArea .conv-stats{display:flex;gap:9px;flex-wrap:wrap;margin:16px 0}
+#conversationsArea .conv-stats span{border:1px solid #ffffff38;background:#ffffff18;border-radius:20px;padding:8px 10px;font-size:11px;font-weight:700}
+#conversationsArea .conv-hero-progress{height:5px;max-width:360px;border-radius:8px;background:#ffffff30;overflow:hidden}
+#conversationsArea .conv-hero-progress span{display:block;height:100%;background:#b6f4cc;border-radius:8px;transition:width .3s}
+#conversationsArea .conv-hero-art{position:absolute;right:5%;top:24px;width:235px;height:220px}
+#conversationsArea .conv-orbit{position:absolute;inset:18px 12px;border-radius:50%;background:#ffffff0c;border:2px solid #ffffff1b;box-shadow:0 0 0 20px #ffffff0b,0 0 0 42px #ffffff05}
+#conversationsArea .conv-person{position:absolute;display:grid;place-items:center;border-radius:28px;font-size:67px;background:#ffffff20;border:1px solid #ffffff38;box-shadow:0 20px 30px #0003}
+#conversationsArea .conv-person-one{left:8px;bottom:12px;width:110px;height:125px;transform:rotate(-9deg)}
+#conversationsArea .conv-person-two{right:10px;top:20px;width:110px;height:125px;transform:rotate(9deg)}
+#conversationsArea .conv-bubble{position:absolute;top:4px;left:0;background:#e3ffed;color:#195640;padding:8px 12px;border-radius:14px 14px 14px 3px;font-weight:800;font-size:15px;transform:rotate(-5deg)}
+#conversationsArea .conv-section-head{display:flex;align-items:end;justify-content:space-between;gap:12px;margin:30px 3px 14px}
+#conversationsArea .conv-section-head h2{color:#e7f4ed;font-size:clamp(20px,4vw,27px);margin:6px 0 0}
+#conversationsArea .conv-journey-count{color:#b3c9c0;font-size:12px;font-weight:800}
+#conversationsArea .conv-journey{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(210px,240px);overflow-x:auto;scroll-snap-type:x mandatory;gap:12px;padding:2px 2px 16px;scrollbar-width:thin}
+#conversationsArea .conv-journey-item{display:flex;align-items:center;gap:11px;text-align:left;min-width:0;min-height:112px;padding:12px;border:1px solid #dce8e1;border-radius:18px;background:#fff;scroll-snap-align:start}
+#conversationsArea .conv-journey-item.current{border-color:#2baf7a;box-shadow:0 0 0 2px #2baf7a55}
+#conversationsArea .conv-journey-art{display:grid;place-items:center;flex:0 0 62px;height:75px;border-radius:14px;background:linear-gradient(140deg,var(--conv-accent),#193f3b);font-size:37px}
+#conversationsArea .conv-journey-info{display:flex;flex-direction:column;gap:5px;min-width:0;flex:1}
+#conversationsArea .conv-journey-info small{font-size:9px;font-weight:900;color:#348765;letter-spacing:.6px}
+#conversationsArea .conv-journey-info strong{font-size:12px;line-height:1.35;overflow-wrap:anywhere}
+#conversationsArea .conv-journey-info>span{font-size:10px;color:#748b7e}
+#conversationsArea .conv-journey-arrow{font-size:16px;color:#378967}
+#conversationsArea .conv-study{background:#fff;border-radius:25px;padding:clamp(14px,3vw,28px);box-shadow:0 12px 35px #061e1b24;border:1px solid #e0eae4;min-width:0}
+#conversationsArea .conv-study-head{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:6px 0 20px}
+#conversationsArea .conv-study-head h2{font-size:clamp(22px,4vw,31px);line-height:1.15;margin:8px 0;color:#1c3731}
+#conversationsArea .conv-study-head p{color:#71867a;font-size:13px;line-height:1.55;margin:0}
+#conversationsArea .conv-study-art{flex:0 0 75px;height:75px;display:grid;place-items:center;font-size:45px;background:#e6f5eb;border-radius:22px}
+#conversationsArea .conv-player-card{display:flex;align-items:center;gap:15px;padding:17px;border-radius:19px;background:linear-gradient(125deg,#164e42,#103a38);color:#fff;min-width:0}
+#conversationsArea .conv-player-icon{display:grid;place-items:center;flex:0 0 48px;height:48px;border-radius:15px;background:#ffffff20;font-size:24px;color:#c0f2d6}
+#conversationsArea .conv-player-body{display:flex;flex-direction:column;gap:5px;min-width:0;flex:1}
+#conversationsArea .conv-player-body strong{font-size:15px}
+#conversationsArea .conv-player-body>span{font-size:11px;color:#bcdad0}
+#conversationsArea .conv-play-track{height:4px;margin-top:7px;border-radius:8px;background:#ffffff30;overflow:hidden}
+#conversationsArea .conv-play-track span{display:block;height:100%;background:#99e7b9;transition:width .2s}
+#conversationsArea .conv-play-all{display:grid;place-items:center;flex:0 0 52px;height:52px;border:0;border-radius:50%;background:#a9f0c5;color:#0b4c36;font-size:22px;box-shadow:0 5px 0 #4c9473}
+#conversationsArea .conv-tools{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:14px 0 22px}
+#conversationsArea .conv-tool{background:#eef7f1;color:#266347;border:1px solid #d8e9de;border-radius:11px;min-height:42px;padding:9px 13px;font-size:12px;font-weight:750}
+#conversationsArea .conv-speed{margin-left:auto;display:flex;align-items:center;gap:7px;font-size:12px;color:#526c60}
+#conversationsArea .conv-speed select{background:#f3f9f5;border:1px solid #d6e7dc;border-radius:10px;padding:10px;font-size:13px;color:#275a43}
+#conversationsArea .conv-dialogue-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:18px 0 12px}
+#conversationsArea .conv-dialogue-heading h3{font-size:20px;margin:0;color:#1c3a31}
+#conversationsArea .conv-dialogue-heading span{font-size:11px;color:#71897c}
+#conversationsArea .conv-lines{display:flex;flex-direction:column;gap:16px}
+#conversationsArea .conv-dialogue{display:flex;align-items:start;gap:11px;min-width:0;max-width:90%}
+#conversationsArea .conv-dialogue.from-right{align-self:flex-end;flex-direction:row-reverse}
+#conversationsArea .conv-dialogue-avatar{display:grid;place-items:center;flex:0 0 39px;height:39px;background:#e6f1e9;border-radius:50%;font-size:25px}
+#conversationsArea .conv-dialogue-content{min-width:0;flex:1}
+#conversationsArea .conv-speaker-name{font-size:11px;color:#5e806f;font-weight:800;display:block;margin:0 0 5px}
+#conversationsArea .from-right .conv-speaker-name{text-align:right}
+#conversationsArea .conv-speech{padding:15px 17px;border-radius:17px 17px 17px 4px;background:#f3f8f5;border:1px solid #e1eae4;min-width:0}
+#conversationsArea .from-right .conv-speech{border-radius:17px 17px 4px 17px;background:#e7f6ee;border-color:#d4ebdf}
+#conversationsArea .conv-dialogue.speaking .conv-speech{border-color:#25a76e;box-shadow:0 0 0 2px #36b87e35}
+#conversationsArea .conv-ar{font-size:clamp(23px,4vw,31px);line-height:1.85;font-weight:750;color:#193d31;overflow-wrap:anywhere;white-space:normal}
+#conversationsArea .conv-speech p{font-size:13px;line-height:1.5;color:#657b6e;margin:7px 0 12px}
+#conversationsArea .conv-listen{display:inline-flex;gap:6px;align-items:center;background:#fff;border:1px solid #d5e6da;color:#23704f;border-radius:10px;padding:9px 12px;font-weight:800;font-size:12px;min-height:40px}
+#conversationsArea .conv-footer{display:flex;gap:10px;justify-content:space-between;flex-wrap:wrap;margin-top:24px;border-top:1px solid #e5eee8;padding-top:20px}
+#conversationsArea .conv-mark,#conversationsArea .conv-next{padding:14px 17px;border-radius:12px;font-weight:850;font-size:13px;min-height:49px}
+#conversationsArea .conv-mark{background:#f3faf5;border:1px solid #d9e9dd;color:#266b4a}
+#conversationsArea .conv-next{background:#14865a;border:1px solid #14865a;color:white;box-shadow:0 4px 0 #0a5d3c}
+#conversationsArea .conv-next:disabled{opacity:.4;cursor:default}
+@media(max-width:600px){
+ #conversationsArea{padding-top:4px}
+ #conversationsArea .conv-hero{padding:20px;min-height:225px;border-radius:20px}
+ #conversationsArea .conv-hero-copy{max-width:78%}
+ #conversationsArea .conv-hero h1{font-size:29px;letter-spacing:-.7px}
+ #conversationsArea .conv-hero p{font-size:11px;max-width:220px}
+ #conversationsArea .conv-hero-art{right:-44px;top:46px;transform:scale(.65);transform-origin:top right}
+ #conversationsArea .conv-stats{gap:5px}
+ #conversationsArea .conv-stats span{font-size:9px;padding:6px}
+ #conversationsArea .conv-section-head{margin-top:24px}
+ #conversationsArea .conv-journey{grid-auto-columns:200px}
+ #conversationsArea .conv-study{border-radius:19px;padding:15px}
+ #conversationsArea .conv-study-art{flex-basis:56px;height:56px;font-size:34px}
+ #conversationsArea .conv-study-head h2{font-size:22px}
+ #conversationsArea .conv-player-card{padding:12px;gap:10px}
+ #conversationsArea .conv-player-icon{flex-basis:38px;height:38px;font-size:19px}
+ #conversationsArea .conv-play-all{flex-basis:46px;height:46px}
+ #conversationsArea .conv-dialogue{max-width:100%;gap:7px}
+ #conversationsArea .conv-dialogue-avatar{flex-basis:32px;height:32px;font-size:21px}
+ #conversationsArea .conv-speech{padding:11px 13px}
+ #conversationsArea .conv-ar{font-size:24px}
+ #conversationsArea .conv-tools{gap:7px}
+ #conversationsArea .conv-tool{padding:9px;font-size:11px}
+ #conversationsArea .conv-speed{margin-left:0}
+ #conversationsArea .conv-footer button{flex:1}
+}
+@media(prefers-reduced-motion:reduce){#conversationsArea button{transition:none}}
