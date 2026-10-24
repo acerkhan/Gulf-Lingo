@@ -99,3 +99,130 @@
  #conversationsArea .conv-footer button{flex:1}
 }
 @media(prefers-reduced-motion:reduce){#conversationsArea button{transition:none}}
+/* Softer dark Conversations theme */
+
+#conversationsArea {
+  color: #e3eee9;
+}
+
+#conversationsArea .conv-study,
+#conversationsArea .conv-journey-item {
+  background: #172a32;
+  border-color: #38524b;
+  color: #e7f2ec;
+}
+
+#conversationsArea .conv-study-head h2,
+#conversationsArea .conv-dialogue-heading h3,
+#conversationsArea .conv-journey-info strong {
+  color: #f1f8f4;
+}
+
+#conversationsArea .conv-study-head p,
+#conversationsArea .conv-dialogue-heading span,
+#conversationsArea .conv-journey-info > span {
+  color: #afc8bb;
+}
+
+#conversationsArea .conv-speech {
+  background: #20343c;
+  border-color: #3b5754;
+}
+
+#conversationsArea .from-right .conv-speech {
+  background: #1d4038;
+  border-color: #356e59;
+}
+
+#conversationsArea .conv-ar {
+  color: #f0f8f4;
+}
+
+#conversationsArea .conv-speech p {
+  color: #c0d6cd;
+}
+
+#conversationsArea .conv-speaker-name {
+  color: #a5dbc0;
+}
+
+#conversationsArea .conv-tool,
+#conversationsArea .conv-speed select,
+#conversationsArea .conv-listen {
+  background: #243d3b;
+  border-color: #43675a;
+  color: #e4f5eb;
+}
+
+#conversationsArea .conv-speed {
+  color: #bed5c9;
+}
+
+#conversationsArea .conv-study-art,
+#conversationsArea .conv-dialogue-avatar {
+  background: #29483e;
+}
+
+#conversationsArea .conv-mark {
+  background: #29473d;
+  border-color: #47715d;
+  color: #c6f0d6;
+}
+
+
+/* CONVERSATIONS PREMIUM V1 — scoped, compact, low-glare redesign */
+#conversationsArea{color:#e8f2ee;padding:10px 0 80px}
+#conversationsArea .conv-premium-head{display:flex;justify-content:space-between;align-items:end;gap:20px;padding:16px 3px 18px}
+#conversationsArea .conv-premium-head h1{color:#f3f8f5;font-size:clamp(26px,4vw,36px);font-weight:750;letter-spacing:-.9px;line-height:1.15;margin:7px 0 5px}
+#conversationsArea .conv-premium-head p{color:#b0c7bd;font-size:13px;margin:0}
+#conversationsArea .conv-kicker{color:#70d6a8;font-size:10px;letter-spacing:1.4px}
+#conversationsArea .conv-premium-progress{display:flex;flex-direction:column;align-items:end;white-space:nowrap;color:#b0c7bd;font-size:11px}
+#conversationsArea .conv-premium-progress strong{color:#f0f8f4;font-size:25px;line-height:1.1}
+#conversationsArea .conv-premium-progress small{font-size:14px;font-weight:500;color:#91aca0}
+#conversationsArea .conv-premium-meter{height:3px;background:#28443e;border-radius:6px;overflow:hidden;margin:0 2px 24px}
+#conversationsArea .conv-premium-meter span{display:block;height:100%;background:#35b985;transition:width .25s}
+#conversationsArea .conv-premium-nav-head{display:flex;justify-content:space-between;align-items:center;margin:0 2px 10px;color:#91aca0;font-size:11px}
+#conversationsArea .conv-journey{display:flex;gap:8px;overflow-x:auto;scroll-snap-type:x mandatory;padding:1px 1px 12px;scrollbar-width:thin}
+#conversationsArea .conv-journey-item{flex:0 0 178px;min-width:0;min-height:65px;display:flex;gap:10px;align-items:center;padding:10px 11px;border:1px solid #334b49;border-radius:11px;background:#192c34;color:#e9f3ef;box-shadow:none;text-align:left}
+#conversationsArea .conv-journey-item.current{background:#203e3a;border-color:#43bc8a;box-shadow:inset 0 0 0 1px #43bc8a33}
+#conversationsArea .conv-journey-number{font-size:13px;font-weight:800;color:#80d5ae;flex:0 0 22px}
+#conversationsArea .conv-journey-info{display:flex;flex-direction:column;gap:4px;min-width:0;flex:1}
+#conversationsArea .conv-journey-info strong{font-size:11px;line-height:1.3;color:#eef7f2;font-weight:700;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+#conversationsArea .conv-journey-info small{font-size:9px;letter-spacing:.5px;color:#a1b8ad}
+#conversationsArea .conv-journey-arrow{color:#75cda2;font-size:15px;flex:0 0 auto}
+#conversationsArea .conv-study{background:#172a32;border:1px solid #34504b;border-radius:16px;padding:clamp(14px,2.5vw,22px);box-shadow:0 12px 28px #06171a24}
+#conversationsArea .conv-study-head{padding:2px 0 16px}
+#conversationsArea .conv-study-head h2{font-size:clamp(19px,3vw,25px);color:#f0f7f3;margin:5px 0}
+#conversationsArea .conv-study-head p{color:#aec6bb;font-size:12px}
+#conversationsArea .conv-player-card{background:linear-gradient(120deg,#143b39,#1a4740);border:1px solid #35675b;border-radius:12px;padding:12px 14px;gap:10px}
+#conversationsArea .conv-player-body strong{font-size:13px}
+#conversationsArea .conv-player-body>span{font-size:10px}
+#conversationsArea .conv-play-all{flex-basis:42px;height:42px;font-size:17px;box-shadow:none;background:#54c994;color:#102f28}
+#conversationsArea .conv-tools{gap:7px;margin:12px 0 18px}
+#conversationsArea .conv-tool,#conversationsArea .conv-speed select{min-height:36px;padding:7px 10px;border-radius:8px;background:#223d3c;border:1px solid #3d6157;color:#d9f0e5;font-size:11px}
+#conversationsArea .conv-speed{font-size:11px;color:#b6d0c2}
+#conversationsArea .conv-dialogue-heading{margin:15px 0 13px}
+#conversationsArea .conv-dialogue-heading h3{font-size:16px;color:#e9f4ee}
+#conversationsArea .conv-dialogue-heading span{color:#9cb7a9}
+#conversationsArea .conv-lines{gap:14px}
+#conversationsArea .conv-dialogue{max-width:91%;gap:8px}
+#conversationsArea .conv-dialogue-avatar{flex:0 0 26px;height:26px;border-radius:8px;background:#29473f;color:#a9e6c7;font-size:10px;font-weight:800}
+#conversationsArea .conv-speaker-name{font-size:10px;color:#a5d9bd}
+#conversationsArea .conv-speech{padding:12px 14px;border-radius:12px 12px 12px 4px;background:#203640;border:1px solid #35514f}
+#conversationsArea .from-right .conv-speech{border-radius:12px 12px 4px 12px;background:#1b4039;border-color:#366a59}
+#conversationsArea .conv-ar{font-size:clamp(21px,3.5vw,27px);line-height:1.65;color:#f2f9f5}
+#conversationsArea .conv-speech p{color:#c1d8cd;font-size:12px;margin:6px 0 8px}
+#conversationsArea .conv-listen{min-height:34px;padding:6px 9px;background:#29483f;border:1px solid #436b5c;border-radius:7px;color:#c8f1db;font-size:11px}
+#conversationsArea .conv-footer{border-color:#36534b;margin-top:20px;padding-top:16px}
+#conversationsArea .conv-mark,#conversationsArea .conv-next{min-height:40px;padding:10px 13px;border-radius:9px;font-size:12px;box-shadow:none}
+#conversationsArea .conv-mark{background:#24453c;border:1px solid #436d59;color:#d3f3df}
+#conversationsArea .conv-next{background:#14865a;border:1px solid #14865a;color:#fff}
+@media(max-width:600px){
+ #conversationsArea .conv-premium-head{padding-top:9px}
+ #conversationsArea .conv-premium-head h1{font-size:26px}
+ #conversationsArea .conv-journey-item{flex-basis:155px;min-height:62px}
+ #conversationsArea .conv-study{padding:14px;border-radius:14px}
+ #conversationsArea .conv-dialogue{max-width:100%}
+ #conversationsArea .conv-speech{padding:10px 12px}
+ #conversationsArea .conv-ar{font-size:23px}
+}

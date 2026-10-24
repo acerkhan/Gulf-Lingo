@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L17_A001",
+      "speaker": "instructor",
+      "text": "Lesson 17. At the Supermarket. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 4.24,
+      "pause_end": 5.19
+    },
+    {
+      "id": "L17_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 5.19,
+      "end": 8.55,
+      "pause_end": 9.4
+    },
+    {
+      "id": "L17_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 9.4,
+      "end": 11.92,
+      "pause_end": 16.37
+    },
+    {
+      "id": "L17_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 16.37,
+      "end": 17.531,
+      "pause_end": 18.631
+    },
+    {
+      "id": "L17_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 18.631,
+      "end": 21.791,
+      "pause_end": 26.241
+    },
+    {
+      "id": "L17_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 26.241,
+      "end": 27.216,
+      "pause_end": 28.316
+    },
+    {
+      "id": "L17_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 28.316,
+      "end": 31.716,
+      "pause_end": 36.166
+    },
+    {
+      "id": "L17_A008",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 36.166,
+      "end": 37.234,
+      "pause_end": 38.334
+    },
+    {
+      "id": "L17_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 38.334,
+      "end": 41.974,
+      "pause_end": 46.424
+    },
+    {
+      "id": "L17_A010",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 46.424,
+      "end": 47.4,
+      "pause_end": 48.5
+    },
+    {
+      "id": "L17_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask how much the bill is.",
+      "start": 48.5,
+      "end": 51.86,
+      "pause_end": 56.31
+    },
+    {
+      "id": "L17_A012",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 56.31,
+      "end": 57.471,
+      "pause_end": 58.571
+    },
+    {
+      "id": "L17_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man when he starts work.",
+      "start": 58.571,
+      "end": 61.971,
+      "pause_end": 66.421
+    },
+    {
+      "id": "L17_A014",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 66.421,
+      "end": 67.535,
+      "pause_end": 68.635
+    },
+    {
+      "id": "L17_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few new expressions.",
+      "start": 68.635,
+      "end": 70.595,
+      "pause_end": 71.345
+    },
+    {
+      "id": "L17_A016",
+      "speaker": "instructor",
+      "text": "Listen. Where is the supermarket?",
+      "start": 71.345,
+      "end": 73.665,
+      "pause_end": 74.315
+    },
+    {
+      "id": "L17_A017",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 74.315,
+      "end": 75.894,
+      "pause_end": 77.144
+    },
+    {
+      "id": "L17_A018",
+      "speaker": "instructor",
+      "text": "Listen. Near the house.",
+      "start": 77.144,
+      "end": 78.624,
+      "pause_end": 79.274
+    },
+    {
+      "id": "L17_A019",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 79.274,
+      "end": 80.575,
+      "pause_end": 81.825
+    },
+    {
+      "id": "L17_A020",
+      "speaker": "instructor",
+      "text": "Listen. I want to buy some things.",
+      "start": 81.825,
+      "end": 84.385,
+      "pause_end": 85.035
+    },
+    {
+      "id": "L17_A021",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 85.035,
+      "end": 86.474,
+      "pause_end": 87.724
+    },
+    {
+      "id": "L17_A022",
+      "speaker": "instructor",
+      "text": "Listen. What are we missing?",
+      "start": 87.724,
+      "end": 89.684,
+      "pause_end": 90.334
+    },
+    {
+      "id": "L17_A023",
+      "speaker": "arabic_female",
+      "text": "شو ناقصنا؟",
+      "start": 90.334,
+      "end": 91.356,
+      "pause_end": 92.606
+    },
+    {
+      "id": "L17_A024",
+      "speaker": "instructor",
+      "text": "Listen. We need milk and bread.",
+      "start": 92.606,
+      "end": 95.166,
+      "pause_end": 95.816
+    },
+    {
+      "id": "L17_A025",
+      "speaker": "arabic",
+      "text": "ناقصنا حليب وخبز",
+      "start": 95.816,
+      "end": 97.395,
+      "pause_end": 98.645
+    },
+    {
+      "id": "L17_A026",
+      "speaker": "instructor",
+      "text": "Now speak before you hear the answer.",
+      "start": 98.645,
+      "end": 101.885,
+      "pause_end": 102.635
+    },
+    {
+      "id": "L17_A027",
+      "speaker": "instructor",
+      "text": "Listen. Where is the supermarket?",
+      "start": 102.635,
+      "end": 104.955,
+      "pause_end": 105.555
+    },
+    {
+      "id": "L17_A028",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 105.555,
+      "end": 107.134,
+      "pause_end": 108.384
+    },
+    {
+      "id": "L17_A029",
+      "speaker": "instructor",
+      "text": "Your turn. Where is the supermarket?",
+      "start": 108.384,
+      "end": 111.064,
+      "pause_end": 115.814
+    },
+    {
+      "id": "L17_A030",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 115.814,
+      "end": 117.393,
+      "pause_end": 118.493
+    },
+    {
+      "id": "L17_A031",
+      "speaker": "instructor",
+      "text": "Listen. Near the house.",
+      "start": 118.493,
+      "end": 119.973,
+      "pause_end": 120.573
+    },
+    {
+      "id": "L17_A032",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 120.573,
+      "end": 121.873,
+      "pause_end": 123.123
+    },
+    {
+      "id": "L17_A033",
+      "speaker": "instructor",
+      "text": "Your turn. Near the house.",
+      "start": 123.123,
+      "end": 125.163,
+      "pause_end": 129.913
+    },
+    {
+      "id": "L17_A034",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 129.913,
+      "end": 131.213,
+      "pause_end": 132.313
+    },
+    {
+      "id": "L17_A035",
+      "speaker": "instructor",
+      "text": "Listen. I want to buy some things.",
+      "start": 132.313,
+      "end": 134.873,
+      "pause_end": 135.473
+    },
+    {
+      "id": "L17_A036",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 135.473,
+      "end": 136.913,
+      "pause_end": 138.163
+    },
+    {
+      "id": "L17_A037",
+      "speaker": "instructor",
+      "text": "Your turn. I want to buy some things.",
+      "start": 138.163,
+      "end": 140.923,
+      "pause_end": 145.673
+    },
+    {
+      "id": "L17_A038",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 145.673,
+      "end": 147.113,
+      "pause_end": 148.213
+    },
+    {
+      "id": "L17_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where is the supermarket?",
+      "start": 148.213,
+      "end": 150.853,
+      "pause_end": 156.303
+    },
+    {
+      "id": "L17_A040",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 156.303,
+      "end": 157.882,
+      "pause_end": 158.982
+    },
+    {
+      "id": "L17_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 158.982,
+      "end": 161.862,
+      "pause_end": 166.612
+    },
+    {
+      "id": "L17_A042",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 166.612,
+      "end": 167.68,
+      "pause_end": 168.78
+    },
+    {
+      "id": "L17_A043",
+      "speaker": "instructor",
+      "text": "Listen. What are we missing?",
+      "start": 168.78,
+      "end": 170.74,
+      "pause_end": 171.34
+    },
+    {
+      "id": "L17_A044",
+      "speaker": "arabic_female",
+      "text": "شو ناقصنا؟",
+      "start": 171.34,
+      "end": 172.361,
+      "pause_end": 173.611
+    },
+    {
+      "id": "L17_A045",
+      "speaker": "instructor",
+      "text": "Your turn. What are we missing?",
+      "start": 173.611,
+      "end": 175.731,
+      "pause_end": 180.481
+    },
+    {
+      "id": "L17_A046",
+      "speaker": "arabic_female",
+      "text": "شو ناقصنا؟",
+      "start": 180.481,
+      "end": 181.503,
+      "pause_end": 182.603
+    },
+    {
+      "id": "L17_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: Near the house.",
+      "start": 182.603,
+      "end": 184.963,
+      "pause_end": 190.413
+    },
+    {
+      "id": "L17_A048",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 190.413,
+      "end": 191.713,
+      "pause_end": 192.813
+    },
+    {
+      "id": "L17_A049",
+      "speaker": "instructor",
+      "text": "Listen. We need milk and bread.",
+      "start": 192.813,
+      "end": 195.373,
+      "pause_end": 195.973
+    },
+    {
+      "id": "L17_A050",
+      "speaker": "arabic",
+      "text": "ناقصنا حليب وخبز",
+      "start": 195.973,
+      "end": 197.552,
+      "pause_end": 198.802
+    },
+    {
+      "id": "L17_A051",
+      "speaker": "instructor",
+      "text": "Your turn. We need milk and bread.",
+      "start": 198.802,
+      "end": 202.042,
+      "pause_end": 206.792
+    },
+    {
+      "id": "L17_A052",
+      "speaker": "arabic",
+      "text": "ناقصنا حليب وخبز",
+      "start": 206.792,
+      "end": 208.371,
+      "pause_end": 209.471
+    },
+    {
+      "id": "L17_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: I want to buy some things.",
+      "start": 209.471,
+      "end": 212.351,
+      "pause_end": 217.801
+    },
+    {
+      "id": "L17_A054",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 217.801,
+      "end": 219.241,
+      "pause_end": 220.341
+    },
+    {
+      "id": "L17_A055",
+      "speaker": "instructor",
+      "text": "Listen. Do you have eggs?",
+      "start": 220.341,
+      "end": 221.941,
+      "pause_end": 222.541
+    },
+    {
+      "id": "L17_A056",
+      "speaker": "arabic_female",
+      "text": "عندكم بيض؟",
+      "start": 222.541,
+      "end": 223.563,
+      "pause_end": 224.813
+    },
+    {
+      "id": "L17_A057",
+      "speaker": "instructor",
+      "text": "Your turn. Do you have eggs?",
+      "start": 224.813,
+      "end": 227.093,
+      "pause_end": 231.843
+    },
+    {
+      "id": "L17_A058",
+      "speaker": "arabic_female",
+      "text": "عندكم بيض؟",
+      "start": 231.843,
+      "end": 232.865,
+      "pause_end": 233.965
+    },
+    {
+      "id": "L17_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: What are we missing?",
+      "start": 233.965,
+      "end": 237.085,
+      "pause_end": 242.535
+    },
+    {
+      "id": "L17_A060",
+      "speaker": "arabic_female",
+      "text": "شو ناقصنا؟",
+      "start": 242.535,
+      "end": 243.556,
+      "pause_end": 244.656
+    },
+    {
+      "id": "L17_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 244.656,
+      "end": 247.376,
+      "pause_end": 252.126
+    },
+    {
+      "id": "L17_A062",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 252.126,
+      "end": 253.102,
+      "pause_end": 254.202
+    },
+    {
+      "id": "L17_A063",
+      "speaker": "instructor",
+      "text": "Listen. Yes, we do.",
+      "start": 254.202,
+      "end": 256.082,
+      "pause_end": 256.682
+    },
+    {
+      "id": "L17_A064",
+      "speaker": "arabic",
+      "text": "هيه، عندنا",
+      "start": 256.682,
+      "end": 257.935,
+      "pause_end": 259.185
+    },
+    {
+      "id": "L17_A065",
+      "speaker": "instructor",
+      "text": "Your turn. Yes, we do.",
+      "start": 259.185,
+      "end": 262.065,
+      "pause_end": 266.815
+    },
+    {
+      "id": "L17_A066",
+      "speaker": "arabic",
+      "text": "هيه، عندنا",
+      "start": 266.815,
+      "end": 268.069,
+      "pause_end": 269.169
+    },
+    {
+      "id": "L17_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: We need milk and bread.",
+      "start": 269.169,
+      "end": 271.969,
+      "pause_end": 277.419
+    },
+    {
+      "id": "L17_A068",
+      "speaker": "arabic",
+      "text": "ناقصنا حليب وخبز",
+      "start": 277.419,
+      "end": 278.998,
+      "pause_end": 280.098
+    },
+    {
+      "id": "L17_A069",
+      "speaker": "instructor",
+      "text": "Listen. How much is this?",
+      "start": 280.098,
+      "end": 281.858,
+      "pause_end": 282.458
+    },
+    {
+      "id": "L17_A070",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 282.458,
+      "end": 283.341,
+      "pause_end": 284.591
+    },
+    {
+      "id": "L17_A071",
+      "speaker": "instructor",
+      "text": "Your turn. How much is this?",
+      "start": 284.591,
+      "end": 286.631,
+      "pause_end": 291.381
+    },
+    {
+      "id": "L17_A072",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 291.381,
+      "end": 292.263,
+      "pause_end": 293.363
+    },
+    {
+      "id": "L17_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do you have eggs?",
+      "start": 293.363,
+      "end": 296.203,
+      "pause_end": 301.653
+    },
+    {
+      "id": "L17_A074",
+      "speaker": "arabic_female",
+      "text": "عندكم بيض؟",
+      "start": 301.653,
+      "end": 302.675,
+      "pause_end": 303.775
+    },
+    {
+      "id": "L17_A075",
+      "speaker": "instructor",
+      "text": "Listen. This is five dirhams.",
+      "start": 303.775,
+      "end": 305.655,
+      "pause_end": 306.255
+    },
+    {
+      "id": "L17_A076",
+      "speaker": "arabic",
+      "text": "هذا بخمسة دراهم",
+      "start": 306.255,
+      "end": 307.695,
+      "pause_end": 308.945
+    },
+    {
+      "id": "L17_A077",
+      "speaker": "instructor",
+      "text": "Your turn. This is five dirhams.",
+      "start": 308.945,
+      "end": 311.705,
+      "pause_end": 316.455
+    },
+    {
+      "id": "L17_A078",
+      "speaker": "arabic",
+      "text": "هذا بخمسة دراهم",
+      "start": 316.455,
+      "end": 317.894,
+      "pause_end": 318.994
+    },
+    {
+      "id": "L17_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: Yes, we do.",
+      "start": 318.994,
+      "end": 322.114,
+      "pause_end": 327.564
+    },
+    {
+      "id": "L17_A080",
+      "speaker": "arabic",
+      "text": "هيه، عندنا",
+      "start": 327.564,
+      "end": 328.818,
+      "pause_end": 329.918
+    },
+    {
+      "id": "L17_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask how much the bill is.",
+      "start": 329.918,
+      "end": 332.918,
+      "pause_end": 337.668
+    },
+    {
+      "id": "L17_A082",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 337.668,
+      "end": 338.829,
+      "pause_end": 339.929
+    },
+    {
+      "id": "L17_A083",
+      "speaker": "instructor",
+      "text": "Listen. It is very expensive.",
+      "start": 339.929,
+      "end": 342.409,
+      "pause_end": 343.009
+    },
+    {
+      "id": "L17_A084",
+      "speaker": "arabic_female",
+      "text": "وايد غالي",
+      "start": 343.009,
+      "end": 343.891,
+      "pause_end": 345.141
+    },
+    {
+      "id": "L17_A085",
+      "speaker": "instructor",
+      "text": "Your turn. It is very expensive.",
+      "start": 345.141,
+      "end": 348.141,
+      "pause_end": 352.891
+    },
+    {
+      "id": "L17_A086",
+      "speaker": "arabic_female",
+      "text": "وايد غالي",
+      "start": 352.891,
+      "end": 353.774,
+      "pause_end": 354.874
+    },
+    {
+      "id": "L17_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: How much is this?",
+      "start": 354.874,
+      "end": 357.514,
+      "pause_end": 362.964
+    },
+    {
+      "id": "L17_A088",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 362.964,
+      "end": 363.846,
+      "pause_end": 364.946
+    },
+    {
+      "id": "L17_A089",
+      "speaker": "instructor",
+      "text": "Listen. Do you have something cheaper?",
+      "start": 364.946,
+      "end": 366.826,
+      "pause_end": 367.426
+    },
+    {
+      "id": "L17_A090",
+      "speaker": "arabic",
+      "text": "عندكم شي أرخص؟",
+      "start": 367.426,
+      "end": 368.773,
+      "pause_end": 370.023
+    },
+    {
+      "id": "L17_A091",
+      "speaker": "instructor",
+      "text": "Your turn. Do you have something cheaper?",
+      "start": 370.023,
+      "end": 373.903,
+      "pause_end": 378.653
+    },
+    {
+      "id": "L17_A092",
+      "speaker": "arabic",
+      "text": "عندكم شي أرخص؟",
+      "start": 378.653,
+      "end": 380.0,
+      "pause_end": 381.1
+    },
+    {
+      "id": "L17_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: This is five dirhams.",
+      "start": 381.1,
+      "end": 384.42,
+      "pause_end": 389.87
+    },
+    {
+      "id": "L17_A094",
+      "speaker": "arabic",
+      "text": "هذا بخمسة دراهم",
+      "start": 389.87,
+      "end": 391.309,
+      "pause_end": 392.409
+    },
+    {
+      "id": "L17_A095",
+      "speaker": "instructor",
+      "text": "Listen. I want a bag too.",
+      "start": 392.409,
+      "end": 394.489,
+      "pause_end": 395.089
+    },
+    {
+      "id": "L17_A096",
+      "speaker": "arabic_female",
+      "text": "أبغي كيس بعد",
+      "start": 395.089,
+      "end": 396.39,
+      "pause_end": 397.64
+    },
+    {
+      "id": "L17_A097",
+      "speaker": "instructor",
+      "text": "Your turn. I want a bag too.",
+      "start": 397.64,
+      "end": 400.84,
+      "pause_end": 405.59
+    },
+    {
+      "id": "L17_A098",
+      "speaker": "arabic_female",
+      "text": "أبغي كيس بعد",
+      "start": 405.59,
+      "end": 406.89,
+      "pause_end": 407.99
+    },
+    {
+      "id": "L17_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: It is very expensive.",
+      "start": 407.99,
+      "end": 412.83,
+      "pause_end": 418.28
+    },
+    {
+      "id": "L17_A100",
+      "speaker": "arabic_female",
+      "text": "وايد غالي",
+      "start": 418.28,
+      "end": 419.162,
+      "pause_end": 420.262
+    },
+    {
+      "id": "L17_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man when he starts work.",
+      "start": 420.262,
+      "end": 423.262,
+      "pause_end": 428.012
+    },
+    {
+      "id": "L17_A102",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 428.012,
+      "end": 429.127,
+      "pause_end": 430.227
+    },
+    {
+      "id": "L17_A103",
+      "speaker": "instructor",
+      "text": "Listen. I will pay by card.",
+      "start": 430.227,
+      "end": 432.707,
+      "pause_end": 433.307
+    },
+    {
+      "id": "L17_A104",
+      "speaker": "arabic",
+      "text": "بدفع بالبطاقة",
+      "start": 433.307,
+      "end": 434.7,
+      "pause_end": 435.95
+    },
+    {
+      "id": "L17_A105",
+      "speaker": "instructor",
+      "text": "Your turn. I will pay by card.",
+      "start": 435.95,
+      "end": 439.19,
+      "pause_end": 443.94
+    },
+    {
+      "id": "L17_A106",
+      "speaker": "arabic",
+      "text": "بدفع بالبطاقة",
+      "start": 443.94,
+      "end": 445.333,
+      "pause_end": 446.433
+    },
+    {
+      "id": "L17_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do you have something cheaper?",
+      "start": 446.433,
+      "end": 449.393,
+      "pause_end": 454.843
+    },
+    {
+      "id": "L17_A108",
+      "speaker": "arabic",
+      "text": "عندكم شي أرخص؟",
+      "start": 454.843,
+      "end": 456.19,
+      "pause_end": 457.29
+    },
+    {
+      "id": "L17_A109",
+      "speaker": "instructor",
+      "text": "Listen. Here is the change.",
+      "start": 457.29,
+      "end": 459.13,
+      "pause_end": 459.73
+    },
+    {
+      "id": "L17_A110",
+      "speaker": "arabic_female",
+      "text": "هذا الباقي",
+      "start": 459.73,
+      "end": 460.845,
+      "pause_end": 462.095
+    },
+    {
+      "id": "L17_A111",
+      "speaker": "instructor",
+      "text": "Your turn. Here is the change.",
+      "start": 462.095,
+      "end": 464.415,
+      "pause_end": 469.165
+    },
+    {
+      "id": "L17_A112",
+      "speaker": "arabic_female",
+      "text": "هذا الباقي",
+      "start": 469.165,
+      "end": 470.279,
+      "pause_end": 471.379
+    },
+    {
+      "id": "L17_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: I want a bag too.",
+      "start": 471.379,
+      "end": 473.939,
+      "pause_end": 479.389
+    },
+    {
+      "id": "L17_A114",
+      "speaker": "arabic_female",
+      "text": "أبغي كيس بعد",
+      "start": 479.389,
+      "end": 480.69,
+      "pause_end": 481.79
+    },
+    {
+      "id": "L17_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Speak before the recording.",
+      "start": 481.79,
+      "end": 484.87,
+      "pause_end": 485.82
+    },
+    {
+      "id": "L17_A116",
+      "speaker": "instructor",
+      "text": "Say: Where is the supermarket?",
+      "start": 485.82,
+      "end": 488.22,
+      "pause_end": 493.27
+    },
+    {
+      "id": "L17_A117",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 493.27,
+      "end": 494.849,
+      "pause_end": 495.949
+    },
+    {
+      "id": "L17_A118",
+      "speaker": "instructor",
+      "text": "Say: Near the house.",
+      "start": 495.949,
+      "end": 497.789,
+      "pause_end": 502.839
+    },
+    {
+      "id": "L17_A119",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 502.839,
+      "end": 504.139,
+      "pause_end": 505.239
+    },
+    {
+      "id": "L17_A120",
+      "speaker": "instructor",
+      "text": "Say: I want to buy some things.",
+      "start": 505.239,
+      "end": 507.919,
+      "pause_end": 512.969
+    },
+    {
+      "id": "L17_A121",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 512.969,
+      "end": 514.408,
+      "pause_end": 515.508
+    },
+    {
+      "id": "L17_A122",
+      "speaker": "instructor",
+      "text": "Say: What are we missing?",
+      "start": 515.508,
+      "end": 517.468,
+      "pause_end": 522.518
+    },
+    {
+      "id": "L17_A123",
+      "speaker": "arabic_female",
+      "text": "شو ناقصنا؟",
+      "start": 522.518,
+      "end": 523.54,
+      "pause_end": 524.64
+    },
+    {
+      "id": "L17_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 524.64,
+      "end": 526.92,
+      "pause_end": 531.87
+    },
+    {
+      "id": "L17_A125",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 531.87,
+      "end": 533.031,
+      "pause_end": 534.131
+    },
+    {
+      "id": "L17_A126",
+      "speaker": "instructor",
+      "text": "Say: We need milk and bread.",
+      "start": 534.131,
+      "end": 537.211,
+      "pause_end": 542.261
+    },
+    {
+      "id": "L17_A127",
+      "speaker": "arabic",
+      "text": "ناقصنا حليب وخبز",
+      "start": 542.261,
+      "end": 543.84,
+      "pause_end": 544.94
+    },
+    {
+      "id": "L17_A128",
+      "speaker": "instructor",
+      "text": "Say: Do you have eggs?",
+      "start": 544.94,
+      "end": 546.78,
+      "pause_end": 551.83
+    },
+    {
+      "id": "L17_A129",
+      "speaker": "arabic_female",
+      "text": "عندكم بيض؟",
+      "start": 551.83,
+      "end": 552.852,
+      "pause_end": 553.952
+    },
+    {
+      "id": "L17_A130",
+      "speaker": "instructor",
+      "text": "Say: Yes, we do.",
+      "start": 553.952,
+      "end": 556.232,
+      "pause_end": 561.282
+    },
+    {
+      "id": "L17_A131",
+      "speaker": "arabic",
+      "text": "هيه، عندنا",
+      "start": 561.282,
+      "end": 562.536,
+      "pause_end": 563.636
+    },
+    {
+      "id": "L17_A132",
+      "speaker": "instructor",
+      "text": "Say: How much is this?",
+      "start": 563.636,
+      "end": 565.596,
+      "pause_end": 570.646
+    },
+    {
+      "id": "L17_A133",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 570.646,
+      "end": 571.528,
+      "pause_end": 572.628
+    },
+    {
+      "id": "L17_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Ask how much the bill is.",
+      "start": 572.628,
+      "end": 575.868,
+      "pause_end": 580.818
+    },
+    {
+      "id": "L17_A135",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 580.818,
+      "end": 581.979,
+      "pause_end": 583.079
+    },
+    {
+      "id": "L17_A136",
+      "speaker": "instructor",
+      "text": "Say: This is five dirhams.",
+      "start": 583.079,
+      "end": 585.679,
+      "pause_end": 590.729
+    },
+    {
+      "id": "L17_A137",
+      "speaker": "arabic",
+      "text": "هذا بخمسة دراهم",
+      "start": 590.729,
+      "end": 592.169,
+      "pause_end": 593.269
+    },
+    {
+      "id": "L17_A138",
+      "speaker": "instructor",
+      "text": "Say: It is very expensive.",
+      "start": 593.269,
+      "end": 595.469,
+      "pause_end": 600.519
+    },
+    {
+      "id": "L17_A139",
+      "speaker": "arabic_female",
+      "text": "وايد غالي",
+      "start": 600.519,
+      "end": 601.401,
+      "pause_end": 602.501
+    },
+    {
+      "id": "L17_A140",
+      "speaker": "instructor",
+      "text": "Say: Do you have something cheaper?",
+      "start": 602.501,
+      "end": 605.061,
+      "pause_end": 610.111
+    },
+    {
+      "id": "L17_A141",
+      "speaker": "arabic",
+      "text": "عندكم شي أرخص؟",
+      "start": 610.111,
+      "end": 611.458,
+      "pause_end": 612.558
+    },
+    {
+      "id": "L17_A142",
+      "speaker": "instructor",
+      "text": "Say: I want a bag too.",
+      "start": 612.558,
+      "end": 614.918,
+      "pause_end": 619.968
+    },
+    {
+      "id": "L17_A143",
+      "speaker": "arabic_female",
+      "text": "أبغي كيس بعد",
+      "start": 619.968,
+      "end": 621.268,
+      "pause_end": 622.368
+    },
+    {
+      "id": "L17_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Say you have an appointment.",
+      "start": 622.368,
+      "end": 624.768,
+      "pause_end": 629.718
+    },
+    {
+      "id": "L17_A145",
+      "speaker": "arabic_female",
+      "text": "عندي موعد",
+      "start": 629.718,
+      "end": 630.647,
+      "pause_end": 631.747
+    },
+    {
+      "id": "L17_A146",
+      "speaker": "instructor",
+      "text": "Say: I will pay by card.",
+      "start": 631.747,
+      "end": 634.147,
+      "pause_end": 639.197
+    },
+    {
+      "id": "L17_A147",
+      "speaker": "arabic",
+      "text": "بدفع بالبطاقة",
+      "start": 639.197,
+      "end": 640.59,
+      "pause_end": 641.69
+    },
+    {
+      "id": "L17_A148",
+      "speaker": "instructor",
+      "text": "Say: Here is the change.",
+      "start": 641.69,
+      "end": 643.81,
+      "pause_end": 648.86
+    },
+    {
+      "id": "L17_A149",
+      "speaker": "arabic_female",
+      "text": "هذا الباقي",
+      "start": 648.86,
+      "end": 649.975,
+      "pause_end": 651.075
+    },
+    {
+      "id": "L17_A150",
+      "speaker": "instructor",
+      "text": "Say: Where is the supermarket?",
+      "start": 651.075,
+      "end": 653.475,
+      "pause_end": 658.525
+    },
+    {
+      "id": "L17_A151",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 658.525,
+      "end": 660.104,
+      "pause_end": 661.204
+    },
+    {
+      "id": "L17_A152",
+      "speaker": "instructor",
+      "text": "Say: I want to buy some things.",
+      "start": 661.204,
+      "end": 663.884,
+      "pause_end": 668.934
+    },
+    {
+      "id": "L17_A153",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 668.934,
+      "end": 670.374,
+      "pause_end": 671.474
+    },
+    {
+      "id": "L17_A154",
+      "speaker": "instructor",
+      "text": "Say: We need milk and bread.",
+      "start": 671.474,
+      "end": 674.554,
+      "pause_end": 679.604
+    },
+    {
+      "id": "L17_A155",
+      "speaker": "arabic",
+      "text": "ناقصنا حليب وخبز",
+      "start": 679.604,
+      "end": 681.183,
+      "pause_end": 682.283
+    },
+    {
+      "id": "L17_A156",
+      "speaker": "instructor",
+      "text": "Say: Yes, we do.",
+      "start": 682.283,
+      "end": 684.562,
+      "pause_end": 689.612
+    },
+    {
+      "id": "L17_A157",
+      "speaker": "arabic",
+      "text": "هيه، عندنا",
+      "start": 689.612,
+      "end": 690.866,
+      "pause_end": 691.966
+    },
+    {
+      "id": "L17_A158",
+      "speaker": "instructor",
+      "text": "Say: This is five dirhams.",
+      "start": 691.966,
+      "end": 694.566,
+      "pause_end": 699.616
+    },
+    {
+      "id": "L17_A159",
+      "speaker": "arabic",
+      "text": "هذا بخمسة دراهم",
+      "start": 699.616,
+      "end": 701.056,
+      "pause_end": 702.156
+    },
+    {
+      "id": "L17_A160",
+      "speaker": "instructor",
+      "text": "Say: Do you have something cheaper?",
+      "start": 702.156,
+      "end": 704.716,
+      "pause_end": 709.766
+    },
+    {
+      "id": "L17_A161",
+      "speaker": "arabic",
+      "text": "عندكم شي أرخص؟",
+      "start": 709.766,
+      "end": 711.113,
+      "pause_end": 712.213
+    },
+    {
+      "id": "L17_A162",
+      "speaker": "instructor",
+      "text": "Say: I will pay by card.",
+      "start": 712.213,
+      "end": 714.613,
+      "pause_end": 719.663
+    },
+    {
+      "id": "L17_A163",
+      "speaker": "arabic",
+      "text": "بدفع بالبطاقة",
+      "start": 719.663,
+      "end": 721.056,
+      "pause_end": 722.156
+    },
+    {
+      "id": "L17_A164",
+      "speaker": "instructor",
+      "text": "Say: Near the house.",
+      "start": 722.156,
+      "end": 723.996,
+      "pause_end": 729.046
+    },
+    {
+      "id": "L17_A165",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 729.046,
+      "end": 730.346,
+      "pause_end": 731.446
+    },
+    {
+      "id": "L17_A166",
+      "speaker": "instructor",
+      "text": "Say: What are we missing?",
+      "start": 731.446,
+      "end": 733.406,
+      "pause_end": 738.456
+    },
+    {
+      "id": "L17_A167",
+      "speaker": "arabic_female",
+      "text": "شو ناقصنا؟",
+      "start": 738.456,
+      "end": 739.478,
+      "pause_end": 740.578
+    },
+    {
+      "id": "L17_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 740.578,
+      "end": 743.538,
+      "pause_end": 748.488
+    },
+    {
+      "id": "L17_A169",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 748.488,
+      "end": 749.463,
+      "pause_end": 750.563
+    },
+    {
+      "id": "L17_A170",
+      "speaker": "instructor",
+      "text": "Say: Do you have eggs?",
+      "start": 750.563,
+      "end": 752.403,
+      "pause_end": 757.453
+    },
+    {
+      "id": "L17_A171",
+      "speaker": "arabic_female",
+      "text": "عندكم بيض؟",
+      "start": 757.453,
+      "end": 758.475,
+      "pause_end": 759.575
+    },
+    {
+      "id": "L17_A172",
+      "speaker": "instructor",
+      "text": "Say: How much is this?",
+      "start": 759.575,
+      "end": 761.535,
+      "pause_end": 766.585
+    },
+    {
+      "id": "L17_A173",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 766.585,
+      "end": 767.467,
+      "pause_end": 768.567
+    },
+    {
+      "id": "L17_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man when he starts work.",
+      "start": 768.567,
+      "end": 771.727,
+      "pause_end": 776.677
+    },
+    {
+      "id": "L17_A175",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 776.677,
+      "end": 777.792,
+      "pause_end": 778.892
+    },
+    {
+      "id": "L17_A176",
+      "speaker": "instructor",
+      "text": "Say: It is very expensive.",
+      "start": 778.892,
+      "end": 781.092,
+      "pause_end": 786.142
+    },
+    {
+      "id": "L17_A177",
+      "speaker": "arabic_female",
+      "text": "وايد غالي",
+      "start": 786.142,
+      "end": 787.024,
+      "pause_end": 788.124
+    },
+    {
+      "id": "L17_A178",
+      "speaker": "instructor",
+      "text": "Say: I want a bag too.",
+      "start": 788.124,
+      "end": 790.484,
+      "pause_end": 795.534
+    },
+    {
+      "id": "L17_A179",
+      "speaker": "arabic_female",
+      "text": "أبغي كيس بعد",
+      "start": 795.534,
+      "end": 796.835,
+      "pause_end": 797.935
+    },
+    {
+      "id": "L17_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Say you will send a message.",
+      "start": 797.935,
+      "end": 801.095,
+      "pause_end": 806.045
+    },
+    {
+      "id": "L17_A181",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 806.045,
+      "end": 807.391,
+      "pause_end": 808.491
+    },
+    {
+      "id": "L17_A182",
+      "speaker": "instructor",
+      "text": "Say: Here is the change.",
+      "start": 808.491,
+      "end": 810.611,
+      "pause_end": 815.661
+    },
+    {
+      "id": "L17_A183",
+      "speaker": "arabic_female",
+      "text": "هذا الباقي",
+      "start": 815.661,
+      "end": 816.776,
+      "pause_end": 817.876
+    },
+    {
+      "id": "L17_A184",
+      "speaker": "instructor",
+      "text": "How do you say: Here is the change.",
+      "start": 817.876,
+      "end": 820.116,
+      "pause_end": 825.566
+    },
+    {
+      "id": "L17_A185",
+      "speaker": "arabic_female",
+      "text": "هذا الباقي",
+      "start": 825.566,
+      "end": 826.681,
+      "pause_end": 827.781
+    },
+    {
+      "id": "L17_A186",
+      "speaker": "instructor",
+      "text": "How do you say: I will pay by card.",
+      "start": 827.781,
+      "end": 830.181,
+      "pause_end": 835.631
+    },
+    {
+      "id": "L17_A187",
+      "speaker": "arabic",
+      "text": "بدفع بالبطاقة",
+      "start": 835.631,
+      "end": 837.024,
+      "pause_end": 838.124
+    },
+    {
+      "id": "L17_A188",
+      "speaker": "instructor",
+      "text": "How do you say: I want a bag too.",
+      "start": 838.124,
+      "end": 840.524,
+      "pause_end": 845.974
+    },
+    {
+      "id": "L17_A189",
+      "speaker": "arabic_female",
+      "text": "أبغي كيس بعد",
+      "start": 845.974,
+      "end": 847.274,
+      "pause_end": 848.374
+    },
+    {
+      "id": "L17_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 848.374,
+      "end": 850.654,
+      "pause_end": 855.604
+    },
+    {
+      "id": "L17_A191",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 855.604,
+      "end": 856.765,
+      "pause_end": 857.865
+    },
+    {
+      "id": "L17_A192",
+      "speaker": "instructor",
+      "text": "How do you say: Do you have something cheaper?",
+      "start": 857.865,
+      "end": 860.545,
+      "pause_end": 865.995
+    },
+    {
+      "id": "L17_A193",
+      "speaker": "arabic",
+      "text": "عندكم شي أرخص؟",
+      "start": 865.995,
+      "end": 867.342,
+      "pause_end": 868.442
+    },
+    {
+      "id": "L17_A194",
+      "speaker": "instructor",
+      "text": "How do you say: It is very expensive.",
+      "start": 868.442,
+      "end": 870.922,
+      "pause_end": 876.372
+    },
+    {
+      "id": "L17_A195",
+      "speaker": "arabic_female",
+      "text": "وايد غالي",
+      "start": 876.372,
+      "end": 877.254,
+      "pause_end": 878.354
+    },
+    {
+      "id": "L17_A196",
+      "speaker": "instructor",
+      "text": "How do you say: This is five dirhams.",
+      "start": 878.354,
+      "end": 882.594,
+      "pause_end": 888.044
+    },
+    {
+      "id": "L17_A197",
+      "speaker": "arabic",
+      "text": "هذا بخمسة دراهم",
+      "start": 888.044,
+      "end": 889.484,
+      "pause_end": 890.584
+    },
+    {
+      "id": "L17_A198",
+      "speaker": "instructor",
+      "text": "How do you say: How much is this?",
+      "start": 890.584,
+      "end": 893.144,
+      "pause_end": 898.594
+    },
+    {
+      "id": "L17_A199",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 898.594,
+      "end": 899.476,
+      "pause_end": 900.576
+    },
+    {
+      "id": "L17_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow morning.",
+      "start": 900.576,
+      "end": 902.656,
+      "pause_end": 907.606
+    },
+    {
+      "id": "L17_A201",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 907.606,
+      "end": 908.721,
+      "pause_end": 909.821
+    },
+    {
+      "id": "L17_A202",
+      "speaker": "instructor",
+      "text": "How do you say: Yes, we do.",
+      "start": 909.821,
+      "end": 912.061,
+      "pause_end": 917.511
+    },
+    {
+      "id": "L17_A203",
+      "speaker": "arabic",
+      "text": "هيه، عندنا",
+      "start": 917.511,
+      "end": 918.765,
+      "pause_end": 919.865
+    },
+    {
+      "id": "L17_A204",
+      "speaker": "instructor",
+      "text": "How do you say: Do you have eggs?",
+      "start": 919.865,
+      "end": 922.105,
+      "pause_end": 927.555
+    },
+    {
+      "id": "L17_A205",
+      "speaker": "arabic_female",
+      "text": "عندكم بيض؟",
+      "start": 927.555,
+      "end": 928.577,
+      "pause_end": 929.677
+    },
+    {
+      "id": "L17_A206",
+      "speaker": "instructor",
+      "text": "How do you say: We need milk and bread.",
+      "start": 929.677,
+      "end": 932.317,
+      "pause_end": 937.767
+    },
+    {
+      "id": "L17_A207",
+      "speaker": "arabic",
+      "text": "ناقصنا حليب وخبز",
+      "start": 937.767,
+      "end": 939.346,
+      "pause_end": 940.446
+    },
+    {
+      "id": "L17_A208",
+      "speaker": "instructor",
+      "text": "How do you say: What are we missing?",
+      "start": 940.446,
+      "end": 942.686,
+      "pause_end": 948.136
+    },
+    {
+      "id": "L17_A209",
+      "speaker": "arabic_female",
+      "text": "شو ناقصنا؟",
+      "start": 948.136,
+      "end": 949.157,
+      "pause_end": 950.257
+    },
+    {
+      "id": "L17_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 950.257,
+      "end": 953.217,
+      "pause_end": 958.167
+    },
+    {
+      "id": "L17_A211",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 958.167,
+      "end": 959.235,
+      "pause_end": 960.335
+    },
+    {
+      "id": "L17_A212",
+      "speaker": "instructor",
+      "text": "How do you say: I want to buy some things.",
+      "start": 960.335,
+      "end": 963.295,
+      "pause_end": 968.745
+    },
+    {
+      "id": "L17_A213",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 968.745,
+      "end": 970.185,
+      "pause_end": 971.285
+    },
+    {
+      "id": "L17_A214",
+      "speaker": "instructor",
+      "text": "How do you say: Near the house.",
+      "start": 971.285,
+      "end": 974.485,
+      "pause_end": 979.935
+    },
+    {
+      "id": "L17_A215",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 979.935,
+      "end": 981.235,
+      "pause_end": 982.335
+    },
+    {
+      "id": "L17_A216",
+      "speaker": "instructor",
+      "text": "How do you say: Where is the supermarket?",
+      "start": 982.335,
+      "end": 985.255,
+      "pause_end": 990.705
+    },
+    {
+      "id": "L17_A217",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 990.705,
+      "end": 992.284,
+      "pause_end": 993.384
+    },
+    {
+      "id": "L17_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer naturally.",
+      "start": 993.384,
+      "end": 996.064,
+      "pause_end": 996.914
+    },
+    {
+      "id": "L17_A219",
+      "speaker": "instructor",
+      "text": "Say: Here is the change.",
+      "start": 996.914,
+      "end": 999.034,
+      "pause_end": 1004.684
+    },
+    {
+      "id": "L17_A220",
+      "speaker": "arabic_female",
+      "text": "هذا الباقي",
+      "start": 1004.684,
+      "end": 1005.799,
+      "pause_end": 1006.899
+    },
+    {
+      "id": "L17_A221",
+      "speaker": "instructor",
+      "text": "Say: I want to buy some things.",
+      "start": 1006.899,
+      "end": 1009.579,
+      "pause_end": 1015.229
+    },
+    {
+      "id": "L17_A222",
+      "speaker": "arabic",
+      "text": "أبغي أشتري أغراض",
+      "start": 1015.229,
+      "end": 1016.669,
+      "pause_end": 1017.769
+    },
+    {
+      "id": "L17_A223",
+      "speaker": "instructor",
+      "text": "Say: Where is the supermarket?",
+      "start": 1017.769,
+      "end": 1020.169,
+      "pause_end": 1025.819
+    },
+    {
+      "id": "L17_A224",
+      "speaker": "arabic",
+      "text": "وين السوبرماركت؟",
+      "start": 1025.819,
+      "end": 1027.398,
+      "pause_end": 1028.498
+    },
+    {
+      "id": "L17_A225",
+      "speaker": "instructor",
+      "text": "Say: How much is this?",
+      "start": 1028.498,
+      "end": 1030.458,
+      "pause_end": 1036.108
+    },
+    {
+      "id": "L17_A226",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 1036.108,
+      "end": 1036.99,
+      "pause_end": 1038.09
+    },
+    {
+      "id": "L17_A227",
+      "speaker": "instructor",
+      "text": "Say: Do you have eggs?",
+      "start": 1038.09,
+      "end": 1039.93,
+      "pause_end": 1045.58
+    },
+    {
+      "id": "L17_A228",
+      "speaker": "arabic_female",
+      "text": "عندكم بيض؟",
+      "start": 1045.58,
+      "end": 1046.602,
+      "pause_end": 1047.702
+    },
+    {
+      "id": "L17_A229",
+      "speaker": "instructor",
+      "text": "Say: I want a bag too.",
+      "start": 1047.702,
+      "end": 1050.062,
+      "pause_end": 1055.712
+    },
+    {
+      "id": "L17_A230",
+      "speaker": "arabic_female",
+      "text": "أبغي كيس بعد",
+      "start": 1055.712,
+      "end": 1057.012,
+      "pause_end": 1058.112
+    },
+    {
+      "id": "L17_A231",
+      "speaker": "instructor",
+      "text": "Say: Near the house.",
+      "start": 1058.112,
+      "end": 1059.952,
+      "pause_end": 1065.602
+    },
+    {
+      "id": "L17_A232",
+      "speaker": "arabic_female",
+      "text": "قريب من البيت",
+      "start": 1065.602,
+      "end": 1066.902,
+      "pause_end": 1068.002
+    },
+    {
+      "id": "L17_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1068.002,
+      "end": 1072.082,
+      "pause_end": 1073.032
+    }
+  ]
+}

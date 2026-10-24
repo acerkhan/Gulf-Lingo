@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L16_A001",
+      "speaker": "instructor",
+      "text": "Lesson 16. Health and Feeling Unwell. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 5.8,
+      "pause_end": 6.75
+    },
+    {
+      "id": "L16_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 6.75,
+      "end": 10.11,
+      "pause_end": 10.96
+    },
+    {
+      "id": "L16_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 10.96,
+      "end": 13.48,
+      "pause_end": 17.93
+    },
+    {
+      "id": "L16_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 17.93,
+      "end": 19.091,
+      "pause_end": 20.191
+    },
+    {
+      "id": "L16_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 20.191,
+      "end": 23.351,
+      "pause_end": 27.801
+    },
+    {
+      "id": "L16_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 27.801,
+      "end": 28.776,
+      "pause_end": 29.876
+    },
+    {
+      "id": "L16_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 29.876,
+      "end": 33.276,
+      "pause_end": 37.726
+    },
+    {
+      "id": "L16_A008",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 37.726,
+      "end": 38.794,
+      "pause_end": 39.894
+    },
+    {
+      "id": "L16_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 39.894,
+      "end": 43.534,
+      "pause_end": 47.984
+    },
+    {
+      "id": "L16_A010",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 47.984,
+      "end": 48.96,
+      "pause_end": 50.06
+    },
+    {
+      "id": "L16_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask how much the bill is.",
+      "start": 50.06,
+      "end": 53.42,
+      "pause_end": 57.87
+    },
+    {
+      "id": "L16_A012",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 57.87,
+      "end": 59.031,
+      "pause_end": 60.131
+    },
+    {
+      "id": "L16_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man when he starts work.",
+      "start": 60.131,
+      "end": 63.531,
+      "pause_end": 67.981
+    },
+    {
+      "id": "L16_A014",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 67.981,
+      "end": 69.095,
+      "pause_end": 70.195
+    },
+    {
+      "id": "L16_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few new expressions.",
+      "start": 70.195,
+      "end": 72.155,
+      "pause_end": 72.905
+    },
+    {
+      "id": "L16_A016",
+      "speaker": "instructor",
+      "text": "Listen. How do you feel today? Ask a man.",
+      "start": 72.905,
+      "end": 76.065,
+      "pause_end": 76.715
+    },
+    {
+      "id": "L16_A017",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 76.715,
+      "end": 78.016,
+      "pause_end": 79.266
+    },
+    {
+      "id": "L16_A018",
+      "speaker": "instructor",
+      "text": "Listen. I do not feel well.",
+      "start": 79.266,
+      "end": 81.626,
+      "pause_end": 82.276
+    },
+    {
+      "id": "L16_A019",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 82.276,
+      "end": 83.715,
+      "pause_end": 84.965
+    },
+    {
+      "id": "L16_A020",
+      "speaker": "instructor",
+      "text": "Listen. What is wrong? Ask a man.",
+      "start": 84.965,
+      "end": 88.045,
+      "pause_end": 88.695
+    },
+    {
+      "id": "L16_A021",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 88.695,
+      "end": 89.578,
+      "pause_end": 90.828
+    },
+    {
+      "id": "L16_A022",
+      "speaker": "instructor",
+      "text": "Listen. My head hurts.",
+      "start": 90.828,
+      "end": 92.868,
+      "pause_end": 93.518
+    },
+    {
+      "id": "L16_A023",
+      "speaker": "arabic",
+      "text": "راسي يعورني",
+      "start": 93.518,
+      "end": 94.725,
+      "pause_end": 95.975
+    },
+    {
+      "id": "L16_A024",
+      "speaker": "instructor",
+      "text": "Listen. My stomach hurts.",
+      "start": 95.975,
+      "end": 97.895,
+      "pause_end": 98.545
+    },
+    {
+      "id": "L16_A025",
+      "speaker": "arabic_female",
+      "text": "بطني يعورني",
+      "start": 98.545,
+      "end": 99.753,
+      "pause_end": 101.003
+    },
+    {
+      "id": "L16_A026",
+      "speaker": "instructor",
+      "text": "Now speak before you hear the answer.",
+      "start": 101.003,
+      "end": 104.243,
+      "pause_end": 104.993
+    },
+    {
+      "id": "L16_A027",
+      "speaker": "instructor",
+      "text": "Listen. How do you feel today? Ask a man.",
+      "start": 104.993,
+      "end": 108.153,
+      "pause_end": 108.753
+    },
+    {
+      "id": "L16_A028",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 108.753,
+      "end": 110.053,
+      "pause_end": 111.303
+    },
+    {
+      "id": "L16_A029",
+      "speaker": "instructor",
+      "text": "Your turn. How do you feel today? Ask a man.",
+      "start": 111.303,
+      "end": 114.423,
+      "pause_end": 119.173
+    },
+    {
+      "id": "L16_A030",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 119.173,
+      "end": 120.473,
+      "pause_end": 121.573
+    },
+    {
+      "id": "L16_A031",
+      "speaker": "instructor",
+      "text": "Listen. I do not feel well.",
+      "start": 121.573,
+      "end": 123.933,
+      "pause_end": 124.533
+    },
+    {
+      "id": "L16_A032",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 124.533,
+      "end": 125.973,
+      "pause_end": 127.223
+    },
+    {
+      "id": "L16_A033",
+      "speaker": "instructor",
+      "text": "Your turn. I do not feel well.",
+      "start": 127.223,
+      "end": 130.103,
+      "pause_end": 134.853
+    },
+    {
+      "id": "L16_A034",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 134.853,
+      "end": 136.292,
+      "pause_end": 137.392
+    },
+    {
+      "id": "L16_A035",
+      "speaker": "instructor",
+      "text": "Listen. What is wrong? Ask a man.",
+      "start": 137.392,
+      "end": 140.472,
+      "pause_end": 141.072
+    },
+    {
+      "id": "L16_A036",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 141.072,
+      "end": 141.955,
+      "pause_end": 143.205
+    },
+    {
+      "id": "L16_A037",
+      "speaker": "instructor",
+      "text": "Your turn. What is wrong? Ask a man.",
+      "start": 143.205,
+      "end": 146.845,
+      "pause_end": 151.595
+    },
+    {
+      "id": "L16_A038",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 151.595,
+      "end": 152.477,
+      "pause_end": 153.577
+    },
+    {
+      "id": "L16_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: How do you feel today? Ask a man.",
+      "start": 153.577,
+      "end": 157.257,
+      "pause_end": 162.707
+    },
+    {
+      "id": "L16_A040",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 162.707,
+      "end": 164.007,
+      "pause_end": 165.107
+    },
+    {
+      "id": "L16_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 165.107,
+      "end": 167.987,
+      "pause_end": 172.737
+    },
+    {
+      "id": "L16_A042",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 172.737,
+      "end": 173.805,
+      "pause_end": 174.905
+    },
+    {
+      "id": "L16_A043",
+      "speaker": "instructor",
+      "text": "Listen. My head hurts.",
+      "start": 174.905,
+      "end": 176.945,
+      "pause_end": 177.545
+    },
+    {
+      "id": "L16_A044",
+      "speaker": "arabic",
+      "text": "راسي يعورني",
+      "start": 177.545,
+      "end": 178.753,
+      "pause_end": 180.003
+    },
+    {
+      "id": "L16_A045",
+      "speaker": "instructor",
+      "text": "Your turn. My head hurts.",
+      "start": 180.003,
+      "end": 182.243,
+      "pause_end": 186.993
+    },
+    {
+      "id": "L16_A046",
+      "speaker": "arabic",
+      "text": "راسي يعورني",
+      "start": 186.993,
+      "end": 188.2,
+      "pause_end": 189.3
+    },
+    {
+      "id": "L16_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: I do not feel well.",
+      "start": 189.3,
+      "end": 192.14,
+      "pause_end": 197.59
+    },
+    {
+      "id": "L16_A048",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 197.59,
+      "end": 199.03,
+      "pause_end": 200.13
+    },
+    {
+      "id": "L16_A049",
+      "speaker": "instructor",
+      "text": "Listen. My stomach hurts.",
+      "start": 200.13,
+      "end": 202.05,
+      "pause_end": 202.65
+    },
+    {
+      "id": "L16_A050",
+      "speaker": "arabic_female",
+      "text": "بطني يعورني",
+      "start": 202.65,
+      "end": 203.858,
+      "pause_end": 205.108
+    },
+    {
+      "id": "L16_A051",
+      "speaker": "instructor",
+      "text": "Your turn. My stomach hurts.",
+      "start": 205.108,
+      "end": 207.388,
+      "pause_end": 212.138
+    },
+    {
+      "id": "L16_A052",
+      "speaker": "arabic_female",
+      "text": "بطني يعورني",
+      "start": 212.138,
+      "end": 213.345,
+      "pause_end": 214.445
+    },
+    {
+      "id": "L16_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: What is wrong? Ask a man.",
+      "start": 214.445,
+      "end": 218.205,
+      "pause_end": 223.655
+    },
+    {
+      "id": "L16_A054",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 223.655,
+      "end": 224.537,
+      "pause_end": 225.637
+    },
+    {
+      "id": "L16_A055",
+      "speaker": "instructor",
+      "text": "Listen. Do you have a fever?",
+      "start": 225.637,
+      "end": 227.477,
+      "pause_end": 228.077
+    },
+    {
+      "id": "L16_A056",
+      "speaker": "arabic_female",
+      "text": "عندك حرارة؟",
+      "start": 228.077,
+      "end": 229.053,
+      "pause_end": 230.303
+    },
+    {
+      "id": "L16_A057",
+      "speaker": "instructor",
+      "text": "Your turn. Do you have a fever?",
+      "start": 230.303,
+      "end": 232.663,
+      "pause_end": 237.413
+    },
+    {
+      "id": "L16_A058",
+      "speaker": "arabic_female",
+      "text": "عندك حرارة؟",
+      "start": 237.413,
+      "end": 238.388,
+      "pause_end": 239.488
+    },
+    {
+      "id": "L16_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: My head hurts.",
+      "start": 239.488,
+      "end": 241.928,
+      "pause_end": 247.378
+    },
+    {
+      "id": "L16_A060",
+      "speaker": "arabic",
+      "text": "راسي يعورني",
+      "start": 247.378,
+      "end": 248.585,
+      "pause_end": 249.685
+    },
+    {
+      "id": "L16_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 249.685,
+      "end": 252.405,
+      "pause_end": 257.155
+    },
+    {
+      "id": "L16_A062",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 257.155,
+      "end": 258.131,
+      "pause_end": 259.231
+    },
+    {
+      "id": "L16_A063",
+      "speaker": "instructor",
+      "text": "Listen. No, I do not have a fever.",
+      "start": 259.231,
+      "end": 262.391,
+      "pause_end": 262.991
+    },
+    {
+      "id": "L16_A064",
+      "speaker": "arabic",
+      "text": "لا، ما عندي حرارة",
+      "start": 262.991,
+      "end": 264.709,
+      "pause_end": 265.959
+    },
+    {
+      "id": "L16_A065",
+      "speaker": "instructor",
+      "text": "Your turn. No, I do not have a fever.",
+      "start": 265.959,
+      "end": 268.639,
+      "pause_end": 273.389
+    },
+    {
+      "id": "L16_A066",
+      "speaker": "arabic",
+      "text": "لا، ما عندي حرارة",
+      "start": 273.389,
+      "end": 275.107,
+      "pause_end": 276.207
+    },
+    {
+      "id": "L16_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: My stomach hurts.",
+      "start": 276.207,
+      "end": 278.687,
+      "pause_end": 284.137
+    },
+    {
+      "id": "L16_A068",
+      "speaker": "arabic_female",
+      "text": "بطني يعورني",
+      "start": 284.137,
+      "end": 285.345,
+      "pause_end": 286.445
+    },
+    {
+      "id": "L16_A069",
+      "speaker": "instructor",
+      "text": "Listen. I want to rest a little.",
+      "start": 286.445,
+      "end": 288.365,
+      "pause_end": 288.965
+    },
+    {
+      "id": "L16_A070",
+      "speaker": "arabic_female",
+      "text": "أبغي أرتاح شوي",
+      "start": 288.965,
+      "end": 290.265,
+      "pause_end": 291.515
+    },
+    {
+      "id": "L16_A071",
+      "speaker": "instructor",
+      "text": "Your turn. I want to rest a little.",
+      "start": 291.515,
+      "end": 294.275,
+      "pause_end": 299.025
+    },
+    {
+      "id": "L16_A072",
+      "speaker": "arabic_female",
+      "text": "أبغي أرتاح شوي",
+      "start": 299.025,
+      "end": 300.325,
+      "pause_end": 301.425
+    },
+    {
+      "id": "L16_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do you have a fever?",
+      "start": 301.425,
+      "end": 303.705,
+      "pause_end": 309.155
+    },
+    {
+      "id": "L16_A074",
+      "speaker": "arabic_female",
+      "text": "عندك حرارة؟",
+      "start": 309.155,
+      "end": 310.131,
+      "pause_end": 311.231
+    },
+    {
+      "id": "L16_A075",
+      "speaker": "instructor",
+      "text": "Listen. You need to see the doctor. Said to a man.",
+      "start": 311.231,
+      "end": 314.751,
+      "pause_end": 315.351
+    },
+    {
+      "id": "L16_A076",
+      "speaker": "arabic_female",
+      "text": "لازم تروح الدكتور",
+      "start": 315.351,
+      "end": 316.883,
+      "pause_end": 318.133
+    },
+    {
+      "id": "L16_A077",
+      "speaker": "instructor",
+      "text": "Your turn. You need to see the doctor. Said to a man.",
+      "start": 318.133,
+      "end": 322.413,
+      "pause_end": 327.163
+    },
+    {
+      "id": "L16_A078",
+      "speaker": "arabic_female",
+      "text": "لازم تروح الدكتور",
+      "start": 327.163,
+      "end": 328.696,
+      "pause_end": 329.796
+    },
+    {
+      "id": "L16_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: No, I do not have a fever.",
+      "start": 329.796,
+      "end": 333.316,
+      "pause_end": 338.766
+    },
+    {
+      "id": "L16_A080",
+      "speaker": "arabic",
+      "text": "لا، ما عندي حرارة",
+      "start": 338.766,
+      "end": 340.484,
+      "pause_end": 341.584
+    },
+    {
+      "id": "L16_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask how much the bill is.",
+      "start": 341.584,
+      "end": 344.584,
+      "pause_end": 349.334
+    },
+    {
+      "id": "L16_A082",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 349.334,
+      "end": 350.495,
+      "pause_end": 351.595
+    },
+    {
+      "id": "L16_A083",
+      "speaker": "instructor",
+      "text": "Listen. Where is the nearest clinic?",
+      "start": 351.595,
+      "end": 353.875,
+      "pause_end": 354.475
+    },
+    {
+      "id": "L16_A084",
+      "speaker": "arabic",
+      "text": "وين أقرب عيادة؟",
+      "start": 354.475,
+      "end": 355.822,
+      "pause_end": 357.072
+    },
+    {
+      "id": "L16_A085",
+      "speaker": "instructor",
+      "text": "Your turn. Where is the nearest clinic?",
+      "start": 357.072,
+      "end": 360.432,
+      "pause_end": 365.182
+    },
+    {
+      "id": "L16_A086",
+      "speaker": "arabic",
+      "text": "وين أقرب عيادة؟",
+      "start": 365.182,
+      "end": 366.529,
+      "pause_end": 367.629
+    },
+    {
+      "id": "L16_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: I want to rest a little.",
+      "start": 367.629,
+      "end": 370.309,
+      "pause_end": 375.759
+    },
+    {
+      "id": "L16_A088",
+      "speaker": "arabic_female",
+      "text": "أبغي أرتاح شوي",
+      "start": 375.759,
+      "end": 377.059,
+      "pause_end": 378.159
+    },
+    {
+      "id": "L16_A089",
+      "speaker": "instructor",
+      "text": "Listen. The clinic is near here.",
+      "start": 378.159,
+      "end": 380.399,
+      "pause_end": 380.999
+    },
+    {
+      "id": "L16_A090",
+      "speaker": "arabic_female",
+      "text": "العيادة قريبة من هني",
+      "start": 380.999,
+      "end": 382.531,
+      "pause_end": 383.781
+    },
+    {
+      "id": "L16_A091",
+      "speaker": "instructor",
+      "text": "Your turn. The clinic is near here.",
+      "start": 383.781,
+      "end": 386.461,
+      "pause_end": 391.211
+    },
+    {
+      "id": "L16_A092",
+      "speaker": "arabic_female",
+      "text": "العيادة قريبة من هني",
+      "start": 391.211,
+      "end": 392.744,
+      "pause_end": 393.844
+    },
+    {
+      "id": "L16_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: You need to see the doctor. Said to a man.",
+      "start": 393.844,
+      "end": 397.444,
+      "pause_end": 402.894
+    },
+    {
+      "id": "L16_A094",
+      "speaker": "arabic_female",
+      "text": "لازم تروح الدكتور",
+      "start": 402.894,
+      "end": 404.426,
+      "pause_end": 405.526
+    },
+    {
+      "id": "L16_A095",
+      "speaker": "instructor",
+      "text": "Listen. Can you give me a ride?",
+      "start": 405.526,
+      "end": 407.366,
+      "pause_end": 407.966
+    },
+    {
+      "id": "L16_A096",
+      "speaker": "arabic",
+      "text": "تقدر توصلني؟",
+      "start": 407.966,
+      "end": 409.174,
+      "pause_end": 410.424
+    },
+    {
+      "id": "L16_A097",
+      "speaker": "instructor",
+      "text": "Your turn. Can you give me a ride?",
+      "start": 410.424,
+      "end": 412.504,
+      "pause_end": 417.254
+    },
+    {
+      "id": "L16_A098",
+      "speaker": "arabic",
+      "text": "تقدر توصلني؟",
+      "start": 417.254,
+      "end": 418.461,
+      "pause_end": 419.561
+    },
+    {
+      "id": "L16_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where is the nearest clinic?",
+      "start": 419.561,
+      "end": 422.161,
+      "pause_end": 427.611
+    },
+    {
+      "id": "L16_A100",
+      "speaker": "arabic",
+      "text": "وين أقرب عيادة؟",
+      "start": 427.611,
+      "end": 428.958,
+      "pause_end": 430.058
+    },
+    {
+      "id": "L16_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man when he starts work.",
+      "start": 430.058,
+      "end": 433.058,
+      "pause_end": 437.808
+    },
+    {
+      "id": "L16_A102",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 437.808,
+      "end": 438.923,
+      "pause_end": 440.023
+    },
+    {
+      "id": "L16_A103",
+      "speaker": "instructor",
+      "text": "Listen. Yes, of course.",
+      "start": 440.023,
+      "end": 441.863,
+      "pause_end": 442.463
+    },
+    {
+      "id": "L16_A104",
+      "speaker": "arabic_female",
+      "text": "هيه، أكيد",
+      "start": 442.463,
+      "end": 443.577,
+      "pause_end": 444.827
+    },
+    {
+      "id": "L16_A105",
+      "speaker": "instructor",
+      "text": "Your turn. Yes, of course.",
+      "start": 444.827,
+      "end": 447.347,
+      "pause_end": 452.097
+    },
+    {
+      "id": "L16_A106",
+      "speaker": "arabic_female",
+      "text": "هيه، أكيد",
+      "start": 452.097,
+      "end": 453.212,
+      "pause_end": 454.312
+    },
+    {
+      "id": "L16_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: The clinic is near here.",
+      "start": 454.312,
+      "end": 457.232,
+      "pause_end": 462.682
+    },
+    {
+      "id": "L16_A108",
+      "speaker": "arabic_female",
+      "text": "العيادة قريبة من هني",
+      "start": 462.682,
+      "end": 464.214,
+      "pause_end": 465.314
+    },
+    {
+      "id": "L16_A109",
+      "speaker": "instructor",
+      "text": "Listen. I hope you get better. Said to a man.",
+      "start": 465.314,
+      "end": 468.274,
+      "pause_end": 468.874
+    },
+    {
+      "id": "L16_A110",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله تتحسن",
+      "start": 468.874,
+      "end": 470.314,
+      "pause_end": 471.564
+    },
+    {
+      "id": "L16_A111",
+      "speaker": "instructor",
+      "text": "Your turn. I hope you get better. Said to a man.",
+      "start": 471.564,
+      "end": 474.764,
+      "pause_end": 479.514
+    },
+    {
+      "id": "L16_A112",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله تتحسن",
+      "start": 479.514,
+      "end": 480.954,
+      "pause_end": 482.054
+    },
+    {
+      "id": "L16_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: Can you give me a ride?",
+      "start": 482.054,
+      "end": 484.734,
+      "pause_end": 490.184
+    },
+    {
+      "id": "L16_A114",
+      "speaker": "arabic",
+      "text": "تقدر توصلني؟",
+      "start": 490.184,
+      "end": 491.391,
+      "pause_end": 492.491
+    },
+    {
+      "id": "L16_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Speak before the recording.",
+      "start": 492.491,
+      "end": 495.571,
+      "pause_end": 496.521
+    },
+    {
+      "id": "L16_A116",
+      "speaker": "instructor",
+      "text": "Say: How do you feel today? Ask a man.",
+      "start": 496.521,
+      "end": 500.041,
+      "pause_end": 505.091
+    },
+    {
+      "id": "L16_A117",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 505.091,
+      "end": 506.391,
+      "pause_end": 507.491
+    },
+    {
+      "id": "L16_A118",
+      "speaker": "instructor",
+      "text": "Say: I do not feel well.",
+      "start": 507.491,
+      "end": 510.051,
+      "pause_end": 515.101
+    },
+    {
+      "id": "L16_A119",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 515.101,
+      "end": 516.541,
+      "pause_end": 517.641
+    },
+    {
+      "id": "L16_A120",
+      "speaker": "instructor",
+      "text": "Say: What is wrong? Ask a man.",
+      "start": 517.641,
+      "end": 520.681,
+      "pause_end": 525.731
+    },
+    {
+      "id": "L16_A121",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 525.731,
+      "end": 526.613,
+      "pause_end": 527.713
+    },
+    {
+      "id": "L16_A122",
+      "speaker": "instructor",
+      "text": "Say: My head hurts.",
+      "start": 527.713,
+      "end": 529.833,
+      "pause_end": 534.883
+    },
+    {
+      "id": "L16_A123",
+      "speaker": "arabic",
+      "text": "راسي يعورني",
+      "start": 534.883,
+      "end": 536.091,
+      "pause_end": 537.191
+    },
+    {
+      "id": "L16_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Say you will send a message.",
+      "start": 537.191,
+      "end": 540.351,
+      "pause_end": 545.301
+    },
+    {
+      "id": "L16_A125",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 545.301,
+      "end": 546.648,
+      "pause_end": 547.748
+    },
+    {
+      "id": "L16_A126",
+      "speaker": "instructor",
+      "text": "Say: My stomach hurts.",
+      "start": 547.748,
+      "end": 549.828,
+      "pause_end": 554.878
+    },
+    {
+      "id": "L16_A127",
+      "speaker": "arabic_female",
+      "text": "بطني يعورني",
+      "start": 554.878,
+      "end": 556.085,
+      "pause_end": 557.185
+    },
+    {
+      "id": "L16_A128",
+      "speaker": "instructor",
+      "text": "Say: Do you have a fever?",
+      "start": 557.185,
+      "end": 560.265,
+      "pause_end": 565.315
+    },
+    {
+      "id": "L16_A129",
+      "speaker": "arabic_female",
+      "text": "عندك حرارة؟",
+      "start": 565.315,
+      "end": 566.29,
+      "pause_end": 567.39
+    },
+    {
+      "id": "L16_A130",
+      "speaker": "instructor",
+      "text": "Say: No, I do not have a fever.",
+      "start": 567.39,
+      "end": 569.83,
+      "pause_end": 574.88
+    },
+    {
+      "id": "L16_A131",
+      "speaker": "arabic",
+      "text": "لا، ما عندي حرارة",
+      "start": 574.88,
+      "end": 576.599,
+      "pause_end": 577.699
+    },
+    {
+      "id": "L16_A132",
+      "speaker": "instructor",
+      "text": "Say: I want to rest a little.",
+      "start": 577.699,
+      "end": 579.979,
+      "pause_end": 585.029
+    },
+    {
+      "id": "L16_A133",
+      "speaker": "arabic_female",
+      "text": "أبغي أرتاح شوي",
+      "start": 585.029,
+      "end": 586.329,
+      "pause_end": 587.429
+    },
+    {
+      "id": "L16_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 587.429,
+      "end": 589.629,
+      "pause_end": 594.579
+    },
+    {
+      "id": "L16_A135",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 594.579,
+      "end": 595.554,
+      "pause_end": 596.654
+    },
+    {
+      "id": "L16_A136",
+      "speaker": "instructor",
+      "text": "Say: You need to see the doctor. Said to a man.",
+      "start": 596.654,
+      "end": 600.134,
+      "pause_end": 605.184
+    },
+    {
+      "id": "L16_A137",
+      "speaker": "arabic_female",
+      "text": "لازم تروح الدكتور",
+      "start": 605.184,
+      "end": 606.717,
+      "pause_end": 607.817
+    },
+    {
+      "id": "L16_A138",
+      "speaker": "instructor",
+      "text": "Say: Where is the nearest clinic?",
+      "start": 607.817,
+      "end": 609.577,
+      "pause_end": 614.627
+    },
+    {
+      "id": "L16_A139",
+      "speaker": "arabic",
+      "text": "وين أقرب عيادة؟",
+      "start": 614.627,
+      "end": 615.974,
+      "pause_end": 617.074
+    },
+    {
+      "id": "L16_A140",
+      "speaker": "instructor",
+      "text": "Say: The clinic is near here.",
+      "start": 617.074,
+      "end": 619.194,
+      "pause_end": 624.244
+    },
+    {
+      "id": "L16_A141",
+      "speaker": "arabic_female",
+      "text": "العيادة قريبة من هني",
+      "start": 624.244,
+      "end": 625.776,
+      "pause_end": 626.876
+    },
+    {
+      "id": "L16_A142",
+      "speaker": "instructor",
+      "text": "Say: Can you give me a ride?",
+      "start": 626.876,
+      "end": 629.116,
+      "pause_end": 634.166
+    },
+    {
+      "id": "L16_A143",
+      "speaker": "arabic",
+      "text": "تقدر توصلني؟",
+      "start": 634.166,
+      "end": 635.374,
+      "pause_end": 636.474
+    },
+    {
+      "id": "L16_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Say you cannot today.",
+      "start": 636.474,
+      "end": 639.714,
+      "pause_end": 644.664
+    },
+    {
+      "id": "L16_A145",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 644.664,
+      "end": 645.871,
+      "pause_end": 646.971
+    },
+    {
+      "id": "L16_A146",
+      "speaker": "instructor",
+      "text": "Say: Yes, of course.",
+      "start": 646.971,
+      "end": 649.131,
+      "pause_end": 654.181
+    },
+    {
+      "id": "L16_A147",
+      "speaker": "arabic_female",
+      "text": "هيه، أكيد",
+      "start": 654.181,
+      "end": 655.296,
+      "pause_end": 656.396
+    },
+    {
+      "id": "L16_A148",
+      "speaker": "instructor",
+      "text": "Say: I hope you get better. Said to a man.",
+      "start": 656.396,
+      "end": 659.476,
+      "pause_end": 664.526
+    },
+    {
+      "id": "L16_A149",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله تتحسن",
+      "start": 664.526,
+      "end": 665.965,
+      "pause_end": 667.065
+    },
+    {
+      "id": "L16_A150",
+      "speaker": "instructor",
+      "text": "Say: How do you feel today? Ask a man.",
+      "start": 667.065,
+      "end": 670.585,
+      "pause_end": 675.635
+    },
+    {
+      "id": "L16_A151",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 675.635,
+      "end": 676.936,
+      "pause_end": 678.036
+    },
+    {
+      "id": "L16_A152",
+      "speaker": "instructor",
+      "text": "Say: What is wrong? Ask a man.",
+      "start": 678.036,
+      "end": 681.076,
+      "pause_end": 686.126
+    },
+    {
+      "id": "L16_A153",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 686.126,
+      "end": 687.008,
+      "pause_end": 688.108
+    },
+    {
+      "id": "L16_A154",
+      "speaker": "instructor",
+      "text": "Say: My stomach hurts.",
+      "start": 688.108,
+      "end": 690.188,
+      "pause_end": 695.238
+    },
+    {
+      "id": "L16_A155",
+      "speaker": "arabic_female",
+      "text": "بطني يعورني",
+      "start": 695.238,
+      "end": 696.445,
+      "pause_end": 697.545
+    },
+    {
+      "id": "L16_A156",
+      "speaker": "instructor",
+      "text": "Say: No, I do not have a fever.",
+      "start": 697.545,
+      "end": 699.985,
+      "pause_end": 705.035
+    },
+    {
+      "id": "L16_A157",
+      "speaker": "arabic",
+      "text": "لا، ما عندي حرارة",
+      "start": 705.035,
+      "end": 706.754,
+      "pause_end": 707.854
+    },
+    {
+      "id": "L16_A158",
+      "speaker": "instructor",
+      "text": "Say: You need to see the doctor. Said to a man.",
+      "start": 707.854,
+      "end": 711.334,
+      "pause_end": 716.384
+    },
+    {
+      "id": "L16_A159",
+      "speaker": "arabic_female",
+      "text": "لازم تروح الدكتور",
+      "start": 716.384,
+      "end": 717.916,
+      "pause_end": 719.016
+    },
+    {
+      "id": "L16_A160",
+      "speaker": "instructor",
+      "text": "Say: The clinic is near here.",
+      "start": 719.016,
+      "end": 721.136,
+      "pause_end": 726.186
+    },
+    {
+      "id": "L16_A161",
+      "speaker": "arabic_female",
+      "text": "العيادة قريبة من هني",
+      "start": 726.186,
+      "end": 727.719,
+      "pause_end": 728.819
+    },
+    {
+      "id": "L16_A162",
+      "speaker": "instructor",
+      "text": "Say: Yes, of course.",
+      "start": 728.819,
+      "end": 730.979,
+      "pause_end": 736.029
+    },
+    {
+      "id": "L16_A163",
+      "speaker": "arabic_female",
+      "text": "هيه، أكيد",
+      "start": 736.029,
+      "end": 737.143,
+      "pause_end": 738.243
+    },
+    {
+      "id": "L16_A164",
+      "speaker": "instructor",
+      "text": "Say: I do not feel well.",
+      "start": 738.243,
+      "end": 740.803,
+      "pause_end": 745.853
+    },
+    {
+      "id": "L16_A165",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 745.853,
+      "end": 747.293,
+      "pause_end": 748.393
+    },
+    {
+      "id": "L16_A166",
+      "speaker": "instructor",
+      "text": "Say: My head hurts.",
+      "start": 748.393,
+      "end": 750.513,
+      "pause_end": 755.563
+    },
+    {
+      "id": "L16_A167",
+      "speaker": "arabic",
+      "text": "راسي يعورني",
+      "start": 755.563,
+      "end": 756.771,
+      "pause_end": 757.871
+    },
+    {
+      "id": "L16_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 757.871,
+      "end": 760.151,
+      "pause_end": 765.101
+    },
+    {
+      "id": "L16_A169",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 765.101,
+      "end": 766.262,
+      "pause_end": 767.362
+    },
+    {
+      "id": "L16_A170",
+      "speaker": "instructor",
+      "text": "Say: Do you have a fever?",
+      "start": 767.362,
+      "end": 770.442,
+      "pause_end": 775.492
+    },
+    {
+      "id": "L16_A171",
+      "speaker": "arabic_female",
+      "text": "عندك حرارة؟",
+      "start": 775.492,
+      "end": 776.467,
+      "pause_end": 777.567
+    },
+    {
+      "id": "L16_A172",
+      "speaker": "instructor",
+      "text": "Say: I want to rest a little.",
+      "start": 777.567,
+      "end": 779.847,
+      "pause_end": 784.897
+    },
+    {
+      "id": "L16_A173",
+      "speaker": "arabic_female",
+      "text": "أبغي أرتاح شوي",
+      "start": 784.897,
+      "end": 786.197,
+      "pause_end": 787.297
+    },
+    {
+      "id": "L16_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Ask how much the bill is.",
+      "start": 787.297,
+      "end": 790.537,
+      "pause_end": 795.487
+    },
+    {
+      "id": "L16_A175",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 795.487,
+      "end": 796.648,
+      "pause_end": 797.748
+    },
+    {
+      "id": "L16_A176",
+      "speaker": "instructor",
+      "text": "Say: Where is the nearest clinic?",
+      "start": 797.748,
+      "end": 799.508,
+      "pause_end": 804.558
+    },
+    {
+      "id": "L16_A177",
+      "speaker": "arabic",
+      "text": "وين أقرب عيادة؟",
+      "start": 804.558,
+      "end": 805.905,
+      "pause_end": 807.005
+    },
+    {
+      "id": "L16_A178",
+      "speaker": "instructor",
+      "text": "Say: Can you give me a ride?",
+      "start": 807.005,
+      "end": 809.245,
+      "pause_end": 814.295
+    },
+    {
+      "id": "L16_A179",
+      "speaker": "arabic",
+      "text": "تقدر توصلني؟",
+      "start": 814.295,
+      "end": 815.502,
+      "pause_end": 816.602
+    },
+    {
+      "id": "L16_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Say you have an appointment.",
+      "start": 816.602,
+      "end": 819.002,
+      "pause_end": 823.952
+    },
+    {
+      "id": "L16_A181",
+      "speaker": "arabic_female",
+      "text": "عندي موعد",
+      "start": 823.952,
+      "end": 824.881,
+      "pause_end": 825.981
+    },
+    {
+      "id": "L16_A182",
+      "speaker": "instructor",
+      "text": "Say: I hope you get better. Said to a man.",
+      "start": 825.981,
+      "end": 829.061,
+      "pause_end": 834.111
+    },
+    {
+      "id": "L16_A183",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله تتحسن",
+      "start": 834.111,
+      "end": 835.551,
+      "pause_end": 836.651
+    },
+    {
+      "id": "L16_A184",
+      "speaker": "instructor",
+      "text": "How do you say: I hope you get better. Said to a man.",
+      "start": 836.651,
+      "end": 840.291,
+      "pause_end": 845.741
+    },
+    {
+      "id": "L16_A185",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله تتحسن",
+      "start": 845.741,
+      "end": 847.18,
+      "pause_end": 848.28
+    },
+    {
+      "id": "L16_A186",
+      "speaker": "instructor",
+      "text": "How do you say: Yes, of course.",
+      "start": 848.28,
+      "end": 850.88,
+      "pause_end": 856.33
+    },
+    {
+      "id": "L16_A187",
+      "speaker": "arabic_female",
+      "text": "هيه، أكيد",
+      "start": 856.33,
+      "end": 857.445,
+      "pause_end": 858.545
+    },
+    {
+      "id": "L16_A188",
+      "speaker": "instructor",
+      "text": "How do you say: Can you give me a ride?",
+      "start": 858.545,
+      "end": 861.265,
+      "pause_end": 866.715
+    },
+    {
+      "id": "L16_A189",
+      "speaker": "arabic",
+      "text": "تقدر توصلني؟",
+      "start": 866.715,
+      "end": 867.923,
+      "pause_end": 869.023
+    },
+    {
+      "id": "L16_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Say you will send a message.",
+      "start": 869.023,
+      "end": 872.183,
+      "pause_end": 877.133
+    },
+    {
+      "id": "L16_A191",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 877.133,
+      "end": 878.479,
+      "pause_end": 879.579
+    },
+    {
+      "id": "L16_A192",
+      "speaker": "instructor",
+      "text": "How do you say: The clinic is near here.",
+      "start": 879.579,
+      "end": 882.379,
+      "pause_end": 887.829
+    },
+    {
+      "id": "L16_A193",
+      "speaker": "arabic_female",
+      "text": "العيادة قريبة من هني",
+      "start": 887.829,
+      "end": 889.362,
+      "pause_end": 890.462
+    },
+    {
+      "id": "L16_A194",
+      "speaker": "instructor",
+      "text": "How do you say: Where is the nearest clinic?",
+      "start": 890.462,
+      "end": 893.622,
+      "pause_end": 899.072
+    },
+    {
+      "id": "L16_A195",
+      "speaker": "arabic",
+      "text": "وين أقرب عيادة؟",
+      "start": 899.072,
+      "end": 900.419,
+      "pause_end": 901.519
+    },
+    {
+      "id": "L16_A196",
+      "speaker": "instructor",
+      "text": "How do you say: You need to see the doctor. Said to a man.",
+      "start": 901.519,
+      "end": 905.599,
+      "pause_end": 911.049
+    },
+    {
+      "id": "L16_A197",
+      "speaker": "arabic_female",
+      "text": "لازم تروح الدكتور",
+      "start": 911.049,
+      "end": 912.581,
+      "pause_end": 913.681
+    },
+    {
+      "id": "L16_A198",
+      "speaker": "instructor",
+      "text": "How do you say: I want to rest a little.",
+      "start": 913.681,
+      "end": 916.481,
+      "pause_end": 921.931
+    },
+    {
+      "id": "L16_A199",
+      "speaker": "arabic_female",
+      "text": "أبغي أرتاح شوي",
+      "start": 921.931,
+      "end": 923.231,
+      "pause_end": 924.331
+    },
+    {
+      "id": "L16_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man when he starts work.",
+      "start": 924.331,
+      "end": 927.491,
+      "pause_end": 932.441
+    },
+    {
+      "id": "L16_A201",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 932.441,
+      "end": 933.556,
+      "pause_end": 934.656
+    },
+    {
+      "id": "L16_A202",
+      "speaker": "instructor",
+      "text": "How do you say: No, I do not have a fever.",
+      "start": 934.656,
+      "end": 938.256,
+      "pause_end": 943.706
+    },
+    {
+      "id": "L16_A203",
+      "speaker": "arabic",
+      "text": "لا، ما عندي حرارة",
+      "start": 943.706,
+      "end": 945.424,
+      "pause_end": 946.524
+    },
+    {
+      "id": "L16_A204",
+      "speaker": "instructor",
+      "text": "How do you say: Do you have a fever?",
+      "start": 946.524,
+      "end": 948.884,
+      "pause_end": 954.334
+    },
+    {
+      "id": "L16_A205",
+      "speaker": "arabic_female",
+      "text": "عندك حرارة؟",
+      "start": 954.334,
+      "end": 955.31,
+      "pause_end": 956.41
+    },
+    {
+      "id": "L16_A206",
+      "speaker": "instructor",
+      "text": "How do you say: My stomach hurts.",
+      "start": 956.41,
+      "end": 959.37,
+      "pause_end": 964.82
+    },
+    {
+      "id": "L16_A207",
+      "speaker": "arabic_female",
+      "text": "بطني يعورني",
+      "start": 964.82,
+      "end": 966.027,
+      "pause_end": 967.127
+    },
+    {
+      "id": "L16_A208",
+      "speaker": "instructor",
+      "text": "How do you say: My head hurts.",
+      "start": 967.127,
+      "end": 969.967,
+      "pause_end": 975.417
+    },
+    {
+      "id": "L16_A209",
+      "speaker": "arabic",
+      "text": "راسي يعورني",
+      "start": 975.417,
+      "end": 976.625,
+      "pause_end": 977.725
+    },
+    {
+      "id": "L16_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 977.725,
+      "end": 980.685,
+      "pause_end": 985.635
+    },
+    {
+      "id": "L16_A211",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 985.635,
+      "end": 986.61,
+      "pause_end": 987.71
+    },
+    {
+      "id": "L16_A212",
+      "speaker": "instructor",
+      "text": "How do you say: What is wrong? Ask a man.",
+      "start": 987.71,
+      "end": 991.03,
+      "pause_end": 996.48
+    },
+    {
+      "id": "L16_A213",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 996.48,
+      "end": 997.362,
+      "pause_end": 998.462
+    },
+    {
+      "id": "L16_A214",
+      "speaker": "instructor",
+      "text": "How do you say: I do not feel well.",
+      "start": 998.462,
+      "end": 1000.982,
+      "pause_end": 1006.432
+    },
+    {
+      "id": "L16_A215",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 1006.432,
+      "end": 1007.872,
+      "pause_end": 1008.972
+    },
+    {
+      "id": "L16_A216",
+      "speaker": "instructor",
+      "text": "How do you say: How do you feel today? Ask a man.",
+      "start": 1008.972,
+      "end": 1012.572,
+      "pause_end": 1018.022
+    },
+    {
+      "id": "L16_A217",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 1018.022,
+      "end": 1019.322,
+      "pause_end": 1020.422
+    },
+    {
+      "id": "L16_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer naturally.",
+      "start": 1020.422,
+      "end": 1023.102,
+      "pause_end": 1023.952
+    },
+    {
+      "id": "L16_A219",
+      "speaker": "instructor",
+      "text": "Say: I hope you get better. Said to a man.",
+      "start": 1023.952,
+      "end": 1027.032,
+      "pause_end": 1032.682
+    },
+    {
+      "id": "L16_A220",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله تتحسن",
+      "start": 1032.682,
+      "end": 1034.122,
+      "pause_end": 1035.222
+    },
+    {
+      "id": "L16_A221",
+      "speaker": "instructor",
+      "text": "Say: What is wrong? Ask a man.",
+      "start": 1035.222,
+      "end": 1038.262,
+      "pause_end": 1043.912
+    },
+    {
+      "id": "L16_A222",
+      "speaker": "arabic_female",
+      "text": "شو فيك؟",
+      "start": 1043.912,
+      "end": 1044.794,
+      "pause_end": 1045.894
+    },
+    {
+      "id": "L16_A223",
+      "speaker": "instructor",
+      "text": "Say: How do you feel today? Ask a man.",
+      "start": 1045.894,
+      "end": 1049.414,
+      "pause_end": 1055.064
+    },
+    {
+      "id": "L16_A224",
+      "speaker": "arabic_female",
+      "text": "شلون تحس اليوم؟",
+      "start": 1055.064,
+      "end": 1056.364,
+      "pause_end": 1057.464
+    },
+    {
+      "id": "L16_A225",
+      "speaker": "instructor",
+      "text": "Say: I want to rest a little.",
+      "start": 1057.464,
+      "end": 1059.744,
+      "pause_end": 1065.394
+    },
+    {
+      "id": "L16_A226",
+      "speaker": "arabic_female",
+      "text": "أبغي أرتاح شوي",
+      "start": 1065.394,
+      "end": 1066.695,
+      "pause_end": 1067.795
+    },
+    {
+      "id": "L16_A227",
+      "speaker": "instructor",
+      "text": "Say: Do you have a fever?",
+      "start": 1067.795,
+      "end": 1070.875,
+      "pause_end": 1076.525
+    },
+    {
+      "id": "L16_A228",
+      "speaker": "arabic_female",
+      "text": "عندك حرارة؟",
+      "start": 1076.525,
+      "end": 1077.5,
+      "pause_end": 1078.6
+    },
+    {
+      "id": "L16_A229",
+      "speaker": "instructor",
+      "text": "Say: Can you give me a ride?",
+      "start": 1078.6,
+      "end": 1080.84,
+      "pause_end": 1086.49
+    },
+    {
+      "id": "L16_A230",
+      "speaker": "arabic",
+      "text": "تقدر توصلني؟",
+      "start": 1086.49,
+      "end": 1087.697,
+      "pause_end": 1088.797
+    },
+    {
+      "id": "L16_A231",
+      "speaker": "instructor",
+      "text": "Say: I do not feel well.",
+      "start": 1088.797,
+      "end": 1091.357,
+      "pause_end": 1097.007
+    },
+    {
+      "id": "L16_A232",
+      "speaker": "arabic",
+      "text": "ما أحس إني زين",
+      "start": 1097.007,
+      "end": 1098.447,
+      "pause_end": 1099.547
+    },
+    {
+      "id": "L16_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1099.547,
+      "end": 1103.627,
+      "pause_end": 1104.577
+    }
+  ]
+}

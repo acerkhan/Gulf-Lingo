@@ -1,0 +1,1471 @@
+{
+  "lesson": 1,
+  "title": "Greetings and First Responses",
+  "duration": 1019.572,
+  "events": [
+    {
+      "id": "L01_A001",
+      "speaker": "instructor",
+      "text": "Welcome to your first lesson. Today, you will learn how to greet someone, ask how they are, and respond naturally. You don't need to memorize everything immediately. Listen carefully, speak out loud, and try to remember each expression before you hear it again.",
+      "start": 0.0,
+      "end": 16.88,
+      "pause_end": 17.93
+    },
+    {
+      "id": "L01_A002",
+      "speaker": "instructor",
+      "text": "First, just listen. You don't need to repeat yet.",
+      "start": 17.93,
+      "end": 21.93,
+      "pause_end": 22.98
+    },
+    {
+      "id": "L01_A003",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 22.98,
+      "end": 24.373,
+      "pause_end": 26.123
+    },
+    {
+      "id": "L01_A004",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 26.123,
+      "end": 27.377,
+      "pause_end": 29.127
+    },
+    {
+      "id": "L01_A005",
+      "speaker": "instructor",
+      "text": "The first person offers a greeting. The second person returns it. Listen again.",
+      "start": 29.127,
+      "end": 34.087,
+      "pause_end": 35.137
+    },
+    {
+      "id": "L01_A006",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 35.137,
+      "end": 36.53,
+      "pause_end": 37.78
+    },
+    {
+      "id": "L01_A007",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 37.78,
+      "end": 39.034,
+      "pause_end": 41.284
+    },
+    {
+      "id": "L01_A008",
+      "speaker": "instructor",
+      "text": "Now repeat each expression after the speaker.",
+      "start": 41.284,
+      "end": 44.564,
+      "pause_end": 45.614
+    },
+    {
+      "id": "L01_A009",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 45.614,
+      "end": 47.007,
+      "pause_end": 51.257
+    },
+    {
+      "id": "L01_A010",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 51.257,
+      "end": 52.511,
+      "pause_end": 56.761
+    },
+    {
+      "id": "L01_A011",
+      "speaker": "instructor",
+      "text": "Good. Now listen to a more casual greeting.",
+      "start": 56.761,
+      "end": 59.681,
+      "pause_end": 60.731
+    },
+    {
+      "id": "L01_A012",
+      "speaker": "arabic",
+      "text": "هلا",
+      "start": 60.731,
+      "end": 61.428,
+      "pause_end": 63.678
+    },
+    {
+      "id": "L01_A013",
+      "speaker": "arabic",
+      "text": "هلا والله",
+      "start": 63.678,
+      "end": 64.7,
+      "pause_end": 66.95
+    },
+    {
+      "id": "L01_A014",
+      "speaker": "instructor",
+      "text": "Both are friendly greetings. You will hear them in everyday conversations. Listen once more.",
+      "start": 66.95,
+      "end": 72.11,
+      "pause_end": 73.16
+    },
+    {
+      "id": "L01_A015",
+      "speaker": "arabic",
+      "text": "هلا",
+      "start": 73.16,
+      "end": 73.857,
+      "pause_end": 76.107
+    },
+    {
+      "id": "L01_A016",
+      "speaker": "arabic",
+      "text": "هلا والله",
+      "start": 76.107,
+      "end": 77.129,
+      "pause_end": 80.379
+    },
+    {
+      "id": "L01_B001",
+      "speaker": "instructor",
+      "text": "Now let's learn how to ask someone how they are. When speaking to a man, you can say the following.",
+      "start": 80.379,
+      "end": 86.099,
+      "pause_end": 87.149
+    },
+    {
+      "id": "L01_B002",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 87.149,
+      "end": 88.031,
+      "pause_end": 90.281
+    },
+    {
+      "id": "L01_B003",
+      "speaker": "instructor",
+      "text": "It means, “How are you?” Listen again, then repeat.",
+      "start": 90.281,
+      "end": 94.081,
+      "pause_end": 95.131
+    },
+    {
+      "id": "L01_B004",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 95.131,
+      "end": 96.013,
+      "pause_end": 100.263
+    },
+    {
+      "id": "L01_B005",
+      "speaker": "instructor",
+      "text": "Now, when speaking to a woman, the ending changes.",
+      "start": 100.263,
+      "end": 104.343,
+      "pause_end": 105.393
+    },
+    {
+      "id": "L01_B006",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 105.393,
+      "end": 106.275,
+      "pause_end": 108.525
+    },
+    {
+      "id": "L01_B007",
+      "speaker": "instructor",
+      "text": "The meaning is still “How are you?” The form changes because you are speaking to a woman. Listen to both expressions.",
+      "start": 108.525,
+      "end": 116.525,
+      "pause_end": 117.575
+    },
+    {
+      "id": "L01_B008",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 117.575,
+      "end": 118.457,
+      "pause_end": 120.707
+    },
+    {
+      "id": "L01_B009",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 120.707,
+      "end": 121.589,
+      "pause_end": 124.839
+    },
+    {
+      "id": "L01_B010",
+      "speaker": "instructor",
+      "text": "Repeat the expression used when speaking to a man.",
+      "start": 124.839,
+      "end": 127.759,
+      "pause_end": 128.809
+    },
+    {
+      "id": "L01_B011",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 128.809,
+      "end": 129.691,
+      "pause_end": 133.941
+    },
+    {
+      "id": "L01_B012",
+      "speaker": "instructor",
+      "text": "Now the expression used when speaking to a woman.",
+      "start": 133.941,
+      "end": 136.821,
+      "pause_end": 137.871
+    },
+    {
+      "id": "L01_B013",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 137.871,
+      "end": 138.753,
+      "pause_end": 143.003
+    },
+    {
+      "id": "L01_B014",
+      "speaker": "instructor",
+      "text": "Let's practise choosing the right form. Imagine you are greeting a male colleague. Ask him how he is.",
+      "start": 143.003,
+      "end": 149.843,
+      "pause_end": 155.093
+    },
+    {
+      "id": "L01_B015",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 155.093,
+      "end": 155.975,
+      "pause_end": 159.225
+    },
+    {
+      "id": "L01_B016",
+      "speaker": "instructor",
+      "text": "Now imagine you are greeting a female colleague. Ask her how she is.",
+      "start": 159.225,
+      "end": 164.065,
+      "pause_end": 169.315
+    },
+    {
+      "id": "L01_B017",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 169.315,
+      "end": 170.197,
+      "pause_end": 173.447
+    },
+    {
+      "id": "L01_B018",
+      "speaker": "instructor",
+      "text": "Excellent. For now, focus on remembering which form goes with whom. We will practise these patterns again in later lessons.",
+      "start": 173.447,
+      "end": 181.687,
+      "pause_end": 182.737
+    },
+    {
+      "id": "L01_C001",
+      "speaker": "instructor",
+      "text": "When someone asks how you are, you need a response. Listen.",
+      "start": 182.737,
+      "end": 186.897,
+      "pause_end": 187.947
+    },
+    {
+      "id": "L01_C002",
+      "speaker": "arabic",
+      "text": "بخير",
+      "start": 187.947,
+      "end": 188.783,
+      "pause_end": 191.033
+    },
+    {
+      "id": "L01_C003",
+      "speaker": "instructor",
+      "text": "This means “fine” or “well.” Repeat.",
+      "start": 191.033,
+      "end": 194.513,
+      "pause_end": 195.563
+    },
+    {
+      "id": "L01_C004",
+      "speaker": "arabic",
+      "text": "بخير",
+      "start": 195.563,
+      "end": 196.399,
+      "pause_end": 200.649
+    },
+    {
+      "id": "L01_C005",
+      "speaker": "instructor",
+      "text": "You may also hear this expression.",
+      "start": 200.649,
+      "end": 202.529,
+      "pause_end": 203.579
+    },
+    {
+      "id": "L01_C006",
+      "speaker": "arabic",
+      "text": "الحمد لله",
+      "start": 203.579,
+      "end": 204.833,
+      "pause_end": 207.083
+    },
+    {
+      "id": "L01_C007",
+      "speaker": "instructor",
+      "text": "It means “praise be to God.” It is commonly used when responding that things are well. Listen to the two expressions together.",
+      "start": 207.083,
+      "end": 215.003,
+      "pause_end": 216.053
+    },
+    {
+      "id": "L01_C008",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 216.053,
+      "end": 218.236,
+      "pause_end": 221.486
+    },
+    {
+      "id": "L01_C009",
+      "speaker": "instructor",
+      "text": "Repeat the whole response.",
+      "start": 221.486,
+      "end": 223.046,
+      "pause_end": 224.096
+    },
+    {
+      "id": "L01_C010",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 224.096,
+      "end": 226.279,
+      "pause_end": 231.529
+    },
+    {
+      "id": "L01_C011",
+      "speaker": "instructor",
+      "text": "Another useful response is a short word meaning “good,” “fine,” or “okay.”",
+      "start": 231.529,
+      "end": 237.209,
+      "pause_end": 238.259
+    },
+    {
+      "id": "L01_C012",
+      "speaker": "arabic",
+      "text": "زين",
+      "start": 238.259,
+      "end": 239.095,
+      "pause_end": 241.345
+    },
+    {
+      "id": "L01_C013",
+      "speaker": "instructor",
+      "text": "Repeat.",
+      "start": 241.345,
+      "end": 242.025,
+      "pause_end": 243.075
+    },
+    {
+      "id": "L01_C014",
+      "speaker": "arabic",
+      "text": "زين",
+      "start": 243.075,
+      "end": 243.911,
+      "pause_end": 248.161
+    },
+    {
+      "id": "L01_C015",
+      "speaker": "instructor",
+      "text": "You can also say this.",
+      "start": 248.161,
+      "end": 249.641,
+      "pause_end": 250.691
+    },
+    {
+      "id": "L01_C016",
+      "speaker": "arabic",
+      "text": "تمام",
+      "start": 250.691,
+      "end": 251.48,
+      "pause_end": 253.73
+    },
+    {
+      "id": "L01_C017",
+      "speaker": "instructor",
+      "text": "It means “fine,” “all good,” or “okay,” depending on the situation. Repeat.",
+      "start": 253.73,
+      "end": 259.37,
+      "pause_end": 260.42
+    },
+    {
+      "id": "L01_C018",
+      "speaker": "arabic",
+      "text": "تمام",
+      "start": 260.42,
+      "end": 261.209,
+      "pause_end": 265.459
+    },
+    {
+      "id": "L01_C019",
+      "speaker": "instructor",
+      "text": "Now answer me. How are you?",
+      "start": 265.459,
+      "end": 267.779,
+      "pause_end": 273.029
+    },
+    {
+      "id": "L01_C020",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 273.029,
+      "end": 275.212,
+      "pause_end": 278.462
+    },
+    {
+      "id": "L01_C021",
+      "speaker": "instructor",
+      "text": "Let's try again. How are you?",
+      "start": 278.462,
+      "end": 280.862,
+      "pause_end": 286.112
+    },
+    {
+      "id": "L01_C022",
+      "speaker": "arabic",
+      "text": "زين",
+      "start": 286.112,
+      "end": 286.948,
+      "pause_end": 290.198
+    },
+    {
+      "id": "L01_C023",
+      "speaker": "instructor",
+      "text": "And once more. How are you?",
+      "start": 290.198,
+      "end": 291.638,
+      "pause_end": 296.888
+    },
+    {
+      "id": "L01_C024",
+      "speaker": "arabic",
+      "text": "تمام",
+      "start": 296.888,
+      "end": 297.677,
+      "pause_end": 300.927
+    },
+    {
+      "id": "L01_D001",
+      "speaker": "instructor",
+      "text": "A conversation sounds more natural when you ask the other person the same question. When speaking to a man, you can say, “And you?”",
+      "start": 300.927,
+      "end": 308.927,
+      "pause_end": 309.977
+    },
+    {
+      "id": "L01_D002",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 309.977,
+      "end": 310.674,
+      "pause_end": 312.924
+    },
+    {
+      "id": "L01_D003",
+      "speaker": "instructor",
+      "text": "Repeat.",
+      "start": 312.924,
+      "end": 313.604,
+      "pause_end": 314.654
+    },
+    {
+      "id": "L01_D004",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 314.654,
+      "end": 315.351,
+      "pause_end": 319.601
+    },
+    {
+      "id": "L01_D005",
+      "speaker": "instructor",
+      "text": "When speaking to a woman, use this form.",
+      "start": 319.601,
+      "end": 322.481,
+      "pause_end": 323.531
+    },
+    {
+      "id": "L01_D006",
+      "speaker": "arabic",
+      "text": "وإنتِ؟",
+      "start": 323.531,
+      "end": 324.274,
+      "pause_end": 326.524
+    },
+    {
+      "id": "L01_D007",
+      "speaker": "instructor",
+      "text": "Repeat.",
+      "start": 326.524,
+      "end": 327.204,
+      "pause_end": 328.254
+    },
+    {
+      "id": "L01_D008",
+      "speaker": "arabic",
+      "text": "وإنتِ؟",
+      "start": 328.254,
+      "end": 328.997,
+      "pause_end": 333.247
+    },
+    {
+      "id": "L01_D009",
+      "speaker": "instructor",
+      "text": "Now listen to a short exchange.",
+      "start": 333.247,
+      "end": 335.527,
+      "pause_end": 336.577
+    },
+    {
+      "id": "L01_D010",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 336.577,
+      "end": 337.459,
+      "pause_end": 338.709
+    },
+    {
+      "id": "L01_D011",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 338.709,
+      "end": 340.938,
+      "pause_end": 343.188
+    },
+    {
+      "id": "L01_D012",
+      "speaker": "instructor",
+      "text": "The first person asks how the other person is. The second person answers and asks the question back. Let's practise the whole exchange. You are talking to a man. Listen to the question, then respond.",
+      "start": 343.188,
+      "end": 355.708,
+      "pause_end": 356.758
+    },
+    {
+      "id": "L01_D013",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 356.758,
+      "end": 357.64,
+      "pause_end": 362.89
+    },
+    {
+      "id": "L01_D014",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 362.89,
+      "end": 365.073,
+      "pause_end": 368.323
+    },
+    {
+      "id": "L01_D015",
+      "speaker": "instructor",
+      "text": "Now ask the question back.",
+      "start": 368.323,
+      "end": 369.963,
+      "pause_end": 374.213
+    },
+    {
+      "id": "L01_D016",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 374.213,
+      "end": 374.91,
+      "pause_end": 378.16
+    },
+    {
+      "id": "L01_D017",
+      "speaker": "instructor",
+      "text": "Good. Now imagine you are talking to a woman. Listen to the question.",
+      "start": 378.16,
+      "end": 382.88,
+      "pause_end": 383.93
+    },
+    {
+      "id": "L01_D018",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 383.93,
+      "end": 384.812,
+      "pause_end": 390.062
+    },
+    {
+      "id": "L01_D019",
+      "speaker": "instructor",
+      "text": "Answer that you are fine, and ask her how she is.",
+      "start": 390.062,
+      "end": 393.342,
+      "pause_end": 399.592
+    },
+    {
+      "id": "L01_D020",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنتِ؟",
+      "start": 399.592,
+      "end": 402.007,
+      "pause_end": 405.257
+    },
+    {
+      "id": "L01_D021",
+      "speaker": "instructor",
+      "text": "Notice the pattern. You answer first, then return the question. You don't need a long sentence to keep a conversation going.",
+      "start": 405.257,
+      "end": 412.777,
+      "pause_end": 413.827
+    },
+    {
+      "id": "L01_E001",
+      "speaker": "instructor",
+      "text": "Let's learn two greetings you can use at different times of day. First, “Good morning.”",
+      "start": 413.827,
+      "end": 419.107,
+      "pause_end": 420.157
+    },
+    {
+      "id": "L01_E002",
+      "speaker": "arabic",
+      "text": "صباح الخير",
+      "start": 420.157,
+      "end": 421.272,
+      "pause_end": 424.522
+    },
+    {
+      "id": "L01_E003",
+      "speaker": "instructor",
+      "text": "Repeat.",
+      "start": 424.522,
+      "end": 425.202,
+      "pause_end": 426.252
+    },
+    {
+      "id": "L01_E004",
+      "speaker": "arabic",
+      "text": "صباح الخير",
+      "start": 426.252,
+      "end": 427.367,
+      "pause_end": 431.617
+    },
+    {
+      "id": "L01_E005",
+      "speaker": "instructor",
+      "text": "A common response is:",
+      "start": 431.617,
+      "end": 433.337,
+      "pause_end": 434.387
+    },
+    {
+      "id": "L01_E006",
+      "speaker": "arabic",
+      "text": "صباح النور",
+      "start": 434.387,
+      "end": 435.548,
+      "pause_end": 438.798
+    },
+    {
+      "id": "L01_E007",
+      "speaker": "instructor",
+      "text": "Repeat.",
+      "start": 438.798,
+      "end": 439.478,
+      "pause_end": 440.528
+    },
+    {
+      "id": "L01_E008",
+      "speaker": "arabic",
+      "text": "صباح النور",
+      "start": 440.528,
+      "end": 441.689,
+      "pause_end": 445.939
+    },
+    {
+      "id": "L01_E009",
+      "speaker": "instructor",
+      "text": "Now listen to “Good evening.”",
+      "start": 445.939,
+      "end": 448.259,
+      "pause_end": 449.309
+    },
+    {
+      "id": "L01_E010",
+      "speaker": "arabic",
+      "text": "مسا الخير",
+      "start": 449.309,
+      "end": 450.377,
+      "pause_end": 453.627
+    },
+    {
+      "id": "L01_E011",
+      "speaker": "instructor",
+      "text": "Repeat.",
+      "start": 453.627,
+      "end": 454.307,
+      "pause_end": 455.357
+    },
+    {
+      "id": "L01_E012",
+      "speaker": "arabic",
+      "text": "مسا الخير",
+      "start": 455.357,
+      "end": 456.425,
+      "pause_end": 460.675
+    },
+    {
+      "id": "L01_E013",
+      "speaker": "instructor",
+      "text": "And the response.",
+      "start": 460.675,
+      "end": 461.795,
+      "pause_end": 462.845
+    },
+    {
+      "id": "L01_E014",
+      "speaker": "arabic",
+      "text": "مسا النور",
+      "start": 462.845,
+      "end": 463.913,
+      "pause_end": 467.163
+    },
+    {
+      "id": "L01_E015",
+      "speaker": "instructor",
+      "text": "Repeat.",
+      "start": 467.163,
+      "end": 467.843,
+      "pause_end": 468.893
+    },
+    {
+      "id": "L01_E016",
+      "speaker": "arabic",
+      "text": "مسا النور",
+      "start": 468.893,
+      "end": 469.961,
+      "pause_end": 474.211
+    },
+    {
+      "id": "L01_E017",
+      "speaker": "instructor",
+      "text": "Let's test your memory. Someone greets you in the morning and says, “Good morning.” Respond naturally.",
+      "start": 474.211,
+      "end": 480.491,
+      "pause_end": 485.741
+    },
+    {
+      "id": "L01_E018",
+      "speaker": "arabic",
+      "text": "صباح النور",
+      "start": 485.741,
+      "end": 486.902,
+      "pause_end": 490.152
+    },
+    {
+      "id": "L01_E019",
+      "speaker": "instructor",
+      "text": "Now someone greets you in the evening. Respond.",
+      "start": 490.152,
+      "end": 493.792,
+      "pause_end": 499.042
+    },
+    {
+      "id": "L01_E020",
+      "speaker": "arabic",
+      "text": "مسا النور",
+      "start": 499.042,
+      "end": 500.11,
+      "pause_end": 503.36
+    },
+    {
+      "id": "L01_F001",
+      "speaker": "instructor",
+      "text": "Now let's put everything together. Listen to the English prompt and answer in Arabic before the speaker gives you the model.",
+      "start": 503.36,
+      "end": 510.32,
+      "pause_end": 511.37
+    },
+    {
+      "id": "L01_F002",
+      "speaker": "instructor",
+      "text": "Greet someone politely.",
+      "start": 511.37,
+      "end": 512.77,
+      "pause_end": 518.02
+    },
+    {
+      "id": "L01_F003",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 518.02,
+      "end": 519.413,
+      "pause_end": 522.663
+    },
+    {
+      "id": "L01_F004",
+      "speaker": "instructor",
+      "text": "Return the greeting.",
+      "start": 522.663,
+      "end": 523.703,
+      "pause_end": 528.953
+    },
+    {
+      "id": "L01_F005",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 528.953,
+      "end": 530.207,
+      "pause_end": 533.457
+    },
+    {
+      "id": "L01_F006",
+      "speaker": "instructor",
+      "text": "Say “Hello” in a friendly, casual way.",
+      "start": 533.457,
+      "end": 535.857,
+      "pause_end": 541.107
+    },
+    {
+      "id": "L01_F007",
+      "speaker": "arabic",
+      "text": "هلا",
+      "start": 541.107,
+      "end": 541.804,
+      "pause_end": 545.054
+    },
+    {
+      "id": "L01_F008",
+      "speaker": "instructor",
+      "text": "Give a warmer, more emphatic casual greeting.",
+      "start": 545.054,
+      "end": 548.134,
+      "pause_end": 553.384
+    },
+    {
+      "id": "L01_F009",
+      "speaker": "arabic",
+      "text": "هلا والله",
+      "start": 553.384,
+      "end": 554.406,
+      "pause_end": 557.656
+    },
+    {
+      "id": "L01_F010",
+      "speaker": "instructor",
+      "text": "Ask a man how he is.",
+      "start": 557.656,
+      "end": 559.576,
+      "pause_end": 564.826
+    },
+    {
+      "id": "L01_F011",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 564.826,
+      "end": 565.708,
+      "pause_end": 568.958
+    },
+    {
+      "id": "L01_F012",
+      "speaker": "instructor",
+      "text": "Ask a woman how she is.",
+      "start": 568.958,
+      "end": 570.878,
+      "pause_end": 576.128
+    },
+    {
+      "id": "L01_F013",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 576.128,
+      "end": 577.01,
+      "pause_end": 580.26
+    },
+    {
+      "id": "L01_F014",
+      "speaker": "instructor",
+      "text": "Say that you are fine.",
+      "start": 580.26,
+      "end": 581.94,
+      "pause_end": 587.19
+    },
+    {
+      "id": "L01_F015",
+      "speaker": "arabic",
+      "text": "بخير",
+      "start": 587.19,
+      "end": 588.026,
+      "pause_end": 591.276
+    },
+    {
+      "id": "L01_F016",
+      "speaker": "instructor",
+      "text": "Say, “Fine, praise be to God.”",
+      "start": 591.276,
+      "end": 594.036,
+      "pause_end": 599.286
+    },
+    {
+      "id": "L01_F017",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 599.286,
+      "end": 601.469,
+      "pause_end": 604.719
+    },
+    {
+      "id": "L01_F018",
+      "speaker": "instructor",
+      "text": "Give a short response meaning “good” or “fine.”",
+      "start": 604.719,
+      "end": 608.079,
+      "pause_end": 613.329
+    },
+    {
+      "id": "L01_F019",
+      "speaker": "arabic",
+      "text": "زين",
+      "start": 613.329,
+      "end": 614.165,
+      "pause_end": 617.415
+    },
+    {
+      "id": "L01_F020",
+      "speaker": "instructor",
+      "text": "Give another short response meaning “all good.”",
+      "start": 617.415,
+      "end": 620.695,
+      "pause_end": 625.945
+    },
+    {
+      "id": "L01_F021",
+      "speaker": "arabic",
+      "text": "تمام",
+      "start": 625.945,
+      "end": 626.734,
+      "pause_end": 629.984
+    },
+    {
+      "id": "L01_F022",
+      "speaker": "instructor",
+      "text": "Now ask a man, “And you?”",
+      "start": 629.984,
+      "end": 632.104,
+      "pause_end": 637.354
+    },
+    {
+      "id": "L01_F023",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 637.354,
+      "end": 638.051,
+      "pause_end": 641.301
+    },
+    {
+      "id": "L01_F024",
+      "speaker": "instructor",
+      "text": "Ask a woman, “And you?”",
+      "start": 641.301,
+      "end": 643.541,
+      "pause_end": 648.791
+    },
+    {
+      "id": "L01_F025",
+      "speaker": "arabic",
+      "text": "وإنتِ؟",
+      "start": 648.791,
+      "end": 649.534,
+      "pause_end": 652.784
+    },
+    {
+      "id": "L01_F026",
+      "speaker": "instructor",
+      "text": "Say “Good morning.”",
+      "start": 652.784,
+      "end": 654.344,
+      "pause_end": 659.594
+    },
+    {
+      "id": "L01_F027",
+      "speaker": "arabic",
+      "text": "صباح الخير",
+      "start": 659.594,
+      "end": 660.709,
+      "pause_end": 663.959
+    },
+    {
+      "id": "L01_F028",
+      "speaker": "instructor",
+      "text": "Respond to “Good morning.”",
+      "start": 663.959,
+      "end": 665.639,
+      "pause_end": 670.889
+    },
+    {
+      "id": "L01_F029",
+      "speaker": "arabic",
+      "text": "صباح النور",
+      "start": 670.889,
+      "end": 672.05,
+      "pause_end": 675.3
+    },
+    {
+      "id": "L01_F030",
+      "speaker": "instructor",
+      "text": "Say “Good evening.”",
+      "start": 675.3,
+      "end": 676.78,
+      "pause_end": 682.03
+    },
+    {
+      "id": "L01_F031",
+      "speaker": "arabic",
+      "text": "مسا الخير",
+      "start": 682.03,
+      "end": 683.098,
+      "pause_end": 686.348
+    },
+    {
+      "id": "L01_F032",
+      "speaker": "instructor",
+      "text": "Respond to “Good evening.”",
+      "start": 686.348,
+      "end": 687.828,
+      "pause_end": 693.078
+    },
+    {
+      "id": "L01_F033",
+      "speaker": "arabic",
+      "text": "مسا النور",
+      "start": 693.078,
+      "end": 694.146,
+      "pause_end": 697.396
+    },
+    {
+      "id": "L01_G001",
+      "speaker": "instructor",
+      "text": "You now know enough to have a short greeting conversation. First, listen to the entire exchange.",
+      "start": 697.396,
+      "end": 703.236,
+      "pause_end": 704.286
+    },
+    {
+      "id": "L01_G002",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 704.286,
+      "end": 705.679,
+      "pause_end": 706.729
+    },
+    {
+      "id": "L01_G003",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 706.729,
+      "end": 707.983,
+      "pause_end": 709.033
+    },
+    {
+      "id": "L01_G004",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 709.033,
+      "end": 709.915,
+      "pause_end": 710.965
+    },
+    {
+      "id": "L01_G005",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 710.965,
+      "end": 713.194,
+      "pause_end": 714.244
+    },
+    {
+      "id": "L01_G006",
+      "speaker": "arabic",
+      "text": "زين، الحمد لله",
+      "start": 714.244,
+      "end": 715.776,
+      "pause_end": 716.826
+    },
+    {
+      "id": "L01_G007",
+      "speaker": "instructor",
+      "text": "Let's practise the conversation in parts. Imagine you are the second person. First, someone greets you politely. Return the greeting.",
+      "start": 716.826,
+      "end": 725.146,
+      "pause_end": 726.196
+    },
+    {
+      "id": "L01_G008",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 726.196,
+      "end": 727.589,
+      "pause_end": 732.839
+    },
+    {
+      "id": "L01_G009",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 732.839,
+      "end": 734.093,
+      "pause_end": 737.343
+    },
+    {
+      "id": "L01_G010",
+      "speaker": "instructor",
+      "text": "Now the person asks how you are. Answer that you are fine, praise be to God, and ask the question back.",
+      "start": 737.343,
+      "end": 746.143,
+      "pause_end": 747.193
+    },
+    {
+      "id": "L01_G011",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 747.193,
+      "end": 748.075,
+      "pause_end": 755.325
+    },
+    {
+      "id": "L01_G012",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 755.325,
+      "end": 757.554,
+      "pause_end": 760.804
+    },
+    {
+      "id": "L01_G013",
+      "speaker": "instructor",
+      "text": "Now imagine you are meeting a female colleague. Listen to the question and answer naturally.",
+      "start": 760.804,
+      "end": 766.324,
+      "pause_end": 767.374
+    },
+    {
+      "id": "L01_G014",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 767.374,
+      "end": 768.256,
+      "pause_end": 774.506
+    },
+    {
+      "id": "L01_G015",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنتِ؟",
+      "start": 774.506,
+      "end": 776.921,
+      "pause_end": 780.171
+    },
+    {
+      "id": "L01_G016",
+      "speaker": "instructor",
+      "text": "Excellent. Let's try a more casual exchange. Listen to the greeting, then respond as if you were meeting a friend.",
+      "start": 780.171,
+      "end": 787.091,
+      "pause_end": 788.141
+    },
+    {
+      "id": "L01_G017",
+      "speaker": "arabic",
+      "text": "هلا والله",
+      "start": 788.141,
+      "end": 789.163,
+      "pause_end": 794.413
+    },
+    {
+      "id": "L01_G018",
+      "speaker": "arabic",
+      "text": "هلا",
+      "start": 794.413,
+      "end": 795.11,
+      "pause_end": 798.36
+    },
+    {
+      "id": "L01_G019",
+      "speaker": "instructor",
+      "text": "Ask your friend how he is.",
+      "start": 798.36,
+      "end": 800.04,
+      "pause_end": 805.29
+    },
+    {
+      "id": "L01_G020",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 805.29,
+      "end": 806.172,
+      "pause_end": 809.422
+    },
+    {
+      "id": "L01_G021",
+      "speaker": "instructor",
+      "text": "Answer that everything is good.",
+      "start": 809.422,
+      "end": 811.262,
+      "pause_end": 816.512
+    },
+    {
+      "id": "L01_G022",
+      "speaker": "arabic",
+      "text": "تمام، الحمد لله",
+      "start": 816.512,
+      "end": 818.277,
+      "pause_end": 821.527
+    },
+    {
+      "id": "L01_G023",
+      "speaker": "instructor",
+      "text": "Now listen to the full conversation at a natural pace.",
+      "start": 821.527,
+      "end": 824.607,
+      "pause_end": 825.657
+    },
+    {
+      "id": "L01_G024",
+      "speaker": "arabic",
+      "text": "هلا والله!",
+      "start": 825.657,
+      "end": 826.679,
+      "pause_end": 827.729
+    },
+    {
+      "id": "L01_G025",
+      "speaker": "arabic",
+      "text": "هلا! شحالك؟",
+      "start": 827.729,
+      "end": 829.354,
+      "pause_end": 830.404
+    },
+    {
+      "id": "L01_G026",
+      "speaker": "arabic",
+      "text": "تمام، الحمد لله. وإنت؟",
+      "start": 830.404,
+      "end": 832.726,
+      "pause_end": 833.776
+    },
+    {
+      "id": "L01_G027",
+      "speaker": "arabic",
+      "text": "زين، الحمد لله.",
+      "start": 833.776,
+      "end": 835.448,
+      "pause_end": 836.498
+    },
+    {
+      "id": "L01_H001",
+      "speaker": "instructor",
+      "text": "Before we finish, let's see what you can remember without help. Try to answer each prompt before you hear the model.",
+      "start": 836.498,
+      "end": 842.938,
+      "pause_end": 843.988
+    },
+    {
+      "id": "L01_H002",
+      "speaker": "instructor",
+      "text": "Return a polite greeting.",
+      "start": 843.988,
+      "end": 846.188,
+      "pause_end": 851.438
+    },
+    {
+      "id": "L01_H003",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 851.438,
+      "end": 852.692,
+      "pause_end": 855.942
+    },
+    {
+      "id": "L01_H004",
+      "speaker": "instructor",
+      "text": "Give a casual greeting.",
+      "start": 855.942,
+      "end": 857.342,
+      "pause_end": 862.592
+    },
+    {
+      "id": "L01_H005",
+      "speaker": "arabic",
+      "text": "هلا",
+      "start": 862.592,
+      "end": 863.289,
+      "pause_end": 866.539
+    },
+    {
+      "id": "L01_H006",
+      "speaker": "instructor",
+      "text": "Ask a man how he is.",
+      "start": 866.539,
+      "end": 868.459,
+      "pause_end": 873.709
+    },
+    {
+      "id": "L01_H007",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 873.709,
+      "end": 874.591,
+      "pause_end": 877.841
+    },
+    {
+      "id": "L01_H008",
+      "speaker": "instructor",
+      "text": "Ask a woman how she is.",
+      "start": 877.841,
+      "end": 879.761,
+      "pause_end": 885.011
+    },
+    {
+      "id": "L01_H009",
+      "speaker": "arabic",
+      "text": "شحالج؟",
+      "start": 885.011,
+      "end": 885.893,
+      "pause_end": 889.143
+    },
+    {
+      "id": "L01_H010",
+      "speaker": "instructor",
+      "text": "Answer that you are fine, praise be to God.",
+      "start": 889.143,
+      "end": 893.583,
+      "pause_end": 899.833
+    },
+    {
+      "id": "L01_H011",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 899.833,
+      "end": 902.016,
+      "pause_end": 905.266
+    },
+    {
+      "id": "L01_H012",
+      "speaker": "instructor",
+      "text": "Ask a man, “And you?”",
+      "start": 905.266,
+      "end": 907.146,
+      "pause_end": 912.396
+    },
+    {
+      "id": "L01_H013",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 912.396,
+      "end": 913.093,
+      "pause_end": 916.343
+    },
+    {
+      "id": "L01_H014",
+      "speaker": "instructor",
+      "text": "Respond to “Good morning.”",
+      "start": 916.343,
+      "end": 918.023,
+      "pause_end": 923.273
+    },
+    {
+      "id": "L01_H015",
+      "speaker": "arabic",
+      "text": "صباح النور",
+      "start": 923.273,
+      "end": 924.434,
+      "pause_end": 927.684
+    },
+    {
+      "id": "L01_H016",
+      "speaker": "instructor",
+      "text": "Respond to “Good evening.”",
+      "start": 927.684,
+      "end": 929.164,
+      "pause_end": 934.414
+    },
+    {
+      "id": "L01_H017",
+      "speaker": "arabic",
+      "text": "مسا النور",
+      "start": 934.414,
+      "end": 935.482,
+      "pause_end": 938.732
+    },
+    {
+      "id": "L01_H018",
+      "speaker": "instructor",
+      "text": "Now, one final conversation. Imagine you have just met a colleague. Greet them, ask how they are, answer their question, and ask how they are in return. Take your time. Speak out loud.",
+      "start": 938.732,
+      "end": 953.332,
+      "pause_end": 961.582
+    },
+    {
+      "id": "L01_H019",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 961.582,
+      "end": 962.975,
+      "pause_end": 965.225
+    },
+    {
+      "id": "L01_H020",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 965.225,
+      "end": 966.479,
+      "pause_end": 968.729
+    },
+    {
+      "id": "L01_H021",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 968.729,
+      "end": 969.611,
+      "pause_end": 974.861
+    },
+    {
+      "id": "L01_H022",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 974.861,
+      "end": 977.09,
+      "pause_end": 980.34
+    },
+    {
+      "id": "L01_H023",
+      "speaker": "arabic",
+      "text": "زين، الحمد لله",
+      "start": 980.34,
+      "end": 981.872,
+      "pause_end": 985.122
+    },
+    {
+      "id": "L01_H024",
+      "speaker": "instructor",
+      "text": "Well done. Today, you learned how to greet someone, ask how they are, answer naturally, and keep the conversation going. Don't worry if you couldn't remember every expression. Your job is to recall a little more each time. In the next lesson, we'll build on these greetings and learn how to introduce ourselves and ask about names and where people are from. Listen again later and try the speaking exercises without looking at the transcript. See you in the next lesson.",
+      "start": 985.122,
+      "end": 1018.522,
+      "pause_end": 1019.572
+    }
+  ]
+}

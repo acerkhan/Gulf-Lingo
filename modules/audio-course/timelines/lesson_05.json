@@ -1,0 +1,1844 @@
+{
+  "events": [
+    {
+      "id": "L05_A001",
+      "speaker": "instructor",
+      "text": "Lesson 5. At the Café. Listen to a short conversation, then speak when prompted.",
+      "start": 0.0,
+      "end": 5.76,
+      "pause_end": 6.61
+    },
+    {
+      "id": "L05_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 6.61,
+      "end": 9.97,
+      "pause_end": 10.72
+    },
+    {
+      "id": "L05_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Peace be upon you.",
+      "start": 10.72,
+      "end": 13.92,
+      "pause_end": 18.67
+    },
+    {
+      "id": "L05_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 18.67,
+      "end": 19.831,
+      "pause_end": 20.881
+    },
+    {
+      "id": "L05_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: And peace be upon you.",
+      "start": 20.881,
+      "end": 24.481,
+      "pause_end": 29.231
+    },
+    {
+      "id": "L05_A006",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 29.231,
+      "end": 30.531,
+      "pause_end": 31.581
+    },
+    {
+      "id": "L05_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How are you, said to a man?",
+      "start": 31.581,
+      "end": 35.541,
+      "pause_end": 40.291
+    },
+    {
+      "id": "L05_A008",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 40.291,
+      "end": 41.267,
+      "pause_end": 42.317
+    },
+    {
+      "id": "L05_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Fine, thank God.",
+      "start": 42.317,
+      "end": 45.637,
+      "pause_end": 50.387
+    },
+    {
+      "id": "L05_A010",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 50.387,
+      "end": 52.198,
+      "pause_end": 53.248
+    },
+    {
+      "id": "L05_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What's your name?",
+      "start": 53.248,
+      "end": 55.768,
+      "pause_end": 60.518
+    },
+    {
+      "id": "L05_A012",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 60.518,
+      "end": 61.354,
+      "pause_end": 62.404
+    },
+    {
+      "id": "L05_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: My name is Khalid.",
+      "start": 62.404,
+      "end": 65.484,
+      "pause_end": 70.234
+    },
+    {
+      "id": "L05_A014",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 70.234,
+      "end": 71.348,
+      "pause_end": 72.398
+    },
+    {
+      "id": "L05_A015",
+      "speaker": "instructor",
+      "text": "Now listen to today's new expressions. You will hear both a man and a woman speaking.",
+      "start": 72.398,
+      "end": 78.798,
+      "pause_end": 79.648
+    },
+    {
+      "id": "L05_A016",
+      "speaker": "instructor",
+      "text": "Listen. Peace be upon you.",
+      "start": 79.648,
+      "end": 82.368,
+      "pause_end": 83.018
+    },
+    {
+      "id": "L05_A017",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 83.018,
+      "end": 84.179,
+      "pause_end": 85.629
+    },
+    {
+      "id": "L05_A018",
+      "speaker": "instructor",
+      "text": "Listen. And peace be upon you.",
+      "start": 85.629,
+      "end": 88.669,
+      "pause_end": 89.319
+    },
+    {
+      "id": "L05_A019",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 89.319,
+      "end": 90.62,
+      "pause_end": 92.07
+    },
+    {
+      "id": "L05_A020",
+      "speaker": "instructor",
+      "text": "Listen. What do you have?",
+      "start": 92.07,
+      "end": 93.95,
+      "pause_end": 94.6
+    },
+    {
+      "id": "L05_A021",
+      "speaker": "arabic",
+      "text": "شو عندكم؟",
+      "start": 94.6,
+      "end": 95.529,
+      "pause_end": 96.979
+    },
+    {
+      "id": "L05_A022",
+      "speaker": "instructor",
+      "text": "Listen. We have coffee and tea.",
+      "start": 96.979,
+      "end": 99.099,
+      "pause_end": 99.749
+    },
+    {
+      "id": "L05_A023",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 99.749,
+      "end": 101.095,
+      "pause_end": 102.545
+    },
+    {
+      "id": "L05_A024",
+      "speaker": "instructor",
+      "text": "Listen. I want tea.",
+      "start": 102.545,
+      "end": 104.265,
+      "pause_end": 104.915
+    },
+    {
+      "id": "L05_A025",
+      "speaker": "arabic",
+      "text": "أبغي شاي",
+      "start": 104.915,
+      "end": 105.891,
+      "pause_end": 107.341
+    },
+    {
+      "id": "L05_A026",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Peace be upon you.",
+      "start": 107.341,
+      "end": 111.581,
+      "pause_end": 112.181
+    },
+    {
+      "id": "L05_A027",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 112.181,
+      "end": 113.342,
+      "pause_end": 114.592
+    },
+    {
+      "id": "L05_A028",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 114.592,
+      "end": 115.712,
+      "pause_end": 119.962
+    },
+    {
+      "id": "L05_A029",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 119.962,
+      "end": 121.123,
+      "pause_end": 122.173
+    },
+    {
+      "id": "L05_A030",
+      "speaker": "instructor",
+      "text": "Listen to how you say: And peace be upon you.",
+      "start": 122.173,
+      "end": 125.573,
+      "pause_end": 126.173
+    },
+    {
+      "id": "L05_A031",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 126.173,
+      "end": 127.473,
+      "pause_end": 128.723
+    },
+    {
+      "id": "L05_A032",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 128.723,
+      "end": 129.843,
+      "pause_end": 134.093
+    },
+    {
+      "id": "L05_A033",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 134.093,
+      "end": 135.393,
+      "pause_end": 136.443
+    },
+    {
+      "id": "L05_A034",
+      "speaker": "instructor",
+      "text": "Listen to how you say: What do you have?",
+      "start": 136.443,
+      "end": 138.963,
+      "pause_end": 139.563
+    },
+    {
+      "id": "L05_A035",
+      "speaker": "arabic",
+      "text": "شو عندكم؟",
+      "start": 139.563,
+      "end": 140.492,
+      "pause_end": 141.742
+    },
+    {
+      "id": "L05_A036",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 141.742,
+      "end": 142.862,
+      "pause_end": 147.112
+    },
+    {
+      "id": "L05_A037",
+      "speaker": "arabic",
+      "text": "شو عندكم؟",
+      "start": 147.112,
+      "end": 148.041,
+      "pause_end": 149.091
+    },
+    {
+      "id": "L05_A038",
+      "speaker": "instructor",
+      "text": "Without help, say: Peace be upon you.",
+      "start": 149.091,
+      "end": 153.171,
+      "pause_end": 158.421
+    },
+    {
+      "id": "L05_A039",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 158.421,
+      "end": 159.582,
+      "pause_end": 160.632
+    },
+    {
+      "id": "L05_A040",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. Peace be upon you.",
+      "start": 160.632,
+      "end": 163.792,
+      "pause_end": 169.042
+    },
+    {
+      "id": "L05_A041",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 169.042,
+      "end": 170.203,
+      "pause_end": 171.253
+    },
+    {
+      "id": "L05_A042",
+      "speaker": "instructor",
+      "text": "Listen to how you say: We have coffee and tea.",
+      "start": 171.253,
+      "end": 174.253,
+      "pause_end": 174.853
+    },
+    {
+      "id": "L05_A043",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 174.853,
+      "end": 176.2,
+      "pause_end": 177.45
+    },
+    {
+      "id": "L05_A044",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 177.45,
+      "end": 178.57,
+      "pause_end": 182.82
+    },
+    {
+      "id": "L05_A045",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 182.82,
+      "end": 184.166,
+      "pause_end": 185.216
+    },
+    {
+      "id": "L05_A046",
+      "speaker": "instructor",
+      "text": "Without help, say: And peace be upon you.",
+      "start": 185.216,
+      "end": 189.016,
+      "pause_end": 194.266
+    },
+    {
+      "id": "L05_A047",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 194.266,
+      "end": 195.567,
+      "pause_end": 196.617
+    },
+    {
+      "id": "L05_A048",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I want tea.",
+      "start": 196.617,
+      "end": 199.137,
+      "pause_end": 199.737
+    },
+    {
+      "id": "L05_A049",
+      "speaker": "arabic",
+      "text": "أبغي شاي",
+      "start": 199.737,
+      "end": 200.712,
+      "pause_end": 201.962
+    },
+    {
+      "id": "L05_A050",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 201.962,
+      "end": 203.082,
+      "pause_end": 207.332
+    },
+    {
+      "id": "L05_A051",
+      "speaker": "arabic",
+      "text": "أبغي شاي",
+      "start": 207.332,
+      "end": 208.307,
+      "pause_end": 209.357
+    },
+    {
+      "id": "L05_A052",
+      "speaker": "instructor",
+      "text": "Without help, say: What do you have?",
+      "start": 209.357,
+      "end": 211.877,
+      "pause_end": 217.127
+    },
+    {
+      "id": "L05_A053",
+      "speaker": "arabic",
+      "text": "شو عندكم؟",
+      "start": 217.127,
+      "end": 218.056,
+      "pause_end": 219.106
+    },
+    {
+      "id": "L05_A054",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I want coffee.",
+      "start": 219.106,
+      "end": 221.746,
+      "pause_end": 222.346
+    },
+    {
+      "id": "L05_A055",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 222.346,
+      "end": 223.507,
+      "pause_end": 224.757
+    },
+    {
+      "id": "L05_A056",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 224.757,
+      "end": 225.877,
+      "pause_end": 230.127
+    },
+    {
+      "id": "L05_A057",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 230.127,
+      "end": 231.288,
+      "pause_end": 232.338
+    },
+    {
+      "id": "L05_A058",
+      "speaker": "instructor",
+      "text": "Without help, say: We have coffee and tea.",
+      "start": 232.338,
+      "end": 236.658,
+      "pause_end": 241.908
+    },
+    {
+      "id": "L05_A059",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 241.908,
+      "end": 243.255,
+      "pause_end": 244.305
+    },
+    {
+      "id": "L05_A060",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. And peace be upon you.",
+      "start": 244.305,
+      "end": 248.425,
+      "pause_end": 253.675
+    },
+    {
+      "id": "L05_A061",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 253.675,
+      "end": 254.975,
+      "pause_end": 256.025
+    },
+    {
+      "id": "L05_A062",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Do you want sugar?",
+      "start": 256.025,
+      "end": 258.865,
+      "pause_end": 259.465
+    },
+    {
+      "id": "L05_A063",
+      "speaker": "arabic_female",
+      "text": "تبغي سكر؟",
+      "start": 259.465,
+      "end": 260.487,
+      "pause_end": 261.737
+    },
+    {
+      "id": "L05_A064",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 261.737,
+      "end": 262.857,
+      "pause_end": 267.107
+    },
+    {
+      "id": "L05_A065",
+      "speaker": "arabic_female",
+      "text": "تبغي سكر؟",
+      "start": 267.107,
+      "end": 268.128,
+      "pause_end": 269.178
+    },
+    {
+      "id": "L05_A066",
+      "speaker": "instructor",
+      "text": "Without help, say: I want tea.",
+      "start": 269.178,
+      "end": 272.538,
+      "pause_end": 277.788
+    },
+    {
+      "id": "L05_A067",
+      "speaker": "arabic",
+      "text": "أبغي شاي",
+      "start": 277.788,
+      "end": 278.764,
+      "pause_end": 279.814
+    },
+    {
+      "id": "L05_A068",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Without sugar.",
+      "start": 279.814,
+      "end": 282.854,
+      "pause_end": 283.454
+    },
+    {
+      "id": "L05_A069",
+      "speaker": "arabic",
+      "text": "بدون سكر",
+      "start": 283.454,
+      "end": 284.568,
+      "pause_end": 285.818
+    },
+    {
+      "id": "L05_A070",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 285.818,
+      "end": 286.938,
+      "pause_end": 291.188
+    },
+    {
+      "id": "L05_A071",
+      "speaker": "arabic",
+      "text": "بدون سكر",
+      "start": 291.188,
+      "end": 292.303,
+      "pause_end": 293.353
+    },
+    {
+      "id": "L05_A072",
+      "speaker": "instructor",
+      "text": "Without help, say: I want coffee.",
+      "start": 293.353,
+      "end": 296.353,
+      "pause_end": 301.603
+    },
+    {
+      "id": "L05_A073",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 301.603,
+      "end": 302.764,
+      "pause_end": 303.814
+    },
+    {
+      "id": "L05_A074",
+      "speaker": "instructor",
+      "text": "Listen to how you say: With sugar.",
+      "start": 303.814,
+      "end": 306.574,
+      "pause_end": 307.174
+    },
+    {
+      "id": "L05_A075",
+      "speaker": "arabic_female",
+      "text": "مع سكر",
+      "start": 307.174,
+      "end": 308.196,
+      "pause_end": 309.446
+    },
+    {
+      "id": "L05_A076",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 309.446,
+      "end": 310.566,
+      "pause_end": 314.816
+    },
+    {
+      "id": "L05_A077",
+      "speaker": "arabic_female",
+      "text": "مع سكر",
+      "start": 314.816,
+      "end": 315.837,
+      "pause_end": 316.887
+    },
+    {
+      "id": "L05_A078",
+      "speaker": "instructor",
+      "text": "Without help, say: Do you want sugar?",
+      "start": 316.887,
+      "end": 319.967,
+      "pause_end": 325.217
+    },
+    {
+      "id": "L05_A079",
+      "speaker": "arabic_female",
+      "text": "تبغي سكر؟",
+      "start": 325.217,
+      "end": 326.239,
+      "pause_end": 327.289
+    },
+    {
+      "id": "L05_A080",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. How are you, said to a man?",
+      "start": 327.289,
+      "end": 331.649,
+      "pause_end": 336.899
+    },
+    {
+      "id": "L05_A081",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 336.899,
+      "end": 337.874,
+      "pause_end": 338.924
+    },
+    {
+      "id": "L05_A082",
+      "speaker": "instructor",
+      "text": "Listen to how you say: How much is the bill?",
+      "start": 338.924,
+      "end": 342.044,
+      "pause_end": 342.644
+    },
+    {
+      "id": "L05_A083",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 342.644,
+      "end": 343.805,
+      "pause_end": 345.055
+    },
+    {
+      "id": "L05_A084",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 345.055,
+      "end": 346.175,
+      "pause_end": 350.425
+    },
+    {
+      "id": "L05_A085",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 350.425,
+      "end": 351.586,
+      "pause_end": 352.636
+    },
+    {
+      "id": "L05_A086",
+      "speaker": "instructor",
+      "text": "Without help, say: Without sugar.",
+      "start": 352.636,
+      "end": 355.676,
+      "pause_end": 360.926
+    },
+    {
+      "id": "L05_A087",
+      "speaker": "arabic",
+      "text": "بدون سكر",
+      "start": 360.926,
+      "end": 362.041,
+      "pause_end": 363.091
+    },
+    {
+      "id": "L05_A088",
+      "speaker": "instructor",
+      "text": "Listen to how you say: The bill is ten dirhams.",
+      "start": 363.091,
+      "end": 366.731,
+      "pause_end": 367.331
+    },
+    {
+      "id": "L05_A089",
+      "speaker": "arabic_female",
+      "text": "الحساب عشرة دراهم",
+      "start": 367.331,
+      "end": 369.049,
+      "pause_end": 370.299
+    },
+    {
+      "id": "L05_A090",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 370.299,
+      "end": 371.419,
+      "pause_end": 375.669
+    },
+    {
+      "id": "L05_A091",
+      "speaker": "arabic_female",
+      "text": "الحساب عشرة دراهم",
+      "start": 375.669,
+      "end": 377.388,
+      "pause_end": 378.438
+    },
+    {
+      "id": "L05_A092",
+      "speaker": "instructor",
+      "text": "Without help, say: With sugar.",
+      "start": 378.438,
+      "end": 381.198,
+      "pause_end": 386.448
+    },
+    {
+      "id": "L05_A093",
+      "speaker": "arabic_female",
+      "text": "مع سكر",
+      "start": 386.448,
+      "end": 387.47,
+      "pause_end": 388.52
+    },
+    {
+      "id": "L05_A094",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Thank you, said to a man.",
+      "start": 388.52,
+      "end": 392.0,
+      "pause_end": 392.6
+    },
+    {
+      "id": "L05_A095",
+      "speaker": "arabic_female",
+      "text": "مشكور",
+      "start": 392.6,
+      "end": 393.528,
+      "pause_end": 394.778
+    },
+    {
+      "id": "L05_A096",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 394.778,
+      "end": 395.898,
+      "pause_end": 400.148
+    },
+    {
+      "id": "L05_A097",
+      "speaker": "arabic_female",
+      "text": "مشكور",
+      "start": 400.148,
+      "end": 401.077,
+      "pause_end": 402.127
+    },
+    {
+      "id": "L05_A098",
+      "speaker": "instructor",
+      "text": "Without help, say: How much is the bill?",
+      "start": 402.127,
+      "end": 405.287,
+      "pause_end": 410.537
+    },
+    {
+      "id": "L05_A099",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 410.537,
+      "end": 411.698,
+      "pause_end": 412.748
+    },
+    {
+      "id": "L05_A100",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. Fine, thank God.",
+      "start": 412.748,
+      "end": 416.508,
+      "pause_end": 421.758
+    },
+    {
+      "id": "L05_A101",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 421.758,
+      "end": 423.57,
+      "pause_end": 424.62
+    },
+    {
+      "id": "L05_A102",
+      "speaker": "instructor",
+      "text": "Listen to how you say: You're welcome.",
+      "start": 424.62,
+      "end": 427.34,
+      "pause_end": 427.94
+    },
+    {
+      "id": "L05_A103",
+      "speaker": "arabic",
+      "text": "العفو",
+      "start": 427.94,
+      "end": 428.776,
+      "pause_end": 430.026
+    },
+    {
+      "id": "L05_A104",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 430.026,
+      "end": 431.146,
+      "pause_end": 435.396
+    },
+    {
+      "id": "L05_A105",
+      "speaker": "arabic",
+      "text": "العفو",
+      "start": 435.396,
+      "end": 436.232,
+      "pause_end": 437.282
+    },
+    {
+      "id": "L05_A106",
+      "speaker": "instructor",
+      "text": "Without help, say: The bill is ten dirhams.",
+      "start": 437.282,
+      "end": 441.082,
+      "pause_end": 446.332
+    },
+    {
+      "id": "L05_A107",
+      "speaker": "arabic_female",
+      "text": "الحساب عشرة دراهم",
+      "start": 446.332,
+      "end": 448.05,
+      "pause_end": 449.1
+    },
+    {
+      "id": "L05_A108",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Goodbye.",
+      "start": 449.1,
+      "end": 451.22,
+      "pause_end": 451.82
+    },
+    {
+      "id": "L05_A109",
+      "speaker": "arabic_female",
+      "text": "مع السلامة",
+      "start": 451.82,
+      "end": 453.12,
+      "pause_end": 454.37
+    },
+    {
+      "id": "L05_A110",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 454.37,
+      "end": 455.49,
+      "pause_end": 459.74
+    },
+    {
+      "id": "L05_A111",
+      "speaker": "arabic_female",
+      "text": "مع السلامة",
+      "start": 459.74,
+      "end": 461.04,
+      "pause_end": 462.09
+    },
+    {
+      "id": "L05_A112",
+      "speaker": "instructor",
+      "text": "Without help, say: Thank you, said to a man.",
+      "start": 462.09,
+      "end": 465.05,
+      "pause_end": 470.3
+    },
+    {
+      "id": "L05_A113",
+      "speaker": "arabic_female",
+      "text": "مشكور",
+      "start": 470.3,
+      "end": 471.229,
+      "pause_end": 472.279
+    },
+    {
+      "id": "L05_A114",
+      "speaker": "instructor",
+      "text": "Now practice a conversation. Speak your part before you hear the answer.",
+      "start": 472.279,
+      "end": 476.359,
+      "pause_end": 477.209
+    },
+    {
+      "id": "L05_A115",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Peace be upon you.",
+      "start": 477.209,
+      "end": 480.409,
+      "pause_end": 485.659
+    },
+    {
+      "id": "L05_A116",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 485.659,
+      "end": 486.82,
+      "pause_end": 487.87
+    },
+    {
+      "id": "L05_A117",
+      "speaker": "instructor",
+      "text": "Say in Arabic: And peace be upon you.",
+      "start": 487.87,
+      "end": 491.47,
+      "pause_end": 496.72
+    },
+    {
+      "id": "L05_A118",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 496.72,
+      "end": 498.021,
+      "pause_end": 499.071
+    },
+    {
+      "id": "L05_A119",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What do you have?",
+      "start": 499.071,
+      "end": 501.631,
+      "pause_end": 506.881
+    },
+    {
+      "id": "L05_A120",
+      "speaker": "arabic",
+      "text": "شو عندكم؟",
+      "start": 506.881,
+      "end": 507.809,
+      "pause_end": 508.859
+    },
+    {
+      "id": "L05_A121",
+      "speaker": "instructor",
+      "text": "Say in Arabic: We have coffee and tea.",
+      "start": 508.859,
+      "end": 511.779,
+      "pause_end": 517.029
+    },
+    {
+      "id": "L05_A122",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 517.029,
+      "end": 518.376,
+      "pause_end": 519.426
+    },
+    {
+      "id": "L05_A123",
+      "speaker": "instructor",
+      "text": "Quick review. Fine, thank God.",
+      "start": 519.426,
+      "end": 522.106,
+      "pause_end": 526.856
+    },
+    {
+      "id": "L05_A124",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 526.856,
+      "end": 528.667,
+      "pause_end": 529.717
+    },
+    {
+      "id": "L05_A125",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want tea.",
+      "start": 529.717,
+      "end": 532.317,
+      "pause_end": 537.567
+    },
+    {
+      "id": "L05_A126",
+      "speaker": "arabic",
+      "text": "أبغي شاي",
+      "start": 537.567,
+      "end": 538.543,
+      "pause_end": 539.593
+    },
+    {
+      "id": "L05_A127",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want coffee.",
+      "start": 539.593,
+      "end": 541.913,
+      "pause_end": 547.163
+    },
+    {
+      "id": "L05_A128",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 547.163,
+      "end": 548.324,
+      "pause_end": 549.374
+    },
+    {
+      "id": "L05_A129",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you want sugar?",
+      "start": 549.374,
+      "end": 552.294,
+      "pause_end": 557.544
+    },
+    {
+      "id": "L05_A130",
+      "speaker": "arabic_female",
+      "text": "تبغي سكر؟",
+      "start": 557.544,
+      "end": 558.565,
+      "pause_end": 559.615
+    },
+    {
+      "id": "L05_A131",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Without sugar.",
+      "start": 559.615,
+      "end": 562.975,
+      "pause_end": 568.225
+    },
+    {
+      "id": "L05_A132",
+      "speaker": "arabic",
+      "text": "بدون سكر",
+      "start": 568.225,
+      "end": 569.34,
+      "pause_end": 570.39
+    },
+    {
+      "id": "L05_A133",
+      "speaker": "instructor",
+      "text": "Quick review. I'm from the Emirates.",
+      "start": 570.39,
+      "end": 573.03,
+      "pause_end": 577.78
+    },
+    {
+      "id": "L05_A134",
+      "speaker": "arabic",
+      "text": "أنا من الإمارات",
+      "start": 577.78,
+      "end": 579.08,
+      "pause_end": 580.13
+    },
+    {
+      "id": "L05_A135",
+      "speaker": "instructor",
+      "text": "Say in Arabic: With sugar.",
+      "start": 580.13,
+      "end": 582.77,
+      "pause_end": 588.02
+    },
+    {
+      "id": "L05_A136",
+      "speaker": "arabic_female",
+      "text": "مع سكر",
+      "start": 588.02,
+      "end": 589.042,
+      "pause_end": 590.092
+    },
+    {
+      "id": "L05_A137",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How much is the bill?",
+      "start": 590.092,
+      "end": 592.732,
+      "pause_end": 597.982
+    },
+    {
+      "id": "L05_A138",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 597.982,
+      "end": 599.143,
+      "pause_end": 600.193
+    },
+    {
+      "id": "L05_A139",
+      "speaker": "instructor",
+      "text": "Say in Arabic: The bill is ten dirhams.",
+      "start": 600.193,
+      "end": 604.433,
+      "pause_end": 609.683
+    },
+    {
+      "id": "L05_A140",
+      "speaker": "arabic_female",
+      "text": "الحساب عشرة دراهم",
+      "start": 609.683,
+      "end": 611.401,
+      "pause_end": 612.451
+    },
+    {
+      "id": "L05_A141",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Thank you, said to a man.",
+      "start": 612.451,
+      "end": 616.931,
+      "pause_end": 622.181
+    },
+    {
+      "id": "L05_A142",
+      "speaker": "arabic_female",
+      "text": "مشكور",
+      "start": 622.181,
+      "end": 623.11,
+      "pause_end": 624.16
+    },
+    {
+      "id": "L05_A143",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 624.16,
+      "end": 626.96,
+      "pause_end": 631.71
+    },
+    {
+      "id": "L05_A144",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 631.71,
+      "end": 632.686,
+      "pause_end": 633.736
+    },
+    {
+      "id": "L05_A145",
+      "speaker": "instructor",
+      "text": "Say in Arabic: You're welcome.",
+      "start": 633.736,
+      "end": 636.576,
+      "pause_end": 641.826
+    },
+    {
+      "id": "L05_A146",
+      "speaker": "arabic",
+      "text": "العفو",
+      "start": 641.826,
+      "end": 642.662,
+      "pause_end": 643.712
+    },
+    {
+      "id": "L05_A147",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Goodbye.",
+      "start": 643.712,
+      "end": 646.351,
+      "pause_end": 651.601
+    },
+    {
+      "id": "L05_A148",
+      "speaker": "arabic_female",
+      "text": "مع السلامة",
+      "start": 651.601,
+      "end": 652.902,
+      "pause_end": 653.952
+    },
+    {
+      "id": "L05_A149",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Peace be upon you.",
+      "start": 653.952,
+      "end": 657.152,
+      "pause_end": 662.402
+    },
+    {
+      "id": "L05_A150",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 662.402,
+      "end": 663.563,
+      "pause_end": 664.613
+    },
+    {
+      "id": "L05_A151",
+      "speaker": "instructor",
+      "text": "Say in Arabic: And peace be upon you.",
+      "start": 664.613,
+      "end": 668.213,
+      "pause_end": 673.463
+    },
+    {
+      "id": "L05_A152",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 673.463,
+      "end": 674.763,
+      "pause_end": 675.813
+    },
+    {
+      "id": "L05_A153",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What do you have?",
+      "start": 675.813,
+      "end": 678.373,
+      "pause_end": 683.623
+    },
+    {
+      "id": "L05_A154",
+      "speaker": "arabic",
+      "text": "شو عندكم؟",
+      "start": 683.623,
+      "end": 684.552,
+      "pause_end": 685.602
+    },
+    {
+      "id": "L05_A155",
+      "speaker": "instructor",
+      "text": "Say in Arabic: We have coffee and tea.",
+      "start": 685.602,
+      "end": 688.522,
+      "pause_end": 693.772
+    },
+    {
+      "id": "L05_A156",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 693.772,
+      "end": 695.119,
+      "pause_end": 696.169
+    },
+    {
+      "id": "L05_A157",
+      "speaker": "instructor",
+      "text": "Quick review. I'm from the Emirates.",
+      "start": 696.169,
+      "end": 698.809,
+      "pause_end": 703.559
+    },
+    {
+      "id": "L05_A158",
+      "speaker": "arabic",
+      "text": "أنا من الإمارات",
+      "start": 703.559,
+      "end": 704.859,
+      "pause_end": 705.909
+    },
+    {
+      "id": "L05_A159",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want tea.",
+      "start": 705.909,
+      "end": 708.509,
+      "pause_end": 713.759
+    },
+    {
+      "id": "L05_A160",
+      "speaker": "arabic",
+      "text": "أبغي شاي",
+      "start": 713.759,
+      "end": 714.734,
+      "pause_end": 715.784
+    },
+    {
+      "id": "L05_A161",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want coffee.",
+      "start": 715.784,
+      "end": 718.104,
+      "pause_end": 723.354
+    },
+    {
+      "id": "L05_A162",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 723.354,
+      "end": 724.515,
+      "pause_end": 725.565
+    },
+    {
+      "id": "L05_A163",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you want sugar?",
+      "start": 725.565,
+      "end": 728.485,
+      "pause_end": 733.735
+    },
+    {
+      "id": "L05_A164",
+      "speaker": "arabic_female",
+      "text": "تبغي سكر؟",
+      "start": 733.735,
+      "end": 734.757,
+      "pause_end": 735.807
+    },
+    {
+      "id": "L05_A165",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Without sugar.",
+      "start": 735.807,
+      "end": 739.167,
+      "pause_end": 744.417
+    },
+    {
+      "id": "L05_A166",
+      "speaker": "arabic",
+      "text": "بدون سكر",
+      "start": 744.417,
+      "end": 745.531,
+      "pause_end": 746.581
+    },
+    {
+      "id": "L05_A167",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 746.581,
+      "end": 749.381,
+      "pause_end": 754.131
+    },
+    {
+      "id": "L05_A168",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 754.131,
+      "end": 755.107,
+      "pause_end": 756.157
+    },
+    {
+      "id": "L05_A169",
+      "speaker": "instructor",
+      "text": "Say in Arabic: With sugar.",
+      "start": 756.157,
+      "end": 758.797,
+      "pause_end": 764.047
+    },
+    {
+      "id": "L05_A170",
+      "speaker": "arabic_female",
+      "text": "مع سكر",
+      "start": 764.047,
+      "end": 765.068,
+      "pause_end": 766.118
+    },
+    {
+      "id": "L05_A171",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How much is the bill?",
+      "start": 766.118,
+      "end": 768.758,
+      "pause_end": 774.008
+    },
+    {
+      "id": "L05_A172",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 774.008,
+      "end": 775.169,
+      "pause_end": 776.219
+    },
+    {
+      "id": "L05_A173",
+      "speaker": "instructor",
+      "text": "Say in Arabic: The bill is ten dirhams.",
+      "start": 776.219,
+      "end": 780.459,
+      "pause_end": 785.709
+    },
+    {
+      "id": "L05_A174",
+      "speaker": "arabic_female",
+      "text": "الحساب عشرة دراهم",
+      "start": 785.709,
+      "end": 787.428,
+      "pause_end": 788.478
+    },
+    {
+      "id": "L05_A175",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Thank you, said to a man.",
+      "start": 788.478,
+      "end": 792.958,
+      "pause_end": 798.208
+    },
+    {
+      "id": "L05_A176",
+      "speaker": "arabic_female",
+      "text": "مشكور",
+      "start": 798.208,
+      "end": 799.137,
+      "pause_end": 800.187
+    },
+    {
+      "id": "L05_A177",
+      "speaker": "instructor",
+      "text": "Quick review. Where are you from?",
+      "start": 800.187,
+      "end": 802.267,
+      "pause_end": 807.017
+    },
+    {
+      "id": "L05_A178",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 807.017,
+      "end": 808.038,
+      "pause_end": 809.088
+    },
+    {
+      "id": "L05_A179",
+      "speaker": "instructor",
+      "text": "Say in Arabic: You're welcome.",
+      "start": 809.088,
+      "end": 811.928,
+      "pause_end": 817.178
+    },
+    {
+      "id": "L05_A180",
+      "speaker": "arabic",
+      "text": "العفو",
+      "start": 817.178,
+      "end": 818.014,
+      "pause_end": 819.064
+    },
+    {
+      "id": "L05_A181",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Goodbye.",
+      "start": 819.064,
+      "end": 821.704,
+      "pause_end": 826.954
+    },
+    {
+      "id": "L05_A182",
+      "speaker": "arabic_female",
+      "text": "مع السلامة",
+      "start": 826.954,
+      "end": 828.255,
+      "pause_end": 829.305
+    },
+    {
+      "id": "L05_A183",
+      "speaker": "instructor",
+      "text": "Answer naturally: Peace be upon you.",
+      "start": 829.305,
+      "end": 831.905,
+      "pause_end": 837.655
+    },
+    {
+      "id": "L05_A184",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 837.655,
+      "end": 838.816,
+      "pause_end": 839.866
+    },
+    {
+      "id": "L05_A185",
+      "speaker": "instructor",
+      "text": "Answer naturally: And peace be upon you.",
+      "start": 839.866,
+      "end": 843.226,
+      "pause_end": 848.976
+    },
+    {
+      "id": "L05_A186",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 848.976,
+      "end": 850.276,
+      "pause_end": 851.326
+    },
+    {
+      "id": "L05_A187",
+      "speaker": "instructor",
+      "text": "Answer naturally: What do you have?",
+      "start": 851.326,
+      "end": 854.046,
+      "pause_end": 859.796
+    },
+    {
+      "id": "L05_A188",
+      "speaker": "arabic",
+      "text": "شو عندكم؟",
+      "start": 859.796,
+      "end": 860.725,
+      "pause_end": 861.775
+    },
+    {
+      "id": "L05_A189",
+      "speaker": "instructor",
+      "text": "Answer naturally: We have coffee and tea.",
+      "start": 861.775,
+      "end": 865.335,
+      "pause_end": 871.085
+    },
+    {
+      "id": "L05_A190",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 871.085,
+      "end": 872.432,
+      "pause_end": 873.482
+    },
+    {
+      "id": "L05_A191",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 873.482,
+      "end": 876.282,
+      "pause_end": 881.032
+    },
+    {
+      "id": "L05_A192",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 881.032,
+      "end": 882.007,
+      "pause_end": 883.057
+    },
+    {
+      "id": "L05_A193",
+      "speaker": "instructor",
+      "text": "Answer naturally: I want tea.",
+      "start": 883.057,
+      "end": 885.737,
+      "pause_end": 891.487
+    },
+    {
+      "id": "L05_A194",
+      "speaker": "arabic",
+      "text": "أبغي شاي",
+      "start": 891.487,
+      "end": 892.462,
+      "pause_end": 893.512
+    },
+    {
+      "id": "L05_A195",
+      "speaker": "instructor",
+      "text": "Answer naturally: I want coffee.",
+      "start": 893.512,
+      "end": 896.072,
+      "pause_end": 901.822
+    },
+    {
+      "id": "L05_A196",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 901.822,
+      "end": 902.983,
+      "pause_end": 904.033
+    },
+    {
+      "id": "L05_A197",
+      "speaker": "instructor",
+      "text": "Answer naturally: Do you want sugar?",
+      "start": 904.033,
+      "end": 906.673,
+      "pause_end": 912.423
+    },
+    {
+      "id": "L05_A198",
+      "speaker": "arabic_female",
+      "text": "تبغي سكر؟",
+      "start": 912.423,
+      "end": 913.445,
+      "pause_end": 914.495
+    },
+    {
+      "id": "L05_A199",
+      "speaker": "instructor",
+      "text": "Answer naturally: Without sugar.",
+      "start": 914.495,
+      "end": 917.015,
+      "pause_end": 922.765
+    },
+    {
+      "id": "L05_A200",
+      "speaker": "arabic",
+      "text": "بدون سكر",
+      "start": 922.765,
+      "end": 923.879,
+      "pause_end": 924.929
+    },
+    {
+      "id": "L05_A201",
+      "speaker": "instructor",
+      "text": "Quick review. Where are you from?",
+      "start": 924.929,
+      "end": 927.009,
+      "pause_end": 931.759
+    },
+    {
+      "id": "L05_A202",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 931.759,
+      "end": 932.781,
+      "pause_end": 933.831
+    },
+    {
+      "id": "L05_A203",
+      "speaker": "instructor",
+      "text": "Answer naturally: With sugar.",
+      "start": 933.831,
+      "end": 936.151,
+      "pause_end": 941.901
+    },
+    {
+      "id": "L05_A204",
+      "speaker": "arabic_female",
+      "text": "مع سكر",
+      "start": 941.901,
+      "end": 942.923,
+      "pause_end": 943.973
+    },
+    {
+      "id": "L05_A205",
+      "speaker": "instructor",
+      "text": "Answer naturally: How much is the bill?",
+      "start": 943.973,
+      "end": 947.493,
+      "pause_end": 953.243
+    },
+    {
+      "id": "L05_A206",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 953.243,
+      "end": 954.404,
+      "pause_end": 955.454
+    },
+    {
+      "id": "L05_A207",
+      "speaker": "instructor",
+      "text": "Answer naturally: The bill is ten dirhams.",
+      "start": 955.454,
+      "end": 958.774,
+      "pause_end": 964.524
+    },
+    {
+      "id": "L05_A208",
+      "speaker": "arabic_female",
+      "text": "الحساب عشرة دراهم",
+      "start": 964.524,
+      "end": 966.242,
+      "pause_end": 967.292
+    },
+    {
+      "id": "L05_A209",
+      "speaker": "instructor",
+      "text": "Answer naturally: Thank you, said to a man.",
+      "start": 967.292,
+      "end": 970.692,
+      "pause_end": 976.442
+    },
+    {
+      "id": "L05_A210",
+      "speaker": "arabic_female",
+      "text": "مشكور",
+      "start": 976.442,
+      "end": 977.371,
+      "pause_end": 978.421
+    },
+    {
+      "id": "L05_A211",
+      "speaker": "instructor",
+      "text": "Quick review. And peace be upon you.",
+      "start": 978.421,
+      "end": 981.101,
+      "pause_end": 985.851
+    },
+    {
+      "id": "L05_A212",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 985.851,
+      "end": 987.151,
+      "pause_end": 988.201
+    },
+    {
+      "id": "L05_A213",
+      "speaker": "instructor",
+      "text": "Answer naturally: You're welcome.",
+      "start": 988.201,
+      "end": 990.881,
+      "pause_end": 996.631
+    },
+    {
+      "id": "L05_A214",
+      "speaker": "arabic",
+      "text": "العفو",
+      "start": 996.631,
+      "end": 997.467,
+      "pause_end": 998.517
+    },
+    {
+      "id": "L05_A215",
+      "speaker": "instructor",
+      "text": "Answer naturally: Goodbye.",
+      "start": 998.517,
+      "end": 1000.677,
+      "pause_end": 1006.427
+    },
+    {
+      "id": "L05_A216",
+      "speaker": "arabic_female",
+      "text": "مع السلامة",
+      "start": 1006.427,
+      "end": 1007.728,
+      "pause_end": 1008.778
+    },
+    {
+      "id": "L05_A217",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer without hesitation.",
+      "start": 1008.778,
+      "end": 1012.098,
+      "pause_end": 1012.848
+    },
+    {
+      "id": "L05_A218",
+      "speaker": "instructor",
+      "text": "How would you say: Goodbye.",
+      "start": 1012.848,
+      "end": 1014.928,
+      "pause_end": 1020.678
+    },
+    {
+      "id": "L05_A219",
+      "speaker": "arabic_female",
+      "text": "مع السلامة",
+      "start": 1020.678,
+      "end": 1021.978,
+      "pause_end": 1023.028
+    },
+    {
+      "id": "L05_A220",
+      "speaker": "instructor",
+      "text": "How would you say: And peace be upon you.",
+      "start": 1023.028,
+      "end": 1025.948,
+      "pause_end": 1031.698
+    },
+    {
+      "id": "L05_A221",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 1031.698,
+      "end": 1032.998,
+      "pause_end": 1034.048
+    },
+    {
+      "id": "L05_A222",
+      "speaker": "instructor",
+      "text": "How would you say: Peace be upon you.",
+      "start": 1034.048,
+      "end": 1036.928,
+      "pause_end": 1042.678
+    },
+    {
+      "id": "L05_A223",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 1042.678,
+      "end": 1043.839,
+      "pause_end": 1044.889
+    },
+    {
+      "id": "L05_A224",
+      "speaker": "instructor",
+      "text": "How would you say: Without sugar.",
+      "start": 1044.889,
+      "end": 1047.969,
+      "pause_end": 1053.719
+    },
+    {
+      "id": "L05_A225",
+      "speaker": "arabic",
+      "text": "بدون سكر",
+      "start": 1053.719,
+      "end": 1054.834,
+      "pause_end": 1055.884
+    },
+    {
+      "id": "L05_A226",
+      "speaker": "instructor",
+      "text": "How would you say: We have coffee and tea.",
+      "start": 1055.884,
+      "end": 1058.884,
+      "pause_end": 1064.634
+    },
+    {
+      "id": "L05_A227",
+      "speaker": "arabic_female",
+      "text": "عندنا قهوة وشاي",
+      "start": 1064.634,
+      "end": 1065.981,
+      "pause_end": 1067.031
+    },
+    {
+      "id": "L05_A228",
+      "speaker": "instructor",
+      "text": "How would you say: You're welcome.",
+      "start": 1067.031,
+      "end": 1069.591,
+      "pause_end": 1075.341
+    },
+    {
+      "id": "L05_A229",
+      "speaker": "arabic",
+      "text": "العفو",
+      "start": 1075.341,
+      "end": 1076.177,
+      "pause_end": 1077.227
+    },
+    {
+      "id": "L05_A230",
+      "speaker": "instructor",
+      "text": "Good work. Review this lesson again before moving on.",
+      "start": 1077.227,
+      "end": 1080.267,
+      "pause_end": 1081.017
+    }
+  ]
+}

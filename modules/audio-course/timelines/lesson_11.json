@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L11_A001",
+      "speaker": "instructor",
+      "text": "Lesson 11. At a Restaurant. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 5.44,
+      "pause_end": 6.39
+    },
+    {
+      "id": "L11_A002",
+      "speaker": "instructor",
+      "text": "First, a quick review. Answer before you hear the speaker.",
+      "start": 6.39,
+      "end": 10.11,
+      "pause_end": 11.06
+    },
+    {
+      "id": "L11_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 11.06,
+      "end": 13.58,
+      "pause_end": 18.03
+    },
+    {
+      "id": "L11_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 18.03,
+      "end": 19.191,
+      "pause_end": 20.291
+    },
+    {
+      "id": "L11_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 20.291,
+      "end": 23.451,
+      "pause_end": 27.901
+    },
+    {
+      "id": "L11_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 27.901,
+      "end": 28.876,
+      "pause_end": 29.976
+    },
+    {
+      "id": "L11_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask someone their name.",
+      "start": 29.976,
+      "end": 33.256,
+      "pause_end": 37.706
+    },
+    {
+      "id": "L11_A008",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 37.706,
+      "end": 38.542,
+      "pause_end": 39.642
+    },
+    {
+      "id": "L11_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask where someone is from.",
+      "start": 39.642,
+      "end": 43.442,
+      "pause_end": 47.892
+    },
+    {
+      "id": "L11_A010",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 47.892,
+      "end": 49.007,
+      "pause_end": 50.107
+    },
+    {
+      "id": "L11_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 50.107,
+      "end": 53.507,
+      "pause_end": 57.957
+    },
+    {
+      "id": "L11_A012",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 57.957,
+      "end": 59.025,
+      "pause_end": 60.125
+    },
+    {
+      "id": "L11_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 60.125,
+      "end": 63.765,
+      "pause_end": 68.215
+    },
+    {
+      "id": "L11_A014",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 68.215,
+      "end": 69.19,
+      "pause_end": 70.29
+    },
+    {
+      "id": "L11_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few useful expressions for today.",
+      "start": 70.29,
+      "end": 73.09,
+      "pause_end": 73.84
+    },
+    {
+      "id": "L11_A016",
+      "speaker": "instructor",
+      "text": "Listen. Do you have a table for two?",
+      "start": 73.84,
+      "end": 75.92,
+      "pause_end": 76.57
+    },
+    {
+      "id": "L11_A017",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 76.57,
+      "end": 78.242,
+      "pause_end": 79.492
+    },
+    {
+      "id": "L11_A018",
+      "speaker": "instructor",
+      "text": "Listen. Yes, please come in.",
+      "start": 79.492,
+      "end": 82.292,
+      "pause_end": 82.942
+    },
+    {
+      "id": "L11_A019",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 82.942,
+      "end": 84.103,
+      "pause_end": 85.353
+    },
+    {
+      "id": "L11_A020",
+      "speaker": "instructor",
+      "text": "Listen. Can I have the menu?",
+      "start": 85.353,
+      "end": 87.273,
+      "pause_end": 87.923
+    },
+    {
+      "id": "L11_A021",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 87.923,
+      "end": 89.084,
+      "pause_end": 90.334
+    },
+    {
+      "id": "L11_A022",
+      "speaker": "instructor",
+      "text": "Listen. What do you recommend? Ask a woman.",
+      "start": 90.334,
+      "end": 93.414,
+      "pause_end": 94.064
+    },
+    {
+      "id": "L11_A023",
+      "speaker": "arabic",
+      "text": "شو تنصحين؟",
+      "start": 94.064,
+      "end": 95.132,
+      "pause_end": 96.382
+    },
+    {
+      "id": "L11_A024",
+      "speaker": "instructor",
+      "text": "Listen. I recommend the machboos.",
+      "start": 96.382,
+      "end": 98.822,
+      "pause_end": 99.472
+    },
+    {
+      "id": "L11_A025",
+      "speaker": "arabic_female",
+      "text": "أنصحك بالمجبوس",
+      "start": 99.472,
+      "end": 100.819,
+      "pause_end": 102.069
+    },
+    {
+      "id": "L11_A026",
+      "speaker": "instructor",
+      "text": "Now say each expression yourself.",
+      "start": 102.069,
+      "end": 104.949,
+      "pause_end": 105.699
+    },
+    {
+      "id": "L11_A027",
+      "speaker": "instructor",
+      "text": "Listen. Do you have a table for two?",
+      "start": 105.699,
+      "end": 107.779,
+      "pause_end": 108.379
+    },
+    {
+      "id": "L11_A028",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 108.379,
+      "end": 110.051,
+      "pause_end": 111.301
+    },
+    {
+      "id": "L11_A029",
+      "speaker": "instructor",
+      "text": "Your turn. Do you have a table for two?",
+      "start": 111.301,
+      "end": 113.941,
+      "pause_end": 118.691
+    },
+    {
+      "id": "L11_A030",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 118.691,
+      "end": 120.363,
+      "pause_end": 121.463
+    },
+    {
+      "id": "L11_A031",
+      "speaker": "instructor",
+      "text": "Listen. Yes, please come in.",
+      "start": 121.463,
+      "end": 124.263,
+      "pause_end": 124.863
+    },
+    {
+      "id": "L11_A032",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 124.863,
+      "end": 126.024,
+      "pause_end": 127.274
+    },
+    {
+      "id": "L11_A033",
+      "speaker": "instructor",
+      "text": "Your turn. Yes, please come in.",
+      "start": 127.274,
+      "end": 129.794,
+      "pause_end": 134.544
+    },
+    {
+      "id": "L11_A034",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 134.544,
+      "end": 135.705,
+      "pause_end": 136.805
+    },
+    {
+      "id": "L11_A035",
+      "speaker": "instructor",
+      "text": "Listen. Can I have the menu?",
+      "start": 136.805,
+      "end": 138.725,
+      "pause_end": 139.325
+    },
+    {
+      "id": "L11_A036",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 139.325,
+      "end": 140.486,
+      "pause_end": 141.736
+    },
+    {
+      "id": "L11_A037",
+      "speaker": "instructor",
+      "text": "Your turn. Can I have the menu?",
+      "start": 141.736,
+      "end": 143.736,
+      "pause_end": 148.486
+    },
+    {
+      "id": "L11_A038",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 148.486,
+      "end": 149.647,
+      "pause_end": 150.747
+    },
+    {
+      "id": "L11_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do you have a table for two?",
+      "start": 150.747,
+      "end": 153.667,
+      "pause_end": 159.117
+    },
+    {
+      "id": "L11_A040",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 159.117,
+      "end": 160.789,
+      "pause_end": 161.889
+    },
+    {
+      "id": "L11_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask someone their name.",
+      "start": 161.889,
+      "end": 164.809,
+      "pause_end": 169.559
+    },
+    {
+      "id": "L11_A042",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 169.559,
+      "end": 170.395,
+      "pause_end": 171.495
+    },
+    {
+      "id": "L11_A043",
+      "speaker": "instructor",
+      "text": "Listen. What do you recommend? Ask a woman.",
+      "start": 171.495,
+      "end": 174.575,
+      "pause_end": 175.175
+    },
+    {
+      "id": "L11_A044",
+      "speaker": "arabic",
+      "text": "شو تنصحين؟",
+      "start": 175.175,
+      "end": 176.243,
+      "pause_end": 177.493
+    },
+    {
+      "id": "L11_A045",
+      "speaker": "instructor",
+      "text": "Your turn. What do you recommend? Ask a woman.",
+      "start": 177.493,
+      "end": 181.093,
+      "pause_end": 185.843
+    },
+    {
+      "id": "L11_A046",
+      "speaker": "arabic",
+      "text": "شو تنصحين؟",
+      "start": 185.843,
+      "end": 186.911,
+      "pause_end": 188.011
+    },
+    {
+      "id": "L11_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: Yes, please come in.",
+      "start": 188.011,
+      "end": 191.291,
+      "pause_end": 196.741
+    },
+    {
+      "id": "L11_A048",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 196.741,
+      "end": 197.902,
+      "pause_end": 199.002
+    },
+    {
+      "id": "L11_A049",
+      "speaker": "instructor",
+      "text": "Listen. I recommend the machboos.",
+      "start": 199.002,
+      "end": 201.442,
+      "pause_end": 202.042
+    },
+    {
+      "id": "L11_A050",
+      "speaker": "arabic_female",
+      "text": "أنصحك بالمجبوس",
+      "start": 202.042,
+      "end": 203.389,
+      "pause_end": 204.639
+    },
+    {
+      "id": "L11_A051",
+      "speaker": "instructor",
+      "text": "Your turn. I recommend the machboos.",
+      "start": 204.639,
+      "end": 207.439,
+      "pause_end": 212.189
+    },
+    {
+      "id": "L11_A052",
+      "speaker": "arabic_female",
+      "text": "أنصحك بالمجبوس",
+      "start": 212.189,
+      "end": 213.535,
+      "pause_end": 214.635
+    },
+    {
+      "id": "L11_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: Can I have the menu?",
+      "start": 214.635,
+      "end": 217.475,
+      "pause_end": 222.925
+    },
+    {
+      "id": "L11_A054",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 222.925,
+      "end": 224.086,
+      "pause_end": 225.186
+    },
+    {
+      "id": "L11_A055",
+      "speaker": "instructor",
+      "text": "Listen. I want chicken machboos.",
+      "start": 225.186,
+      "end": 227.506,
+      "pause_end": 228.106
+    },
+    {
+      "id": "L11_A056",
+      "speaker": "arabic",
+      "text": "أبغي مجبوس دياي",
+      "start": 228.106,
+      "end": 229.546,
+      "pause_end": 230.796
+    },
+    {
+      "id": "L11_A057",
+      "speaker": "instructor",
+      "text": "Your turn. I want chicken machboos.",
+      "start": 230.796,
+      "end": 234.116,
+      "pause_end": 238.866
+    },
+    {
+      "id": "L11_A058",
+      "speaker": "arabic",
+      "text": "أبغي مجبوس دياي",
+      "start": 238.866,
+      "end": 240.306,
+      "pause_end": 241.406
+    },
+    {
+      "id": "L11_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: What do you recommend? Ask a woman.",
+      "start": 241.406,
+      "end": 245.566,
+      "pause_end": 251.016
+    },
+    {
+      "id": "L11_A060",
+      "speaker": "arabic",
+      "text": "شو تنصحين؟",
+      "start": 251.016,
+      "end": 252.084,
+      "pause_end": 253.184
+    },
+    {
+      "id": "L11_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Ask where someone is from.",
+      "start": 253.184,
+      "end": 256.064,
+      "pause_end": 260.814
+    },
+    {
+      "id": "L11_A062",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 260.814,
+      "end": 261.928,
+      "pause_end": 263.028
+    },
+    {
+      "id": "L11_A063",
+      "speaker": "instructor",
+      "text": "Listen. And I want fish.",
+      "start": 263.028,
+      "end": 264.988,
+      "pause_end": 265.588
+    },
+    {
+      "id": "L11_A064",
+      "speaker": "arabic_female",
+      "text": "وأنا أبغي سمك",
+      "start": 265.588,
+      "end": 266.982,
+      "pause_end": 268.232
+    },
+    {
+      "id": "L11_A065",
+      "speaker": "instructor",
+      "text": "Your turn. And I want fish.",
+      "start": 268.232,
+      "end": 270.512,
+      "pause_end": 275.262
+    },
+    {
+      "id": "L11_A066",
+      "speaker": "arabic_female",
+      "text": "وأنا أبغي سمك",
+      "start": 275.262,
+      "end": 276.655,
+      "pause_end": 277.755
+    },
+    {
+      "id": "L11_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: I recommend the machboos.",
+      "start": 277.755,
+      "end": 280.995,
+      "pause_end": 286.445
+    },
+    {
+      "id": "L11_A068",
+      "speaker": "arabic_female",
+      "text": "أنصحك بالمجبوس",
+      "start": 286.445,
+      "end": 287.792,
+      "pause_end": 288.892
+    },
+    {
+      "id": "L11_A069",
+      "speaker": "instructor",
+      "text": "Listen. Would you like something to drink?",
+      "start": 288.892,
+      "end": 291.372,
+      "pause_end": 291.972
+    },
+    {
+      "id": "L11_A070",
+      "speaker": "arabic_female",
+      "text": "تبغون شي تشربونه؟",
+      "start": 291.972,
+      "end": 293.458,
+      "pause_end": 294.708
+    },
+    {
+      "id": "L11_A071",
+      "speaker": "instructor",
+      "text": "Your turn. Would you like something to drink?",
+      "start": 294.708,
+      "end": 297.068,
+      "pause_end": 301.818
+    },
+    {
+      "id": "L11_A072",
+      "speaker": "arabic_female",
+      "text": "تبغون شي تشربونه؟",
+      "start": 301.818,
+      "end": 303.304,
+      "pause_end": 304.404
+    },
+    {
+      "id": "L11_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: I want chicken machboos.",
+      "start": 304.404,
+      "end": 307.724,
+      "pause_end": 313.174
+    },
+    {
+      "id": "L11_A074",
+      "speaker": "arabic",
+      "text": "أبغي مجبوس دياي",
+      "start": 313.174,
+      "end": 314.613,
+      "pause_end": 315.714
+    },
+    {
+      "id": "L11_A075",
+      "speaker": "instructor",
+      "text": "Listen. Cold water, please. Said to a woman.",
+      "start": 315.714,
+      "end": 319.113,
+      "pause_end": 319.714
+    },
+    {
+      "id": "L11_A076",
+      "speaker": "arabic",
+      "text": "ماي بارد، لو سمحتي",
+      "start": 319.714,
+      "end": 321.293,
+      "pause_end": 322.543
+    },
+    {
+      "id": "L11_A077",
+      "speaker": "instructor",
+      "text": "Your turn. Cold water, please. Said to a woman.",
+      "start": 322.543,
+      "end": 326.103,
+      "pause_end": 330.853
+    },
+    {
+      "id": "L11_A078",
+      "speaker": "arabic",
+      "text": "ماي بارد، لو سمحتي",
+      "start": 330.853,
+      "end": 332.432,
+      "pause_end": 333.532
+    },
+    {
+      "id": "L11_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: And I want fish.",
+      "start": 333.532,
+      "end": 336.452,
+      "pause_end": 341.902
+    },
+    {
+      "id": "L11_A080",
+      "speaker": "arabic_female",
+      "text": "وأنا أبغي سمك",
+      "start": 341.902,
+      "end": 343.295,
+      "pause_end": 344.395
+    },
+    {
+      "id": "L11_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 344.395,
+      "end": 347.275,
+      "pause_end": 352.025
+    },
+    {
+      "id": "L11_A082",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 352.025,
+      "end": 353.093,
+      "pause_end": 354.193
+    },
+    {
+      "id": "L11_A083",
+      "speaker": "instructor",
+      "text": "Listen. The food is very tasty.",
+      "start": 354.193,
+      "end": 356.953,
+      "pause_end": 357.553
+    },
+    {
+      "id": "L11_A084",
+      "speaker": "arabic_female",
+      "text": "الأكل وايد لذيذ",
+      "start": 357.553,
+      "end": 359.178,
+      "pause_end": 360.428
+    },
+    {
+      "id": "L11_A085",
+      "speaker": "instructor",
+      "text": "Your turn. The food is very tasty.",
+      "start": 360.428,
+      "end": 363.588,
+      "pause_end": 368.338
+    },
+    {
+      "id": "L11_A086",
+      "speaker": "arabic_female",
+      "text": "الأكل وايد لذيذ",
+      "start": 368.338,
+      "end": 369.964,
+      "pause_end": 371.064
+    },
+    {
+      "id": "L11_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: Would you like something to drink?",
+      "start": 371.064,
+      "end": 373.784,
+      "pause_end": 379.234
+    },
+    {
+      "id": "L11_A088",
+      "speaker": "arabic_female",
+      "text": "تبغون شي تشربونه؟",
+      "start": 379.234,
+      "end": 380.72,
+      "pause_end": 381.82
+    },
+    {
+      "id": "L11_A089",
+      "speaker": "instructor",
+      "text": "Listen. Could we have the bill?",
+      "start": 381.82,
+      "end": 384.06,
+      "pause_end": 384.66
+    },
+    {
+      "id": "L11_A090",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 384.66,
+      "end": 385.914,
+      "pause_end": 387.164
+    },
+    {
+      "id": "L11_A091",
+      "speaker": "instructor",
+      "text": "Your turn. Could we have the bill?",
+      "start": 387.164,
+      "end": 389.524,
+      "pause_end": 394.274
+    },
+    {
+      "id": "L11_A092",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 394.274,
+      "end": 395.528,
+      "pause_end": 396.628
+    },
+    {
+      "id": "L11_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: Cold water, please. Said to a woman.",
+      "start": 396.628,
+      "end": 400.468,
+      "pause_end": 405.918
+    },
+    {
+      "id": "L11_A094",
+      "speaker": "arabic",
+      "text": "ماي بارد، لو سمحتي",
+      "start": 405.918,
+      "end": 407.497,
+      "pause_end": 408.597
+    },
+    {
+      "id": "L11_A095",
+      "speaker": "instructor",
+      "text": "Listen. We will pay by card.",
+      "start": 408.597,
+      "end": 410.517,
+      "pause_end": 411.117
+    },
+    {
+      "id": "L11_A096",
+      "speaker": "arabic_female",
+      "text": "بندفع بالبطاقة",
+      "start": 411.117,
+      "end": 412.417,
+      "pause_end": 413.667
+    },
+    {
+      "id": "L11_A097",
+      "speaker": "instructor",
+      "text": "Your turn. We will pay by card.",
+      "start": 413.667,
+      "end": 416.107,
+      "pause_end": 420.857
+    },
+    {
+      "id": "L11_A098",
+      "speaker": "arabic_female",
+      "text": "بندفع بالبطاقة",
+      "start": 420.857,
+      "end": 422.157,
+      "pause_end": 423.257
+    },
+    {
+      "id": "L11_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: The food is very tasty.",
+      "start": 423.257,
+      "end": 426.577,
+      "pause_end": 432.027
+    },
+    {
+      "id": "L11_A100",
+      "speaker": "arabic_female",
+      "text": "الأكل وايد لذيذ",
+      "start": 432.027,
+      "end": 433.652,
+      "pause_end": 434.752
+    },
+    {
+      "id": "L11_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 434.752,
+      "end": 437.472,
+      "pause_end": 442.222
+    },
+    {
+      "id": "L11_A102",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 442.222,
+      "end": 443.198,
+      "pause_end": 444.298
+    },
+    {
+      "id": "L11_A103",
+      "speaker": "instructor",
+      "text": "Listen. Thank you for your effort. Said to a woman.",
+      "start": 444.298,
+      "end": 447.938,
+      "pause_end": 448.538
+    },
+    {
+      "id": "L11_A104",
+      "speaker": "arabic",
+      "text": "يعطيج العافية",
+      "start": 448.538,
+      "end": 449.838,
+      "pause_end": 451.088
+    },
+    {
+      "id": "L11_A105",
+      "speaker": "instructor",
+      "text": "Your turn. Thank you for your effort. Said to a woman.",
+      "start": 451.088,
+      "end": 454.648,
+      "pause_end": 459.398
+    },
+    {
+      "id": "L11_A106",
+      "speaker": "arabic",
+      "text": "يعطيج العافية",
+      "start": 459.398,
+      "end": 460.698,
+      "pause_end": 461.798
+    },
+    {
+      "id": "L11_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: Could we have the bill?",
+      "start": 461.798,
+      "end": 464.678,
+      "pause_end": 470.128
+    },
+    {
+      "id": "L11_A108",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 470.128,
+      "end": 471.382,
+      "pause_end": 472.482
+    },
+    {
+      "id": "L11_A109",
+      "speaker": "instructor",
+      "text": "Listen. You are welcome.",
+      "start": 472.482,
+      "end": 474.402,
+      "pause_end": 475.002
+    },
+    {
+      "id": "L11_A110",
+      "speaker": "arabic_female",
+      "text": "الله يعافيك",
+      "start": 475.002,
+      "end": 476.024,
+      "pause_end": 477.274
+    },
+    {
+      "id": "L11_A111",
+      "speaker": "instructor",
+      "text": "Your turn. You are welcome.",
+      "start": 477.274,
+      "end": 479.514,
+      "pause_end": 484.264
+    },
+    {
+      "id": "L11_A112",
+      "speaker": "arabic_female",
+      "text": "الله يعافيك",
+      "start": 484.264,
+      "end": 485.286,
+      "pause_end": 486.386
+    },
+    {
+      "id": "L11_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: We will pay by card.",
+      "start": 486.386,
+      "end": 489.226,
+      "pause_end": 494.676
+    },
+    {
+      "id": "L11_A114",
+      "speaker": "arabic_female",
+      "text": "بندفع بالبطاقة",
+      "start": 494.676,
+      "end": 495.976,
+      "pause_end": 497.076
+    },
+    {
+      "id": "L11_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Give your answer before the recording.",
+      "start": 497.076,
+      "end": 500.396,
+      "pause_end": 501.346
+    },
+    {
+      "id": "L11_A116",
+      "speaker": "instructor",
+      "text": "Say: Do you have a table for two?",
+      "start": 501.346,
+      "end": 503.906,
+      "pause_end": 508.956
+    },
+    {
+      "id": "L11_A117",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 508.956,
+      "end": 510.628,
+      "pause_end": 511.728
+    },
+    {
+      "id": "L11_A118",
+      "speaker": "instructor",
+      "text": "Say: Yes, please come in.",
+      "start": 511.728,
+      "end": 514.368,
+      "pause_end": 519.418
+    },
+    {
+      "id": "L11_A119",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 519.418,
+      "end": 520.579,
+      "pause_end": 521.679
+    },
+    {
+      "id": "L11_A120",
+      "speaker": "instructor",
+      "text": "Say: Can I have the menu?",
+      "start": 521.679,
+      "end": 523.999,
+      "pause_end": 529.049
+    },
+    {
+      "id": "L11_A121",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 529.049,
+      "end": 530.21,
+      "pause_end": 531.31
+    },
+    {
+      "id": "L11_A122",
+      "speaker": "instructor",
+      "text": "Say: What do you recommend? Ask a woman.",
+      "start": 531.31,
+      "end": 534.87,
+      "pause_end": 539.92
+    },
+    {
+      "id": "L11_A123",
+      "speaker": "arabic",
+      "text": "شو تنصحين؟",
+      "start": 539.92,
+      "end": 540.988,
+      "pause_end": 542.088
+    },
+    {
+      "id": "L11_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 542.088,
+      "end": 545.048,
+      "pause_end": 549.998
+    },
+    {
+      "id": "L11_A125",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 549.998,
+      "end": 551.066,
+      "pause_end": 552.166
+    },
+    {
+      "id": "L11_A126",
+      "speaker": "instructor",
+      "text": "Say: I recommend the machboos.",
+      "start": 552.166,
+      "end": 554.886,
+      "pause_end": 559.936
+    },
+    {
+      "id": "L11_A127",
+      "speaker": "arabic_female",
+      "text": "أنصحك بالمجبوس",
+      "start": 559.936,
+      "end": 561.283,
+      "pause_end": 562.383
+    },
+    {
+      "id": "L11_A128",
+      "speaker": "instructor",
+      "text": "Say: I want chicken machboos.",
+      "start": 562.383,
+      "end": 565.223,
+      "pause_end": 570.273
+    },
+    {
+      "id": "L11_A129",
+      "speaker": "arabic",
+      "text": "أبغي مجبوس دياي",
+      "start": 570.273,
+      "end": 571.712,
+      "pause_end": 572.812
+    },
+    {
+      "id": "L11_A130",
+      "speaker": "instructor",
+      "text": "Say: And I want fish.",
+      "start": 572.812,
+      "end": 575.172,
+      "pause_end": 580.222
+    },
+    {
+      "id": "L11_A131",
+      "speaker": "arabic_female",
+      "text": "وأنا أبغي سمك",
+      "start": 580.222,
+      "end": 581.616,
+      "pause_end": 582.716
+    },
+    {
+      "id": "L11_A132",
+      "speaker": "instructor",
+      "text": "Say: Would you like something to drink?",
+      "start": 582.716,
+      "end": 584.396,
+      "pause_end": 589.446
+    },
+    {
+      "id": "L11_A133",
+      "speaker": "arabic_female",
+      "text": "تبغون شي تشربونه؟",
+      "start": 589.446,
+      "end": 590.932,
+      "pause_end": 592.032
+    },
+    {
+      "id": "L11_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow.",
+      "start": 592.032,
+      "end": 593.952,
+      "pause_end": 598.902
+    },
+    {
+      "id": "L11_A135",
+      "speaker": "arabic",
+      "text": "باجر",
+      "start": 598.902,
+      "end": 599.691,
+      "pause_end": 600.791
+    },
+    {
+      "id": "L11_A136",
+      "speaker": "instructor",
+      "text": "Say: Cold water, please. Said to a woman.",
+      "start": 600.791,
+      "end": 604.191,
+      "pause_end": 609.241
+    },
+    {
+      "id": "L11_A137",
+      "speaker": "arabic",
+      "text": "ماي بارد، لو سمحتي",
+      "start": 609.241,
+      "end": 610.82,
+      "pause_end": 611.92
+    },
+    {
+      "id": "L11_A138",
+      "speaker": "instructor",
+      "text": "Say: The food is very tasty.",
+      "start": 611.92,
+      "end": 614.56,
+      "pause_end": 619.61
+    },
+    {
+      "id": "L11_A139",
+      "speaker": "arabic_female",
+      "text": "الأكل وايد لذيذ",
+      "start": 619.61,
+      "end": 621.236,
+      "pause_end": 622.336
+    },
+    {
+      "id": "L11_A140",
+      "speaker": "instructor",
+      "text": "Say: Could we have the bill?",
+      "start": 622.336,
+      "end": 623.816,
+      "pause_end": 628.866
+    },
+    {
+      "id": "L11_A141",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 628.866,
+      "end": 630.119,
+      "pause_end": 631.219
+    },
+    {
+      "id": "L11_A142",
+      "speaker": "instructor",
+      "text": "Say: We will pay by card.",
+      "start": 631.219,
+      "end": 633.779,
+      "pause_end": 638.829
+    },
+    {
+      "id": "L11_A143",
+      "speaker": "arabic_female",
+      "text": "بندفع بالبطاقة",
+      "start": 638.829,
+      "end": 640.13,
+      "pause_end": 641.23
+    },
+    {
+      "id": "L11_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Ask someone their name.",
+      "start": 641.23,
+      "end": 643.67,
+      "pause_end": 648.62
+    },
+    {
+      "id": "L11_A145",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 648.62,
+      "end": 649.456,
+      "pause_end": 650.556
+    },
+    {
+      "id": "L11_A146",
+      "speaker": "instructor",
+      "text": "Say: Thank you for your effort. Said to a woman.",
+      "start": 650.556,
+      "end": 654.156,
+      "pause_end": 659.206
+    },
+    {
+      "id": "L11_A147",
+      "speaker": "arabic",
+      "text": "يعطيج العافية",
+      "start": 659.206,
+      "end": 660.506,
+      "pause_end": 661.606
+    },
+    {
+      "id": "L11_A148",
+      "speaker": "instructor",
+      "text": "Say: You are welcome.",
+      "start": 661.606,
+      "end": 663.646,
+      "pause_end": 668.696
+    },
+    {
+      "id": "L11_A149",
+      "speaker": "arabic_female",
+      "text": "الله يعافيك",
+      "start": 668.696,
+      "end": 669.718,
+      "pause_end": 670.818
+    },
+    {
+      "id": "L11_A150",
+      "speaker": "instructor",
+      "text": "Say: Do you have a table for two?",
+      "start": 670.818,
+      "end": 673.378,
+      "pause_end": 678.428
+    },
+    {
+      "id": "L11_A151",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 678.428,
+      "end": 680.1,
+      "pause_end": 681.2
+    },
+    {
+      "id": "L11_A152",
+      "speaker": "instructor",
+      "text": "Say: Can I have the menu?",
+      "start": 681.2,
+      "end": 683.52,
+      "pause_end": 688.57
+    },
+    {
+      "id": "L11_A153",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 688.57,
+      "end": 689.731,
+      "pause_end": 690.831
+    },
+    {
+      "id": "L11_A154",
+      "speaker": "instructor",
+      "text": "Say: I recommend the machboos.",
+      "start": 690.831,
+      "end": 693.551,
+      "pause_end": 698.601
+    },
+    {
+      "id": "L11_A155",
+      "speaker": "arabic_female",
+      "text": "أنصحك بالمجبوس",
+      "start": 698.601,
+      "end": 699.947,
+      "pause_end": 701.047
+    },
+    {
+      "id": "L11_A156",
+      "speaker": "instructor",
+      "text": "Say: And I want fish.",
+      "start": 701.047,
+      "end": 703.407,
+      "pause_end": 708.457
+    },
+    {
+      "id": "L11_A157",
+      "speaker": "arabic_female",
+      "text": "وأنا أبغي سمك",
+      "start": 708.457,
+      "end": 709.851,
+      "pause_end": 710.951
+    },
+    {
+      "id": "L11_A158",
+      "speaker": "instructor",
+      "text": "Say: Cold water, please. Said to a woman.",
+      "start": 710.951,
+      "end": 714.351,
+      "pause_end": 719.401
+    },
+    {
+      "id": "L11_A159",
+      "speaker": "arabic",
+      "text": "ماي بارد، لو سمحتي",
+      "start": 719.401,
+      "end": 720.98,
+      "pause_end": 722.08
+    },
+    {
+      "id": "L11_A160",
+      "speaker": "instructor",
+      "text": "Say: Could we have the bill?",
+      "start": 722.08,
+      "end": 723.56,
+      "pause_end": 728.61
+    },
+    {
+      "id": "L11_A161",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 728.61,
+      "end": 729.863,
+      "pause_end": 730.963
+    },
+    {
+      "id": "L11_A162",
+      "speaker": "instructor",
+      "text": "Say: Thank you for your effort. Said to a woman.",
+      "start": 730.963,
+      "end": 734.563,
+      "pause_end": 739.613
+    },
+    {
+      "id": "L11_A163",
+      "speaker": "arabic",
+      "text": "يعطيج العافية",
+      "start": 739.613,
+      "end": 740.914,
+      "pause_end": 742.014
+    },
+    {
+      "id": "L11_A164",
+      "speaker": "instructor",
+      "text": "Say: Yes, please come in.",
+      "start": 742.014,
+      "end": 744.654,
+      "pause_end": 749.704
+    },
+    {
+      "id": "L11_A165",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 749.704,
+      "end": 750.865,
+      "pause_end": 751.965
+    },
+    {
+      "id": "L11_A166",
+      "speaker": "instructor",
+      "text": "Say: What do you recommend? Ask a woman.",
+      "start": 751.965,
+      "end": 755.525,
+      "pause_end": 760.575
+    },
+    {
+      "id": "L11_A167",
+      "speaker": "arabic",
+      "text": "شو تنصحين؟",
+      "start": 760.575,
+      "end": 761.643,
+      "pause_end": 762.743
+    },
+    {
+      "id": "L11_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 762.743,
+      "end": 764.943,
+      "pause_end": 769.893
+    },
+    {
+      "id": "L11_A169",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 769.893,
+      "end": 770.868,
+      "pause_end": 771.968
+    },
+    {
+      "id": "L11_A170",
+      "speaker": "instructor",
+      "text": "Say: I want chicken machboos.",
+      "start": 771.968,
+      "end": 774.808,
+      "pause_end": 779.858
+    },
+    {
+      "id": "L11_A171",
+      "speaker": "arabic",
+      "text": "أبغي مجبوس دياي",
+      "start": 779.858,
+      "end": 781.298,
+      "pause_end": 782.398
+    },
+    {
+      "id": "L11_A172",
+      "speaker": "instructor",
+      "text": "Say: Would you like something to drink?",
+      "start": 782.398,
+      "end": 784.078,
+      "pause_end": 789.128
+    },
+    {
+      "id": "L11_A173",
+      "speaker": "arabic_female",
+      "text": "تبغون شي تشربونه؟",
+      "start": 789.128,
+      "end": 790.614,
+      "pause_end": 791.714
+    },
+    {
+      "id": "L11_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Say now.",
+      "start": 791.714,
+      "end": 793.434,
+      "pause_end": 798.384
+    },
+    {
+      "id": "L11_A175",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 798.384,
+      "end": 799.359,
+      "pause_end": 800.459
+    },
+    {
+      "id": "L11_A176",
+      "speaker": "instructor",
+      "text": "Say: The food is very tasty.",
+      "start": 800.459,
+      "end": 803.099,
+      "pause_end": 808.149
+    },
+    {
+      "id": "L11_A177",
+      "speaker": "arabic_female",
+      "text": "الأكل وايد لذيذ",
+      "start": 808.149,
+      "end": 809.774,
+      "pause_end": 810.874
+    },
+    {
+      "id": "L11_A178",
+      "speaker": "instructor",
+      "text": "Say: We will pay by card.",
+      "start": 810.874,
+      "end": 813.434,
+      "pause_end": 818.484
+    },
+    {
+      "id": "L11_A179",
+      "speaker": "arabic_female",
+      "text": "بندفع بالبطاقة",
+      "start": 818.484,
+      "end": 819.785,
+      "pause_end": 820.885
+    },
+    {
+      "id": "L11_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone is from.",
+      "start": 820.885,
+      "end": 823.485,
+      "pause_end": 828.435
+    },
+    {
+      "id": "L11_A181",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 828.435,
+      "end": 829.549,
+      "pause_end": 830.649
+    },
+    {
+      "id": "L11_A182",
+      "speaker": "instructor",
+      "text": "Say: You are welcome.",
+      "start": 830.649,
+      "end": 832.689,
+      "pause_end": 837.739
+    },
+    {
+      "id": "L11_A183",
+      "speaker": "arabic_female",
+      "text": "الله يعافيك",
+      "start": 837.739,
+      "end": 838.761,
+      "pause_end": 839.861
+    },
+    {
+      "id": "L11_A184",
+      "speaker": "instructor",
+      "text": "How do you say: You are welcome.",
+      "start": 839.861,
+      "end": 842.301,
+      "pause_end": 847.751
+    },
+    {
+      "id": "L11_A185",
+      "speaker": "arabic_female",
+      "text": "الله يعافيك",
+      "start": 847.751,
+      "end": 848.773,
+      "pause_end": 849.873
+    },
+    {
+      "id": "L11_A186",
+      "speaker": "instructor",
+      "text": "How do you say: Thank you for your effort. Said to a woman.",
+      "start": 849.873,
+      "end": 854.153,
+      "pause_end": 859.603
+    },
+    {
+      "id": "L11_A187",
+      "speaker": "arabic",
+      "text": "يعطيج العافية",
+      "start": 859.603,
+      "end": 860.903,
+      "pause_end": 862.003
+    },
+    {
+      "id": "L11_A188",
+      "speaker": "instructor",
+      "text": "How do you say: We will pay by card.",
+      "start": 862.003,
+      "end": 865.163,
+      "pause_end": 870.613
+    },
+    {
+      "id": "L11_A189",
+      "speaker": "arabic_female",
+      "text": "بندفع بالبطاقة",
+      "start": 870.613,
+      "end": 871.913,
+      "pause_end": 873.013
+    },
+    {
+      "id": "L11_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 873.013,
+      "end": 875.973,
+      "pause_end": 880.923
+    },
+    {
+      "id": "L11_A191",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 880.923,
+      "end": 881.991,
+      "pause_end": 883.091
+    },
+    {
+      "id": "L11_A192",
+      "speaker": "instructor",
+      "text": "How do you say: Could we have the bill?",
+      "start": 883.091,
+      "end": 887.491,
+      "pause_end": 892.941
+    },
+    {
+      "id": "L11_A193",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 892.941,
+      "end": 894.195,
+      "pause_end": 895.295
+    },
+    {
+      "id": "L11_A194",
+      "speaker": "instructor",
+      "text": "How do you say: The food is very tasty.",
+      "start": 895.295,
+      "end": 898.135,
+      "pause_end": 903.585
+    },
+    {
+      "id": "L11_A195",
+      "speaker": "arabic_female",
+      "text": "الأكل وايد لذيذ",
+      "start": 903.585,
+      "end": 905.211,
+      "pause_end": 906.311
+    },
+    {
+      "id": "L11_A196",
+      "speaker": "instructor",
+      "text": "How do you say: Cold water, please. Said to a woman.",
+      "start": 906.311,
+      "end": 910.111,
+      "pause_end": 915.561
+    },
+    {
+      "id": "L11_A197",
+      "speaker": "arabic",
+      "text": "ماي بارد، لو سمحتي",
+      "start": 915.561,
+      "end": 917.14,
+      "pause_end": 918.24
+    },
+    {
+      "id": "L11_A198",
+      "speaker": "instructor",
+      "text": "How do you say: Would you like something to drink?",
+      "start": 918.24,
+      "end": 920.72,
+      "pause_end": 926.17
+    },
+    {
+      "id": "L11_A199",
+      "speaker": "arabic_female",
+      "text": "تبغون شي تشربونه؟",
+      "start": 926.17,
+      "end": 927.656,
+      "pause_end": 928.756
+    },
+    {
+      "id": "L11_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 928.756,
+      "end": 931.036,
+      "pause_end": 935.986
+    },
+    {
+      "id": "L11_A201",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 935.986,
+      "end": 937.147,
+      "pause_end": 938.247
+    },
+    {
+      "id": "L11_A202",
+      "speaker": "instructor",
+      "text": "How do you say: And I want fish.",
+      "start": 938.247,
+      "end": 940.727,
+      "pause_end": 946.177
+    },
+    {
+      "id": "L11_A203",
+      "speaker": "arabic_female",
+      "text": "وأنا أبغي سمك",
+      "start": 946.177,
+      "end": 947.57,
+      "pause_end": 948.67
+    },
+    {
+      "id": "L11_A204",
+      "speaker": "instructor",
+      "text": "How do you say: I want chicken machboos.",
+      "start": 948.67,
+      "end": 952.95,
+      "pause_end": 958.4
+    },
+    {
+      "id": "L11_A205",
+      "speaker": "arabic",
+      "text": "أبغي مجبوس دياي",
+      "start": 958.4,
+      "end": 959.84,
+      "pause_end": 960.94
+    },
+    {
+      "id": "L11_A206",
+      "speaker": "instructor",
+      "text": "How do you say: I recommend the machboos.",
+      "start": 960.94,
+      "end": 964.06,
+      "pause_end": 969.51
+    },
+    {
+      "id": "L11_A207",
+      "speaker": "arabic_female",
+      "text": "أنصحك بالمجبوس",
+      "start": 969.51,
+      "end": 970.856,
+      "pause_end": 971.956
+    },
+    {
+      "id": "L11_A208",
+      "speaker": "instructor",
+      "text": "How do you say: What do you recommend? Ask a woman.",
+      "start": 971.956,
+      "end": 976.156,
+      "pause_end": 981.606
+    },
+    {
+      "id": "L11_A209",
+      "speaker": "arabic",
+      "text": "شو تنصحين؟",
+      "start": 981.606,
+      "end": 982.675,
+      "pause_end": 983.775
+    },
+    {
+      "id": "L11_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 983.775,
+      "end": 985.855,
+      "pause_end": 990.805
+    },
+    {
+      "id": "L11_A211",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 990.805,
+      "end": 992.058,
+      "pause_end": 993.158
+    },
+    {
+      "id": "L11_A212",
+      "speaker": "instructor",
+      "text": "How do you say: Can I have the menu?",
+      "start": 993.158,
+      "end": 995.398,
+      "pause_end": 1000.848
+    },
+    {
+      "id": "L11_A213",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 1000.848,
+      "end": 1002.009,
+      "pause_end": 1003.109
+    },
+    {
+      "id": "L11_A214",
+      "speaker": "instructor",
+      "text": "How do you say: Yes, please come in.",
+      "start": 1003.109,
+      "end": 1005.829,
+      "pause_end": 1011.279
+    },
+    {
+      "id": "L11_A215",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 1011.279,
+      "end": 1012.44,
+      "pause_end": 1013.54
+    },
+    {
+      "id": "L11_A216",
+      "speaker": "instructor",
+      "text": "How do you say: Do you have a table for two?",
+      "start": 1013.54,
+      "end": 1016.18,
+      "pause_end": 1021.63
+    },
+    {
+      "id": "L11_A217",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 1021.63,
+      "end": 1023.302,
+      "pause_end": 1024.402
+    },
+    {
+      "id": "L11_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Speak naturally, without waiting for a hint.",
+      "start": 1024.402,
+      "end": 1028.642,
+      "pause_end": 1029.492
+    },
+    {
+      "id": "L11_A219",
+      "speaker": "instructor",
+      "text": "Say: You are welcome.",
+      "start": 1029.492,
+      "end": 1031.532,
+      "pause_end": 1037.182
+    },
+    {
+      "id": "L11_A220",
+      "speaker": "arabic_female",
+      "text": "الله يعافيك",
+      "start": 1037.182,
+      "end": 1038.204,
+      "pause_end": 1039.304
+    },
+    {
+      "id": "L11_A221",
+      "speaker": "instructor",
+      "text": "Say: Can I have the menu?",
+      "start": 1039.304,
+      "end": 1041.624,
+      "pause_end": 1047.274
+    },
+    {
+      "id": "L11_A222",
+      "speaker": "arabic",
+      "text": "ممكن المنيو؟",
+      "start": 1047.274,
+      "end": 1048.435,
+      "pause_end": 1049.535
+    },
+    {
+      "id": "L11_A223",
+      "speaker": "instructor",
+      "text": "Say: Do you have a table for two?",
+      "start": 1049.535,
+      "end": 1052.095,
+      "pause_end": 1057.745
+    },
+    {
+      "id": "L11_A224",
+      "speaker": "arabic",
+      "text": "عندكم طاولة لشخصين؟",
+      "start": 1057.745,
+      "end": 1059.417,
+      "pause_end": 1060.517
+    },
+    {
+      "id": "L11_A225",
+      "speaker": "instructor",
+      "text": "Say: Would you like something to drink?",
+      "start": 1060.517,
+      "end": 1062.197,
+      "pause_end": 1067.847
+    },
+    {
+      "id": "L11_A226",
+      "speaker": "arabic_female",
+      "text": "تبغون شي تشربونه؟",
+      "start": 1067.847,
+      "end": 1069.333,
+      "pause_end": 1070.433
+    },
+    {
+      "id": "L11_A227",
+      "speaker": "instructor",
+      "text": "Say: I want chicken machboos.",
+      "start": 1070.433,
+      "end": 1073.273,
+      "pause_end": 1078.923
+    },
+    {
+      "id": "L11_A228",
+      "speaker": "arabic",
+      "text": "أبغي مجبوس دياي",
+      "start": 1078.923,
+      "end": 1080.363,
+      "pause_end": 1081.463
+    },
+    {
+      "id": "L11_A229",
+      "speaker": "instructor",
+      "text": "Say: We will pay by card.",
+      "start": 1081.463,
+      "end": 1084.023,
+      "pause_end": 1089.673
+    },
+    {
+      "id": "L11_A230",
+      "speaker": "arabic_female",
+      "text": "بندفع بالبطاقة",
+      "start": 1089.673,
+      "end": 1090.973,
+      "pause_end": 1092.073
+    },
+    {
+      "id": "L11_A231",
+      "speaker": "instructor",
+      "text": "Say: Yes, please come in.",
+      "start": 1092.073,
+      "end": 1094.713,
+      "pause_end": 1100.363
+    },
+    {
+      "id": "L11_A232",
+      "speaker": "arabic_female",
+      "text": "هيه، تفضلوا",
+      "start": 1100.363,
+      "end": 1101.524,
+      "pause_end": 1102.624
+    },
+    {
+      "id": "L11_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1102.624,
+      "end": 1106.704,
+      "pause_end": 1107.654
+    }
+  ]
+}

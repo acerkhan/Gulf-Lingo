@@ -1,0 +1,1932 @@
+{
+  "events": [
+    {
+      "id": "L02_A001",
+      "speaker": "instructor",
+      "text": "Welcome back. In this lesson, you will learn to introduce yourself and ask someone their name. You will also use greetings from the previous lesson.",
+      "start": 0.0,
+      "end": 8.24,
+      "pause_end": 9.19
+    },
+    {
+      "id": "L02_A002",
+      "speaker": "instructor",
+      "text": "First, listen to a short conversation.",
+      "start": 9.19,
+      "end": 12.11,
+      "pause_end": 12.86
+    },
+    {
+      "id": "L02_A003",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 12.86,
+      "end": 14.253,
+      "pause_end": 15.303
+    },
+    {
+      "id": "L02_A004",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 15.303,
+      "end": 16.557,
+      "pause_end": 17.607
+    },
+    {
+      "id": "L02_A005",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 17.607,
+      "end": 18.489,
+      "pause_end": 19.54
+    },
+    {
+      "id": "L02_A006",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 19.54,
+      "end": 21.722,
+      "pause_end": 22.772
+    },
+    {
+      "id": "L02_A007",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 22.772,
+      "end": 23.747,
+      "pause_end": 24.797
+    },
+    {
+      "id": "L02_A008",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 24.797,
+      "end": 25.959,
+      "pause_end": 27.009
+    },
+    {
+      "id": "L02_A009",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 27.009,
+      "end": 27.937,
+      "pause_end": 28.987
+    },
+    {
+      "id": "L02_A010",
+      "speaker": "instructor",
+      "text": "You already know the greeting. Say, peace be upon you.",
+      "start": 28.987,
+      "end": 32.187,
+      "pause_end": 36.937
+    },
+    {
+      "id": "L02_A011",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 36.937,
+      "end": 38.331,
+      "pause_end": 39.381
+    },
+    {
+      "id": "L02_A012",
+      "speaker": "instructor",
+      "text": "Return the greeting.",
+      "start": 39.381,
+      "end": 40.421,
+      "pause_end": 45.171
+    },
+    {
+      "id": "L02_A013",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 45.171,
+      "end": 46.425,
+      "pause_end": 47.575
+    },
+    {
+      "id": "L02_A014",
+      "speaker": "instructor",
+      "text": "Ask someone how they are.",
+      "start": 47.575,
+      "end": 49.054,
+      "pause_end": 53.804
+    },
+    {
+      "id": "L02_A015",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 53.804,
+      "end": 54.687,
+      "pause_end": 55.837
+    },
+    {
+      "id": "L02_A016",
+      "speaker": "instructor",
+      "text": "Say, fine, thank God.",
+      "start": 55.837,
+      "end": 58.597,
+      "pause_end": 63.347
+    },
+    {
+      "id": "L02_A017",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 63.347,
+      "end": 65.53,
+      "pause_end": 66.68
+    },
+    {
+      "id": "L02_A018",
+      "speaker": "instructor",
+      "text": "Now listen. The next question means, what is your name?",
+      "start": 66.68,
+      "end": 70.72,
+      "pause_end": 71.47
+    },
+    {
+      "id": "L02_A019",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 71.47,
+      "end": 72.445,
+      "pause_end": 74.095
+    },
+    {
+      "id": "L02_A020",
+      "speaker": "instructor",
+      "text": "Listen to the last word. It means, your name.",
+      "start": 74.095,
+      "end": 77.295,
+      "pause_end": 77.945
+    },
+    {
+      "id": "L02_A021",
+      "speaker": "arabic",
+      "text": "اسمك",
+      "start": 77.945,
+      "end": 78.734,
+      "pause_end": 82.284
+    },
+    {
+      "id": "L02_A022",
+      "speaker": "arabic",
+      "text": "اسمك",
+      "start": 82.284,
+      "end": 83.074,
+      "pause_end": 84.124
+    },
+    {
+      "id": "L02_A023",
+      "speaker": "instructor",
+      "text": "Now listen to the question again.",
+      "start": 84.124,
+      "end": 86.044,
+      "pause_end": 86.694
+    },
+    {
+      "id": "L02_A024",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 86.694,
+      "end": 87.669,
+      "pause_end": 91.219
+    },
+    {
+      "id": "L02_A025",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 91.219,
+      "end": 92.194,
+      "pause_end": 93.244
+    },
+    {
+      "id": "L02_A026",
+      "speaker": "instructor",
+      "text": "Ask, what is your name?",
+      "start": 93.244,
+      "end": 95.004,
+      "pause_end": 100.254
+    },
+    {
+      "id": "L02_A027",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 100.254,
+      "end": 101.23,
+      "pause_end": 102.38
+    },
+    {
+      "id": "L02_A028",
+      "speaker": "instructor",
+      "text": "Ask it again, without help.",
+      "start": 102.38,
+      "end": 104.38,
+      "pause_end": 109.63
+    },
+    {
+      "id": "L02_A029",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 109.63,
+      "end": 110.605,
+      "pause_end": 111.755
+    },
+    {
+      "id": "L02_A030",
+      "speaker": "instructor",
+      "text": "The answer begins with, my name is. Listen.",
+      "start": 111.755,
+      "end": 115.075,
+      "pause_end": 115.825
+    },
+    {
+      "id": "L02_A031",
+      "speaker": "arabic",
+      "text": "اسمي",
+      "start": 115.825,
+      "end": 116.568,
+      "pause_end": 120.118
+    },
+    {
+      "id": "L02_A032",
+      "speaker": "arabic",
+      "text": "اسمي",
+      "start": 120.118,
+      "end": 120.861,
+      "pause_end": 121.911
+    },
+    {
+      "id": "L02_A033",
+      "speaker": "instructor",
+      "text": "Now listen to a full answer. My name is Khalid.",
+      "start": 121.911,
+      "end": 124.991,
+      "pause_end": 125.641
+    },
+    {
+      "id": "L02_A034",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 125.641,
+      "end": 126.802,
+      "pause_end": 130.352
+    },
+    {
+      "id": "L02_A035",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 130.352,
+      "end": 131.513,
+      "pause_end": 132.563
+    },
+    {
+      "id": "L02_A036",
+      "speaker": "instructor",
+      "text": "Say, my name is Khalid.",
+      "start": 132.563,
+      "end": 134.683,
+      "pause_end": 139.433
+    },
+    {
+      "id": "L02_A037",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 139.433,
+      "end": 140.594,
+      "pause_end": 141.744
+    },
+    {
+      "id": "L02_A038",
+      "speaker": "instructor",
+      "text": "How do you ask someone their name?",
+      "start": 141.744,
+      "end": 143.904,
+      "pause_end": 149.154
+    },
+    {
+      "id": "L02_A039",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 149.154,
+      "end": 150.129,
+      "pause_end": 151.279
+    },
+    {
+      "id": "L02_A040",
+      "speaker": "instructor",
+      "text": "Answer, my name is Khalid.",
+      "start": 151.279,
+      "end": 153.839,
+      "pause_end": 159.089
+    },
+    {
+      "id": "L02_A041",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 159.089,
+      "end": 160.25,
+      "pause_end": 161.4
+    },
+    {
+      "id": "L02_A042",
+      "speaker": "instructor",
+      "text": "Now listen to a different name.",
+      "start": 161.4,
+      "end": 163.6,
+      "pause_end": 164.25
+    },
+    {
+      "id": "L02_A043",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 164.25,
+      "end": 165.179,
+      "pause_end": 166.629
+    },
+    {
+      "id": "L02_A044",
+      "speaker": "instructor",
+      "text": "Maryam is a woman’s name. Listen again.",
+      "start": 166.629,
+      "end": 169.589,
+      "pause_end": 170.239
+    },
+    {
+      "id": "L02_A045",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 170.239,
+      "end": 171.168,
+      "pause_end": 174.718
+    },
+    {
+      "id": "L02_A046",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 174.718,
+      "end": 175.647,
+      "pause_end": 176.697
+    },
+    {
+      "id": "L02_A047",
+      "speaker": "instructor",
+      "text": "Say, my name is Maryam.",
+      "start": 176.697,
+      "end": 178.737,
+      "pause_end": 183.487
+    },
+    {
+      "id": "L02_A048",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 183.487,
+      "end": 184.416,
+      "pause_end": 185.566
+    },
+    {
+      "id": "L02_A049",
+      "speaker": "instructor",
+      "text": "Ask Maryam her name.",
+      "start": 185.566,
+      "end": 187.086,
+      "pause_end": 191.836
+    },
+    {
+      "id": "L02_A050",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 191.836,
+      "end": 192.811,
+      "pause_end": 193.961
+    },
+    {
+      "id": "L02_A051",
+      "speaker": "instructor",
+      "text": "Answer as Maryam.",
+      "start": 193.961,
+      "end": 195.801,
+      "pause_end": 200.551
+    },
+    {
+      "id": "L02_A052",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 200.551,
+      "end": 201.48,
+      "pause_end": 202.63
+    },
+    {
+      "id": "L02_A053",
+      "speaker": "instructor",
+      "text": "Listen to this expression. It means, pleased to meet you.",
+      "start": 202.63,
+      "end": 206.67,
+      "pause_end": 207.32
+    },
+    {
+      "id": "L02_A054",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 207.32,
+      "end": 208.249,
+      "pause_end": 211.799
+    },
+    {
+      "id": "L02_A055",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 211.799,
+      "end": 212.728,
+      "pause_end": 213.778
+    },
+    {
+      "id": "L02_A056",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 213.778,
+      "end": 215.658,
+      "pause_end": 220.408
+    },
+    {
+      "id": "L02_A057",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 220.408,
+      "end": 221.337,
+      "pause_end": 222.487
+    },
+    {
+      "id": "L02_A058",
+      "speaker": "instructor",
+      "text": "Ask, what is your name?",
+      "start": 222.487,
+      "end": 224.247,
+      "pause_end": 228.997
+    },
+    {
+      "id": "L02_A059",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 228.997,
+      "end": 229.972,
+      "pause_end": 231.122
+    },
+    {
+      "id": "L02_A060",
+      "speaker": "instructor",
+      "text": "Say, my name is Khalid.",
+      "start": 231.122,
+      "end": 233.242,
+      "pause_end": 237.992
+    },
+    {
+      "id": "L02_A061",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 237.992,
+      "end": 239.153,
+      "pause_end": 240.303
+    },
+    {
+      "id": "L02_A062",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 240.303,
+      "end": 242.183,
+      "pause_end": 246.933
+    },
+    {
+      "id": "L02_A063",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 246.933,
+      "end": 247.862,
+      "pause_end": 249.012
+    },
+    {
+      "id": "L02_A064",
+      "speaker": "instructor",
+      "text": "Listen to the whole exchange.",
+      "start": 249.012,
+      "end": 250.772,
+      "pause_end": 251.422
+    },
+    {
+      "id": "L02_A065",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 251.422,
+      "end": 252.397,
+      "pause_end": 253.547
+    },
+    {
+      "id": "L02_A066",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 253.547,
+      "end": 254.708,
+      "pause_end": 255.858
+    },
+    {
+      "id": "L02_A067",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 255.858,
+      "end": 256.787,
+      "pause_end": 257.937
+    },
+    {
+      "id": "L02_A068",
+      "speaker": "instructor",
+      "text": "Now you take the first part. Ask for the name.",
+      "start": 257.937,
+      "end": 261.217,
+      "pause_end": 265.967
+    },
+    {
+      "id": "L02_A069",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 265.967,
+      "end": 266.942,
+      "pause_end": 267.892
+    },
+    {
+      "id": "L02_A070",
+      "speaker": "instructor",
+      "text": "Listen to the answer.",
+      "start": 267.892,
+      "end": 269.092,
+      "pause_end": 269.742
+    },
+    {
+      "id": "L02_A071",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 269.742,
+      "end": 270.903,
+      "pause_end": 271.953
+    },
+    {
+      "id": "L02_A072",
+      "speaker": "instructor",
+      "text": "Respond politely.",
+      "start": 271.953,
+      "end": 274.193,
+      "pause_end": 278.943
+    },
+    {
+      "id": "L02_A073",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 278.943,
+      "end": 279.872,
+      "pause_end": 281.022
+    },
+    {
+      "id": "L02_A074",
+      "speaker": "instructor",
+      "text": "We will return to these expressions shortly. First, review an earlier greeting.",
+      "start": 281.022,
+      "end": 285.942,
+      "pause_end": 286.692
+    },
+    {
+      "id": "L02_A075",
+      "speaker": "instructor",
+      "text": "Say hello in Arabic.",
+      "start": 286.692,
+      "end": 288.332,
+      "pause_end": 293.082
+    },
+    {
+      "id": "L02_A076",
+      "speaker": "arabic",
+      "text": "هلا",
+      "start": 293.082,
+      "end": 293.779,
+      "pause_end": 294.929
+    },
+    {
+      "id": "L02_A077",
+      "speaker": "instructor",
+      "text": "Ask how someone is.",
+      "start": 294.929,
+      "end": 296.449,
+      "pause_end": 301.199
+    },
+    {
+      "id": "L02_A078",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 301.199,
+      "end": 302.081,
+      "pause_end": 303.231
+    },
+    {
+      "id": "L02_A079",
+      "speaker": "instructor",
+      "text": "Answer, fine, thank God.",
+      "start": 303.231,
+      "end": 305.631,
+      "pause_end": 310.381
+    },
+    {
+      "id": "L02_A080",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 310.381,
+      "end": 312.564,
+      "pause_end": 313.714
+    },
+    {
+      "id": "L02_A081",
+      "speaker": "instructor",
+      "text": "Now ask, what is your name?",
+      "start": 313.714,
+      "end": 316.394,
+      "pause_end": 321.144
+    },
+    {
+      "id": "L02_A082",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 321.144,
+      "end": 322.119,
+      "pause_end": 323.269
+    },
+    {
+      "id": "L02_A083",
+      "speaker": "instructor",
+      "text": "Answer, my name is Maryam.",
+      "start": 323.269,
+      "end": 325.309,
+      "pause_end": 330.059
+    },
+    {
+      "id": "L02_A084",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 330.059,
+      "end": 330.988,
+      "pause_end": 332.138
+    },
+    {
+      "id": "L02_A085",
+      "speaker": "instructor",
+      "text": "Next, learn how to say, and you? Listen.",
+      "start": 332.138,
+      "end": 335.338,
+      "pause_end": 335.988
+    },
+    {
+      "id": "L02_A086",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 335.988,
+      "end": 336.684,
+      "pause_end": 340.234
+    },
+    {
+      "id": "L02_A087",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 340.234,
+      "end": 340.931,
+      "pause_end": 341.981
+    },
+    {
+      "id": "L02_A088",
+      "speaker": "instructor",
+      "text": "Say, and you?",
+      "start": 341.981,
+      "end": 343.181,
+      "pause_end": 347.931
+    },
+    {
+      "id": "L02_A089",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 347.931,
+      "end": 348.628,
+      "pause_end": 349.778
+    },
+    {
+      "id": "L02_A090",
+      "speaker": "instructor",
+      "text": "Listen to a short conversation.",
+      "start": 349.778,
+      "end": 351.698,
+      "pause_end": 352.348
+    },
+    {
+      "id": "L02_A091",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 352.348,
+      "end": 353.23,
+      "pause_end": 354.38
+    },
+    {
+      "id": "L02_A092",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 354.38,
+      "end": 356.609,
+      "pause_end": 357.759
+    },
+    {
+      "id": "L02_A093",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 357.759,
+      "end": 359.942,
+      "pause_end": 361.092
+    },
+    {
+      "id": "L02_A094",
+      "speaker": "instructor",
+      "text": "Ask someone how they are.",
+      "start": 361.092,
+      "end": 362.572,
+      "pause_end": 367.322
+    },
+    {
+      "id": "L02_A095",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 367.322,
+      "end": 368.204,
+      "pause_end": 369.354
+    },
+    {
+      "id": "L02_A096",
+      "speaker": "instructor",
+      "text": "Say, fine, thank God. And you?",
+      "start": 369.354,
+      "end": 373.234,
+      "pause_end": 379.484
+    },
+    {
+      "id": "L02_A097",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 379.484,
+      "end": 381.713,
+      "pause_end": 382.863
+    },
+    {
+      "id": "L02_A098",
+      "speaker": "instructor",
+      "text": "Answer, fine, thank God.",
+      "start": 382.863,
+      "end": 385.263,
+      "pause_end": 390.013
+    },
+    {
+      "id": "L02_A099",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 390.013,
+      "end": 392.196,
+      "pause_end": 393.346
+    },
+    {
+      "id": "L02_A100",
+      "speaker": "instructor",
+      "text": "Now ask their name.",
+      "start": 393.346,
+      "end": 394.666,
+      "pause_end": 399.416
+    },
+    {
+      "id": "L02_A101",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 399.416,
+      "end": 400.391,
+      "pause_end": 401.541
+    },
+    {
+      "id": "L02_A102",
+      "speaker": "instructor",
+      "text": "Say, my name is Khalid.",
+      "start": 401.541,
+      "end": 403.661,
+      "pause_end": 408.411
+    },
+    {
+      "id": "L02_A103",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 408.411,
+      "end": 409.572,
+      "pause_end": 410.722
+    },
+    {
+      "id": "L02_A104",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 410.722,
+      "end": 412.602,
+      "pause_end": 417.352
+    },
+    {
+      "id": "L02_A105",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 417.352,
+      "end": 418.281,
+      "pause_end": 419.431
+    },
+    {
+      "id": "L02_A106",
+      "speaker": "instructor",
+      "text": "Now learn to ask, where are you from? Listen.",
+      "start": 419.431,
+      "end": 423.351,
+      "pause_end": 424.001
+    },
+    {
+      "id": "L02_A107",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 424.001,
+      "end": 425.162,
+      "pause_end": 428.712
+    },
+    {
+      "id": "L02_A108",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 428.712,
+      "end": 429.873,
+      "pause_end": 430.923
+    },
+    {
+      "id": "L02_A109",
+      "speaker": "instructor",
+      "text": "Listen to the first two words. They mean, from where.",
+      "start": 430.923,
+      "end": 434.363,
+      "pause_end": 435.013
+    },
+    {
+      "id": "L02_A110",
+      "speaker": "arabic",
+      "text": "من وين",
+      "start": 435.013,
+      "end": 435.896,
+      "pause_end": 439.446
+    },
+    {
+      "id": "L02_A111",
+      "speaker": "arabic",
+      "text": "من وين",
+      "start": 439.446,
+      "end": 440.328,
+      "pause_end": 441.378
+    },
+    {
+      "id": "L02_A112",
+      "speaker": "instructor",
+      "text": "Say, from where.",
+      "start": 441.378,
+      "end": 442.818,
+      "pause_end": 447.568
+    },
+    {
+      "id": "L02_A113",
+      "speaker": "arabic",
+      "text": "من وين",
+      "start": 447.568,
+      "end": 448.45,
+      "pause_end": 449.6
+    },
+    {
+      "id": "L02_A114",
+      "speaker": "instructor",
+      "text": "Ask, where are you from?",
+      "start": 449.6,
+      "end": 451.0,
+      "pause_end": 456.75
+    },
+    {
+      "id": "L02_A115",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 456.75,
+      "end": 457.911,
+      "pause_end": 459.061
+    },
+    {
+      "id": "L02_A116",
+      "speaker": "instructor",
+      "text": "Listen to the answer, I am from Dubai.",
+      "start": 459.061,
+      "end": 461.981,
+      "pause_end": 462.631
+    },
+    {
+      "id": "L02_A117",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 462.631,
+      "end": 463.653,
+      "pause_end": 467.203
+    },
+    {
+      "id": "L02_A118",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 467.203,
+      "end": 468.225,
+      "pause_end": 469.275
+    },
+    {
+      "id": "L02_A119",
+      "speaker": "instructor",
+      "text": "Now just say, from Dubai.",
+      "start": 469.275,
+      "end": 471.395,
+      "pause_end": 472.045
+    },
+    {
+      "id": "L02_A120",
+      "speaker": "arabic",
+      "text": "من دبي",
+      "start": 472.045,
+      "end": 472.881,
+      "pause_end": 476.431
+    },
+    {
+      "id": "L02_A121",
+      "speaker": "arabic",
+      "text": "من دبي",
+      "start": 476.431,
+      "end": 477.267,
+      "pause_end": 478.317
+    },
+    {
+      "id": "L02_A122",
+      "speaker": "instructor",
+      "text": "Say, I am from Dubai.",
+      "start": 478.317,
+      "end": 480.397,
+      "pause_end": 485.647
+    },
+    {
+      "id": "L02_A123",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 485.647,
+      "end": 486.669,
+      "pause_end": 487.819
+    },
+    {
+      "id": "L02_A124",
+      "speaker": "instructor",
+      "text": "Ask, where are you from?",
+      "start": 487.819,
+      "end": 489.219,
+      "pause_end": 494.469
+    },
+    {
+      "id": "L02_A125",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 494.469,
+      "end": 495.63,
+      "pause_end": 496.78
+    },
+    {
+      "id": "L02_A126",
+      "speaker": "instructor",
+      "text": "Answer, I am from Dubai.",
+      "start": 496.78,
+      "end": 499.1,
+      "pause_end": 504.35
+    },
+    {
+      "id": "L02_A127",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 504.35,
+      "end": 505.371,
+      "pause_end": 506.521
+    },
+    {
+      "id": "L02_A128",
+      "speaker": "instructor",
+      "text": "Listen to another answer: I am from Abu Dhabi.",
+      "start": 506.521,
+      "end": 510.761,
+      "pause_end": 511.411
+    },
+    {
+      "id": "L02_A129",
+      "speaker": "arabic",
+      "text": "أنا من أبوظبي",
+      "start": 511.411,
+      "end": 512.572,
+      "pause_end": 516.122
+    },
+    {
+      "id": "L02_A130",
+      "speaker": "arabic",
+      "text": "أنا من أبوظبي",
+      "start": 516.122,
+      "end": 517.283,
+      "pause_end": 518.333
+    },
+    {
+      "id": "L02_A131",
+      "speaker": "instructor",
+      "text": "Say, I am from Abu Dhabi.",
+      "start": 518.333,
+      "end": 521.053,
+      "pause_end": 526.303
+    },
+    {
+      "id": "L02_A132",
+      "speaker": "arabic",
+      "text": "أنا من أبوظبي",
+      "start": 526.303,
+      "end": 527.464,
+      "pause_end": 528.614
+    },
+    {
+      "id": "L02_A133",
+      "speaker": "instructor",
+      "text": "Ask, where are you from?",
+      "start": 528.614,
+      "end": 530.014,
+      "pause_end": 535.264
+    },
+    {
+      "id": "L02_A134",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 535.264,
+      "end": 536.425,
+      "pause_end": 537.575
+    },
+    {
+      "id": "L02_A135",
+      "speaker": "instructor",
+      "text": "Answer, I am from Abu Dhabi.",
+      "start": 537.575,
+      "end": 539.935,
+      "pause_end": 545.185
+    },
+    {
+      "id": "L02_A136",
+      "speaker": "arabic",
+      "text": "أنا من أبوظبي",
+      "start": 545.185,
+      "end": 546.346,
+      "pause_end": 547.496
+    },
+    {
+      "id": "L02_A137",
+      "speaker": "instructor",
+      "text": "We will practice the complete conversation now. Speak before you hear the answer.",
+      "start": 547.496,
+      "end": 552.176,
+      "pause_end": 553.026
+    },
+    {
+      "id": "L02_A138",
+      "speaker": "instructor",
+      "text": "Greet the person.",
+      "start": 553.026,
+      "end": 554.226,
+      "pause_end": 559.476
+    },
+    {
+      "id": "L02_A139",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 559.476,
+      "end": 560.87,
+      "pause_end": 562.02
+    },
+    {
+      "id": "L02_A140",
+      "speaker": "instructor",
+      "text": "Return the greeting.",
+      "start": 562.02,
+      "end": 563.06,
+      "pause_end": 568.31
+    },
+    {
+      "id": "L02_A141",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 568.31,
+      "end": 569.564,
+      "pause_end": 570.714
+    },
+    {
+      "id": "L02_A142",
+      "speaker": "instructor",
+      "text": "Ask how they are.",
+      "start": 570.714,
+      "end": 571.834,
+      "pause_end": 577.084
+    },
+    {
+      "id": "L02_A143",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 577.084,
+      "end": 577.966,
+      "pause_end": 579.116
+    },
+    {
+      "id": "L02_A144",
+      "speaker": "instructor",
+      "text": "Answer, fine, thank God.",
+      "start": 579.116,
+      "end": 581.516,
+      "pause_end": 586.766
+    },
+    {
+      "id": "L02_A145",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 586.766,
+      "end": 588.949,
+      "pause_end": 590.099
+    },
+    {
+      "id": "L02_A146",
+      "speaker": "instructor",
+      "text": "Ask their name.",
+      "start": 590.099,
+      "end": 591.259,
+      "pause_end": 596.509
+    },
+    {
+      "id": "L02_A147",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 596.509,
+      "end": 597.484,
+      "pause_end": 598.634
+    },
+    {
+      "id": "L02_A148",
+      "speaker": "instructor",
+      "text": "Answer, my name is Khalid.",
+      "start": 598.634,
+      "end": 601.194,
+      "pause_end": 606.444
+    },
+    {
+      "id": "L02_A149",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 606.444,
+      "end": 607.605,
+      "pause_end": 608.755
+    },
+    {
+      "id": "L02_A150",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 608.755,
+      "end": 610.635,
+      "pause_end": 615.885
+    },
+    {
+      "id": "L02_A151",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 615.885,
+      "end": 616.814,
+      "pause_end": 617.964
+    },
+    {
+      "id": "L02_A152",
+      "speaker": "instructor",
+      "text": "Ask where they are from.",
+      "start": 617.964,
+      "end": 619.404,
+      "pause_end": 624.654
+    },
+    {
+      "id": "L02_A153",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 624.654,
+      "end": 625.815,
+      "pause_end": 626.965
+    },
+    {
+      "id": "L02_A154",
+      "speaker": "instructor",
+      "text": "Answer, I am from Dubai.",
+      "start": 626.965,
+      "end": 629.285,
+      "pause_end": 634.535
+    },
+    {
+      "id": "L02_A155",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 634.535,
+      "end": 635.557,
+      "pause_end": 636.707
+    },
+    {
+      "id": "L02_A156",
+      "speaker": "instructor",
+      "text": "Good. Now you will answer the same questions in a different order.",
+      "start": 636.707,
+      "end": 640.587,
+      "pause_end": 641.337
+    },
+    {
+      "id": "L02_A157",
+      "speaker": "instructor",
+      "text": "Ask someone their name.",
+      "start": 641.337,
+      "end": 642.977,
+      "pause_end": 648.227
+    },
+    {
+      "id": "L02_A158",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 648.227,
+      "end": 649.202,
+      "pause_end": 650.352
+    },
+    {
+      "id": "L02_A159",
+      "speaker": "instructor",
+      "text": "Say, my name is Maryam.",
+      "start": 650.352,
+      "end": 652.392,
+      "pause_end": 657.642
+    },
+    {
+      "id": "L02_A160",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 657.642,
+      "end": 658.571,
+      "pause_end": 659.721
+    },
+    {
+      "id": "L02_A161",
+      "speaker": "instructor",
+      "text": "Ask how they are.",
+      "start": 659.721,
+      "end": 660.841,
+      "pause_end": 666.091
+    },
+    {
+      "id": "L02_A162",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 666.091,
+      "end": 666.973,
+      "pause_end": 668.123
+    },
+    {
+      "id": "L02_A163",
+      "speaker": "instructor",
+      "text": "Ask where they are from.",
+      "start": 668.123,
+      "end": 669.563,
+      "pause_end": 674.813
+    },
+    {
+      "id": "L02_A164",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 674.813,
+      "end": 675.974,
+      "pause_end": 677.124
+    },
+    {
+      "id": "L02_A165",
+      "speaker": "instructor",
+      "text": "Say, I am from Abu Dhabi.",
+      "start": 677.124,
+      "end": 679.844,
+      "pause_end": 685.094
+    },
+    {
+      "id": "L02_A166",
+      "speaker": "arabic",
+      "text": "أنا من أبوظبي",
+      "start": 685.094,
+      "end": 686.255,
+      "pause_end": 687.405
+    },
+    {
+      "id": "L02_A167",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 687.405,
+      "end": 689.285,
+      "pause_end": 694.535
+    },
+    {
+      "id": "L02_A168",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 694.535,
+      "end": 695.464,
+      "pause_end": 696.614
+    },
+    {
+      "id": "L02_A169",
+      "speaker": "instructor",
+      "text": "Say, and you?",
+      "start": 696.614,
+      "end": 697.814,
+      "pause_end": 703.064
+    },
+    {
+      "id": "L02_A170",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 703.064,
+      "end": 703.761,
+      "pause_end": 704.911
+    },
+    {
+      "id": "L02_A171",
+      "speaker": "instructor",
+      "text": "Return the greeting.",
+      "start": 704.911,
+      "end": 705.951,
+      "pause_end": 711.201
+    },
+    {
+      "id": "L02_A172",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 711.201,
+      "end": 712.454,
+      "pause_end": 713.604
+    },
+    {
+      "id": "L02_A173",
+      "speaker": "instructor",
+      "text": "Say, I am from Dubai.",
+      "start": 713.604,
+      "end": 715.684,
+      "pause_end": 720.934
+    },
+    {
+      "id": "L02_A174",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 720.934,
+      "end": 721.956,
+      "pause_end": 723.106
+    },
+    {
+      "id": "L02_A175",
+      "speaker": "instructor",
+      "text": "Ask someone their name.",
+      "start": 723.106,
+      "end": 724.746,
+      "pause_end": 729.996
+    },
+    {
+      "id": "L02_A176",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 729.996,
+      "end": 730.971,
+      "pause_end": 732.121
+    },
+    {
+      "id": "L02_A177",
+      "speaker": "instructor",
+      "text": "Listen once more to a natural introduction.",
+      "start": 732.121,
+      "end": 734.761,
+      "pause_end": 735.511
+    },
+    {
+      "id": "L02_A178",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 735.511,
+      "end": 736.905,
+      "pause_end": 738.005
+    },
+    {
+      "id": "L02_A179",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 738.005,
+      "end": 739.259,
+      "pause_end": 740.359
+    },
+    {
+      "id": "L02_A180",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 740.359,
+      "end": 741.241,
+      "pause_end": 742.341
+    },
+    {
+      "id": "L02_A181",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 742.341,
+      "end": 744.57,
+      "pause_end": 745.67
+    },
+    {
+      "id": "L02_A182",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 745.67,
+      "end": 747.853,
+      "pause_end": 748.953
+    },
+    {
+      "id": "L02_A183",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 748.953,
+      "end": 749.928,
+      "pause_end": 751.028
+    },
+    {
+      "id": "L02_A184",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 751.028,
+      "end": 752.189,
+      "pause_end": 753.289
+    },
+    {
+      "id": "L02_A185",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 753.289,
+      "end": 754.218,
+      "pause_end": 755.318
+    },
+    {
+      "id": "L02_A186",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 755.318,
+      "end": 756.479,
+      "pause_end": 757.579
+    },
+    {
+      "id": "L02_A187",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 757.579,
+      "end": 758.601,
+      "pause_end": 759.701
+    },
+    {
+      "id": "L02_A188",
+      "speaker": "instructor",
+      "text": "Now the final review. Answer aloud, before the Arabic speaker.",
+      "start": 759.701,
+      "end": 764.421,
+      "pause_end": 765.171
+    },
+    {
+      "id": "L02_A189",
+      "speaker": "instructor",
+      "text": "Greet the person.",
+      "start": 765.171,
+      "end": 766.371,
+      "pause_end": 772.121
+    },
+    {
+      "id": "L02_A190",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 772.121,
+      "end": 773.514,
+      "pause_end": 774.664
+    },
+    {
+      "id": "L02_A191",
+      "speaker": "instructor",
+      "text": "Return the greeting.",
+      "start": 774.664,
+      "end": 775.704,
+      "pause_end": 781.454
+    },
+    {
+      "id": "L02_A192",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 781.454,
+      "end": 782.708,
+      "pause_end": 783.858
+    },
+    {
+      "id": "L02_A193",
+      "speaker": "instructor",
+      "text": "Ask how they are.",
+      "start": 783.858,
+      "end": 784.978,
+      "pause_end": 790.728
+    },
+    {
+      "id": "L02_A194",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 790.728,
+      "end": 791.61,
+      "pause_end": 792.76
+    },
+    {
+      "id": "L02_A195",
+      "speaker": "instructor",
+      "text": "Answer, fine, thank God.",
+      "start": 792.76,
+      "end": 795.16,
+      "pause_end": 800.91
+    },
+    {
+      "id": "L02_A196",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 800.91,
+      "end": 803.093,
+      "pause_end": 804.243
+    },
+    {
+      "id": "L02_A197",
+      "speaker": "instructor",
+      "text": "Ask their name.",
+      "start": 804.243,
+      "end": 805.403,
+      "pause_end": 811.153
+    },
+    {
+      "id": "L02_A198",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 811.153,
+      "end": 812.128,
+      "pause_end": 813.278
+    },
+    {
+      "id": "L02_A199",
+      "speaker": "instructor",
+      "text": "Answer, my name is Khalid.",
+      "start": 813.278,
+      "end": 815.838,
+      "pause_end": 821.588
+    },
+    {
+      "id": "L02_A200",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 821.588,
+      "end": 822.749,
+      "pause_end": 823.899
+    },
+    {
+      "id": "L02_A201",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 823.899,
+      "end": 825.779,
+      "pause_end": 831.529
+    },
+    {
+      "id": "L02_A202",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 831.529,
+      "end": 832.458,
+      "pause_end": 833.608
+    },
+    {
+      "id": "L02_A203",
+      "speaker": "instructor",
+      "text": "Ask where they are from.",
+      "start": 833.608,
+      "end": 835.048,
+      "pause_end": 840.798
+    },
+    {
+      "id": "L02_A204",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 840.798,
+      "end": 841.959,
+      "pause_end": 843.109
+    },
+    {
+      "id": "L02_A205",
+      "speaker": "instructor",
+      "text": "Answer, I am from Dubai.",
+      "start": 843.109,
+      "end": 845.429,
+      "pause_end": 851.179
+    },
+    {
+      "id": "L02_A206",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 851.179,
+      "end": 852.201,
+      "pause_end": 853.351
+    },
+    {
+      "id": "L02_A207",
+      "speaker": "instructor",
+      "text": "Ask someone their name.",
+      "start": 853.351,
+      "end": 854.991,
+      "pause_end": 860.741
+    },
+    {
+      "id": "L02_A208",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 860.741,
+      "end": 861.716,
+      "pause_end": 862.866
+    },
+    {
+      "id": "L02_A209",
+      "speaker": "instructor",
+      "text": "Say, my name is Maryam.",
+      "start": 862.866,
+      "end": 864.906,
+      "pause_end": 870.656
+    },
+    {
+      "id": "L02_A210",
+      "speaker": "arabic",
+      "text": "اسمي مريم",
+      "start": 870.656,
+      "end": 871.585,
+      "pause_end": 872.735
+    },
+    {
+      "id": "L02_A211",
+      "speaker": "instructor",
+      "text": "Ask how they are.",
+      "start": 872.735,
+      "end": 873.855,
+      "pause_end": 879.605
+    },
+    {
+      "id": "L02_A212",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 879.605,
+      "end": 880.487,
+      "pause_end": 881.637
+    },
+    {
+      "id": "L02_A213",
+      "speaker": "instructor",
+      "text": "Ask where they are from.",
+      "start": 881.637,
+      "end": 883.077,
+      "pause_end": 888.827
+    },
+    {
+      "id": "L02_A214",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 888.827,
+      "end": 889.988,
+      "pause_end": 891.138
+    },
+    {
+      "id": "L02_A215",
+      "speaker": "instructor",
+      "text": "Say, I am from Abu Dhabi.",
+      "start": 891.138,
+      "end": 893.858,
+      "pause_end": 899.608
+    },
+    {
+      "id": "L02_A216",
+      "speaker": "arabic",
+      "text": "أنا من أبوظبي",
+      "start": 899.608,
+      "end": 900.769,
+      "pause_end": 901.919
+    },
+    {
+      "id": "L02_A217",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 901.919,
+      "end": 903.799,
+      "pause_end": 909.549
+    },
+    {
+      "id": "L02_A218",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 909.549,
+      "end": 910.478,
+      "pause_end": 911.628
+    },
+    {
+      "id": "L02_A219",
+      "speaker": "instructor",
+      "text": "Say, and you?",
+      "start": 911.628,
+      "end": 912.828,
+      "pause_end": 918.578
+    },
+    {
+      "id": "L02_A220",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 918.578,
+      "end": 919.275,
+      "pause_end": 920.425
+    },
+    {
+      "id": "L02_A221",
+      "speaker": "instructor",
+      "text": "Return the greeting.",
+      "start": 920.425,
+      "end": 921.465,
+      "pause_end": 927.215
+    },
+    {
+      "id": "L02_A222",
+      "speaker": "arabic",
+      "text": "وعليكم السلام",
+      "start": 927.215,
+      "end": 928.469,
+      "pause_end": 929.619
+    },
+    {
+      "id": "L02_A223",
+      "speaker": "instructor",
+      "text": "Say, I am from Dubai.",
+      "start": 929.619,
+      "end": 931.699,
+      "pause_end": 937.449
+    },
+    {
+      "id": "L02_A224",
+      "speaker": "arabic",
+      "text": "أنا من دبي",
+      "start": 937.449,
+      "end": 938.47,
+      "pause_end": 939.62
+    },
+    {
+      "id": "L02_A225",
+      "speaker": "instructor",
+      "text": "Ask someone their name.",
+      "start": 939.62,
+      "end": 941.26,
+      "pause_end": 947.01
+    },
+    {
+      "id": "L02_A226",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 947.01,
+      "end": 947.986,
+      "pause_end": 949.136
+    },
+    {
+      "id": "L02_A227",
+      "speaker": "instructor",
+      "text": "Say, my name is Khalid.",
+      "start": 949.136,
+      "end": 951.256,
+      "pause_end": 957.006
+    },
+    {
+      "id": "L02_A228",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 957.006,
+      "end": 958.167,
+      "pause_end": 959.317
+    },
+    {
+      "id": "L02_A229",
+      "speaker": "instructor",
+      "text": "Ask, where are you from?",
+      "start": 959.317,
+      "end": 960.717,
+      "pause_end": 966.467
+    },
+    {
+      "id": "L02_A230",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 966.467,
+      "end": 967.628,
+      "pause_end": 968.778
+    },
+    {
+      "id": "L02_A231",
+      "speaker": "instructor",
+      "text": "Say, I am from Abu Dhabi.",
+      "start": 968.778,
+      "end": 971.498,
+      "pause_end": 977.248
+    },
+    {
+      "id": "L02_A232",
+      "speaker": "arabic",
+      "text": "أنا من أبوظبي",
+      "start": 977.248,
+      "end": 978.409,
+      "pause_end": 979.559
+    },
+    {
+      "id": "L02_A233",
+      "speaker": "instructor",
+      "text": "Ask how someone is.",
+      "start": 979.559,
+      "end": 981.079,
+      "pause_end": 986.829
+    },
+    {
+      "id": "L02_A234",
+      "speaker": "arabic",
+      "text": "شحالك؟",
+      "start": 986.829,
+      "end": 987.711,
+      "pause_end": 988.861
+    },
+    {
+      "id": "L02_A235",
+      "speaker": "instructor",
+      "text": "Say, fine, thank God. And you?",
+      "start": 988.861,
+      "end": 992.741,
+      "pause_end": 998.491
+    },
+    {
+      "id": "L02_A236",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله. وإنت؟",
+      "start": 998.491,
+      "end": 1000.72,
+      "pause_end": 1001.87
+    },
+    {
+      "id": "L02_A237",
+      "speaker": "instructor",
+      "text": "Ask, what is your name?",
+      "start": 1001.87,
+      "end": 1003.63,
+      "pause_end": 1009.38
+    },
+    {
+      "id": "L02_A238",
+      "speaker": "arabic",
+      "text": "شو اسمك؟",
+      "start": 1009.38,
+      "end": 1010.355,
+      "pause_end": 1011.505
+    },
+    {
+      "id": "L02_A239",
+      "speaker": "instructor",
+      "text": "Say, pleased to meet you.",
+      "start": 1011.505,
+      "end": 1013.385,
+      "pause_end": 1019.135
+    },
+    {
+      "id": "L02_A240",
+      "speaker": "arabic",
+      "text": "تشرفنا",
+      "start": 1019.135,
+      "end": 1020.064,
+      "pause_end": 1021.214
+    },
+    {
+      "id": "L02_A241",
+      "speaker": "instructor",
+      "text": "You have finished Lesson Two. In the next lesson, you will use these introductions in a longer conversation. Practice the questions and answers once more before continuing.",
+      "start": 1021.214,
+      "end": 1031.534,
+      "pause_end": 1032.484
+    }
+  ]
+}

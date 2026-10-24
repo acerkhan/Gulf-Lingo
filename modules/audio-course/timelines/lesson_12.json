@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L12_A001",
+      "speaker": "instructor",
+      "text": "Lesson 12. Work and Colleagues. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 5.36,
+      "pause_end": 6.31
+    },
+    {
+      "id": "L12_A002",
+      "speaker": "instructor",
+      "text": "First, a quick review. Answer before you hear the speaker.",
+      "start": 6.31,
+      "end": 10.03,
+      "pause_end": 10.98
+    },
+    {
+      "id": "L12_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 10.98,
+      "end": 13.5,
+      "pause_end": 17.95
+    },
+    {
+      "id": "L12_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 17.95,
+      "end": 19.111,
+      "pause_end": 20.211
+    },
+    {
+      "id": "L12_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 20.211,
+      "end": 23.371,
+      "pause_end": 27.821
+    },
+    {
+      "id": "L12_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 27.821,
+      "end": 28.796,
+      "pause_end": 29.896
+    },
+    {
+      "id": "L12_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask someone their name.",
+      "start": 29.896,
+      "end": 33.176,
+      "pause_end": 37.626
+    },
+    {
+      "id": "L12_A008",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 37.626,
+      "end": 38.462,
+      "pause_end": 39.562
+    },
+    {
+      "id": "L12_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask where someone is from.",
+      "start": 39.562,
+      "end": 43.362,
+      "pause_end": 47.812
+    },
+    {
+      "id": "L12_A010",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 47.812,
+      "end": 48.927,
+      "pause_end": 50.027
+    },
+    {
+      "id": "L12_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 50.027,
+      "end": 53.427,
+      "pause_end": 57.877
+    },
+    {
+      "id": "L12_A012",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 57.877,
+      "end": 58.945,
+      "pause_end": 60.045
+    },
+    {
+      "id": "L12_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 60.045,
+      "end": 63.685,
+      "pause_end": 68.135
+    },
+    {
+      "id": "L12_A014",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 68.135,
+      "end": 69.11,
+      "pause_end": 70.21
+    },
+    {
+      "id": "L12_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few useful expressions for today.",
+      "start": 70.21,
+      "end": 73.01,
+      "pause_end": 73.76
+    },
+    {
+      "id": "L12_A016",
+      "speaker": "instructor",
+      "text": "Listen. Where do you work? Ask a man.",
+      "start": 73.76,
+      "end": 77.04,
+      "pause_end": 77.69
+    },
+    {
+      "id": "L12_A017",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 77.69,
+      "end": 78.805,
+      "pause_end": 80.055
+    },
+    {
+      "id": "L12_A018",
+      "speaker": "instructor",
+      "text": "Listen. I work at a company.",
+      "start": 80.055,
+      "end": 82.215,
+      "pause_end": 82.865
+    },
+    {
+      "id": "L12_A019",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 82.865,
+      "end": 84.165,
+      "pause_end": 85.415
+    },
+    {
+      "id": "L12_A020",
+      "speaker": "instructor",
+      "text": "Listen. What is your job?",
+      "start": 85.415,
+      "end": 87.175,
+      "pause_end": 87.825
+    },
+    {
+      "id": "L12_A021",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 87.825,
+      "end": 88.754,
+      "pause_end": 90.004
+    },
+    {
+      "id": "L12_A022",
+      "speaker": "instructor",
+      "text": "Listen. I am an employee. Said by a man.",
+      "start": 90.004,
+      "end": 93.204,
+      "pause_end": 93.854
+    },
+    {
+      "id": "L12_A023",
+      "speaker": "arabic",
+      "text": "أنا موظف",
+      "start": 93.854,
+      "end": 94.922,
+      "pause_end": 96.172
+    },
+    {
+      "id": "L12_A024",
+      "speaker": "instructor",
+      "text": "Listen. I am an employee. Said by a woman.",
+      "start": 96.172,
+      "end": 99.412,
+      "pause_end": 100.062
+    },
+    {
+      "id": "L12_A025",
+      "speaker": "arabic_female",
+      "text": "أنا موظفة",
+      "start": 100.062,
+      "end": 101.177,
+      "pause_end": 102.427
+    },
+    {
+      "id": "L12_A026",
+      "speaker": "instructor",
+      "text": "Now say each expression yourself.",
+      "start": 102.427,
+      "end": 105.307,
+      "pause_end": 106.057
+    },
+    {
+      "id": "L12_A027",
+      "speaker": "instructor",
+      "text": "Listen. Where do you work? Ask a man.",
+      "start": 106.057,
+      "end": 109.337,
+      "pause_end": 109.937
+    },
+    {
+      "id": "L12_A028",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 109.937,
+      "end": 111.051,
+      "pause_end": 112.301
+    },
+    {
+      "id": "L12_A029",
+      "speaker": "instructor",
+      "text": "Your turn. Where do you work? Ask a man.",
+      "start": 112.301,
+      "end": 115.461,
+      "pause_end": 120.211
+    },
+    {
+      "id": "L12_A030",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 120.211,
+      "end": 121.326,
+      "pause_end": 122.426
+    },
+    {
+      "id": "L12_A031",
+      "speaker": "instructor",
+      "text": "Listen. I work at a company.",
+      "start": 122.426,
+      "end": 124.586,
+      "pause_end": 125.186
+    },
+    {
+      "id": "L12_A032",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 125.186,
+      "end": 126.486,
+      "pause_end": 127.736
+    },
+    {
+      "id": "L12_A033",
+      "speaker": "instructor",
+      "text": "Your turn. I work at a company.",
+      "start": 127.736,
+      "end": 130.096,
+      "pause_end": 134.846
+    },
+    {
+      "id": "L12_A034",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 134.846,
+      "end": 136.147,
+      "pause_end": 137.247
+    },
+    {
+      "id": "L12_A035",
+      "speaker": "instructor",
+      "text": "Listen. What is your job?",
+      "start": 137.247,
+      "end": 139.007,
+      "pause_end": 139.607
+    },
+    {
+      "id": "L12_A036",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 139.607,
+      "end": 140.535,
+      "pause_end": 141.785
+    },
+    {
+      "id": "L12_A037",
+      "speaker": "instructor",
+      "text": "Your turn. What is your job?",
+      "start": 141.785,
+      "end": 144.185,
+      "pause_end": 148.935
+    },
+    {
+      "id": "L12_A038",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 148.935,
+      "end": 149.864,
+      "pause_end": 150.964
+    },
+    {
+      "id": "L12_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where do you work? Ask a man.",
+      "start": 150.964,
+      "end": 154.644,
+      "pause_end": 160.094
+    },
+    {
+      "id": "L12_A040",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 160.094,
+      "end": 161.209,
+      "pause_end": 162.309
+    },
+    {
+      "id": "L12_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask someone their name.",
+      "start": 162.309,
+      "end": 165.229,
+      "pause_end": 169.979
+    },
+    {
+      "id": "L12_A042",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 169.979,
+      "end": 170.815,
+      "pause_end": 171.915
+    },
+    {
+      "id": "L12_A043",
+      "speaker": "instructor",
+      "text": "Listen. I am an employee. Said by a man.",
+      "start": 171.915,
+      "end": 175.115,
+      "pause_end": 175.715
+    },
+    {
+      "id": "L12_A044",
+      "speaker": "arabic",
+      "text": "أنا موظف",
+      "start": 175.715,
+      "end": 176.783,
+      "pause_end": 178.033
+    },
+    {
+      "id": "L12_A045",
+      "speaker": "instructor",
+      "text": "Your turn. I am an employee. Said by a man.",
+      "start": 178.033,
+      "end": 183.633,
+      "pause_end": 188.383
+    },
+    {
+      "id": "L12_A046",
+      "speaker": "arabic",
+      "text": "أنا موظف",
+      "start": 188.383,
+      "end": 189.451,
+      "pause_end": 190.551
+    },
+    {
+      "id": "L12_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: I work at a company.",
+      "start": 190.551,
+      "end": 193.471,
+      "pause_end": 198.921
+    },
+    {
+      "id": "L12_A048",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 198.921,
+      "end": 200.221,
+      "pause_end": 201.321
+    },
+    {
+      "id": "L12_A049",
+      "speaker": "instructor",
+      "text": "Listen. I am an employee. Said by a woman.",
+      "start": 201.321,
+      "end": 204.561,
+      "pause_end": 205.161
+    },
+    {
+      "id": "L12_A050",
+      "speaker": "arabic_female",
+      "text": "أنا موظفة",
+      "start": 205.161,
+      "end": 206.276,
+      "pause_end": 207.526
+    },
+    {
+      "id": "L12_A051",
+      "speaker": "instructor",
+      "text": "Your turn. I am an employee. Said by a woman.",
+      "start": 207.526,
+      "end": 210.966,
+      "pause_end": 215.716
+    },
+    {
+      "id": "L12_A052",
+      "speaker": "arabic_female",
+      "text": "أنا موظفة",
+      "start": 215.716,
+      "end": 216.831,
+      "pause_end": 217.931
+    },
+    {
+      "id": "L12_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: What is your job?",
+      "start": 217.931,
+      "end": 220.611,
+      "pause_end": 226.061
+    },
+    {
+      "id": "L12_A054",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 226.061,
+      "end": 226.989,
+      "pause_end": 228.089
+    },
+    {
+      "id": "L12_A055",
+      "speaker": "instructor",
+      "text": "Listen. When do you start work?",
+      "start": 228.089,
+      "end": 230.489,
+      "pause_end": 231.089
+    },
+    {
+      "id": "L12_A056",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 231.089,
+      "end": 232.204,
+      "pause_end": 233.454
+    },
+    {
+      "id": "L12_A057",
+      "speaker": "instructor",
+      "text": "Your turn. When do you start work?",
+      "start": 233.454,
+      "end": 236.334,
+      "pause_end": 241.084
+    },
+    {
+      "id": "L12_A058",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 241.084,
+      "end": 242.199,
+      "pause_end": 243.299
+    },
+    {
+      "id": "L12_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: I am an employee. Said by a man.",
+      "start": 243.299,
+      "end": 247.179,
+      "pause_end": 252.629
+    },
+    {
+      "id": "L12_A060",
+      "speaker": "arabic",
+      "text": "أنا موظف",
+      "start": 252.629,
+      "end": 253.697,
+      "pause_end": 254.797
+    },
+    {
+      "id": "L12_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Ask where someone is from.",
+      "start": 254.797,
+      "end": 257.677,
+      "pause_end": 262.427
+    },
+    {
+      "id": "L12_A062",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 262.427,
+      "end": 263.541,
+      "pause_end": 264.641
+    },
+    {
+      "id": "L12_A063",
+      "speaker": "instructor",
+      "text": "Listen. I start work at eight.",
+      "start": 264.641,
+      "end": 266.641,
+      "pause_end": 267.241
+    },
+    {
+      "id": "L12_A064",
+      "speaker": "arabic",
+      "text": "أداوم الساعة ثمان",
+      "start": 267.241,
+      "end": 268.82,
+      "pause_end": 270.07
+    },
+    {
+      "id": "L12_A065",
+      "speaker": "instructor",
+      "text": "Your turn. I start work at eight.",
+      "start": 270.07,
+      "end": 273.43,
+      "pause_end": 278.18
+    },
+    {
+      "id": "L12_A066",
+      "speaker": "arabic",
+      "text": "أداوم الساعة ثمان",
+      "start": 278.18,
+      "end": 279.759,
+      "pause_end": 280.859
+    },
+    {
+      "id": "L12_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: I am an employee. Said by a woman.",
+      "start": 280.859,
+      "end": 284.659,
+      "pause_end": 290.109
+    },
+    {
+      "id": "L12_A068",
+      "speaker": "arabic_female",
+      "text": "أنا موظفة",
+      "start": 290.109,
+      "end": 291.224,
+      "pause_end": 292.324
+    },
+    {
+      "id": "L12_A069",
+      "speaker": "instructor",
+      "text": "Listen. I have a meeting today.",
+      "start": 292.324,
+      "end": 294.684,
+      "pause_end": 295.284
+    },
+    {
+      "id": "L12_A070",
+      "speaker": "arabic_female",
+      "text": "عندي اجتماع اليوم",
+      "start": 295.284,
+      "end": 296.863,
+      "pause_end": 298.113
+    },
+    {
+      "id": "L12_A071",
+      "speaker": "instructor",
+      "text": "Your turn. I have a meeting today.",
+      "start": 298.113,
+      "end": 300.873,
+      "pause_end": 305.623
+    },
+    {
+      "id": "L12_A072",
+      "speaker": "arabic_female",
+      "text": "عندي اجتماع اليوم",
+      "start": 305.623,
+      "end": 307.202,
+      "pause_end": 308.302
+    },
+    {
+      "id": "L12_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: When do you start work?",
+      "start": 308.302,
+      "end": 310.862,
+      "pause_end": 316.312
+    },
+    {
+      "id": "L12_A074",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 316.312,
+      "end": 317.427,
+      "pause_end": 318.527
+    },
+    {
+      "id": "L12_A075",
+      "speaker": "instructor",
+      "text": "Listen. The meeting is at ten.",
+      "start": 318.527,
+      "end": 320.567,
+      "pause_end": 321.167
+    },
+    {
+      "id": "L12_A076",
+      "speaker": "arabic",
+      "text": "الاجتماع الساعة عشر",
+      "start": 321.167,
+      "end": 323.071,
+      "pause_end": 324.321
+    },
+    {
+      "id": "L12_A077",
+      "speaker": "instructor",
+      "text": "Your turn. The meeting is at ten.",
+      "start": 324.321,
+      "end": 326.681,
+      "pause_end": 331.431
+    },
+    {
+      "id": "L12_A078",
+      "speaker": "arabic",
+      "text": "الاجتماع الساعة عشر",
+      "start": 331.431,
+      "end": 333.335,
+      "pause_end": 334.435
+    },
+    {
+      "id": "L12_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: I start work at eight.",
+      "start": 334.435,
+      "end": 337.755,
+      "pause_end": 343.205
+    },
+    {
+      "id": "L12_A080",
+      "speaker": "arabic",
+      "text": "أداوم الساعة ثمان",
+      "start": 343.205,
+      "end": 344.784,
+      "pause_end": 345.884
+    },
+    {
+      "id": "L12_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 345.884,
+      "end": 348.764,
+      "pause_end": 353.514
+    },
+    {
+      "id": "L12_A082",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 353.514,
+      "end": 354.582,
+      "pause_end": 355.682
+    },
+    {
+      "id": "L12_A083",
+      "speaker": "instructor",
+      "text": "Listen. Is the manager here?",
+      "start": 355.682,
+      "end": 357.762,
+      "pause_end": 358.362
+    },
+    {
+      "id": "L12_A084",
+      "speaker": "arabic_female",
+      "text": "المدير موجود؟",
+      "start": 358.362,
+      "end": 359.802,
+      "pause_end": 361.052
+    },
+    {
+      "id": "L12_A085",
+      "speaker": "instructor",
+      "text": "Your turn. Is the manager here?",
+      "start": 361.052,
+      "end": 363.052,
+      "pause_end": 367.802
+    },
+    {
+      "id": "L12_A086",
+      "speaker": "arabic_female",
+      "text": "المدير موجود؟",
+      "start": 367.802,
+      "end": 369.241,
+      "pause_end": 370.341
+    },
+    {
+      "id": "L12_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: I have a meeting today.",
+      "start": 370.341,
+      "end": 373.181,
+      "pause_end": 378.631
+    },
+    {
+      "id": "L12_A088",
+      "speaker": "arabic_female",
+      "text": "عندي اجتماع اليوم",
+      "start": 378.631,
+      "end": 380.21,
+      "pause_end": 381.31
+    },
+    {
+      "id": "L12_A089",
+      "speaker": "instructor",
+      "text": "Listen. No, he is not here now.",
+      "start": 381.31,
+      "end": 384.03,
+      "pause_end": 384.63
+    },
+    {
+      "id": "L12_A090",
+      "speaker": "arabic",
+      "text": "لا، مب موجود الحين",
+      "start": 384.63,
+      "end": 386.349,
+      "pause_end": 387.599
+    },
+    {
+      "id": "L12_A091",
+      "speaker": "instructor",
+      "text": "Your turn. No, he is not here now.",
+      "start": 387.599,
+      "end": 391.359,
+      "pause_end": 396.109
+    },
+    {
+      "id": "L12_A092",
+      "speaker": "arabic",
+      "text": "لا، مب موجود الحين",
+      "start": 396.109,
+      "end": 397.827,
+      "pause_end": 398.927
+    },
+    {
+      "id": "L12_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: The meeting is at ten.",
+      "start": 398.927,
+      "end": 401.807,
+      "pause_end": 407.257
+    },
+    {
+      "id": "L12_A094",
+      "speaker": "arabic",
+      "text": "الاجتماع الساعة عشر",
+      "start": 407.257,
+      "end": 409.161,
+      "pause_end": 410.261
+    },
+    {
+      "id": "L12_A095",
+      "speaker": "instructor",
+      "text": "Listen. I will come back in a little while.",
+      "start": 410.261,
+      "end": 413.021,
+      "pause_end": 413.621
+    },
+    {
+      "id": "L12_A096",
+      "speaker": "arabic_female",
+      "text": "برجع عقب شوي",
+      "start": 413.621,
+      "end": 415.061,
+      "pause_end": 416.311
+    },
+    {
+      "id": "L12_A097",
+      "speaker": "instructor",
+      "text": "Your turn. I will come back in a little while.",
+      "start": 416.311,
+      "end": 419.311,
+      "pause_end": 424.061
+    },
+    {
+      "id": "L12_A098",
+      "speaker": "arabic_female",
+      "text": "برجع عقب شوي",
+      "start": 424.061,
+      "end": 425.501,
+      "pause_end": 426.601
+    },
+    {
+      "id": "L12_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: Is the manager here?",
+      "start": 426.601,
+      "end": 429.201,
+      "pause_end": 434.651
+    },
+    {
+      "id": "L12_A100",
+      "speaker": "arabic_female",
+      "text": "المدير موجود؟",
+      "start": 434.651,
+      "end": 436.09,
+      "pause_end": 437.19
+    },
+    {
+      "id": "L12_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 437.19,
+      "end": 439.91,
+      "pause_end": 444.66
+    },
+    {
+      "id": "L12_A102",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 444.66,
+      "end": 445.635,
+      "pause_end": 446.735
+    },
+    {
+      "id": "L12_A103",
+      "speaker": "instructor",
+      "text": "Listen. Send me a message.",
+      "start": 446.735,
+      "end": 448.575,
+      "pause_end": 449.175
+    },
+    {
+      "id": "L12_A104",
+      "speaker": "arabic",
+      "text": "طرش لي رسالة",
+      "start": 449.175,
+      "end": 450.383,
+      "pause_end": 451.633
+    },
+    {
+      "id": "L12_A105",
+      "speaker": "instructor",
+      "text": "Your turn. Send me a message.",
+      "start": 451.633,
+      "end": 453.713,
+      "pause_end": 458.463
+    },
+    {
+      "id": "L12_A106",
+      "speaker": "arabic",
+      "text": "طرش لي رسالة",
+      "start": 458.463,
+      "end": 459.67,
+      "pause_end": 460.77
+    },
+    {
+      "id": "L12_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: No, he is not here now.",
+      "start": 460.77,
+      "end": 463.93,
+      "pause_end": 469.38
+    },
+    {
+      "id": "L12_A108",
+      "speaker": "arabic",
+      "text": "لا، مب موجود الحين",
+      "start": 469.38,
+      "end": 471.099,
+      "pause_end": 472.199
+    },
+    {
+      "id": "L12_A109",
+      "speaker": "instructor",
+      "text": "Listen. God willing.",
+      "start": 472.199,
+      "end": 474.199,
+      "pause_end": 474.799
+    },
+    {
+      "id": "L12_A110",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 474.799,
+      "end": 475.96,
+      "pause_end": 477.21
+    },
+    {
+      "id": "L12_A111",
+      "speaker": "instructor",
+      "text": "Your turn. God willing.",
+      "start": 477.21,
+      "end": 479.93,
+      "pause_end": 484.68
+    },
+    {
+      "id": "L12_A112",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 484.68,
+      "end": 485.841,
+      "pause_end": 486.941
+    },
+    {
+      "id": "L12_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: I will come back in a little while.",
+      "start": 486.941,
+      "end": 489.821,
+      "pause_end": 495.271
+    },
+    {
+      "id": "L12_A114",
+      "speaker": "arabic_female",
+      "text": "برجع عقب شوي",
+      "start": 495.271,
+      "end": 496.71,
+      "pause_end": 497.81
+    },
+    {
+      "id": "L12_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Give your answer before the recording.",
+      "start": 497.81,
+      "end": 501.13,
+      "pause_end": 502.08
+    },
+    {
+      "id": "L12_A116",
+      "speaker": "instructor",
+      "text": "Say: Where do you work? Ask a man.",
+      "start": 502.08,
+      "end": 505.96,
+      "pause_end": 511.01
+    },
+    {
+      "id": "L12_A117",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 511.01,
+      "end": 512.125,
+      "pause_end": 513.225
+    },
+    {
+      "id": "L12_A118",
+      "speaker": "instructor",
+      "text": "Say: I work at a company.",
+      "start": 513.225,
+      "end": 514.945,
+      "pause_end": 519.995
+    },
+    {
+      "id": "L12_A119",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 519.995,
+      "end": 521.295,
+      "pause_end": 522.395
+    },
+    {
+      "id": "L12_A120",
+      "speaker": "instructor",
+      "text": "Say: What is your job?",
+      "start": 522.395,
+      "end": 524.395,
+      "pause_end": 529.445
+    },
+    {
+      "id": "L12_A121",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 529.445,
+      "end": 530.374,
+      "pause_end": 531.474
+    },
+    {
+      "id": "L12_A122",
+      "speaker": "instructor",
+      "text": "Say: I am an employee. Said by a man.",
+      "start": 531.474,
+      "end": 535.954,
+      "pause_end": 541.004
+    },
+    {
+      "id": "L12_A123",
+      "speaker": "arabic",
+      "text": "أنا موظف",
+      "start": 541.004,
+      "end": 542.072,
+      "pause_end": 543.172
+    },
+    {
+      "id": "L12_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 543.172,
+      "end": 545.372,
+      "pause_end": 550.322
+    },
+    {
+      "id": "L12_A125",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 550.322,
+      "end": 551.298,
+      "pause_end": 552.398
+    },
+    {
+      "id": "L12_A126",
+      "speaker": "instructor",
+      "text": "Say: I am an employee. Said by a woman.",
+      "start": 552.398,
+      "end": 556.038,
+      "pause_end": 561.088
+    },
+    {
+      "id": "L12_A127",
+      "speaker": "arabic_female",
+      "text": "أنا موظفة",
+      "start": 561.088,
+      "end": 562.202,
+      "pause_end": 563.302
+    },
+    {
+      "id": "L12_A128",
+      "speaker": "instructor",
+      "text": "Say: When do you start work?",
+      "start": 563.302,
+      "end": 565.662,
+      "pause_end": 570.712
+    },
+    {
+      "id": "L12_A129",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 570.712,
+      "end": 571.827,
+      "pause_end": 572.927
+    },
+    {
+      "id": "L12_A130",
+      "speaker": "instructor",
+      "text": "Say: I start work at eight.",
+      "start": 572.927,
+      "end": 575.487,
+      "pause_end": 580.537
+    },
+    {
+      "id": "L12_A131",
+      "speaker": "arabic",
+      "text": "أداوم الساعة ثمان",
+      "start": 580.537,
+      "end": 582.116,
+      "pause_end": 583.216
+    },
+    {
+      "id": "L12_A132",
+      "speaker": "instructor",
+      "text": "Say: I have a meeting today.",
+      "start": 583.216,
+      "end": 585.296,
+      "pause_end": 590.346
+    },
+    {
+      "id": "L12_A133",
+      "speaker": "arabic_female",
+      "text": "عندي اجتماع اليوم",
+      "start": 590.346,
+      "end": 591.925,
+      "pause_end": 593.025
+    },
+    {
+      "id": "L12_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Say now.",
+      "start": 593.025,
+      "end": 594.745,
+      "pause_end": 599.695
+    },
+    {
+      "id": "L12_A135",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 599.695,
+      "end": 600.67,
+      "pause_end": 601.77
+    },
+    {
+      "id": "L12_A136",
+      "speaker": "instructor",
+      "text": "Say: The meeting is at ten.",
+      "start": 601.77,
+      "end": 604.05,
+      "pause_end": 609.1
+    },
+    {
+      "id": "L12_A137",
+      "speaker": "arabic",
+      "text": "الاجتماع الساعة عشر",
+      "start": 609.1,
+      "end": 611.004,
+      "pause_end": 612.104
+    },
+    {
+      "id": "L12_A138",
+      "speaker": "instructor",
+      "text": "Say: Is the manager here?",
+      "start": 612.104,
+      "end": 614.824,
+      "pause_end": 619.874
+    },
+    {
+      "id": "L12_A139",
+      "speaker": "arabic_female",
+      "text": "المدير موجود؟",
+      "start": 619.874,
+      "end": 621.314,
+      "pause_end": 622.414
+    },
+    {
+      "id": "L12_A140",
+      "speaker": "instructor",
+      "text": "Say: No, he is not here now.",
+      "start": 622.414,
+      "end": 625.574,
+      "pause_end": 630.624
+    },
+    {
+      "id": "L12_A141",
+      "speaker": "arabic",
+      "text": "لا، مب موجود الحين",
+      "start": 630.624,
+      "end": 632.342,
+      "pause_end": 633.442
+    },
+    {
+      "id": "L12_A142",
+      "speaker": "instructor",
+      "text": "Say: I will come back in a little while.",
+      "start": 633.442,
+      "end": 635.682,
+      "pause_end": 640.732
+    },
+    {
+      "id": "L12_A143",
+      "speaker": "arabic_female",
+      "text": "برجع عقب شوي",
+      "start": 640.732,
+      "end": 642.172,
+      "pause_end": 643.272
+    },
+    {
+      "id": "L12_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone is from.",
+      "start": 643.272,
+      "end": 645.872,
+      "pause_end": 650.822
+    },
+    {
+      "id": "L12_A145",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 650.822,
+      "end": 651.936,
+      "pause_end": 653.036
+    },
+    {
+      "id": "L12_A146",
+      "speaker": "instructor",
+      "text": "Say: Send me a message.",
+      "start": 653.036,
+      "end": 655.756,
+      "pause_end": 660.806
+    },
+    {
+      "id": "L12_A147",
+      "speaker": "arabic",
+      "text": "طرش لي رسالة",
+      "start": 660.806,
+      "end": 662.014,
+      "pause_end": 663.114
+    },
+    {
+      "id": "L12_A148",
+      "speaker": "instructor",
+      "text": "Say: God willing.",
+      "start": 663.114,
+      "end": 664.994,
+      "pause_end": 670.044
+    },
+    {
+      "id": "L12_A149",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 670.044,
+      "end": 671.205,
+      "pause_end": 672.305
+    },
+    {
+      "id": "L12_A150",
+      "speaker": "instructor",
+      "text": "Say: Where do you work? Ask a man.",
+      "start": 672.305,
+      "end": 676.185,
+      "pause_end": 681.235
+    },
+    {
+      "id": "L12_A151",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 681.235,
+      "end": 682.35,
+      "pause_end": 683.45
+    },
+    {
+      "id": "L12_A152",
+      "speaker": "instructor",
+      "text": "Say: What is your job?",
+      "start": 683.45,
+      "end": 685.45,
+      "pause_end": 690.5
+    },
+    {
+      "id": "L12_A153",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 690.5,
+      "end": 691.428,
+      "pause_end": 692.528
+    },
+    {
+      "id": "L12_A154",
+      "speaker": "instructor",
+      "text": "Say: I am an employee. Said by a woman.",
+      "start": 692.528,
+      "end": 696.168,
+      "pause_end": 701.218
+    },
+    {
+      "id": "L12_A155",
+      "speaker": "arabic_female",
+      "text": "أنا موظفة",
+      "start": 701.218,
+      "end": 702.333,
+      "pause_end": 703.433
+    },
+    {
+      "id": "L12_A156",
+      "speaker": "instructor",
+      "text": "Say: I start work at eight.",
+      "start": 703.433,
+      "end": 705.993,
+      "pause_end": 711.043
+    },
+    {
+      "id": "L12_A157",
+      "speaker": "arabic",
+      "text": "أداوم الساعة ثمان",
+      "start": 711.043,
+      "end": 712.622,
+      "pause_end": 713.722
+    },
+    {
+      "id": "L12_A158",
+      "speaker": "instructor",
+      "text": "Say: The meeting is at ten.",
+      "start": 713.722,
+      "end": 716.002,
+      "pause_end": 721.052
+    },
+    {
+      "id": "L12_A159",
+      "speaker": "arabic",
+      "text": "الاجتماع الساعة عشر",
+      "start": 721.052,
+      "end": 722.956,
+      "pause_end": 724.056
+    },
+    {
+      "id": "L12_A160",
+      "speaker": "instructor",
+      "text": "Say: No, he is not here now.",
+      "start": 724.056,
+      "end": 727.216,
+      "pause_end": 732.266
+    },
+    {
+      "id": "L12_A161",
+      "speaker": "arabic",
+      "text": "لا، مب موجود الحين",
+      "start": 732.266,
+      "end": 733.985,
+      "pause_end": 735.085
+    },
+    {
+      "id": "L12_A162",
+      "speaker": "instructor",
+      "text": "Say: Send me a message.",
+      "start": 735.085,
+      "end": 737.805,
+      "pause_end": 742.855
+    },
+    {
+      "id": "L12_A163",
+      "speaker": "arabic",
+      "text": "طرش لي رسالة",
+      "start": 742.855,
+      "end": 744.062,
+      "pause_end": 745.162
+    },
+    {
+      "id": "L12_A164",
+      "speaker": "instructor",
+      "text": "Say: I work at a company.",
+      "start": 745.162,
+      "end": 746.882,
+      "pause_end": 751.932
+    },
+    {
+      "id": "L12_A165",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 751.932,
+      "end": 753.232,
+      "pause_end": 754.332
+    },
+    {
+      "id": "L12_A166",
+      "speaker": "instructor",
+      "text": "Say: I am an employee. Said by a man.",
+      "start": 754.332,
+      "end": 758.812,
+      "pause_end": 763.862
+    },
+    {
+      "id": "L12_A167",
+      "speaker": "arabic",
+      "text": "أنا موظف",
+      "start": 763.862,
+      "end": 764.93,
+      "pause_end": 766.03
+    },
+    {
+      "id": "L12_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 766.03,
+      "end": 768.11,
+      "pause_end": 773.06
+    },
+    {
+      "id": "L12_A169",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 773.06,
+      "end": 774.314,
+      "pause_end": 775.414
+    },
+    {
+      "id": "L12_A170",
+      "speaker": "instructor",
+      "text": "Say: When do you start work?",
+      "start": 775.414,
+      "end": 777.774,
+      "pause_end": 782.824
+    },
+    {
+      "id": "L12_A171",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 782.824,
+      "end": 783.939,
+      "pause_end": 785.039
+    },
+    {
+      "id": "L12_A172",
+      "speaker": "instructor",
+      "text": "Say: I have a meeting today.",
+      "start": 785.039,
+      "end": 787.119,
+      "pause_end": 792.169
+    },
+    {
+      "id": "L12_A173",
+      "speaker": "arabic_female",
+      "text": "عندي اجتماع اليوم",
+      "start": 792.169,
+      "end": 793.748,
+      "pause_end": 794.848
+    },
+    {
+      "id": "L12_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 794.848,
+      "end": 797.128,
+      "pause_end": 802.078
+    },
+    {
+      "id": "L12_A175",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 802.078,
+      "end": 803.239,
+      "pause_end": 804.339
+    },
+    {
+      "id": "L12_A176",
+      "speaker": "instructor",
+      "text": "Say: Is the manager here?",
+      "start": 804.339,
+      "end": 807.059,
+      "pause_end": 812.109
+    },
+    {
+      "id": "L12_A177",
+      "speaker": "arabic_female",
+      "text": "المدير موجود؟",
+      "start": 812.109,
+      "end": 813.549,
+      "pause_end": 814.649
+    },
+    {
+      "id": "L12_A178",
+      "speaker": "instructor",
+      "text": "Say: I will come back in a little while.",
+      "start": 814.649,
+      "end": 816.889,
+      "pause_end": 821.939
+    },
+    {
+      "id": "L12_A179",
+      "speaker": "arabic_female",
+      "text": "برجع عقب شوي",
+      "start": 821.939,
+      "end": 823.378,
+      "pause_end": 824.478
+    },
+    {
+      "id": "L12_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 824.478,
+      "end": 827.438,
+      "pause_end": 832.388
+    },
+    {
+      "id": "L12_A181",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 832.388,
+      "end": 833.456,
+      "pause_end": 834.556
+    },
+    {
+      "id": "L12_A182",
+      "speaker": "instructor",
+      "text": "Say: God willing.",
+      "start": 834.556,
+      "end": 836.436,
+      "pause_end": 841.486
+    },
+    {
+      "id": "L12_A183",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 841.486,
+      "end": 842.647,
+      "pause_end": 843.747
+    },
+    {
+      "id": "L12_A184",
+      "speaker": "instructor",
+      "text": "How do you say: God willing.",
+      "start": 843.747,
+      "end": 846.267,
+      "pause_end": 851.717
+    },
+    {
+      "id": "L12_A185",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 851.717,
+      "end": 852.878,
+      "pause_end": 853.978
+    },
+    {
+      "id": "L12_A186",
+      "speaker": "instructor",
+      "text": "How do you say: Send me a message.",
+      "start": 853.978,
+      "end": 856.178,
+      "pause_end": 861.628
+    },
+    {
+      "id": "L12_A187",
+      "speaker": "arabic",
+      "text": "طرش لي رسالة",
+      "start": 861.628,
+      "end": 862.836,
+      "pause_end": 863.936
+    },
+    {
+      "id": "L12_A188",
+      "speaker": "instructor",
+      "text": "How do you say: I will come back in a little while.",
+      "start": 863.936,
+      "end": 867.136,
+      "pause_end": 872.586
+    },
+    {
+      "id": "L12_A189",
+      "speaker": "arabic_female",
+      "text": "برجع عقب شوي",
+      "start": 872.586,
+      "end": 874.025,
+      "pause_end": 875.125
+    },
+    {
+      "id": "L12_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 875.125,
+      "end": 877.325,
+      "pause_end": 882.275
+    },
+    {
+      "id": "L12_A191",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 882.275,
+      "end": 883.251,
+      "pause_end": 884.351
+    },
+    {
+      "id": "L12_A192",
+      "speaker": "instructor",
+      "text": "How do you say: No, he is not here now.",
+      "start": 884.351,
+      "end": 888.191,
+      "pause_end": 893.641
+    },
+    {
+      "id": "L12_A193",
+      "speaker": "arabic",
+      "text": "لا، مب موجود الحين",
+      "start": 893.641,
+      "end": 895.359,
+      "pause_end": 896.459
+    },
+    {
+      "id": "L12_A194",
+      "speaker": "instructor",
+      "text": "How do you say: Is the manager here?",
+      "start": 896.459,
+      "end": 899.139,
+      "pause_end": 904.589
+    },
+    {
+      "id": "L12_A195",
+      "speaker": "arabic_female",
+      "text": "المدير موجود؟",
+      "start": 904.589,
+      "end": 906.029,
+      "pause_end": 907.129
+    },
+    {
+      "id": "L12_A196",
+      "speaker": "instructor",
+      "text": "How do you say: The meeting is at ten.",
+      "start": 907.129,
+      "end": 910.769,
+      "pause_end": 916.219
+    },
+    {
+      "id": "L12_A197",
+      "speaker": "arabic",
+      "text": "الاجتماع الساعة عشر",
+      "start": 916.219,
+      "end": 918.123,
+      "pause_end": 919.223
+    },
+    {
+      "id": "L12_A198",
+      "speaker": "instructor",
+      "text": "How do you say: I have a meeting today.",
+      "start": 919.223,
+      "end": 921.623,
+      "pause_end": 927.073
+    },
+    {
+      "id": "L12_A199",
+      "speaker": "arabic_female",
+      "text": "عندي اجتماع اليوم",
+      "start": 927.073,
+      "end": 928.652,
+      "pause_end": 929.752
+    },
+    {
+      "id": "L12_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 929.752,
+      "end": 932.712,
+      "pause_end": 937.662
+    },
+    {
+      "id": "L12_A201",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 937.662,
+      "end": 938.637,
+      "pause_end": 939.737
+    },
+    {
+      "id": "L12_A202",
+      "speaker": "instructor",
+      "text": "How do you say: I start work at eight.",
+      "start": 939.737,
+      "end": 942.617,
+      "pause_end": 948.067
+    },
+    {
+      "id": "L12_A203",
+      "speaker": "arabic",
+      "text": "أداوم الساعة ثمان",
+      "start": 948.067,
+      "end": 949.646,
+      "pause_end": 950.746
+    },
+    {
+      "id": "L12_A204",
+      "speaker": "instructor",
+      "text": "How do you say: When do you start work?",
+      "start": 950.746,
+      "end": 953.626,
+      "pause_end": 959.076
+    },
+    {
+      "id": "L12_A205",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 959.076,
+      "end": 960.191,
+      "pause_end": 961.291
+    },
+    {
+      "id": "L12_A206",
+      "speaker": "instructor",
+      "text": "How do you say: I am an employee. Said by a woman.",
+      "start": 961.291,
+      "end": 965.091,
+      "pause_end": 970.541
+    },
+    {
+      "id": "L12_A207",
+      "speaker": "arabic_female",
+      "text": "أنا موظفة",
+      "start": 970.541,
+      "end": 971.655,
+      "pause_end": 972.755
+    },
+    {
+      "id": "L12_A208",
+      "speaker": "instructor",
+      "text": "How do you say: I am an employee. Said by a man.",
+      "start": 972.755,
+      "end": 977.035,
+      "pause_end": 982.485
+    },
+    {
+      "id": "L12_A209",
+      "speaker": "arabic",
+      "text": "أنا موظف",
+      "start": 982.485,
+      "end": 983.553,
+      "pause_end": 984.653
+    },
+    {
+      "id": "L12_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone works.",
+      "start": 984.653,
+      "end": 987.133,
+      "pause_end": 992.083
+    },
+    {
+      "id": "L12_A211",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 992.083,
+      "end": 993.198,
+      "pause_end": 994.298
+    },
+    {
+      "id": "L12_A212",
+      "speaker": "instructor",
+      "text": "How do you say: What is your job?",
+      "start": 994.298,
+      "end": 996.938,
+      "pause_end": 1002.388
+    },
+    {
+      "id": "L12_A213",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 1002.388,
+      "end": 1003.317,
+      "pause_end": 1004.417
+    },
+    {
+      "id": "L12_A214",
+      "speaker": "instructor",
+      "text": "How do you say: I work at a company.",
+      "start": 1004.417,
+      "end": 1006.977,
+      "pause_end": 1012.427
+    },
+    {
+      "id": "L12_A215",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 1012.427,
+      "end": 1013.727,
+      "pause_end": 1014.827
+    },
+    {
+      "id": "L12_A216",
+      "speaker": "instructor",
+      "text": "How do you say: Where do you work? Ask a man.",
+      "start": 1014.827,
+      "end": 1018.067,
+      "pause_end": 1023.517
+    },
+    {
+      "id": "L12_A217",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 1023.517,
+      "end": 1024.632,
+      "pause_end": 1025.732
+    },
+    {
+      "id": "L12_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Speak naturally, without waiting for a hint.",
+      "start": 1025.732,
+      "end": 1029.972,
+      "pause_end": 1030.822
+    },
+    {
+      "id": "L12_A219",
+      "speaker": "instructor",
+      "text": "Say: God willing.",
+      "start": 1030.822,
+      "end": 1032.702,
+      "pause_end": 1038.352
+    },
+    {
+      "id": "L12_A220",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 1038.352,
+      "end": 1039.513,
+      "pause_end": 1040.613
+    },
+    {
+      "id": "L12_A221",
+      "speaker": "instructor",
+      "text": "Say: What is your job?",
+      "start": 1040.613,
+      "end": 1042.613,
+      "pause_end": 1048.263
+    },
+    {
+      "id": "L12_A222",
+      "speaker": "arabic_female",
+      "text": "شو شغلك؟",
+      "start": 1048.263,
+      "end": 1049.192,
+      "pause_end": 1050.292
+    },
+    {
+      "id": "L12_A223",
+      "speaker": "instructor",
+      "text": "Say: Where do you work? Ask a man.",
+      "start": 1050.292,
+      "end": 1054.172,
+      "pause_end": 1059.822
+    },
+    {
+      "id": "L12_A224",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 1059.822,
+      "end": 1060.936,
+      "pause_end": 1062.036
+    },
+    {
+      "id": "L12_A225",
+      "speaker": "instructor",
+      "text": "Say: I have a meeting today.",
+      "start": 1062.036,
+      "end": 1064.116,
+      "pause_end": 1069.766
+    },
+    {
+      "id": "L12_A226",
+      "speaker": "arabic_female",
+      "text": "عندي اجتماع اليوم",
+      "start": 1069.766,
+      "end": 1071.345,
+      "pause_end": 1072.445
+    },
+    {
+      "id": "L12_A227",
+      "speaker": "instructor",
+      "text": "Say: When do you start work?",
+      "start": 1072.445,
+      "end": 1074.805,
+      "pause_end": 1080.455
+    },
+    {
+      "id": "L12_A228",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 1080.455,
+      "end": 1081.57,
+      "pause_end": 1082.67
+    },
+    {
+      "id": "L12_A229",
+      "speaker": "instructor",
+      "text": "Say: I will come back in a little while.",
+      "start": 1082.67,
+      "end": 1084.91,
+      "pause_end": 1090.56
+    },
+    {
+      "id": "L12_A230",
+      "speaker": "arabic_female",
+      "text": "برجع عقب شوي",
+      "start": 1090.56,
+      "end": 1092.0,
+      "pause_end": 1093.1
+    },
+    {
+      "id": "L12_A231",
+      "speaker": "instructor",
+      "text": "Say: I work at a company.",
+      "start": 1093.1,
+      "end": 1094.82,
+      "pause_end": 1100.47
+    },
+    {
+      "id": "L12_A232",
+      "speaker": "arabic",
+      "text": "أشتغل في شركة",
+      "start": 1100.47,
+      "end": 1101.77,
+      "pause_end": 1102.87
+    },
+    {
+      "id": "L12_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1102.87,
+      "end": 1106.95,
+      "pause_end": 1107.9
+    }
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "events": [
+    {
+      "id": "L09_A001",
+      "speaker": "instructor",
+      "text": "Lesson 9. Getting Around. Listen carefully, and speak when you hear a question.",
+      "start": 0.0,
+      "end": 4.96,
+      "pause_end": 6.01
+    },
+    {
+      "id": "L09_A002",
+      "speaker": "instructor",
+      "text": "First, remember some expressions from earlier lessons.",
+      "start": 6.01,
+      "end": 9.97,
+      "pause_end": 10.82
+    },
+    {
+      "id": "L09_A003",
+      "speaker": "instructor",
+      "text": "Ask a man how he is.",
+      "start": 10.82,
+      "end": 12.74,
+      "pause_end": 17.19
+    },
+    {
+      "id": "L09_A004",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 17.19,
+      "end": 18.165,
+      "pause_end": 19.115
+    },
+    {
+      "id": "L09_A005",
+      "speaker": "instructor",
+      "text": "Ask a man his name.",
+      "start": 19.115,
+      "end": 20.515,
+      "pause_end": 24.965
+    },
+    {
+      "id": "L09_A006",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 24.965,
+      "end": 25.801,
+      "pause_end": 26.751
+    },
+    {
+      "id": "L09_A007",
+      "speaker": "instructor",
+      "text": "Ask a man where he is from.",
+      "start": 26.751,
+      "end": 28.551,
+      "pause_end": 33.001
+    },
+    {
+      "id": "L09_A008",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 33.001,
+      "end": 34.023,
+      "pause_end": 34.973
+    },
+    {
+      "id": "L09_A009",
+      "speaker": "instructor",
+      "text": "Ask a man where he lives.",
+      "start": 34.973,
+      "end": 36.773,
+      "pause_end": 41.223
+    },
+    {
+      "id": "L09_A010",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 41.223,
+      "end": 42.291,
+      "pause_end": 43.241
+    },
+    {
+      "id": "L09_A011",
+      "speaker": "instructor",
+      "text": "Say that you want water.",
+      "start": 43.241,
+      "end": 44.761,
+      "pause_end": 49.211
+    },
+    {
+      "id": "L09_A012",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 49.211,
+      "end": 50.186,
+      "pause_end": 51.136
+    },
+    {
+      "id": "L09_A013",
+      "speaker": "instructor",
+      "text": "Ask for the bill.",
+      "start": 51.136,
+      "end": 52.336,
+      "pause_end": 56.786
+    },
+    {
+      "id": "L09_A014",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 56.786,
+      "end": 57.947,
+      "pause_end": 58.897
+    },
+    {
+      "id": "L09_A015",
+      "speaker": "instructor",
+      "text": "Say pleased to meet you.",
+      "start": 58.897,
+      "end": 60.937,
+      "pause_end": 65.387
+    },
+    {
+      "id": "L09_A016",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 65.387,
+      "end": 66.316,
+      "pause_end": 67.266
+    },
+    {
+      "id": "L09_A017",
+      "speaker": "instructor",
+      "text": "Greet someone.",
+      "start": 67.266,
+      "end": 68.146,
+      "pause_end": 72.596
+    },
+    {
+      "id": "L09_A018",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 72.596,
+      "end": 73.757,
+      "pause_end": 74.707
+    },
+    {
+      "id": "L09_A019",
+      "speaker": "instructor",
+      "text": "Now listen to the new expressions.",
+      "start": 74.707,
+      "end": 76.867,
+      "pause_end": 77.717
+    },
+    {
+      "id": "L09_A020",
+      "speaker": "instructor",
+      "text": "Where is the market?",
+      "start": 77.717,
+      "end": 78.957,
+      "pause_end": 79.557
+    },
+    {
+      "id": "L09_A021",
+      "speaker": "arabic_female",
+      "text": "وين السوق؟",
+      "start": 79.557,
+      "end": 80.672,
+      "pause_end": 82.022
+    },
+    {
+      "id": "L09_A022",
+      "speaker": "instructor",
+      "text": "The market is nearby.",
+      "start": 82.022,
+      "end": 83.622,
+      "pause_end": 84.222
+    },
+    {
+      "id": "L09_A023",
+      "speaker": "arabic",
+      "text": "السوق قريب",
+      "start": 84.222,
+      "end": 85.522,
+      "pause_end": 86.872
+    },
+    {
+      "id": "L09_A024",
+      "speaker": "instructor",
+      "text": "Where is the station?",
+      "start": 86.872,
+      "end": 88.232,
+      "pause_end": 88.832
+    },
+    {
+      "id": "L09_A025",
+      "speaker": "arabic_female",
+      "text": "وين المحطة؟",
+      "start": 88.832,
+      "end": 89.993,
+      "pause_end": 91.343
+    },
+    {
+      "id": "L09_A026",
+      "speaker": "instructor",
+      "text": "The station is far away.",
+      "start": 91.343,
+      "end": 93.023,
+      "pause_end": 93.623
+    },
+    {
+      "id": "L09_A027",
+      "speaker": "arabic",
+      "text": "المحطة بعيدة",
+      "start": 93.623,
+      "end": 94.831,
+      "pause_end": 96.181
+    },
+    {
+      "id": "L09_A028",
+      "speaker": "instructor",
+      "text": "Go straight.",
+      "start": 96.181,
+      "end": 97.941,
+      "pause_end": 98.541
+    },
+    {
+      "id": "L09_A029",
+      "speaker": "arabic_female",
+      "text": "سير سيده",
+      "start": 98.541,
+      "end": 99.609,
+      "pause_end": 100.959
+    },
+    {
+      "id": "L09_A030",
+      "speaker": "instructor",
+      "text": "Turn right.",
+      "start": 100.959,
+      "end": 101.959,
+      "pause_end": 102.559
+    },
+    {
+      "id": "L09_A031",
+      "speaker": "arabic",
+      "text": "لف يمين",
+      "start": 102.559,
+      "end": 103.627,
+      "pause_end": 104.977
+    },
+    {
+      "id": "L09_A032",
+      "speaker": "instructor",
+      "text": "Turn left.",
+      "start": 104.977,
+      "end": 106.337,
+      "pause_end": 106.937
+    },
+    {
+      "id": "L09_A033",
+      "speaker": "arabic_female",
+      "text": "لف يسار",
+      "start": 106.937,
+      "end": 107.959,
+      "pause_end": 109.309
+    },
+    {
+      "id": "L09_A034",
+      "speaker": "instructor",
+      "text": "Stop here.",
+      "start": 109.309,
+      "end": 110.389,
+      "pause_end": 110.989
+    },
+    {
+      "id": "L09_A035",
+      "speaker": "arabic",
+      "text": "وقف هني",
+      "start": 110.989,
+      "end": 111.917,
+      "pause_end": 113.267
+    },
+    {
+      "id": "L09_A036",
+      "speaker": "instructor",
+      "text": "I want to go to Dubai.",
+      "start": 113.267,
+      "end": 114.827,
+      "pause_end": 115.427
+    },
+    {
+      "id": "L09_A037",
+      "speaker": "arabic_female",
+      "text": "أبغي أروح دبي",
+      "start": 115.427,
+      "end": 116.774,
+      "pause_end": 118.124
+    },
+    {
+      "id": "L09_A038",
+      "speaker": "instructor",
+      "text": "How do I get there?",
+      "start": 118.124,
+      "end": 119.484,
+      "pause_end": 120.084
+    },
+    {
+      "id": "L09_A039",
+      "speaker": "arabic",
+      "text": "كيف أروح هناك؟",
+      "start": 120.084,
+      "end": 121.431,
+      "pause_end": 122.781
+    },
+    {
+      "id": "L09_A040",
+      "speaker": "instructor",
+      "text": "By taxi.",
+      "start": 122.781,
+      "end": 123.861,
+      "pause_end": 124.461
+    },
+    {
+      "id": "L09_A041",
+      "speaker": "arabic_female",
+      "text": "بالتاكسي",
+      "start": 124.461,
+      "end": 125.436,
+      "pause_end": 126.786
+    },
+    {
+      "id": "L09_A042",
+      "speaker": "instructor",
+      "text": "By car.",
+      "start": 126.786,
+      "end": 127.746,
+      "pause_end": 128.346
+    },
+    {
+      "id": "L09_A043",
+      "speaker": "arabic",
+      "text": "بالسيارة",
+      "start": 128.346,
+      "end": 129.321,
+      "pause_end": 130.671
+    },
+    {
+      "id": "L09_A044",
+      "speaker": "instructor",
+      "text": "How long does it take?",
+      "start": 130.671,
+      "end": 132.031,
+      "pause_end": 132.631
+    },
+    {
+      "id": "L09_A045",
+      "speaker": "arabic_female",
+      "text": "كم ياخذ وقت؟",
+      "start": 132.631,
+      "end": 133.839,
+      "pause_end": 135.189
+    },
+    {
+      "id": "L09_A046",
+      "speaker": "instructor",
+      "text": "Ten minutes.",
+      "start": 135.189,
+      "end": 136.229,
+      "pause_end": 136.829
+    },
+    {
+      "id": "L09_A047",
+      "speaker": "arabic",
+      "text": "عشر دقايق",
+      "start": 136.829,
+      "end": 137.99,
+      "pause_end": 139.34
+    },
+    {
+      "id": "L09_A048",
+      "speaker": "instructor",
+      "text": "Thank you for the help.",
+      "start": 139.34,
+      "end": 140.66,
+      "pause_end": 141.26
+    },
+    {
+      "id": "L09_A049",
+      "speaker": "arabic_female",
+      "text": "مشكور على المساعدة",
+      "start": 141.26,
+      "end": 142.746,
+      "pause_end": 144.096
+    },
+    {
+      "id": "L09_A050",
+      "speaker": "instructor",
+      "text": "Now answer in Arabic, before you hear the speaker.",
+      "start": 144.096,
+      "end": 147.136,
+      "pause_end": 147.986
+    },
+    {
+      "id": "L09_A051",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where is the market?",
+      "start": 147.986,
+      "end": 151.906,
+      "pause_end": 157.156
+    },
+    {
+      "id": "L09_A052",
+      "speaker": "arabic_female",
+      "text": "وين السوق؟",
+      "start": 157.156,
+      "end": 158.271,
+      "pause_end": 159.221
+    },
+    {
+      "id": "L09_A053",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 159.221,
+      "end": 160.221,
+      "pause_end": 163.771
+    },
+    {
+      "id": "L09_A054",
+      "speaker": "arabic_female",
+      "text": "وين السوق؟",
+      "start": 163.771,
+      "end": 164.885,
+      "pause_end": 165.785
+    },
+    {
+      "id": "L09_A055",
+      "speaker": "instructor",
+      "text": "Say in Arabic: The market is nearby.",
+      "start": 165.785,
+      "end": 169.025,
+      "pause_end": 174.275
+    },
+    {
+      "id": "L09_A056",
+      "speaker": "arabic",
+      "text": "السوق قريب",
+      "start": 174.275,
+      "end": 175.576,
+      "pause_end": 176.526
+    },
+    {
+      "id": "L09_A057",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 176.526,
+      "end": 177.526,
+      "pause_end": 181.076
+    },
+    {
+      "id": "L09_A058",
+      "speaker": "arabic",
+      "text": "السوق قريب",
+      "start": 181.076,
+      "end": 182.376,
+      "pause_end": 183.276
+    },
+    {
+      "id": "L09_A059",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where is the station?",
+      "start": 183.276,
+      "end": 186.396,
+      "pause_end": 191.646
+    },
+    {
+      "id": "L09_A060",
+      "speaker": "arabic_female",
+      "text": "وين المحطة؟",
+      "start": 191.646,
+      "end": 192.807,
+      "pause_end": 193.757
+    },
+    {
+      "id": "L09_A061",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 193.757,
+      "end": 194.757,
+      "pause_end": 198.307
+    },
+    {
+      "id": "L09_A062",
+      "speaker": "arabic_female",
+      "text": "وين المحطة؟",
+      "start": 198.307,
+      "end": 199.468,
+      "pause_end": 200.368
+    },
+    {
+      "id": "L09_A063",
+      "speaker": "instructor",
+      "text": "Remember: Where is the market?",
+      "start": 200.368,
+      "end": 202.568,
+      "pause_end": 207.618
+    },
+    {
+      "id": "L09_A064",
+      "speaker": "arabic_female",
+      "text": "وين السوق؟",
+      "start": 207.618,
+      "end": 208.732,
+      "pause_end": 209.682
+    },
+    {
+      "id": "L09_A065",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man where he is from.",
+      "start": 209.682,
+      "end": 212.722,
+      "pause_end": 217.772
+    },
+    {
+      "id": "L09_A066",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 217.772,
+      "end": 218.794,
+      "pause_end": 219.744
+    },
+    {
+      "id": "L09_A067",
+      "speaker": "instructor",
+      "text": "Say in Arabic: The station is far away.",
+      "start": 219.744,
+      "end": 224.384,
+      "pause_end": 229.634
+    },
+    {
+      "id": "L09_A068",
+      "speaker": "arabic",
+      "text": "المحطة بعيدة",
+      "start": 229.634,
+      "end": 230.842,
+      "pause_end": 231.792
+    },
+    {
+      "id": "L09_A069",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 231.792,
+      "end": 232.792,
+      "pause_end": 236.342
+    },
+    {
+      "id": "L09_A070",
+      "speaker": "arabic",
+      "text": "المحطة بعيدة",
+      "start": 236.342,
+      "end": 237.549,
+      "pause_end": 238.449
+    },
+    {
+      "id": "L09_A071",
+      "speaker": "instructor",
+      "text": "Remember: The market is nearby.",
+      "start": 238.449,
+      "end": 240.969,
+      "pause_end": 246.019
+    },
+    {
+      "id": "L09_A072",
+      "speaker": "arabic",
+      "text": "السوق قريب",
+      "start": 246.019,
+      "end": 247.319,
+      "pause_end": 248.269
+    },
+    {
+      "id": "L09_A073",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Go straight.",
+      "start": 248.269,
+      "end": 250.749,
+      "pause_end": 255.999
+    },
+    {
+      "id": "L09_A074",
+      "speaker": "arabic_female",
+      "text": "سير سيده",
+      "start": 255.999,
+      "end": 257.068,
+      "pause_end": 258.018
+    },
+    {
+      "id": "L09_A075",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 258.018,
+      "end": 259.018,
+      "pause_end": 262.568
+    },
+    {
+      "id": "L09_A076",
+      "speaker": "arabic_female",
+      "text": "سير سيده",
+      "start": 262.568,
+      "end": 263.636,
+      "pause_end": 264.536
+    },
+    {
+      "id": "L09_A077",
+      "speaker": "instructor",
+      "text": "Remember: Where is the station?",
+      "start": 264.536,
+      "end": 266.576,
+      "pause_end": 271.626
+    },
+    {
+      "id": "L09_A078",
+      "speaker": "arabic_female",
+      "text": "وين المحطة؟",
+      "start": 271.626,
+      "end": 272.787,
+      "pause_end": 273.737
+    },
+    {
+      "id": "L09_A079",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Turn right.",
+      "start": 273.737,
+      "end": 276.297,
+      "pause_end": 281.547
+    },
+    {
+      "id": "L09_A080",
+      "speaker": "arabic",
+      "text": "لف يمين",
+      "start": 281.547,
+      "end": 282.615,
+      "pause_end": 283.565
+    },
+    {
+      "id": "L09_A081",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 283.565,
+      "end": 284.565,
+      "pause_end": 288.115
+    },
+    {
+      "id": "L09_A082",
+      "speaker": "arabic",
+      "text": "لف يمين",
+      "start": 288.115,
+      "end": 289.183,
+      "pause_end": 290.083
+    },
+    {
+      "id": "L09_A083",
+      "speaker": "instructor",
+      "text": "Remember: The station is far away.",
+      "start": 290.083,
+      "end": 292.723,
+      "pause_end": 297.773
+    },
+    {
+      "id": "L09_A084",
+      "speaker": "arabic",
+      "text": "المحطة بعيدة",
+      "start": 297.773,
+      "end": 298.98,
+      "pause_end": 299.93
+    },
+    {
+      "id": "L09_A085",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask for the bill.",
+      "start": 299.93,
+      "end": 302.21,
+      "pause_end": 307.26
+    },
+    {
+      "id": "L09_A086",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 307.26,
+      "end": 308.421,
+      "pause_end": 309.371
+    },
+    {
+      "id": "L09_A087",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Turn left.",
+      "start": 309.371,
+      "end": 312.251,
+      "pause_end": 317.501
+    },
+    {
+      "id": "L09_A088",
+      "speaker": "arabic_female",
+      "text": "لف يسار",
+      "start": 317.501,
+      "end": 318.523,
+      "pause_end": 319.473
+    },
+    {
+      "id": "L09_A089",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 319.473,
+      "end": 320.473,
+      "pause_end": 324.023
+    },
+    {
+      "id": "L09_A090",
+      "speaker": "arabic_female",
+      "text": "لف يسار",
+      "start": 324.023,
+      "end": 325.045,
+      "pause_end": 325.945
+    },
+    {
+      "id": "L09_A091",
+      "speaker": "instructor",
+      "text": "Remember: Go straight.",
+      "start": 325.945,
+      "end": 328.065,
+      "pause_end": 333.115
+    },
+    {
+      "id": "L09_A092",
+      "speaker": "arabic_female",
+      "text": "سير سيده",
+      "start": 333.115,
+      "end": 334.183,
+      "pause_end": 335.133
+    },
+    {
+      "id": "L09_A093",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Stop here.",
+      "start": 335.133,
+      "end": 338.173,
+      "pause_end": 343.423
+    },
+    {
+      "id": "L09_A094",
+      "speaker": "arabic",
+      "text": "وقف هني",
+      "start": 343.423,
+      "end": 344.352,
+      "pause_end": 345.302
+    },
+    {
+      "id": "L09_A095",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 345.302,
+      "end": 346.302,
+      "pause_end": 349.852
+    },
+    {
+      "id": "L09_A096",
+      "speaker": "arabic",
+      "text": "وقف هني",
+      "start": 349.852,
+      "end": 350.781,
+      "pause_end": 351.681
+    },
+    {
+      "id": "L09_A097",
+      "speaker": "instructor",
+      "text": "Remember: Turn right.",
+      "start": 351.681,
+      "end": 353.561,
+      "pause_end": 358.611
+    },
+    {
+      "id": "L09_A098",
+      "speaker": "arabic",
+      "text": "لف يمين",
+      "start": 358.611,
+      "end": 359.679,
+      "pause_end": 360.629
+    },
+    {
+      "id": "L09_A099",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want to go to Dubai.",
+      "start": 360.629,
+      "end": 363.509,
+      "pause_end": 368.759
+    },
+    {
+      "id": "L09_A100",
+      "speaker": "arabic_female",
+      "text": "أبغي أروح دبي",
+      "start": 368.759,
+      "end": 370.106,
+      "pause_end": 371.056
+    },
+    {
+      "id": "L09_A101",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 371.056,
+      "end": 372.056,
+      "pause_end": 375.606
+    },
+    {
+      "id": "L09_A102",
+      "speaker": "arabic_female",
+      "text": "أبغي أروح دبي",
+      "start": 375.606,
+      "end": 376.952,
+      "pause_end": 377.852
+    },
+    {
+      "id": "L09_A103",
+      "speaker": "instructor",
+      "text": "Remember: Turn left.",
+      "start": 377.852,
+      "end": 379.692,
+      "pause_end": 384.742
+    },
+    {
+      "id": "L09_A104",
+      "speaker": "arabic_female",
+      "text": "لف يسار",
+      "start": 384.742,
+      "end": 385.764,
+      "pause_end": 386.714
+    },
+    {
+      "id": "L09_A105",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man how he is.",
+      "start": 386.714,
+      "end": 389.674,
+      "pause_end": 394.724
+    },
+    {
+      "id": "L09_A106",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 394.724,
+      "end": 395.699,
+      "pause_end": 396.649
+    },
+    {
+      "id": "L09_A107",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How do I get there?",
+      "start": 396.649,
+      "end": 399.329,
+      "pause_end": 404.579
+    },
+    {
+      "id": "L09_A108",
+      "speaker": "arabic",
+      "text": "كيف أروح هناك؟",
+      "start": 404.579,
+      "end": 405.926,
+      "pause_end": 406.876
+    },
+    {
+      "id": "L09_A109",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 406.876,
+      "end": 407.876,
+      "pause_end": 411.426
+    },
+    {
+      "id": "L09_A110",
+      "speaker": "arabic",
+      "text": "كيف أروح هناك؟",
+      "start": 411.426,
+      "end": 412.773,
+      "pause_end": 413.673
+    },
+    {
+      "id": "L09_A111",
+      "speaker": "instructor",
+      "text": "Remember: Stop here.",
+      "start": 413.673,
+      "end": 415.993,
+      "pause_end": 421.043
+    },
+    {
+      "id": "L09_A112",
+      "speaker": "arabic",
+      "text": "وقف هني",
+      "start": 421.043,
+      "end": 421.972,
+      "pause_end": 422.922
+    },
+    {
+      "id": "L09_A113",
+      "speaker": "instructor",
+      "text": "Say in Arabic: By taxi.",
+      "start": 422.922,
+      "end": 425.762,
+      "pause_end": 431.012
+    },
+    {
+      "id": "L09_A114",
+      "speaker": "arabic_female",
+      "text": "بالتاكسي",
+      "start": 431.012,
+      "end": 431.987,
+      "pause_end": 432.937
+    },
+    {
+      "id": "L09_A115",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 432.937,
+      "end": 433.937,
+      "pause_end": 437.487
+    },
+    {
+      "id": "L09_A116",
+      "speaker": "arabic_female",
+      "text": "بالتاكسي",
+      "start": 437.487,
+      "end": 438.462,
+      "pause_end": 439.362
+    },
+    {
+      "id": "L09_A117",
+      "speaker": "instructor",
+      "text": "Remember: I want to go to Dubai.",
+      "start": 439.362,
+      "end": 441.682,
+      "pause_end": 446.732
+    },
+    {
+      "id": "L09_A118",
+      "speaker": "arabic_female",
+      "text": "أبغي أروح دبي",
+      "start": 446.732,
+      "end": 448.079,
+      "pause_end": 449.029
+    },
+    {
+      "id": "L09_A119",
+      "speaker": "instructor",
+      "text": "Say in Arabic: By car.",
+      "start": 449.029,
+      "end": 451.069,
+      "pause_end": 456.319
+    },
+    {
+      "id": "L09_A120",
+      "speaker": "arabic",
+      "text": "بالسيارة",
+      "start": 456.319,
+      "end": 457.294,
+      "pause_end": 458.244
+    },
+    {
+      "id": "L09_A121",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 458.244,
+      "end": 459.244,
+      "pause_end": 462.794
+    },
+    {
+      "id": "L09_A122",
+      "speaker": "arabic",
+      "text": "بالسيارة",
+      "start": 462.794,
+      "end": 463.77,
+      "pause_end": 464.67
+    },
+    {
+      "id": "L09_A123",
+      "speaker": "instructor",
+      "text": "Remember: How do I get there?",
+      "start": 464.67,
+      "end": 466.95,
+      "pause_end": 472.0
+    },
+    {
+      "id": "L09_A124",
+      "speaker": "arabic",
+      "text": "كيف أروح هناك؟",
+      "start": 472.0,
+      "end": 473.346,
+      "pause_end": 474.296
+    },
+    {
+      "id": "L09_A125",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man where he lives.",
+      "start": 474.296,
+      "end": 477.216,
+      "pause_end": 482.266
+    },
+    {
+      "id": "L09_A126",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 482.266,
+      "end": 483.334,
+      "pause_end": 484.284
+    },
+    {
+      "id": "L09_A127",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How long does it take?",
+      "start": 484.284,
+      "end": 487.324,
+      "pause_end": 492.574
+    },
+    {
+      "id": "L09_A128",
+      "speaker": "arabic_female",
+      "text": "كم ياخذ وقت؟",
+      "start": 492.574,
+      "end": 493.782,
+      "pause_end": 494.732
+    },
+    {
+      "id": "L09_A129",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 494.732,
+      "end": 495.732,
+      "pause_end": 499.282
+    },
+    {
+      "id": "L09_A130",
+      "speaker": "arabic_female",
+      "text": "كم ياخذ وقت؟",
+      "start": 499.282,
+      "end": 500.489,
+      "pause_end": 501.389
+    },
+    {
+      "id": "L09_A131",
+      "speaker": "instructor",
+      "text": "Remember: By taxi.",
+      "start": 501.389,
+      "end": 503.269,
+      "pause_end": 508.319
+    },
+    {
+      "id": "L09_A132",
+      "speaker": "arabic_female",
+      "text": "بالتاكسي",
+      "start": 508.319,
+      "end": 509.295,
+      "pause_end": 510.245
+    },
+    {
+      "id": "L09_A133",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ten minutes.",
+      "start": 510.245,
+      "end": 512.725,
+      "pause_end": 517.975
+    },
+    {
+      "id": "L09_A134",
+      "speaker": "arabic",
+      "text": "عشر دقايق",
+      "start": 517.975,
+      "end": 519.136,
+      "pause_end": 520.086
+    },
+    {
+      "id": "L09_A135",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 520.086,
+      "end": 521.086,
+      "pause_end": 524.636
+    },
+    {
+      "id": "L09_A136",
+      "speaker": "arabic",
+      "text": "عشر دقايق",
+      "start": 524.636,
+      "end": 525.797,
+      "pause_end": 526.697
+    },
+    {
+      "id": "L09_A137",
+      "speaker": "instructor",
+      "text": "Remember: By car.",
+      "start": 526.697,
+      "end": 528.657,
+      "pause_end": 533.707
+    },
+    {
+      "id": "L09_A138",
+      "speaker": "arabic",
+      "text": "بالسيارة",
+      "start": 533.707,
+      "end": 534.682,
+      "pause_end": 535.632
+    },
+    {
+      "id": "L09_A139",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Thank you for the help.",
+      "start": 535.632,
+      "end": 538.072,
+      "pause_end": 543.322
+    },
+    {
+      "id": "L09_A140",
+      "speaker": "arabic_female",
+      "text": "مشكور على المساعدة",
+      "start": 543.322,
+      "end": 544.808,
+      "pause_end": 545.758
+    },
+    {
+      "id": "L09_A141",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 545.758,
+      "end": 546.758,
+      "pause_end": 550.308
+    },
+    {
+      "id": "L09_A142",
+      "speaker": "arabic_female",
+      "text": "مشكور على المساعدة",
+      "start": 550.308,
+      "end": 551.794,
+      "pause_end": 552.694
+    },
+    {
+      "id": "L09_A143",
+      "speaker": "instructor",
+      "text": "Remember: How long does it take?",
+      "start": 552.694,
+      "end": 555.094,
+      "pause_end": 560.144
+    },
+    {
+      "id": "L09_A144",
+      "speaker": "arabic_female",
+      "text": "كم ياخذ وقت؟",
+      "start": 560.144,
+      "end": 561.352,
+      "pause_end": 562.302
+    },
+    {
+      "id": "L09_A145",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Say pleased to meet you.",
+      "start": 562.302,
+      "end": 564.902,
+      "pause_end": 569.952
+    },
+    {
+      "id": "L09_A146",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 569.952,
+      "end": 570.881,
+      "pause_end": 571.831
+    },
+    {
+      "id": "L09_A147",
+      "speaker": "instructor",
+      "text": "Now practice responding without a translation first.",
+      "start": 571.831,
+      "end": 575.391,
+      "pause_end": 576.241
+    },
+    {
+      "id": "L09_A148",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Where is the market?",
+      "start": 576.241,
+      "end": 579.041,
+      "pause_end": 584.791
+    },
+    {
+      "id": "L09_A149",
+      "speaker": "arabic_female",
+      "text": "وين السوق؟",
+      "start": 584.791,
+      "end": 585.905,
+      "pause_end": 586.855
+    },
+    {
+      "id": "L09_A150",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Where is the station?",
+      "start": 586.855,
+      "end": 589.975,
+      "pause_end": 595.725
+    },
+    {
+      "id": "L09_A151",
+      "speaker": "arabic_female",
+      "text": "وين المحطة؟",
+      "start": 595.725,
+      "end": 596.886,
+      "pause_end": 597.836
+    },
+    {
+      "id": "L09_A152",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Go straight.",
+      "start": 597.836,
+      "end": 600.756,
+      "pause_end": 606.506
+    },
+    {
+      "id": "L09_A153",
+      "speaker": "arabic_female",
+      "text": "سير سيده",
+      "start": 606.506,
+      "end": 607.574,
+      "pause_end": 608.524
+    },
+    {
+      "id": "L09_A154",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Turn left.",
+      "start": 608.524,
+      "end": 611.564,
+      "pause_end": 617.314
+    },
+    {
+      "id": "L09_A155",
+      "speaker": "arabic_female",
+      "text": "لف يسار",
+      "start": 617.314,
+      "end": 618.336,
+      "pause_end": 619.286
+    },
+    {
+      "id": "L09_A156",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 619.286,
+      "end": 622.246,
+      "pause_end": 627.296
+    },
+    {
+      "id": "L09_A157",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 627.296,
+      "end": 628.364,
+      "pause_end": 629.314
+    },
+    {
+      "id": "L09_A158",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I want to go to Dubai.",
+      "start": 629.314,
+      "end": 633.514,
+      "pause_end": 639.264
+    },
+    {
+      "id": "L09_A159",
+      "speaker": "arabic_female",
+      "text": "أبغي أروح دبي",
+      "start": 639.264,
+      "end": 640.611,
+      "pause_end": 641.561
+    },
+    {
+      "id": "L09_A160",
+      "speaker": "instructor",
+      "text": "Recall this phrase: By taxi.",
+      "start": 641.561,
+      "end": 645.041,
+      "pause_end": 650.791
+    },
+    {
+      "id": "L09_A161",
+      "speaker": "arabic_female",
+      "text": "بالتاكسي",
+      "start": 650.791,
+      "end": 651.766,
+      "pause_end": 652.716
+    },
+    {
+      "id": "L09_A162",
+      "speaker": "instructor",
+      "text": "Recall this phrase: How long does it take?",
+      "start": 652.716,
+      "end": 655.396,
+      "pause_end": 661.146
+    },
+    {
+      "id": "L09_A163",
+      "speaker": "arabic_female",
+      "text": "كم ياخذ وقت؟",
+      "start": 661.146,
+      "end": 662.354,
+      "pause_end": 663.304
+    },
+    {
+      "id": "L09_A164",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Thank you for the help.",
+      "start": 663.304,
+      "end": 666.144,
+      "pause_end": 671.894
+    },
+    {
+      "id": "L09_A165",
+      "speaker": "arabic_female",
+      "text": "مشكور على المساعدة",
+      "start": 671.894,
+      "end": 673.38,
+      "pause_end": 674.33
+    },
+    {
+      "id": "L09_A166",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 674.33,
+      "end": 676.61,
+      "pause_end": 681.66
+    },
+    {
+      "id": "L09_A167",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 681.66,
+      "end": 682.821,
+      "pause_end": 683.771
+    },
+    {
+      "id": "L09_A168",
+      "speaker": "instructor",
+      "text": "Recall this phrase: The market is nearby.",
+      "start": 683.771,
+      "end": 686.571,
+      "pause_end": 692.321
+    },
+    {
+      "id": "L09_A169",
+      "speaker": "arabic",
+      "text": "السوق قريب",
+      "start": 692.321,
+      "end": 693.621,
+      "pause_end": 694.571
+    },
+    {
+      "id": "L09_A170",
+      "speaker": "instructor",
+      "text": "Recall this phrase: The station is far away.",
+      "start": 694.571,
+      "end": 698.091,
+      "pause_end": 703.841
+    },
+    {
+      "id": "L09_A171",
+      "speaker": "arabic",
+      "text": "المحطة بعيدة",
+      "start": 703.841,
+      "end": 705.049,
+      "pause_end": 705.999
+    },
+    {
+      "id": "L09_A172",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Turn right.",
+      "start": 705.999,
+      "end": 708.319,
+      "pause_end": 714.069
+    },
+    {
+      "id": "L09_A173",
+      "speaker": "arabic",
+      "text": "لف يمين",
+      "start": 714.069,
+      "end": 715.137,
+      "pause_end": 716.087
+    },
+    {
+      "id": "L09_A174",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Stop here.",
+      "start": 716.087,
+      "end": 718.607,
+      "pause_end": 724.357
+    },
+    {
+      "id": "L09_A175",
+      "speaker": "arabic",
+      "text": "وقف هني",
+      "start": 724.357,
+      "end": 725.286,
+      "pause_end": 726.236
+    },
+    {
+      "id": "L09_A176",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 726.236,
+      "end": 729.196,
+      "pause_end": 734.246
+    },
+    {
+      "id": "L09_A177",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 734.246,
+      "end": 735.314,
+      "pause_end": 736.264
+    },
+    {
+      "id": "L09_A178",
+      "speaker": "instructor",
+      "text": "Recall this phrase: How do I get there?",
+      "start": 736.264,
+      "end": 738.984,
+      "pause_end": 744.734
+    },
+    {
+      "id": "L09_A179",
+      "speaker": "arabic",
+      "text": "كيف أروح هناك؟",
+      "start": 744.734,
+      "end": 746.08,
+      "pause_end": 747.03
+    },
+    {
+      "id": "L09_A180",
+      "speaker": "instructor",
+      "text": "Recall this phrase: By car.",
+      "start": 747.03,
+      "end": 749.39,
+      "pause_end": 755.14
+    },
+    {
+      "id": "L09_A181",
+      "speaker": "arabic",
+      "text": "بالسيارة",
+      "start": 755.14,
+      "end": 756.116,
+      "pause_end": 757.066
+    },
+    {
+      "id": "L09_A182",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Ten minutes.",
+      "start": 757.066,
+      "end": 759.466,
+      "pause_end": 765.216
+    },
+    {
+      "id": "L09_A183",
+      "speaker": "arabic",
+      "text": "عشر دقايق",
+      "start": 765.216,
+      "end": 766.377,
+      "pause_end": 767.327
+    },
+    {
+      "id": "L09_A184",
+      "speaker": "instructor",
+      "text": "How would you say: Thank you for the help.",
+      "start": 767.327,
+      "end": 770.327,
+      "pause_end": 776.077
+    },
+    {
+      "id": "L09_A185",
+      "speaker": "arabic_female",
+      "text": "مشكور على المساعدة",
+      "start": 776.077,
+      "end": 777.563,
+      "pause_end": 778.513
+    },
+    {
+      "id": "L09_A186",
+      "speaker": "instructor",
+      "text": "How would you say: Ten minutes.",
+      "start": 778.513,
+      "end": 780.393,
+      "pause_end": 786.143
+    },
+    {
+      "id": "L09_A187",
+      "speaker": "arabic",
+      "text": "عشر دقايق",
+      "start": 786.143,
+      "end": 787.304,
+      "pause_end": 788.254
+    },
+    {
+      "id": "L09_A188",
+      "speaker": "instructor",
+      "text": "How would you say: How long does it take?",
+      "start": 788.254,
+      "end": 791.094,
+      "pause_end": 796.844
+    },
+    {
+      "id": "L09_A189",
+      "speaker": "arabic_female",
+      "text": "كم ياخذ وقت؟",
+      "start": 796.844,
+      "end": 798.051,
+      "pause_end": 799.001
+    },
+    {
+      "id": "L09_A190",
+      "speaker": "instructor",
+      "text": "How would you say: By car.",
+      "start": 799.001,
+      "end": 801.721,
+      "pause_end": 807.471
+    },
+    {
+      "id": "L09_A191",
+      "speaker": "arabic",
+      "text": "بالسيارة",
+      "start": 807.471,
+      "end": 808.447,
+      "pause_end": 809.397
+    },
+    {
+      "id": "L09_A192",
+      "speaker": "instructor",
+      "text": "Quick review. Say that you want water.",
+      "start": 809.397,
+      "end": 811.677,
+      "pause_end": 816.727
+    },
+    {
+      "id": "L09_A193",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 816.727,
+      "end": 817.702,
+      "pause_end": 818.652
+    },
+    {
+      "id": "L09_A194",
+      "speaker": "instructor",
+      "text": "How would you say: By taxi.",
+      "start": 818.652,
+      "end": 821.932,
+      "pause_end": 827.682
+    },
+    {
+      "id": "L09_A195",
+      "speaker": "arabic_female",
+      "text": "بالتاكسي",
+      "start": 827.682,
+      "end": 828.657,
+      "pause_end": 829.607
+    },
+    {
+      "id": "L09_A196",
+      "speaker": "instructor",
+      "text": "How would you say: How do I get there?",
+      "start": 829.607,
+      "end": 832.167,
+      "pause_end": 837.917
+    },
+    {
+      "id": "L09_A197",
+      "speaker": "arabic",
+      "text": "كيف أروح هناك؟",
+      "start": 837.917,
+      "end": 839.264,
+      "pause_end": 840.214
+    },
+    {
+      "id": "L09_A198",
+      "speaker": "instructor",
+      "text": "How would you say: I want to go to Dubai.",
+      "start": 840.214,
+      "end": 844.574,
+      "pause_end": 850.324
+    },
+    {
+      "id": "L09_A199",
+      "speaker": "arabic_female",
+      "text": "أبغي أروح دبي",
+      "start": 850.324,
+      "end": 851.671,
+      "pause_end": 852.621
+    },
+    {
+      "id": "L09_A200",
+      "speaker": "instructor",
+      "text": "How would you say: Stop here.",
+      "start": 852.621,
+      "end": 855.021,
+      "pause_end": 860.771
+    },
+    {
+      "id": "L09_A201",
+      "speaker": "arabic",
+      "text": "وقف هني",
+      "start": 860.771,
+      "end": 861.699,
+      "pause_end": 862.649
+    },
+    {
+      "id": "L09_A202",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 862.649,
+      "end": 865.61,
+      "pause_end": 870.659
+    },
+    {
+      "id": "L09_A203",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 870.659,
+      "end": 871.635,
+      "pause_end": 872.585
+    },
+    {
+      "id": "L09_A204",
+      "speaker": "instructor",
+      "text": "How would you say: Turn left.",
+      "start": 872.585,
+      "end": 875.705,
+      "pause_end": 881.455
+    },
+    {
+      "id": "L09_A205",
+      "speaker": "arabic_female",
+      "text": "لف يسار",
+      "start": 881.455,
+      "end": 882.476,
+      "pause_end": 883.427
+    },
+    {
+      "id": "L09_A206",
+      "speaker": "instructor",
+      "text": "How would you say: Turn right.",
+      "start": 883.427,
+      "end": 885.707,
+      "pause_end": 891.457
+    },
+    {
+      "id": "L09_A207",
+      "speaker": "arabic",
+      "text": "لف يمين",
+      "start": 891.457,
+      "end": 892.525,
+      "pause_end": 893.475
+    },
+    {
+      "id": "L09_A208",
+      "speaker": "instructor",
+      "text": "How would you say: Go straight.",
+      "start": 893.475,
+      "end": 895.635,
+      "pause_end": 901.385
+    },
+    {
+      "id": "L09_A209",
+      "speaker": "arabic_female",
+      "text": "سير سيده",
+      "start": 901.385,
+      "end": 902.453,
+      "pause_end": 903.403
+    },
+    {
+      "id": "L09_A210",
+      "speaker": "instructor",
+      "text": "How would you say: The station is far away.",
+      "start": 903.403,
+      "end": 906.323,
+      "pause_end": 912.073
+    },
+    {
+      "id": "L09_A211",
+      "speaker": "arabic",
+      "text": "المحطة بعيدة",
+      "start": 912.073,
+      "end": 913.28,
+      "pause_end": 914.23
+    },
+    {
+      "id": "L09_A212",
+      "speaker": "instructor",
+      "text": "Quick review. Say that you want water.",
+      "start": 914.23,
+      "end": 916.51,
+      "pause_end": 921.56
+    },
+    {
+      "id": "L09_A213",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 921.56,
+      "end": 922.535,
+      "pause_end": 923.486
+    },
+    {
+      "id": "L09_A214",
+      "speaker": "instructor",
+      "text": "How would you say: Where is the station?",
+      "start": 923.486,
+      "end": 925.966,
+      "pause_end": 931.716
+    },
+    {
+      "id": "L09_A215",
+      "speaker": "arabic_female",
+      "text": "وين المحطة؟",
+      "start": 931.716,
+      "end": 932.876,
+      "pause_end": 933.827
+    },
+    {
+      "id": "L09_A216",
+      "speaker": "instructor",
+      "text": "How would you say: The market is nearby.",
+      "start": 933.827,
+      "end": 936.746,
+      "pause_end": 942.496
+    },
+    {
+      "id": "L09_A217",
+      "speaker": "arabic",
+      "text": "السوق قريب",
+      "start": 942.496,
+      "end": 943.797,
+      "pause_end": 944.747
+    },
+    {
+      "id": "L09_A218",
+      "speaker": "instructor",
+      "text": "How would you say: Where is the market?",
+      "start": 944.747,
+      "end": 947.467,
+      "pause_end": 953.217
+    },
+    {
+      "id": "L09_A219",
+      "speaker": "arabic_female",
+      "text": "وين السوق؟",
+      "start": 953.217,
+      "end": 954.331,
+      "pause_end": 955.281
+    },
+    {
+      "id": "L09_A220",
+      "speaker": "instructor",
+      "text": "Final practice. Respond naturally.",
+      "start": 955.281,
+      "end": 958.801,
+      "pause_end": 959.651
+    },
+    {
+      "id": "L09_A221",
+      "speaker": "instructor",
+      "text": "Where is the market?",
+      "start": 959.651,
+      "end": 960.891,
+      "pause_end": 966.841
+    },
+    {
+      "id": "L09_A222",
+      "speaker": "arabic_female",
+      "text": "وين السوق؟",
+      "start": 966.841,
+      "end": 967.956,
+      "pause_end": 968.906
+    },
+    {
+      "id": "L09_A223",
+      "speaker": "instructor",
+      "text": "Stop here.",
+      "start": 968.906,
+      "end": 969.986,
+      "pause_end": 975.936
+    },
+    {
+      "id": "L09_A224",
+      "speaker": "arabic",
+      "text": "وقف هني",
+      "start": 975.936,
+      "end": 976.865,
+      "pause_end": 977.815
+    },
+    {
+      "id": "L09_A225",
+      "speaker": "instructor",
+      "text": "Thank you for the help.",
+      "start": 977.815,
+      "end": 979.135,
+      "pause_end": 985.085
+    },
+    {
+      "id": "L09_A226",
+      "speaker": "arabic_female",
+      "text": "مشكور على المساعدة",
+      "start": 985.085,
+      "end": 986.571,
+      "pause_end": 987.521
+    },
+    {
+      "id": "L09_A227",
+      "speaker": "instructor",
+      "text": "Turn left.",
+      "start": 987.521,
+      "end": 988.881,
+      "pause_end": 994.831
+    },
+    {
+      "id": "L09_A228",
+      "speaker": "arabic_female",
+      "text": "لف يسار",
+      "start": 994.831,
+      "end": 995.853,
+      "pause_end": 996.803
+    },
+    {
+      "id": "L09_A229",
+      "speaker": "instructor",
+      "text": "Ten minutes.",
+      "start": 996.803,
+      "end": 997.843,
+      "pause_end": 1003.793
+    },
+    {
+      "id": "L09_A230",
+      "speaker": "arabic",
+      "text": "عشر دقايق",
+      "start": 1003.793,
+      "end": 1004.954,
+      "pause_end": 1005.904
+    },
+    {
+      "id": "L09_A231",
+      "speaker": "instructor",
+      "text": "Turn right.",
+      "start": 1005.904,
+      "end": 1006.904,
+      "pause_end": 1012.854
+    },
+    {
+      "id": "L09_A232",
+      "speaker": "arabic",
+      "text": "لف يمين",
+      "start": 1012.854,
+      "end": 1013.922,
+      "pause_end": 1014.872
+    },
+    {
+      "id": "L09_A233",
+      "speaker": "instructor",
+      "text": "How long does it take?",
+      "start": 1014.872,
+      "end": 1016.232,
+      "pause_end": 1022.182
+    },
+    {
+      "id": "L09_A234",
+      "speaker": "arabic_female",
+      "text": "كم ياخذ وقت؟",
+      "start": 1022.182,
+      "end": 1023.389,
+      "pause_end": 1024.339
+    },
+    {
+      "id": "L09_A235",
+      "speaker": "instructor",
+      "text": "Go straight.",
+      "start": 1024.339,
+      "end": 1026.099,
+      "pause_end": 1032.049
+    },
+    {
+      "id": "L09_A236",
+      "speaker": "arabic_female",
+      "text": "سير سيده",
+      "start": 1032.049,
+      "end": 1033.118,
+      "pause_end": 1034.068
+    },
+    {
+      "id": "L09_A237",
+      "speaker": "instructor",
+      "text": "By car.",
+      "start": 1034.068,
+      "end": 1035.028,
+      "pause_end": 1040.978
+    },
+    {
+      "id": "L09_A238",
+      "speaker": "arabic",
+      "text": "بالسيارة",
+      "start": 1040.978,
+      "end": 1041.953,
+      "pause_end": 1042.903
+    },
+    {
+      "id": "L09_A239",
+      "speaker": "instructor",
+      "text": "The station is far away.",
+      "start": 1042.903,
+      "end": 1044.583,
+      "pause_end": 1050.533
+    },
+    {
+      "id": "L09_A240",
+      "speaker": "arabic",
+      "text": "المحطة بعيدة",
+      "start": 1050.533,
+      "end": 1051.74,
+      "pause_end": 1052.69
+    },
+    {
+      "id": "L09_A241",
+      "speaker": "instructor",
+      "text": "By taxi.",
+      "start": 1052.69,
+      "end": 1053.77,
+      "pause_end": 1059.72
+    },
+    {
+      "id": "L09_A242",
+      "speaker": "arabic_female",
+      "text": "بالتاكسي",
+      "start": 1059.72,
+      "end": 1060.696,
+      "pause_end": 1061.646
+    },
+    {
+      "id": "L09_A243",
+      "speaker": "instructor",
+      "text": "Where is the station?",
+      "start": 1061.646,
+      "end": 1063.006,
+      "pause_end": 1068.956
+    },
+    {
+      "id": "L09_A244",
+      "speaker": "arabic_female",
+      "text": "وين المحطة؟",
+      "start": 1068.956,
+      "end": 1070.117,
+      "pause_end": 1071.067
+    },
+    {
+      "id": "L09_A245",
+      "speaker": "instructor",
+      "text": "How do I get there?",
+      "start": 1071.067,
+      "end": 1072.427,
+      "pause_end": 1078.377
+    },
+    {
+      "id": "L09_A246",
+      "speaker": "arabic",
+      "text": "كيف أروح هناك؟",
+      "start": 1078.377,
+      "end": 1079.723,
+      "pause_end": 1080.673
+    },
+    {
+      "id": "L09_A247",
+      "speaker": "instructor",
+      "text": "The market is nearby.",
+      "start": 1080.673,
+      "end": 1082.273,
+      "pause_end": 1088.223
+    },
+    {
+      "id": "L09_A248",
+      "speaker": "arabic",
+      "text": "السوق قريب",
+      "start": 1088.223,
+      "end": 1089.524,
+      "pause_end": 1090.474
+    },
+    {
+      "id": "L09_A249",
+      "speaker": "instructor",
+      "text": "I want to go to Dubai.",
+      "start": 1090.474,
+      "end": 1092.034,
+      "pause_end": 1097.984
+    },
+    {
+      "id": "L09_A250",
+      "speaker": "arabic_female",
+      "text": "أبغي أروح دبي",
+      "start": 1097.984,
+      "end": 1099.33,
+      "pause_end": 1100.28
+    },
+    {
+      "id": "L09_A251",
+      "speaker": "instructor",
+      "text": "End of lesson. Practice again before moving on.",
+      "start": 1100.28,
+      "end": 1103.48,
+      "pause_end": 1104.43
+    }
+  ]
+}

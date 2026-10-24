@@ -1,0 +1,140 @@
+
+.ac-classroom {
+  margin: 24px 0;
+  padding: 35px 25px;
+  min-height: 220px;
+  border: 1px solid #35445d;
+  border-radius: 20px;
+  background: linear-gradient(145deg, #172338, #101827);
+  color: #f8fafc;
+  text-align: center;
+  box-shadow: 0 12px 35px rgba(0,0,0,.16);
+}
+.ac-classroom[hidden] { display: none; }
+.ac-board-label {
+  color: #76d7ca;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  margin-bottom: 25px;
+}
+.ac-board-arabic {
+  font-size: clamp(32px, 6vw, 54px);
+  line-height: 1.8;
+  font-weight: 700;
+  color: #fff;
+  overflow-wrap: anywhere;
+}
+.ac-board-prompt {
+  font-size: clamp(19px, 3vw, 27px);
+  line-height: 1.6;
+  font-weight: 600;
+  margin: 15px auto;
+  max-width: 650px;
+}
+.ac-board-pronunciation {
+  font-size: 20px;
+  color: #93c5fd;
+  margin-top: 12px;
+}
+.ac-board-meaning {
+  font-size: 17px;
+  color: #e2e8f0;
+  margin-top: 8px;
+}
+.ac-board-muted {
+  color: #a9b7cb;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.ac-board-counter {
+  color: #8291a8;
+  font-size: 12px;
+  margin-top: 30px;
+}
+
+/* Smooth, integrated classroom display */
+.ac-player-controls { min-width: 0; }
+.ac-player-controls .ac-classroom {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 310px;
+  margin: 0 0 22px;
+  padding: 34px 22px;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.ac-player-controls .ac-classroom[hidden] { display: none; }
+.ac-board-enter { animation: acSoftAppear .4s ease-out both; }
+@keyframes acSoftAppear {
+  from { opacity: .55; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.ac-board-previous {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 22px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255,255,255,.14);
+  color: #b6c8d9;
+  font-size: 13px;
+}
+.ac-board-previous b { color: #e2e8f0; font-size: 20px; }
+@media (prefers-reduced-motion: reduce) {
+  .ac-board-enter { animation: none; }
+}
+
+/* Smooth, integrated classroom display */
+.ac-player-controls { min-width: 0; }
+.ac-player-controls .ac-classroom {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 310px;
+  margin: 0 0 22px;
+  padding: 34px 22px;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.ac-player-controls .ac-classroom[hidden] { display: none; }
+.ac-board-enter { animation: acSoftAppear .4s ease-out both; }
+@keyframes acSoftAppear {
+  from { opacity: .55; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.ac-board-previous {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 22px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255,255,255,.14);
+  color: #b6c8d9;
+  font-size: 13px;
+}
+.ac-board-previous b { color: #e2e8f0; font-size: 20px; }
+@media (prefers-reduced-motion: reduce) {
+  .ac-board-enter { animation: none; }
+}
+/* Keep the whiteboard steady between slides */
+
+.ac-player-controls .ac-classroom,
+.ac-player-controls .ac-board-enter,
+.ac-classroom .ac-board-enter {
+  animation: none !important;
+  transition: none !important;
+  opacity: 1 !important;
+  filter: none !important;
+}

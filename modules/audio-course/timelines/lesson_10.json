@@ -1,0 +1,2156 @@
+{
+  "events": [
+    {
+      "id": "L10_A001",
+      "speaker": "instructor",
+      "text": "Lesson 10. Making Plans. Listen carefully, and speak when you hear a question.",
+      "start": 0.0,
+      "end": 5.64,
+      "pause_end": 6.69
+    },
+    {
+      "id": "L10_A002",
+      "speaker": "instructor",
+      "text": "First, remember some expressions from earlier lessons.",
+      "start": 6.69,
+      "end": 10.65,
+      "pause_end": 11.5
+    },
+    {
+      "id": "L10_A003",
+      "speaker": "instructor",
+      "text": "Ask a man his name.",
+      "start": 11.5,
+      "end": 12.9,
+      "pause_end": 17.35
+    },
+    {
+      "id": "L10_A004",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 17.35,
+      "end": 18.186,
+      "pause_end": 19.136
+    },
+    {
+      "id": "L10_A005",
+      "speaker": "instructor",
+      "text": "Ask a man where he is from.",
+      "start": 19.136,
+      "end": 20.936,
+      "pause_end": 25.386
+    },
+    {
+      "id": "L10_A006",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 25.386,
+      "end": 26.408,
+      "pause_end": 27.358
+    },
+    {
+      "id": "L10_A007",
+      "speaker": "instructor",
+      "text": "Ask a man where he lives.",
+      "start": 27.358,
+      "end": 29.158,
+      "pause_end": 33.608
+    },
+    {
+      "id": "L10_A008",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 33.608,
+      "end": 34.676,
+      "pause_end": 35.626
+    },
+    {
+      "id": "L10_A009",
+      "speaker": "instructor",
+      "text": "Say that you want water.",
+      "start": 35.626,
+      "end": 37.146,
+      "pause_end": 41.596
+    },
+    {
+      "id": "L10_A010",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 41.596,
+      "end": 42.571,
+      "pause_end": 43.521
+    },
+    {
+      "id": "L10_A011",
+      "speaker": "instructor",
+      "text": "Ask for the bill.",
+      "start": 43.521,
+      "end": 44.721,
+      "pause_end": 49.171
+    },
+    {
+      "id": "L10_A012",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 49.171,
+      "end": 50.332,
+      "pause_end": 51.282
+    },
+    {
+      "id": "L10_A013",
+      "speaker": "instructor",
+      "text": "Say pleased to meet you.",
+      "start": 51.282,
+      "end": 53.322,
+      "pause_end": 57.772
+    },
+    {
+      "id": "L10_A014",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 57.772,
+      "end": 58.701,
+      "pause_end": 59.651
+    },
+    {
+      "id": "L10_A015",
+      "speaker": "instructor",
+      "text": "Greet someone.",
+      "start": 59.651,
+      "end": 60.531,
+      "pause_end": 64.981
+    },
+    {
+      "id": "L10_A016",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 64.981,
+      "end": 66.142,
+      "pause_end": 67.092
+    },
+    {
+      "id": "L10_A017",
+      "speaker": "instructor",
+      "text": "Ask a man how he is.",
+      "start": 67.092,
+      "end": 69.012,
+      "pause_end": 73.462
+    },
+    {
+      "id": "L10_A018",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 73.462,
+      "end": 74.437,
+      "pause_end": 75.387
+    },
+    {
+      "id": "L10_A019",
+      "speaker": "instructor",
+      "text": "Now listen to the new expressions.",
+      "start": 75.387,
+      "end": 77.547,
+      "pause_end": 78.397
+    },
+    {
+      "id": "L10_A020",
+      "speaker": "instructor",
+      "text": "What are you going to do tomorrow?",
+      "start": 78.397,
+      "end": 80.117,
+      "pause_end": 80.717
+    },
+    {
+      "id": "L10_A021",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باچر؟",
+      "start": 80.717,
+      "end": 81.971,
+      "pause_end": 83.321
+    },
+    {
+      "id": "L10_A022",
+      "speaker": "instructor",
+      "text": "I am going to the market.",
+      "start": 83.321,
+      "end": 84.841,
+      "pause_end": 85.441
+    },
+    {
+      "id": "L10_A023",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 85.441,
+      "end": 86.509,
+      "pause_end": 87.859
+    },
+    {
+      "id": "L10_A024",
+      "speaker": "instructor",
+      "text": "Do you want to come with me?",
+      "start": 87.859,
+      "end": 89.099,
+      "pause_end": 89.699
+    },
+    {
+      "id": "L10_A025",
+      "speaker": "arabic",
+      "text": "تبغي تيي وياي؟",
+      "start": 89.699,
+      "end": 90.999,
+      "pause_end": 92.349
+    },
+    {
+      "id": "L10_A026",
+      "speaker": "instructor",
+      "text": "Yes, I want to.",
+      "start": 92.349,
+      "end": 93.669,
+      "pause_end": 94.269
+    },
+    {
+      "id": "L10_A027",
+      "speaker": "arabic_female",
+      "text": "هيه، أبغي",
+      "start": 94.269,
+      "end": 95.245,
+      "pause_end": 96.595
+    },
+    {
+      "id": "L10_A028",
+      "speaker": "instructor",
+      "text": "I cannot today.",
+      "start": 96.595,
+      "end": 97.715,
+      "pause_end": 98.315
+    },
+    {
+      "id": "L10_A029",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 98.315,
+      "end": 99.522,
+      "pause_end": 100.872
+    },
+    {
+      "id": "L10_A030",
+      "speaker": "instructor",
+      "text": "Maybe tomorrow.",
+      "start": 100.872,
+      "end": 102.232,
+      "pause_end": 102.832
+    },
+    {
+      "id": "L10_A031",
+      "speaker": "arabic_female",
+      "text": "ممكن باچر",
+      "start": 102.832,
+      "end": 103.993,
+      "pause_end": 105.343
+    },
+    {
+      "id": "L10_A032",
+      "speaker": "instructor",
+      "text": "When shall we meet?",
+      "start": 105.343,
+      "end": 106.663,
+      "pause_end": 107.263
+    },
+    {
+      "id": "L10_A033",
+      "speaker": "arabic",
+      "text": "متى نتلاقى؟",
+      "start": 107.263,
+      "end": 108.61,
+      "pause_end": 109.96
+    },
+    {
+      "id": "L10_A034",
+      "speaker": "instructor",
+      "text": "Let us meet at five.",
+      "start": 109.96,
+      "end": 111.28,
+      "pause_end": 111.88
+    },
+    {
+      "id": "L10_A035",
+      "speaker": "arabic_female",
+      "text": "نتلاقى الساعة خمس",
+      "start": 111.88,
+      "end": 113.32,
+      "pause_end": 114.67
+    },
+    {
+      "id": "L10_A036",
+      "speaker": "instructor",
+      "text": "Where shall we meet?",
+      "start": 114.67,
+      "end": 115.75,
+      "pause_end": 116.35
+    },
+    {
+      "id": "L10_A037",
+      "speaker": "arabic",
+      "text": "وين نتلاقى؟",
+      "start": 116.35,
+      "end": 117.371,
+      "pause_end": 118.721
+    },
+    {
+      "id": "L10_A038",
+      "speaker": "instructor",
+      "text": "Let us meet at the café.",
+      "start": 118.721,
+      "end": 120.361,
+      "pause_end": 120.961
+    },
+    {
+      "id": "L10_A039",
+      "speaker": "arabic_female",
+      "text": "نتلاقى عند المقهى",
+      "start": 120.961,
+      "end": 122.494,
+      "pause_end": 123.844
+    },
+    {
+      "id": "L10_A040",
+      "speaker": "instructor",
+      "text": "Okay, see you tomorrow.",
+      "start": 123.844,
+      "end": 125.644,
+      "pause_end": 126.244
+    },
+    {
+      "id": "L10_A041",
+      "speaker": "arabic",
+      "text": "تمام، أشوفك باچر",
+      "start": 126.244,
+      "end": 128.009,
+      "pause_end": 129.359
+    },
+    {
+      "id": "L10_A042",
+      "speaker": "instructor",
+      "text": "God willing.",
+      "start": 129.359,
+      "end": 130.279,
+      "pause_end": 130.879
+    },
+    {
+      "id": "L10_A043",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 130.879,
+      "end": 132.04,
+      "pause_end": 133.39
+    },
+    {
+      "id": "L10_A044",
+      "speaker": "instructor",
+      "text": "I am busy today, said by a man.",
+      "start": 133.39,
+      "end": 135.91,
+      "pause_end": 136.51
+    },
+    {
+      "id": "L10_A045",
+      "speaker": "arabic",
+      "text": "أنا مشغول اليوم",
+      "start": 136.51,
+      "end": 137.81,
+      "pause_end": 139.16
+    },
+    {
+      "id": "L10_A046",
+      "speaker": "instructor",
+      "text": "I am busy today, said by a woman.",
+      "start": 139.16,
+      "end": 141.44,
+      "pause_end": 142.04
+    },
+    {
+      "id": "L10_A047",
+      "speaker": "arabic_female",
+      "text": "أنا مشغولة اليوم",
+      "start": 142.04,
+      "end": 143.479,
+      "pause_end": 144.829
+    },
+    {
+      "id": "L10_A048",
+      "speaker": "instructor",
+      "text": "I have time tomorrow.",
+      "start": 144.829,
+      "end": 146.229,
+      "pause_end": 146.829
+    },
+    {
+      "id": "L10_A049",
+      "speaker": "arabic",
+      "text": "عندي وقت باچر",
+      "start": 146.829,
+      "end": 148.083,
+      "pause_end": 149.433
+    },
+    {
+      "id": "L10_A050",
+      "speaker": "instructor",
+      "text": "Okay, let us meet tomorrow.",
+      "start": 149.433,
+      "end": 151.473,
+      "pause_end": 152.073
+    },
+    {
+      "id": "L10_A051",
+      "speaker": "arabic_female",
+      "text": "يلا، نتلاقى باچر",
+      "start": 152.073,
+      "end": 153.606,
+      "pause_end": 154.956
+    },
+    {
+      "id": "L10_A052",
+      "speaker": "instructor",
+      "text": "Now answer in Arabic, before you hear the speaker.",
+      "start": 154.956,
+      "end": 157.996,
+      "pause_end": 158.846
+    },
+    {
+      "id": "L10_A053",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What are you going to do tomorrow?",
+      "start": 158.846,
+      "end": 162.406,
+      "pause_end": 167.656
+    },
+    {
+      "id": "L10_A054",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باچر؟",
+      "start": 167.656,
+      "end": 168.91,
+      "pause_end": 169.86
+    },
+    {
+      "id": "L10_A055",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 169.86,
+      "end": 170.86,
+      "pause_end": 174.41
+    },
+    {
+      "id": "L10_A056",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باچر؟",
+      "start": 174.41,
+      "end": 175.664,
+      "pause_end": 176.564
+    },
+    {
+      "id": "L10_A057",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I am going to the market.",
+      "start": 176.564,
+      "end": 179.564,
+      "pause_end": 184.814
+    },
+    {
+      "id": "L10_A058",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 184.814,
+      "end": 185.882,
+      "pause_end": 186.832
+    },
+    {
+      "id": "L10_A059",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 186.832,
+      "end": 187.832,
+      "pause_end": 191.382
+    },
+    {
+      "id": "L10_A060",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 191.382,
+      "end": 192.45,
+      "pause_end": 193.35
+    },
+    {
+      "id": "L10_A061",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you want to come with me?",
+      "start": 193.35,
+      "end": 196.43,
+      "pause_end": 201.68
+    },
+    {
+      "id": "L10_A062",
+      "speaker": "arabic",
+      "text": "تبغي تيي وياي؟",
+      "start": 201.68,
+      "end": 202.98,
+      "pause_end": 203.93
+    },
+    {
+      "id": "L10_A063",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 203.93,
+      "end": 204.93,
+      "pause_end": 208.48
+    },
+    {
+      "id": "L10_A064",
+      "speaker": "arabic",
+      "text": "تبغي تيي وياي؟",
+      "start": 208.48,
+      "end": 209.78,
+      "pause_end": 210.68
+    },
+    {
+      "id": "L10_A065",
+      "speaker": "instructor",
+      "text": "Remember: What are you going to do tomorrow?",
+      "start": 210.68,
+      "end": 213.24,
+      "pause_end": 218.29
+    },
+    {
+      "id": "L10_A066",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باچر؟",
+      "start": 218.29,
+      "end": 219.544,
+      "pause_end": 220.494
+    },
+    {
+      "id": "L10_A067",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man where he lives.",
+      "start": 220.494,
+      "end": 223.414,
+      "pause_end": 228.464
+    },
+    {
+      "id": "L10_A068",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 228.464,
+      "end": 229.532,
+      "pause_end": 230.482
+    },
+    {
+      "id": "L10_A069",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Yes, I want to.",
+      "start": 230.482,
+      "end": 233.802,
+      "pause_end": 239.052
+    },
+    {
+      "id": "L10_A070",
+      "speaker": "arabic_female",
+      "text": "هيه، أبغي",
+      "start": 239.052,
+      "end": 240.028,
+      "pause_end": 240.978
+    },
+    {
+      "id": "L10_A071",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 240.978,
+      "end": 241.978,
+      "pause_end": 245.528
+    },
+    {
+      "id": "L10_A072",
+      "speaker": "arabic_female",
+      "text": "هيه، أبغي",
+      "start": 245.528,
+      "end": 246.503,
+      "pause_end": 247.403
+    },
+    {
+      "id": "L10_A073",
+      "speaker": "instructor",
+      "text": "Remember: I am going to the market.",
+      "start": 247.403,
+      "end": 249.803,
+      "pause_end": 254.853
+    },
+    {
+      "id": "L10_A074",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 254.853,
+      "end": 255.921,
+      "pause_end": 256.871
+    },
+    {
+      "id": "L10_A075",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I cannot today.",
+      "start": 256.871,
+      "end": 259.591,
+      "pause_end": 264.841
+    },
+    {
+      "id": "L10_A076",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 264.841,
+      "end": 266.048,
+      "pause_end": 266.998
+    },
+    {
+      "id": "L10_A077",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 266.998,
+      "end": 267.998,
+      "pause_end": 271.548
+    },
+    {
+      "id": "L10_A078",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 271.548,
+      "end": 272.756,
+      "pause_end": 273.656
+    },
+    {
+      "id": "L10_A079",
+      "speaker": "instructor",
+      "text": "Remember: Do you want to come with me?",
+      "start": 273.656,
+      "end": 276.096,
+      "pause_end": 281.146
+    },
+    {
+      "id": "L10_A080",
+      "speaker": "arabic",
+      "text": "تبغي تيي وياي؟",
+      "start": 281.146,
+      "end": 282.446,
+      "pause_end": 283.396
+    },
+    {
+      "id": "L10_A081",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Maybe tomorrow.",
+      "start": 283.396,
+      "end": 286.396,
+      "pause_end": 291.646
+    },
+    {
+      "id": "L10_A082",
+      "speaker": "arabic_female",
+      "text": "ممكن باچر",
+      "start": 291.646,
+      "end": 292.807,
+      "pause_end": 293.757
+    },
+    {
+      "id": "L10_A083",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 293.757,
+      "end": 294.757,
+      "pause_end": 298.307
+    },
+    {
+      "id": "L10_A084",
+      "speaker": "arabic_female",
+      "text": "ممكن باچر",
+      "start": 298.307,
+      "end": 299.468,
+      "pause_end": 300.368
+    },
+    {
+      "id": "L10_A085",
+      "speaker": "instructor",
+      "text": "Remember: Yes, I want to.",
+      "start": 300.368,
+      "end": 302.968,
+      "pause_end": 308.018
+    },
+    {
+      "id": "L10_A086",
+      "speaker": "arabic_female",
+      "text": "هيه، أبغي",
+      "start": 308.018,
+      "end": 308.993,
+      "pause_end": 309.943
+    },
+    {
+      "id": "L10_A087",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Say pleased to meet you.",
+      "start": 309.943,
+      "end": 312.543,
+      "pause_end": 317.593
+    },
+    {
+      "id": "L10_A088",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 317.593,
+      "end": 318.522,
+      "pause_end": 319.472
+    },
+    {
+      "id": "L10_A089",
+      "speaker": "instructor",
+      "text": "Say in Arabic: When shall we meet?",
+      "start": 319.472,
+      "end": 322.392,
+      "pause_end": 327.642
+    },
+    {
+      "id": "L10_A090",
+      "speaker": "arabic",
+      "text": "متى نتلاقى؟",
+      "start": 327.642,
+      "end": 328.989,
+      "pause_end": 329.939
+    },
+    {
+      "id": "L10_A091",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 329.939,
+      "end": 330.939,
+      "pause_end": 334.489
+    },
+    {
+      "id": "L10_A092",
+      "speaker": "arabic",
+      "text": "متى نتلاقى؟",
+      "start": 334.489,
+      "end": 335.836,
+      "pause_end": 336.736
+    },
+    {
+      "id": "L10_A093",
+      "speaker": "instructor",
+      "text": "Remember: I cannot today.",
+      "start": 336.736,
+      "end": 338.736,
+      "pause_end": 343.786
+    },
+    {
+      "id": "L10_A094",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 343.786,
+      "end": 344.993,
+      "pause_end": 345.943
+    },
+    {
+      "id": "L10_A095",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Let us meet at five.",
+      "start": 345.943,
+      "end": 349.183,
+      "pause_end": 354.433
+    },
+    {
+      "id": "L10_A096",
+      "speaker": "arabic_female",
+      "text": "نتلاقى الساعة خمس",
+      "start": 354.433,
+      "end": 355.873,
+      "pause_end": 356.823
+    },
+    {
+      "id": "L10_A097",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 356.823,
+      "end": 357.823,
+      "pause_end": 361.373
+    },
+    {
+      "id": "L10_A098",
+      "speaker": "arabic_female",
+      "text": "نتلاقى الساعة خمس",
+      "start": 361.373,
+      "end": 362.813,
+      "pause_end": 363.713
+    },
+    {
+      "id": "L10_A099",
+      "speaker": "instructor",
+      "text": "Remember: Maybe tomorrow.",
+      "start": 363.713,
+      "end": 365.673,
+      "pause_end": 370.723
+    },
+    {
+      "id": "L10_A100",
+      "speaker": "arabic_female",
+      "text": "ممكن باچر",
+      "start": 370.723,
+      "end": 371.884,
+      "pause_end": 372.834
+    },
+    {
+      "id": "L10_A101",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where shall we meet?",
+      "start": 372.834,
+      "end": 375.434,
+      "pause_end": 380.684
+    },
+    {
+      "id": "L10_A102",
+      "speaker": "arabic",
+      "text": "وين نتلاقى؟",
+      "start": 380.684,
+      "end": 381.705,
+      "pause_end": 382.655
+    },
+    {
+      "id": "L10_A103",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 382.655,
+      "end": 383.655,
+      "pause_end": 387.205
+    },
+    {
+      "id": "L10_A104",
+      "speaker": "arabic",
+      "text": "وين نتلاقى؟",
+      "start": 387.205,
+      "end": 388.227,
+      "pause_end": 389.127
+    },
+    {
+      "id": "L10_A105",
+      "speaker": "instructor",
+      "text": "Remember: When shall we meet?",
+      "start": 389.127,
+      "end": 391.407,
+      "pause_end": 396.457
+    },
+    {
+      "id": "L10_A106",
+      "speaker": "arabic",
+      "text": "متى نتلاقى؟",
+      "start": 396.457,
+      "end": 397.804,
+      "pause_end": 398.754
+    },
+    {
+      "id": "L10_A107",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man his name.",
+      "start": 398.754,
+      "end": 401.394,
+      "pause_end": 406.444
+    },
+    {
+      "id": "L10_A108",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 406.444,
+      "end": 407.28,
+      "pause_end": 408.23
+    },
+    {
+      "id": "L10_A109",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Let us meet at the café.",
+      "start": 408.23,
+      "end": 411.43,
+      "pause_end": 416.68
+    },
+    {
+      "id": "L10_A110",
+      "speaker": "arabic_female",
+      "text": "نتلاقى عند المقهى",
+      "start": 416.68,
+      "end": 418.212,
+      "pause_end": 419.162
+    },
+    {
+      "id": "L10_A111",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 419.162,
+      "end": 420.162,
+      "pause_end": 423.712
+    },
+    {
+      "id": "L10_A112",
+      "speaker": "arabic_female",
+      "text": "نتلاقى عند المقهى",
+      "start": 423.712,
+      "end": 425.245,
+      "pause_end": 426.145
+    },
+    {
+      "id": "L10_A113",
+      "speaker": "instructor",
+      "text": "Remember: Let us meet at five.",
+      "start": 426.145,
+      "end": 428.465,
+      "pause_end": 433.515
+    },
+    {
+      "id": "L10_A114",
+      "speaker": "arabic_female",
+      "text": "نتلاقى الساعة خمس",
+      "start": 433.515,
+      "end": 434.954,
+      "pause_end": 435.904
+    },
+    {
+      "id": "L10_A115",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Okay, see you tomorrow.",
+      "start": 435.904,
+      "end": 439.584,
+      "pause_end": 444.834
+    },
+    {
+      "id": "L10_A116",
+      "speaker": "arabic",
+      "text": "تمام، أشوفك باچر",
+      "start": 444.834,
+      "end": 446.599,
+      "pause_end": 447.549
+    },
+    {
+      "id": "L10_A117",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 447.549,
+      "end": 448.549,
+      "pause_end": 452.099
+    },
+    {
+      "id": "L10_A118",
+      "speaker": "arabic",
+      "text": "تمام، أشوفك باچر",
+      "start": 452.099,
+      "end": 453.864,
+      "pause_end": 454.764
+    },
+    {
+      "id": "L10_A119",
+      "speaker": "instructor",
+      "text": "Remember: Where shall we meet?",
+      "start": 454.764,
+      "end": 457.404,
+      "pause_end": 462.454
+    },
+    {
+      "id": "L10_A120",
+      "speaker": "arabic",
+      "text": "وين نتلاقى؟",
+      "start": 462.454,
+      "end": 463.476,
+      "pause_end": 464.426
+    },
+    {
+      "id": "L10_A121",
+      "speaker": "instructor",
+      "text": "Say in Arabic: God willing.",
+      "start": 464.426,
+      "end": 467.986,
+      "pause_end": 473.236
+    },
+    {
+      "id": "L10_A122",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 473.236,
+      "end": 474.397,
+      "pause_end": 475.347
+    },
+    {
+      "id": "L10_A123",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 475.347,
+      "end": 476.347,
+      "pause_end": 479.897
+    },
+    {
+      "id": "L10_A124",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 479.897,
+      "end": 481.058,
+      "pause_end": 481.958
+    },
+    {
+      "id": "L10_A125",
+      "speaker": "instructor",
+      "text": "Remember: Let us meet at the café.",
+      "start": 481.958,
+      "end": 484.678,
+      "pause_end": 489.728
+    },
+    {
+      "id": "L10_A126",
+      "speaker": "arabic_female",
+      "text": "نتلاقى عند المقهى",
+      "start": 489.728,
+      "end": 491.26,
+      "pause_end": 492.21
+    },
+    {
+      "id": "L10_A127",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Say that you want water.",
+      "start": 492.21,
+      "end": 494.81,
+      "pause_end": 499.86
+    },
+    {
+      "id": "L10_A128",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 499.86,
+      "end": 500.835,
+      "pause_end": 501.785
+    },
+    {
+      "id": "L10_A129",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I am busy today, said by a man.",
+      "start": 501.785,
+      "end": 505.505,
+      "pause_end": 510.755
+    },
+    {
+      "id": "L10_A130",
+      "speaker": "arabic",
+      "text": "أنا مشغول اليوم",
+      "start": 510.755,
+      "end": 512.056,
+      "pause_end": 513.006
+    },
+    {
+      "id": "L10_A131",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 513.006,
+      "end": 514.006,
+      "pause_end": 517.556
+    },
+    {
+      "id": "L10_A132",
+      "speaker": "arabic",
+      "text": "أنا مشغول اليوم",
+      "start": 517.556,
+      "end": 518.856,
+      "pause_end": 519.756
+    },
+    {
+      "id": "L10_A133",
+      "speaker": "instructor",
+      "text": "Remember: Okay, see you tomorrow.",
+      "start": 519.756,
+      "end": 522.676,
+      "pause_end": 527.726
+    },
+    {
+      "id": "L10_A134",
+      "speaker": "arabic",
+      "text": "تمام، أشوفك باچر",
+      "start": 527.726,
+      "end": 529.491,
+      "pause_end": 530.441
+    },
+    {
+      "id": "L10_A135",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I am busy today, said by a woman.",
+      "start": 530.441,
+      "end": 534.601,
+      "pause_end": 539.851
+    },
+    {
+      "id": "L10_A136",
+      "speaker": "arabic_female",
+      "text": "أنا مشغولة اليوم",
+      "start": 539.851,
+      "end": 541.29,
+      "pause_end": 542.24
+    },
+    {
+      "id": "L10_A137",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 542.24,
+      "end": 543.24,
+      "pause_end": 546.79
+    },
+    {
+      "id": "L10_A138",
+      "speaker": "arabic_female",
+      "text": "أنا مشغولة اليوم",
+      "start": 546.79,
+      "end": 548.23,
+      "pause_end": 549.13
+    },
+    {
+      "id": "L10_A139",
+      "speaker": "instructor",
+      "text": "Remember: God willing.",
+      "start": 549.13,
+      "end": 551.21,
+      "pause_end": 556.26
+    },
+    {
+      "id": "L10_A140",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 556.26,
+      "end": 557.421,
+      "pause_end": 558.371
+    },
+    {
+      "id": "L10_A141",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I have time tomorrow.",
+      "start": 558.371,
+      "end": 561.531,
+      "pause_end": 566.781
+    },
+    {
+      "id": "L10_A142",
+      "speaker": "arabic",
+      "text": "عندي وقت باچر",
+      "start": 566.781,
+      "end": 568.035,
+      "pause_end": 568.985
+    },
+    {
+      "id": "L10_A143",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 568.985,
+      "end": 569.985,
+      "pause_end": 573.535
+    },
+    {
+      "id": "L10_A144",
+      "speaker": "arabic",
+      "text": "عندي وقت باچر",
+      "start": 573.535,
+      "end": 574.789,
+      "pause_end": 575.689
+    },
+    {
+      "id": "L10_A145",
+      "speaker": "instructor",
+      "text": "Remember: I am busy today, said by a man.",
+      "start": 575.689,
+      "end": 578.969,
+      "pause_end": 584.019
+    },
+    {
+      "id": "L10_A146",
+      "speaker": "arabic",
+      "text": "أنا مشغول اليوم",
+      "start": 584.019,
+      "end": 585.319,
+      "pause_end": 586.269
+    },
+    {
+      "id": "L10_A147",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Greet someone.",
+      "start": 586.269,
+      "end": 588.229,
+      "pause_end": 593.279
+    },
+    {
+      "id": "L10_A148",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 593.279,
+      "end": 594.44,
+      "pause_end": 595.39
+    },
+    {
+      "id": "L10_A149",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Okay, let us meet tomorrow.",
+      "start": 595.39,
+      "end": 599.43,
+      "pause_end": 604.68
+    },
+    {
+      "id": "L10_A150",
+      "speaker": "arabic_female",
+      "text": "يلا، نتلاقى باچر",
+      "start": 604.68,
+      "end": 606.212,
+      "pause_end": 607.162
+    },
+    {
+      "id": "L10_A151",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 607.162,
+      "end": 608.162,
+      "pause_end": 611.712
+    },
+    {
+      "id": "L10_A152",
+      "speaker": "arabic_female",
+      "text": "يلا، نتلاقى باچر",
+      "start": 611.712,
+      "end": 613.245,
+      "pause_end": 614.145
+    },
+    {
+      "id": "L10_A153",
+      "speaker": "instructor",
+      "text": "Remember: I am busy today, said by a woman.",
+      "start": 614.145,
+      "end": 617.665,
+      "pause_end": 622.715
+    },
+    {
+      "id": "L10_A154",
+      "speaker": "arabic_female",
+      "text": "أنا مشغولة اليوم",
+      "start": 622.715,
+      "end": 624.155,
+      "pause_end": 625.105
+    },
+    {
+      "id": "L10_A155",
+      "speaker": "instructor",
+      "text": "Now practice responding without a translation first.",
+      "start": 625.105,
+      "end": 628.665,
+      "pause_end": 629.515
+    },
+    {
+      "id": "L10_A156",
+      "speaker": "instructor",
+      "text": "Recall this phrase: What are you going to do tomorrow?",
+      "start": 629.515,
+      "end": 632.635,
+      "pause_end": 638.385
+    },
+    {
+      "id": "L10_A157",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باچر؟",
+      "start": 638.385,
+      "end": 639.638,
+      "pause_end": 640.588
+    },
+    {
+      "id": "L10_A158",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Do you want to come with me?",
+      "start": 640.588,
+      "end": 643.668,
+      "pause_end": 649.418
+    },
+    {
+      "id": "L10_A159",
+      "speaker": "arabic",
+      "text": "تبغي تيي وياي؟",
+      "start": 649.418,
+      "end": 650.719,
+      "pause_end": 651.669
+    },
+    {
+      "id": "L10_A160",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I cannot today.",
+      "start": 651.669,
+      "end": 654.869,
+      "pause_end": 660.619
+    },
+    {
+      "id": "L10_A161",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 660.619,
+      "end": 661.826,
+      "pause_end": 662.776
+    },
+    {
+      "id": "L10_A162",
+      "speaker": "instructor",
+      "text": "Recall this phrase: When shall we meet?",
+      "start": 662.776,
+      "end": 666.296,
+      "pause_end": 672.046
+    },
+    {
+      "id": "L10_A163",
+      "speaker": "arabic",
+      "text": "متى نتلاقى؟",
+      "start": 672.046,
+      "end": 673.393,
+      "pause_end": 674.343
+    },
+    {
+      "id": "L10_A164",
+      "speaker": "instructor",
+      "text": "Quick review. Say that you want water.",
+      "start": 674.343,
+      "end": 676.623,
+      "pause_end": 681.673
+    },
+    {
+      "id": "L10_A165",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 681.673,
+      "end": 682.648,
+      "pause_end": 683.598
+    },
+    {
+      "id": "L10_A166",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Where shall we meet?",
+      "start": 683.598,
+      "end": 686.558,
+      "pause_end": 692.308
+    },
+    {
+      "id": "L10_A167",
+      "speaker": "arabic",
+      "text": "وين نتلاقى؟",
+      "start": 692.308,
+      "end": 693.33,
+      "pause_end": 694.28
+    },
+    {
+      "id": "L10_A168",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Okay, see you tomorrow.",
+      "start": 694.28,
+      "end": 697.56,
+      "pause_end": 703.31
+    },
+    {
+      "id": "L10_A169",
+      "speaker": "arabic",
+      "text": "تمام، أشوفك باچر",
+      "start": 703.31,
+      "end": 705.075,
+      "pause_end": 706.025
+    },
+    {
+      "id": "L10_A170",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I am busy today, said by a man.",
+      "start": 706.025,
+      "end": 710.305,
+      "pause_end": 716.055
+    },
+    {
+      "id": "L10_A171",
+      "speaker": "arabic",
+      "text": "أنا مشغول اليوم",
+      "start": 716.055,
+      "end": 717.355,
+      "pause_end": 718.305
+    },
+    {
+      "id": "L10_A172",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I have time tomorrow.",
+      "start": 718.305,
+      "end": 721.545,
+      "pause_end": 727.295
+    },
+    {
+      "id": "L10_A173",
+      "speaker": "arabic",
+      "text": "عندي وقت باچر",
+      "start": 727.295,
+      "end": 728.549,
+      "pause_end": 729.499
+    },
+    {
+      "id": "L10_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 729.499,
+      "end": 732.459,
+      "pause_end": 737.509
+    },
+    {
+      "id": "L10_A175",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 737.509,
+      "end": 738.484,
+      "pause_end": 739.434
+    },
+    {
+      "id": "L10_A176",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I am going to the market.",
+      "start": 739.434,
+      "end": 742.114,
+      "pause_end": 747.864
+    },
+    {
+      "id": "L10_A177",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 747.864,
+      "end": 748.932,
+      "pause_end": 749.882
+    },
+    {
+      "id": "L10_A178",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Yes, I want to.",
+      "start": 749.882,
+      "end": 753.162,
+      "pause_end": 758.912
+    },
+    {
+      "id": "L10_A179",
+      "speaker": "arabic_female",
+      "text": "هيه، أبغي",
+      "start": 758.912,
+      "end": 759.887,
+      "pause_end": 760.837
+    },
+    {
+      "id": "L10_A180",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Maybe tomorrow.",
+      "start": 760.837,
+      "end": 763.517,
+      "pause_end": 769.267
+    },
+    {
+      "id": "L10_A181",
+      "speaker": "arabic_female",
+      "text": "ممكن باچر",
+      "start": 769.267,
+      "end": 770.428,
+      "pause_end": 771.378
+    },
+    {
+      "id": "L10_A182",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Let us meet at five.",
+      "start": 771.378,
+      "end": 774.538,
+      "pause_end": 780.288
+    },
+    {
+      "id": "L10_A183",
+      "speaker": "arabic_female",
+      "text": "نتلاقى الساعة خمس",
+      "start": 780.288,
+      "end": 781.728,
+      "pause_end": 782.678
+    },
+    {
+      "id": "L10_A184",
+      "speaker": "instructor",
+      "text": "Quick review. Say that you want water.",
+      "start": 782.678,
+      "end": 784.958,
+      "pause_end": 790.008
+    },
+    {
+      "id": "L10_A185",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 790.008,
+      "end": 790.983,
+      "pause_end": 791.933
+    },
+    {
+      "id": "L10_A186",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Let us meet at the café.",
+      "start": 791.933,
+      "end": 795.093,
+      "pause_end": 800.843
+    },
+    {
+      "id": "L10_A187",
+      "speaker": "arabic_female",
+      "text": "نتلاقى عند المقهى",
+      "start": 800.843,
+      "end": 802.376,
+      "pause_end": 803.326
+    },
+    {
+      "id": "L10_A188",
+      "speaker": "instructor",
+      "text": "Recall this phrase: God willing.",
+      "start": 803.326,
+      "end": 806.046,
+      "pause_end": 811.796
+    },
+    {
+      "id": "L10_A189",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 811.796,
+      "end": 812.957,
+      "pause_end": 813.907
+    },
+    {
+      "id": "L10_A190",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I am busy today, said by a woman.",
+      "start": 813.907,
+      "end": 817.747,
+      "pause_end": 823.497
+    },
+    {
+      "id": "L10_A191",
+      "speaker": "arabic_female",
+      "text": "أنا مشغولة اليوم",
+      "start": 823.497,
+      "end": 824.936,
+      "pause_end": 825.886
+    },
+    {
+      "id": "L10_A192",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Okay, let us meet tomorrow.",
+      "start": 825.886,
+      "end": 829.286,
+      "pause_end": 835.036
+    },
+    {
+      "id": "L10_A193",
+      "speaker": "arabic_female",
+      "text": "يلا، نتلاقى باچر",
+      "start": 835.036,
+      "end": 836.569,
+      "pause_end": 837.519
+    },
+    {
+      "id": "L10_A194",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 837.519,
+      "end": 840.479,
+      "pause_end": 845.529
+    },
+    {
+      "id": "L10_A195",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 845.529,
+      "end": 846.504,
+      "pause_end": 847.454
+    },
+    {
+      "id": "L10_A196",
+      "speaker": "instructor",
+      "text": "How would you say: Okay, let us meet tomorrow.",
+      "start": 847.454,
+      "end": 850.494,
+      "pause_end": 856.244
+    },
+    {
+      "id": "L10_A197",
+      "speaker": "arabic_female",
+      "text": "يلا، نتلاقى باچر",
+      "start": 856.244,
+      "end": 857.777,
+      "pause_end": 858.727
+    },
+    {
+      "id": "L10_A198",
+      "speaker": "instructor",
+      "text": "How would you say: I have time tomorrow.",
+      "start": 858.727,
+      "end": 861.367,
+      "pause_end": 867.117
+    },
+    {
+      "id": "L10_A199",
+      "speaker": "arabic",
+      "text": "عندي وقت باچر",
+      "start": 867.117,
+      "end": 868.371,
+      "pause_end": 869.321
+    },
+    {
+      "id": "L10_A200",
+      "speaker": "instructor",
+      "text": "How would you say: I am busy today, said by a woman.",
+      "start": 869.321,
+      "end": 873.161,
+      "pause_end": 878.911
+    },
+    {
+      "id": "L10_A201",
+      "speaker": "arabic_female",
+      "text": "أنا مشغولة اليوم",
+      "start": 878.911,
+      "end": 880.35,
+      "pause_end": 881.3
+    },
+    {
+      "id": "L10_A202",
+      "speaker": "instructor",
+      "text": "How would you say: I am busy today, said by a man.",
+      "start": 881.3,
+      "end": 884.74,
+      "pause_end": 890.49
+    },
+    {
+      "id": "L10_A203",
+      "speaker": "arabic",
+      "text": "أنا مشغول اليوم",
+      "start": 890.49,
+      "end": 891.791,
+      "pause_end": 892.741
+    },
+    {
+      "id": "L10_A204",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 892.741,
+      "end": 894.821,
+      "pause_end": 899.871
+    },
+    {
+      "id": "L10_A205",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 899.871,
+      "end": 901.032,
+      "pause_end": 901.982
+    },
+    {
+      "id": "L10_A206",
+      "speaker": "instructor",
+      "text": "How would you say: God willing.",
+      "start": 901.982,
+      "end": 904.182,
+      "pause_end": 909.932
+    },
+    {
+      "id": "L10_A207",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 909.932,
+      "end": 911.093,
+      "pause_end": 912.043
+    },
+    {
+      "id": "L10_A208",
+      "speaker": "instructor",
+      "text": "How would you say: Okay, see you tomorrow.",
+      "start": 912.043,
+      "end": 915.803,
+      "pause_end": 921.553
+    },
+    {
+      "id": "L10_A209",
+      "speaker": "arabic",
+      "text": "تمام، أشوفك باچر",
+      "start": 921.553,
+      "end": 923.317,
+      "pause_end": 924.267
+    },
+    {
+      "id": "L10_A210",
+      "speaker": "instructor",
+      "text": "How would you say: Let us meet at the café.",
+      "start": 924.267,
+      "end": 927.467,
+      "pause_end": 933.217
+    },
+    {
+      "id": "L10_A211",
+      "speaker": "arabic_female",
+      "text": "نتلاقى عند المقهى",
+      "start": 933.217,
+      "end": 934.75,
+      "pause_end": 935.7
+    },
+    {
+      "id": "L10_A212",
+      "speaker": "instructor",
+      "text": "How would you say: Where shall we meet?",
+      "start": 935.7,
+      "end": 938.34,
+      "pause_end": 944.09
+    },
+    {
+      "id": "L10_A213",
+      "speaker": "arabic",
+      "text": "وين نتلاقى؟",
+      "start": 944.09,
+      "end": 945.112,
+      "pause_end": 946.062
+    },
+    {
+      "id": "L10_A214",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man his name.",
+      "start": 946.062,
+      "end": 948.622,
+      "pause_end": 953.672
+    },
+    {
+      "id": "L10_A215",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 953.672,
+      "end": 954.508,
+      "pause_end": 955.458
+    },
+    {
+      "id": "L10_A216",
+      "speaker": "instructor",
+      "text": "How would you say: Let us meet at five.",
+      "start": 955.458,
+      "end": 958.058,
+      "pause_end": 963.808
+    },
+    {
+      "id": "L10_A217",
+      "speaker": "arabic_female",
+      "text": "نتلاقى الساعة خمس",
+      "start": 963.808,
+      "end": 965.247,
+      "pause_end": 966.197
+    },
+    {
+      "id": "L10_A218",
+      "speaker": "instructor",
+      "text": "How would you say: When shall we meet?",
+      "start": 966.197,
+      "end": 968.797,
+      "pause_end": 974.547
+    },
+    {
+      "id": "L10_A219",
+      "speaker": "arabic",
+      "text": "متى نتلاقى؟",
+      "start": 974.547,
+      "end": 975.894,
+      "pause_end": 976.844
+    },
+    {
+      "id": "L10_A220",
+      "speaker": "instructor",
+      "text": "How would you say: Maybe tomorrow.",
+      "start": 976.844,
+      "end": 979.164,
+      "pause_end": 984.914
+    },
+    {
+      "id": "L10_A221",
+      "speaker": "arabic_female",
+      "text": "ممكن باچر",
+      "start": 984.914,
+      "end": 986.075,
+      "pause_end": 987.025
+    },
+    {
+      "id": "L10_A222",
+      "speaker": "instructor",
+      "text": "How would you say: I cannot today.",
+      "start": 987.025,
+      "end": 989.745,
+      "pause_end": 995.495
+    },
+    {
+      "id": "L10_A223",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 995.495,
+      "end": 996.702,
+      "pause_end": 997.652
+    },
+    {
+      "id": "L10_A224",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 997.652,
+      "end": 999.732,
+      "pause_end": 1004.782
+    },
+    {
+      "id": "L10_A225",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 1004.782,
+      "end": 1005.943,
+      "pause_end": 1006.893
+    },
+    {
+      "id": "L10_A226",
+      "speaker": "instructor",
+      "text": "How would you say: Yes, I want to.",
+      "start": 1006.893,
+      "end": 1009.813,
+      "pause_end": 1015.563
+    },
+    {
+      "id": "L10_A227",
+      "speaker": "arabic_female",
+      "text": "هيه، أبغي",
+      "start": 1015.563,
+      "end": 1016.539,
+      "pause_end": 1017.489
+    },
+    {
+      "id": "L10_A228",
+      "speaker": "instructor",
+      "text": "How would you say: Do you want to come with me?",
+      "start": 1017.489,
+      "end": 1021.129,
+      "pause_end": 1026.879
+    },
+    {
+      "id": "L10_A229",
+      "speaker": "arabic",
+      "text": "تبغي تيي وياي؟",
+      "start": 1026.879,
+      "end": 1028.179,
+      "pause_end": 1029.129
+    },
+    {
+      "id": "L10_A230",
+      "speaker": "instructor",
+      "text": "How would you say: I am going to the market.",
+      "start": 1029.129,
+      "end": 1031.809,
+      "pause_end": 1037.559
+    },
+    {
+      "id": "L10_A231",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 1037.559,
+      "end": 1038.627,
+      "pause_end": 1039.577
+    },
+    {
+      "id": "L10_A232",
+      "speaker": "instructor",
+      "text": "How would you say: What are you going to do tomorrow?",
+      "start": 1039.577,
+      "end": 1042.737,
+      "pause_end": 1048.487
+    },
+    {
+      "id": "L10_A233",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باچر؟",
+      "start": 1048.487,
+      "end": 1049.741,
+      "pause_end": 1050.691
+    },
+    {
+      "id": "L10_A234",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man his name.",
+      "start": 1050.691,
+      "end": 1053.251,
+      "pause_end": 1058.301
+    },
+    {
+      "id": "L10_A235",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 1058.301,
+      "end": 1059.137,
+      "pause_end": 1060.087
+    },
+    {
+      "id": "L10_A236",
+      "speaker": "instructor",
+      "text": "Final practice. Respond naturally.",
+      "start": 1060.087,
+      "end": 1063.607,
+      "pause_end": 1064.457
+    },
+    {
+      "id": "L10_A237",
+      "speaker": "instructor",
+      "text": "What are you going to do tomorrow?",
+      "start": 1064.457,
+      "end": 1066.177,
+      "pause_end": 1072.127
+    },
+    {
+      "id": "L10_A238",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باچر؟",
+      "start": 1072.127,
+      "end": 1073.381,
+      "pause_end": 1074.331
+    },
+    {
+      "id": "L10_A239",
+      "speaker": "instructor",
+      "text": "Let us meet at five.",
+      "start": 1074.331,
+      "end": 1075.651,
+      "pause_end": 1081.601
+    },
+    {
+      "id": "L10_A240",
+      "speaker": "arabic_female",
+      "text": "نتلاقى الساعة خمس",
+      "start": 1081.601,
+      "end": 1083.04,
+      "pause_end": 1083.99
+    },
+    {
+      "id": "L10_A241",
+      "speaker": "instructor",
+      "text": "I have time tomorrow.",
+      "start": 1083.99,
+      "end": 1085.39,
+      "pause_end": 1091.34
+    },
+    {
+      "id": "L10_A242",
+      "speaker": "arabic",
+      "text": "عندي وقت باچر",
+      "start": 1091.34,
+      "end": 1092.594,
+      "pause_end": 1093.544
+    },
+    {
+      "id": "L10_A243",
+      "speaker": "instructor",
+      "text": "Maybe tomorrow.",
+      "start": 1093.544,
+      "end": 1094.904,
+      "pause_end": 1100.854
+    },
+    {
+      "id": "L10_A244",
+      "speaker": "arabic_female",
+      "text": "ممكن باچر",
+      "start": 1100.854,
+      "end": 1102.015,
+      "pause_end": 1102.965
+    },
+    {
+      "id": "L10_A245",
+      "speaker": "instructor",
+      "text": "I am busy today, said by a man.",
+      "start": 1102.965,
+      "end": 1105.485,
+      "pause_end": 1111.435
+    },
+    {
+      "id": "L10_A246",
+      "speaker": "arabic",
+      "text": "أنا مشغول اليوم",
+      "start": 1111.435,
+      "end": 1112.736,
+      "pause_end": 1113.686
+    },
+    {
+      "id": "L10_A247",
+      "speaker": "instructor",
+      "text": "Yes, I want to.",
+      "start": 1113.686,
+      "end": 1115.006,
+      "pause_end": 1120.956
+    },
+    {
+      "id": "L10_A248",
+      "speaker": "arabic_female",
+      "text": "هيه، أبغي",
+      "start": 1120.956,
+      "end": 1121.931,
+      "pause_end": 1122.881
+    },
+    {
+      "id": "L10_A249",
+      "speaker": "instructor",
+      "text": "Okay, see you tomorrow.",
+      "start": 1122.881,
+      "end": 1124.681,
+      "pause_end": 1130.631
+    },
+    {
+      "id": "L10_A250",
+      "speaker": "arabic",
+      "text": "تمام، أشوفك باچر",
+      "start": 1130.631,
+      "end": 1132.396,
+      "pause_end": 1133.346
+    },
+    {
+      "id": "L10_A251",
+      "speaker": "instructor",
+      "text": "I am going to the market.",
+      "start": 1133.346,
+      "end": 1134.866,
+      "pause_end": 1140.816
+    },
+    {
+      "id": "L10_A252",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 1140.816,
+      "end": 1141.884,
+      "pause_end": 1142.834
+    },
+    {
+      "id": "L10_A253",
+      "speaker": "instructor",
+      "text": "Where shall we meet?",
+      "start": 1142.834,
+      "end": 1143.914,
+      "pause_end": 1149.864
+    },
+    {
+      "id": "L10_A254",
+      "speaker": "arabic",
+      "text": "وين نتلاقى؟",
+      "start": 1149.864,
+      "end": 1150.885,
+      "pause_end": 1151.835
+    },
+    {
+      "id": "L10_A255",
+      "speaker": "instructor",
+      "text": "Okay, let us meet tomorrow.",
+      "start": 1151.835,
+      "end": 1153.875,
+      "pause_end": 1159.825
+    },
+    {
+      "id": "L10_A256",
+      "speaker": "arabic_female",
+      "text": "يلا، نتلاقى باچر",
+      "start": 1159.825,
+      "end": 1161.358,
+      "pause_end": 1162.308
+    },
+    {
+      "id": "L10_A257",
+      "speaker": "instructor",
+      "text": "When shall we meet?",
+      "start": 1162.308,
+      "end": 1163.628,
+      "pause_end": 1169.578
+    },
+    {
+      "id": "L10_A258",
+      "speaker": "arabic",
+      "text": "متى نتلاقى؟",
+      "start": 1169.578,
+      "end": 1170.925,
+      "pause_end": 1171.875
+    },
+    {
+      "id": "L10_A259",
+      "speaker": "instructor",
+      "text": "I am busy today, said by a woman.",
+      "start": 1171.875,
+      "end": 1174.155,
+      "pause_end": 1180.105
+    },
+    {
+      "id": "L10_A260",
+      "speaker": "arabic_female",
+      "text": "أنا مشغولة اليوم",
+      "start": 1180.105,
+      "end": 1181.544,
+      "pause_end": 1182.494
+    },
+    {
+      "id": "L10_A261",
+      "speaker": "instructor",
+      "text": "I cannot today.",
+      "start": 1182.494,
+      "end": 1183.614,
+      "pause_end": 1189.564
+    },
+    {
+      "id": "L10_A262",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 1189.564,
+      "end": 1190.772,
+      "pause_end": 1191.722
+    },
+    {
+      "id": "L10_A263",
+      "speaker": "instructor",
+      "text": "God willing.",
+      "start": 1191.722,
+      "end": 1192.642,
+      "pause_end": 1198.592
+    },
+    {
+      "id": "L10_A264",
+      "speaker": "arabic_female",
+      "text": "إن شاء الله",
+      "start": 1198.592,
+      "end": 1199.753,
+      "pause_end": 1200.703
+    },
+    {
+      "id": "L10_A265",
+      "speaker": "instructor",
+      "text": "Do you want to come with me?",
+      "start": 1200.703,
+      "end": 1201.943,
+      "pause_end": 1207.893
+    },
+    {
+      "id": "L10_A266",
+      "speaker": "arabic",
+      "text": "تبغي تيي وياي؟",
+      "start": 1207.893,
+      "end": 1209.193,
+      "pause_end": 1210.143
+    },
+    {
+      "id": "L10_A267",
+      "speaker": "instructor",
+      "text": "Let us meet at the café.",
+      "start": 1210.143,
+      "end": 1211.783,
+      "pause_end": 1217.733
+    },
+    {
+      "id": "L10_A268",
+      "speaker": "arabic_female",
+      "text": "نتلاقى عند المقهى",
+      "start": 1217.733,
+      "end": 1219.266,
+      "pause_end": 1220.216
+    },
+    {
+      "id": "L10_A269",
+      "speaker": "instructor",
+      "text": "End of lesson. Practice again before moving on.",
+      "start": 1220.216,
+      "end": 1223.416,
+      "pause_end": 1224.366
+    }
+  ]
+}

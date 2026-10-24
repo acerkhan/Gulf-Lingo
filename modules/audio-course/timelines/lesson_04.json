@@ -1,0 +1,1844 @@
+{
+  "events": [
+    {
+      "id": "L04_A001",
+      "speaker": "instructor",
+      "text": "Lesson 4. Everyday Wants and Needs. Listen to a short conversation, then speak when prompted.",
+      "start": 0.0,
+      "end": 6.28,
+      "pause_end": 7.13
+    },
+    {
+      "id": "L04_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 7.13,
+      "end": 10.49,
+      "pause_end": 11.24
+    },
+    {
+      "id": "L04_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Peace be upon you.",
+      "start": 11.24,
+      "end": 14.44,
+      "pause_end": 19.19
+    },
+    {
+      "id": "L04_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 19.19,
+      "end": 20.351,
+      "pause_end": 21.401
+    },
+    {
+      "id": "L04_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: And peace be upon you.",
+      "start": 21.401,
+      "end": 25.001,
+      "pause_end": 29.751
+    },
+    {
+      "id": "L04_A006",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 29.751,
+      "end": 31.051,
+      "pause_end": 32.101
+    },
+    {
+      "id": "L04_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How are you, said to a man?",
+      "start": 32.101,
+      "end": 36.061,
+      "pause_end": 40.811
+    },
+    {
+      "id": "L04_A008",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 40.811,
+      "end": 41.787,
+      "pause_end": 42.837
+    },
+    {
+      "id": "L04_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Fine, thank God.",
+      "start": 42.837,
+      "end": 46.157,
+      "pause_end": 50.907
+    },
+    {
+      "id": "L04_A010",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 50.907,
+      "end": 52.718,
+      "pause_end": 53.768
+    },
+    {
+      "id": "L04_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What's your name?",
+      "start": 53.768,
+      "end": 56.288,
+      "pause_end": 61.038
+    },
+    {
+      "id": "L04_A012",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 61.038,
+      "end": 61.874,
+      "pause_end": 62.924
+    },
+    {
+      "id": "L04_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: My name is Khalid.",
+      "start": 62.924,
+      "end": 66.004,
+      "pause_end": 70.754
+    },
+    {
+      "id": "L04_A014",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 70.754,
+      "end": 71.868,
+      "pause_end": 72.918
+    },
+    {
+      "id": "L04_A015",
+      "speaker": "instructor",
+      "text": "Now listen to today's new expressions. You will hear both a man and a woman speaking.",
+      "start": 72.918,
+      "end": 79.318,
+      "pause_end": 80.168
+    },
+    {
+      "id": "L04_A016",
+      "speaker": "instructor",
+      "text": "Listen. What do you want?",
+      "start": 80.168,
+      "end": 82.168,
+      "pause_end": 82.818
+    },
+    {
+      "id": "L04_A017",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 82.818,
+      "end": 83.794,
+      "pause_end": 85.244
+    },
+    {
+      "id": "L04_A018",
+      "speaker": "instructor",
+      "text": "Listen. I want water.",
+      "start": 85.244,
+      "end": 87.164,
+      "pause_end": 87.814
+    },
+    {
+      "id": "L04_A019",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 87.814,
+      "end": 88.789,
+      "pause_end": 90.239
+    },
+    {
+      "id": "L04_A020",
+      "speaker": "instructor",
+      "text": "Listen. I want coffee.",
+      "start": 90.239,
+      "end": 91.959,
+      "pause_end": 92.609
+    },
+    {
+      "id": "L04_A021",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 92.609,
+      "end": 93.77,
+      "pause_end": 95.22
+    },
+    {
+      "id": "L04_A022",
+      "speaker": "instructor",
+      "text": "Listen. I don't want coffee.",
+      "start": 95.22,
+      "end": 97.1,
+      "pause_end": 97.75
+    },
+    {
+      "id": "L04_A023",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 97.75,
+      "end": 98.865,
+      "pause_end": 100.315
+    },
+    {
+      "id": "L04_A024",
+      "speaker": "instructor",
+      "text": "Listen. Do you want something?",
+      "start": 100.315,
+      "end": 101.955,
+      "pause_end": 102.605
+    },
+    {
+      "id": "L04_A025",
+      "speaker": "arabic_female",
+      "text": "تبغي شي؟",
+      "start": 102.605,
+      "end": 103.58,
+      "pause_end": 105.03
+    },
+    {
+      "id": "L04_A026",
+      "speaker": "instructor",
+      "text": "Listen to how you say: What do you want?",
+      "start": 105.03,
+      "end": 107.71,
+      "pause_end": 108.31
+    },
+    {
+      "id": "L04_A027",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 108.31,
+      "end": 109.285,
+      "pause_end": 110.535
+    },
+    {
+      "id": "L04_A028",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 110.535,
+      "end": 111.655,
+      "pause_end": 115.905
+    },
+    {
+      "id": "L04_A029",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 115.905,
+      "end": 116.88,
+      "pause_end": 117.93
+    },
+    {
+      "id": "L04_A030",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I want water.",
+      "start": 117.93,
+      "end": 121.05,
+      "pause_end": 121.65
+    },
+    {
+      "id": "L04_A031",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 121.65,
+      "end": 122.626,
+      "pause_end": 123.876
+    },
+    {
+      "id": "L04_A032",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 123.876,
+      "end": 124.996,
+      "pause_end": 129.246
+    },
+    {
+      "id": "L04_A033",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 129.246,
+      "end": 130.221,
+      "pause_end": 131.271
+    },
+    {
+      "id": "L04_A034",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I want coffee.",
+      "start": 131.271,
+      "end": 133.911,
+      "pause_end": 134.511
+    },
+    {
+      "id": "L04_A035",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 134.511,
+      "end": 135.672,
+      "pause_end": 136.922
+    },
+    {
+      "id": "L04_A036",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 136.922,
+      "end": 138.042,
+      "pause_end": 142.292
+    },
+    {
+      "id": "L04_A037",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 142.292,
+      "end": 143.453,
+      "pause_end": 144.503
+    },
+    {
+      "id": "L04_A038",
+      "speaker": "instructor",
+      "text": "Without help, say: What do you want?",
+      "start": 144.503,
+      "end": 147.583,
+      "pause_end": 152.833
+    },
+    {
+      "id": "L04_A039",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 152.833,
+      "end": 153.808,
+      "pause_end": 154.858
+    },
+    {
+      "id": "L04_A040",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. Peace be upon you.",
+      "start": 154.858,
+      "end": 158.018,
+      "pause_end": 163.268
+    },
+    {
+      "id": "L04_A041",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 163.268,
+      "end": 164.429,
+      "pause_end": 165.479
+    },
+    {
+      "id": "L04_A042",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I don't want coffee.",
+      "start": 165.479,
+      "end": 168.319,
+      "pause_end": 168.919
+    },
+    {
+      "id": "L04_A043",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 168.919,
+      "end": 170.034,
+      "pause_end": 171.284
+    },
+    {
+      "id": "L04_A044",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 171.284,
+      "end": 172.404,
+      "pause_end": 176.654
+    },
+    {
+      "id": "L04_A045",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 176.654,
+      "end": 177.768,
+      "pause_end": 178.818
+    },
+    {
+      "id": "L04_A046",
+      "speaker": "instructor",
+      "text": "Without help, say: I want water.",
+      "start": 178.818,
+      "end": 181.978,
+      "pause_end": 187.228
+    },
+    {
+      "id": "L04_A047",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 187.228,
+      "end": 188.204,
+      "pause_end": 189.254
+    },
+    {
+      "id": "L04_A048",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Do you want something?",
+      "start": 189.254,
+      "end": 191.734,
+      "pause_end": 192.334
+    },
+    {
+      "id": "L04_A049",
+      "speaker": "arabic_female",
+      "text": "تبغي شي؟",
+      "start": 192.334,
+      "end": 193.309,
+      "pause_end": 194.559
+    },
+    {
+      "id": "L04_A050",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 194.559,
+      "end": 195.679,
+      "pause_end": 199.929
+    },
+    {
+      "id": "L04_A051",
+      "speaker": "arabic_female",
+      "text": "تبغي شي؟",
+      "start": 199.929,
+      "end": 200.904,
+      "pause_end": 201.954
+    },
+    {
+      "id": "L04_A052",
+      "speaker": "instructor",
+      "text": "Without help, say: I want coffee.",
+      "start": 201.954,
+      "end": 204.954,
+      "pause_end": 210.204
+    },
+    {
+      "id": "L04_A053",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 210.204,
+      "end": 211.365,
+      "pause_end": 212.415
+    },
+    {
+      "id": "L04_A054",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Yes, I want water.",
+      "start": 212.415,
+      "end": 216.095,
+      "pause_end": 216.695
+    },
+    {
+      "id": "L04_A055",
+      "speaker": "arabic",
+      "text": "هيه، أبغي ماي",
+      "start": 216.695,
+      "end": 217.995,
+      "pause_end": 219.245
+    },
+    {
+      "id": "L04_A056",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 219.245,
+      "end": 220.365,
+      "pause_end": 224.615
+    },
+    {
+      "id": "L04_A057",
+      "speaker": "arabic",
+      "text": "هيه، أبغي ماي",
+      "start": 224.615,
+      "end": 225.916,
+      "pause_end": 226.966
+    },
+    {
+      "id": "L04_A058",
+      "speaker": "instructor",
+      "text": "Without help, say: I don't want coffee.",
+      "start": 226.966,
+      "end": 230.606,
+      "pause_end": 235.856
+    },
+    {
+      "id": "L04_A059",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 235.856,
+      "end": 236.97,
+      "pause_end": 238.02
+    },
+    {
+      "id": "L04_A060",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. And peace be upon you.",
+      "start": 238.02,
+      "end": 242.14,
+      "pause_end": 247.39
+    },
+    {
+      "id": "L04_A061",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 247.39,
+      "end": 248.69,
+      "pause_end": 249.74
+    },
+    {
+      "id": "L04_A062",
+      "speaker": "instructor",
+      "text": "Listen to how you say: No, thank you, said to a man.",
+      "start": 249.74,
+      "end": 253.58,
+      "pause_end": 254.18
+    },
+    {
+      "id": "L04_A063",
+      "speaker": "arabic_female",
+      "text": "لا، مشكور",
+      "start": 254.18,
+      "end": 255.341,
+      "pause_end": 256.591
+    },
+    {
+      "id": "L04_A064",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 256.591,
+      "end": 257.711,
+      "pause_end": 261.961
+    },
+    {
+      "id": "L04_A065",
+      "speaker": "arabic_female",
+      "text": "لا، مشكور",
+      "start": 261.961,
+      "end": 263.122,
+      "pause_end": 264.172
+    },
+    {
+      "id": "L04_A066",
+      "speaker": "instructor",
+      "text": "Without help, say: Do you want something?",
+      "start": 264.172,
+      "end": 266.892,
+      "pause_end": 272.142
+    },
+    {
+      "id": "L04_A067",
+      "speaker": "arabic_female",
+      "text": "تبغي شي؟",
+      "start": 272.142,
+      "end": 273.118,
+      "pause_end": 274.168
+    },
+    {
+      "id": "L04_A068",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Do you have water?",
+      "start": 274.168,
+      "end": 276.848,
+      "pause_end": 277.448
+    },
+    {
+      "id": "L04_A069",
+      "speaker": "arabic",
+      "text": "عندك ماي؟",
+      "start": 277.448,
+      "end": 278.33,
+      "pause_end": 279.58
+    },
+    {
+      "id": "L04_A070",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 279.58,
+      "end": 280.7,
+      "pause_end": 284.95
+    },
+    {
+      "id": "L04_A071",
+      "speaker": "arabic",
+      "text": "عندك ماي؟",
+      "start": 284.95,
+      "end": 285.832,
+      "pause_end": 286.882
+    },
+    {
+      "id": "L04_A072",
+      "speaker": "instructor",
+      "text": "Without help, say: Yes, I want water.",
+      "start": 286.882,
+      "end": 290.322,
+      "pause_end": 295.572
+    },
+    {
+      "id": "L04_A073",
+      "speaker": "arabic",
+      "text": "هيه، أبغي ماي",
+      "start": 295.572,
+      "end": 296.873,
+      "pause_end": 297.923
+    },
+    {
+      "id": "L04_A074",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I have water.",
+      "start": 297.923,
+      "end": 300.363,
+      "pause_end": 300.963
+    },
+    {
+      "id": "L04_A075",
+      "speaker": "arabic_female",
+      "text": "عندي ماي",
+      "start": 300.963,
+      "end": 301.892,
+      "pause_end": 303.142
+    },
+    {
+      "id": "L04_A076",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 303.142,
+      "end": 304.262,
+      "pause_end": 308.512
+    },
+    {
+      "id": "L04_A077",
+      "speaker": "arabic_female",
+      "text": "عندي ماي",
+      "start": 308.512,
+      "end": 309.44,
+      "pause_end": 310.49
+    },
+    {
+      "id": "L04_A078",
+      "speaker": "instructor",
+      "text": "Without help, say: No, thank you, said to a man.",
+      "start": 310.49,
+      "end": 314.21,
+      "pause_end": 319.46
+    },
+    {
+      "id": "L04_A079",
+      "speaker": "arabic_female",
+      "text": "لا، مشكور",
+      "start": 319.46,
+      "end": 320.621,
+      "pause_end": 321.671
+    },
+    {
+      "id": "L04_A080",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. How are you, said to a man?",
+      "start": 321.671,
+      "end": 326.031,
+      "pause_end": 331.281
+    },
+    {
+      "id": "L04_A081",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 331.281,
+      "end": 332.257,
+      "pause_end": 333.307
+    },
+    {
+      "id": "L04_A082",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I don't have any.",
+      "start": 333.307,
+      "end": 336.307,
+      "pause_end": 336.907
+    },
+    {
+      "id": "L04_A083",
+      "speaker": "arabic",
+      "text": "ما عندي",
+      "start": 336.907,
+      "end": 337.696,
+      "pause_end": 338.946
+    },
+    {
+      "id": "L04_A084",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 338.946,
+      "end": 340.066,
+      "pause_end": 344.316
+    },
+    {
+      "id": "L04_A085",
+      "speaker": "arabic",
+      "text": "ما عندي",
+      "start": 344.316,
+      "end": 345.106,
+      "pause_end": 346.156
+    },
+    {
+      "id": "L04_A086",
+      "speaker": "instructor",
+      "text": "Without help, say: Do you have water?",
+      "start": 346.156,
+      "end": 349.036,
+      "pause_end": 354.286
+    },
+    {
+      "id": "L04_A087",
+      "speaker": "arabic",
+      "text": "عندك ماي؟",
+      "start": 354.286,
+      "end": 355.168,
+      "pause_end": 356.218
+    },
+    {
+      "id": "L04_A088",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Where is the water?",
+      "start": 356.218,
+      "end": 359.018,
+      "pause_end": 359.618
+    },
+    {
+      "id": "L04_A089",
+      "speaker": "arabic_female",
+      "text": "وين الماي؟",
+      "start": 359.618,
+      "end": 360.547,
+      "pause_end": 361.797
+    },
+    {
+      "id": "L04_A090",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 361.797,
+      "end": 362.917,
+      "pause_end": 367.167
+    },
+    {
+      "id": "L04_A091",
+      "speaker": "arabic_female",
+      "text": "وين الماي؟",
+      "start": 367.167,
+      "end": 368.096,
+      "pause_end": 369.146
+    },
+    {
+      "id": "L04_A092",
+      "speaker": "instructor",
+      "text": "Without help, say: I have water.",
+      "start": 369.146,
+      "end": 371.866,
+      "pause_end": 377.116
+    },
+    {
+      "id": "L04_A093",
+      "speaker": "arabic_female",
+      "text": "عندي ماي",
+      "start": 377.116,
+      "end": 378.045,
+      "pause_end": 379.095
+    },
+    {
+      "id": "L04_A094",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Here.",
+      "start": 379.095,
+      "end": 381.255,
+      "pause_end": 381.855
+    },
+    {
+      "id": "L04_A095",
+      "speaker": "arabic",
+      "text": "هني",
+      "start": 381.855,
+      "end": 382.505,
+      "pause_end": 383.755
+    },
+    {
+      "id": "L04_A096",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 383.755,
+      "end": 384.875,
+      "pause_end": 389.125
+    },
+    {
+      "id": "L04_A097",
+      "speaker": "arabic",
+      "text": "هني",
+      "start": 389.125,
+      "end": 389.775,
+      "pause_end": 390.825
+    },
+    {
+      "id": "L04_A098",
+      "speaker": "instructor",
+      "text": "Without help, say: I don't have any.",
+      "start": 390.825,
+      "end": 393.505,
+      "pause_end": 398.755
+    },
+    {
+      "id": "L04_A099",
+      "speaker": "arabic",
+      "text": "ما عندي",
+      "start": 398.755,
+      "end": 399.545,
+      "pause_end": 400.595
+    },
+    {
+      "id": "L04_A100",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. Fine, thank God.",
+      "start": 400.595,
+      "end": 404.355,
+      "pause_end": 409.605
+    },
+    {
+      "id": "L04_A101",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 409.605,
+      "end": 411.416,
+      "pause_end": 412.466
+    },
+    {
+      "id": "L04_A102",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Now.",
+      "start": 412.466,
+      "end": 414.266,
+      "pause_end": 414.866
+    },
+    {
+      "id": "L04_A103",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 414.866,
+      "end": 415.841,
+      "pause_end": 417.091
+    },
+    {
+      "id": "L04_A104",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 417.091,
+      "end": 418.211,
+      "pause_end": 422.461
+    },
+    {
+      "id": "L04_A105",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 422.461,
+      "end": 423.436,
+      "pause_end": 424.486
+    },
+    {
+      "id": "L04_A106",
+      "speaker": "instructor",
+      "text": "Without help, say: Where is the water?",
+      "start": 424.486,
+      "end": 427.486,
+      "pause_end": 432.736
+    },
+    {
+      "id": "L04_A107",
+      "speaker": "arabic_female",
+      "text": "وين الماي؟",
+      "start": 432.736,
+      "end": 433.665,
+      "pause_end": 434.715
+    },
+    {
+      "id": "L04_A108",
+      "speaker": "instructor",
+      "text": "Listen to how you say: In a little while.",
+      "start": 434.715,
+      "end": 436.995,
+      "pause_end": 437.595
+    },
+    {
+      "id": "L04_A109",
+      "speaker": "arabic",
+      "text": "بعد شوي",
+      "start": 437.595,
+      "end": 438.524,
+      "pause_end": 439.774
+    },
+    {
+      "id": "L04_A110",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 439.774,
+      "end": 440.894,
+      "pause_end": 445.144
+    },
+    {
+      "id": "L04_A111",
+      "speaker": "arabic",
+      "text": "بعد شوي",
+      "start": 445.144,
+      "end": 446.073,
+      "pause_end": 447.123
+    },
+    {
+      "id": "L04_A112",
+      "speaker": "instructor",
+      "text": "Without help, say: Here.",
+      "start": 447.123,
+      "end": 449.363,
+      "pause_end": 454.613
+    },
+    {
+      "id": "L04_A113",
+      "speaker": "arabic",
+      "text": "هني",
+      "start": 454.613,
+      "end": 455.263,
+      "pause_end": 456.313
+    },
+    {
+      "id": "L04_A114",
+      "speaker": "instructor",
+      "text": "Now practice a conversation. Speak your part before you hear the answer.",
+      "start": 456.313,
+      "end": 460.393,
+      "pause_end": 461.243
+    },
+    {
+      "id": "L04_A115",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What do you want?",
+      "start": 461.243,
+      "end": 463.763,
+      "pause_end": 469.013
+    },
+    {
+      "id": "L04_A116",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 469.013,
+      "end": 469.989,
+      "pause_end": 471.039
+    },
+    {
+      "id": "L04_A117",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want water.",
+      "start": 471.039,
+      "end": 473.879,
+      "pause_end": 479.129
+    },
+    {
+      "id": "L04_A118",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 479.129,
+      "end": 480.104,
+      "pause_end": 481.154
+    },
+    {
+      "id": "L04_A119",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want coffee.",
+      "start": 481.154,
+      "end": 483.474,
+      "pause_end": 488.724
+    },
+    {
+      "id": "L04_A120",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 488.724,
+      "end": 489.885,
+      "pause_end": 490.935
+    },
+    {
+      "id": "L04_A121",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I don't want coffee.",
+      "start": 490.935,
+      "end": 493.655,
+      "pause_end": 498.905
+    },
+    {
+      "id": "L04_A122",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 498.905,
+      "end": 500.019,
+      "pause_end": 501.069
+    },
+    {
+      "id": "L04_A123",
+      "speaker": "instructor",
+      "text": "Quick review. Fine, thank God.",
+      "start": 501.069,
+      "end": 503.749,
+      "pause_end": 508.499
+    },
+    {
+      "id": "L04_A124",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 508.499,
+      "end": 510.311,
+      "pause_end": 511.361
+    },
+    {
+      "id": "L04_A125",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you want something?",
+      "start": 511.361,
+      "end": 514.081,
+      "pause_end": 519.331
+    },
+    {
+      "id": "L04_A126",
+      "speaker": "arabic_female",
+      "text": "تبغي شي؟",
+      "start": 519.331,
+      "end": 520.306,
+      "pause_end": 521.356
+    },
+    {
+      "id": "L04_A127",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Yes, I want water.",
+      "start": 521.356,
+      "end": 524.876,
+      "pause_end": 530.126
+    },
+    {
+      "id": "L04_A128",
+      "speaker": "arabic",
+      "text": "هيه، أبغي ماي",
+      "start": 530.126,
+      "end": 531.426,
+      "pause_end": 532.476
+    },
+    {
+      "id": "L04_A129",
+      "speaker": "instructor",
+      "text": "Say in Arabic: No, thank you, said to a man.",
+      "start": 532.476,
+      "end": 536.036,
+      "pause_end": 541.286
+    },
+    {
+      "id": "L04_A130",
+      "speaker": "arabic_female",
+      "text": "لا، مشكور",
+      "start": 541.286,
+      "end": 542.447,
+      "pause_end": 543.497
+    },
+    {
+      "id": "L04_A131",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you have water?",
+      "start": 543.497,
+      "end": 546.657,
+      "pause_end": 551.907
+    },
+    {
+      "id": "L04_A132",
+      "speaker": "arabic",
+      "text": "عندك ماي؟",
+      "start": 551.907,
+      "end": 552.79,
+      "pause_end": 553.84
+    },
+    {
+      "id": "L04_A133",
+      "speaker": "instructor",
+      "text": "Quick review. I'm from the Emirates.",
+      "start": 553.84,
+      "end": 556.48,
+      "pause_end": 561.23
+    },
+    {
+      "id": "L04_A134",
+      "speaker": "arabic",
+      "text": "أنا من الإمارات",
+      "start": 561.23,
+      "end": 562.53,
+      "pause_end": 563.58
+    },
+    {
+      "id": "L04_A135",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I have water.",
+      "start": 563.58,
+      "end": 567.38,
+      "pause_end": 572.63
+    },
+    {
+      "id": "L04_A136",
+      "speaker": "arabic_female",
+      "text": "عندي ماي",
+      "start": 572.63,
+      "end": 573.559,
+      "pause_end": 574.609
+    },
+    {
+      "id": "L04_A137",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I don't have any.",
+      "start": 574.609,
+      "end": 577.889,
+      "pause_end": 583.139
+    },
+    {
+      "id": "L04_A138",
+      "speaker": "arabic",
+      "text": "ما عندي",
+      "start": 583.139,
+      "end": 583.928,
+      "pause_end": 584.978
+    },
+    {
+      "id": "L04_A139",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where is the water?",
+      "start": 584.978,
+      "end": 589.418,
+      "pause_end": 594.668
+    },
+    {
+      "id": "L04_A140",
+      "speaker": "arabic_female",
+      "text": "وين الماي؟",
+      "start": 594.668,
+      "end": 595.597,
+      "pause_end": 596.647
+    },
+    {
+      "id": "L04_A141",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Here.",
+      "start": 596.647,
+      "end": 598.807,
+      "pause_end": 604.057
+    },
+    {
+      "id": "L04_A142",
+      "speaker": "arabic",
+      "text": "هني",
+      "start": 604.057,
+      "end": 604.707,
+      "pause_end": 605.757
+    },
+    {
+      "id": "L04_A143",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 605.757,
+      "end": 608.557,
+      "pause_end": 613.307
+    },
+    {
+      "id": "L04_A144",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 613.307,
+      "end": 614.283,
+      "pause_end": 615.332
+    },
+    {
+      "id": "L04_A145",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Now.",
+      "start": 615.332,
+      "end": 617.173,
+      "pause_end": 622.423
+    },
+    {
+      "id": "L04_A146",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 622.423,
+      "end": 623.398,
+      "pause_end": 624.448
+    },
+    {
+      "id": "L04_A147",
+      "speaker": "instructor",
+      "text": "Say in Arabic: In a little while.",
+      "start": 624.448,
+      "end": 627.328,
+      "pause_end": 632.578
+    },
+    {
+      "id": "L04_A148",
+      "speaker": "arabic",
+      "text": "بعد شوي",
+      "start": 632.578,
+      "end": 633.507,
+      "pause_end": 634.557
+    },
+    {
+      "id": "L04_A149",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What do you want?",
+      "start": 634.557,
+      "end": 637.077,
+      "pause_end": 642.327
+    },
+    {
+      "id": "L04_A150",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 642.327,
+      "end": 643.302,
+      "pause_end": 644.352
+    },
+    {
+      "id": "L04_A151",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want water.",
+      "start": 644.352,
+      "end": 647.192,
+      "pause_end": 652.442
+    },
+    {
+      "id": "L04_A152",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 652.442,
+      "end": 653.417,
+      "pause_end": 654.467
+    },
+    {
+      "id": "L04_A153",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want coffee.",
+      "start": 654.467,
+      "end": 656.787,
+      "pause_end": 662.037
+    },
+    {
+      "id": "L04_A154",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 662.037,
+      "end": 663.198,
+      "pause_end": 664.248
+    },
+    {
+      "id": "L04_A155",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I don't want coffee.",
+      "start": 664.248,
+      "end": 666.968,
+      "pause_end": 672.218
+    },
+    {
+      "id": "L04_A156",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 672.218,
+      "end": 673.333,
+      "pause_end": 674.383
+    },
+    {
+      "id": "L04_A157",
+      "speaker": "instructor",
+      "text": "Quick review. I'm from the Emirates.",
+      "start": 674.383,
+      "end": 677.023,
+      "pause_end": 681.773
+    },
+    {
+      "id": "L04_A158",
+      "speaker": "arabic",
+      "text": "أنا من الإمارات",
+      "start": 681.773,
+      "end": 683.073,
+      "pause_end": 684.123
+    },
+    {
+      "id": "L04_A159",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you want something?",
+      "start": 684.123,
+      "end": 686.843,
+      "pause_end": 692.093
+    },
+    {
+      "id": "L04_A160",
+      "speaker": "arabic_female",
+      "text": "تبغي شي؟",
+      "start": 692.093,
+      "end": 693.068,
+      "pause_end": 694.118
+    },
+    {
+      "id": "L04_A161",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Yes, I want water.",
+      "start": 694.118,
+      "end": 697.638,
+      "pause_end": 702.888
+    },
+    {
+      "id": "L04_A162",
+      "speaker": "arabic",
+      "text": "هيه، أبغي ماي",
+      "start": 702.888,
+      "end": 704.188,
+      "pause_end": 705.238
+    },
+    {
+      "id": "L04_A163",
+      "speaker": "instructor",
+      "text": "Say in Arabic: No, thank you, said to a man.",
+      "start": 705.238,
+      "end": 708.798,
+      "pause_end": 714.048
+    },
+    {
+      "id": "L04_A164",
+      "speaker": "arabic_female",
+      "text": "لا، مشكور",
+      "start": 714.048,
+      "end": 715.209,
+      "pause_end": 716.259
+    },
+    {
+      "id": "L04_A165",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you have water?",
+      "start": 716.259,
+      "end": 719.419,
+      "pause_end": 724.669
+    },
+    {
+      "id": "L04_A166",
+      "speaker": "arabic",
+      "text": "عندك ماي؟",
+      "start": 724.669,
+      "end": 725.552,
+      "pause_end": 726.602
+    },
+    {
+      "id": "L04_A167",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 726.602,
+      "end": 729.402,
+      "pause_end": 734.152
+    },
+    {
+      "id": "L04_A168",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 734.152,
+      "end": 735.127,
+      "pause_end": 736.177
+    },
+    {
+      "id": "L04_A169",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I have water.",
+      "start": 736.177,
+      "end": 739.977,
+      "pause_end": 745.227
+    },
+    {
+      "id": "L04_A170",
+      "speaker": "arabic_female",
+      "text": "عندي ماي",
+      "start": 745.227,
+      "end": 746.156,
+      "pause_end": 747.206
+    },
+    {
+      "id": "L04_A171",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I don't have any.",
+      "start": 747.206,
+      "end": 750.486,
+      "pause_end": 755.736
+    },
+    {
+      "id": "L04_A172",
+      "speaker": "arabic",
+      "text": "ما عندي",
+      "start": 755.736,
+      "end": 756.525,
+      "pause_end": 757.575
+    },
+    {
+      "id": "L04_A173",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where is the water?",
+      "start": 757.575,
+      "end": 762.015,
+      "pause_end": 767.265
+    },
+    {
+      "id": "L04_A174",
+      "speaker": "arabic_female",
+      "text": "وين الماي؟",
+      "start": 767.265,
+      "end": 768.194,
+      "pause_end": 769.244
+    },
+    {
+      "id": "L04_A175",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Here.",
+      "start": 769.244,
+      "end": 771.404,
+      "pause_end": 776.654
+    },
+    {
+      "id": "L04_A176",
+      "speaker": "arabic",
+      "text": "هني",
+      "start": 776.654,
+      "end": 777.305,
+      "pause_end": 778.355
+    },
+    {
+      "id": "L04_A177",
+      "speaker": "instructor",
+      "text": "Quick review. Where are you from?",
+      "start": 778.355,
+      "end": 780.435,
+      "pause_end": 785.185
+    },
+    {
+      "id": "L04_A178",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 785.185,
+      "end": 786.206,
+      "pause_end": 787.256
+    },
+    {
+      "id": "L04_A179",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Now.",
+      "start": 787.256,
+      "end": 789.096,
+      "pause_end": 794.346
+    },
+    {
+      "id": "L04_A180",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 794.346,
+      "end": 795.322,
+      "pause_end": 796.372
+    },
+    {
+      "id": "L04_A181",
+      "speaker": "instructor",
+      "text": "Say in Arabic: In a little while.",
+      "start": 796.372,
+      "end": 799.252,
+      "pause_end": 804.502
+    },
+    {
+      "id": "L04_A182",
+      "speaker": "arabic",
+      "text": "بعد شوي",
+      "start": 804.502,
+      "end": 805.43,
+      "pause_end": 806.48
+    },
+    {
+      "id": "L04_A183",
+      "speaker": "instructor",
+      "text": "Answer naturally: What do you want?",
+      "start": 806.48,
+      "end": 808.96,
+      "pause_end": 814.71
+    },
+    {
+      "id": "L04_A184",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 814.71,
+      "end": 815.686,
+      "pause_end": 816.736
+    },
+    {
+      "id": "L04_A185",
+      "speaker": "instructor",
+      "text": "Answer naturally: I want water.",
+      "start": 816.736,
+      "end": 819.336,
+      "pause_end": 825.086
+    },
+    {
+      "id": "L04_A186",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 825.086,
+      "end": 826.061,
+      "pause_end": 827.111
+    },
+    {
+      "id": "L04_A187",
+      "speaker": "instructor",
+      "text": "Answer naturally: I want coffee.",
+      "start": 827.111,
+      "end": 829.671,
+      "pause_end": 835.421
+    },
+    {
+      "id": "L04_A188",
+      "speaker": "arabic_female",
+      "text": "أبغي قهوة",
+      "start": 835.421,
+      "end": 836.582,
+      "pause_end": 837.632
+    },
+    {
+      "id": "L04_A189",
+      "speaker": "instructor",
+      "text": "Answer naturally: I don't want coffee.",
+      "start": 837.632,
+      "end": 840.432,
+      "pause_end": 846.182
+    },
+    {
+      "id": "L04_A190",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 846.182,
+      "end": 847.297,
+      "pause_end": 848.347
+    },
+    {
+      "id": "L04_A191",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 848.347,
+      "end": 851.147,
+      "pause_end": 855.897
+    },
+    {
+      "id": "L04_A192",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 855.897,
+      "end": 856.872,
+      "pause_end": 857.922
+    },
+    {
+      "id": "L04_A193",
+      "speaker": "instructor",
+      "text": "Answer naturally: Do you want something?",
+      "start": 857.922,
+      "end": 860.802,
+      "pause_end": 866.552
+    },
+    {
+      "id": "L04_A194",
+      "speaker": "arabic_female",
+      "text": "تبغي شي؟",
+      "start": 866.552,
+      "end": 867.527,
+      "pause_end": 868.577
+    },
+    {
+      "id": "L04_A195",
+      "speaker": "instructor",
+      "text": "Answer naturally: Yes, I want water.",
+      "start": 868.577,
+      "end": 871.657,
+      "pause_end": 877.407
+    },
+    {
+      "id": "L04_A196",
+      "speaker": "arabic",
+      "text": "هيه، أبغي ماي",
+      "start": 877.407,
+      "end": 878.707,
+      "pause_end": 879.757
+    },
+    {
+      "id": "L04_A197",
+      "speaker": "instructor",
+      "text": "Answer naturally: No, thank you, said to a man.",
+      "start": 879.757,
+      "end": 883.037,
+      "pause_end": 888.787
+    },
+    {
+      "id": "L04_A198",
+      "speaker": "arabic_female",
+      "text": "لا، مشكور",
+      "start": 888.787,
+      "end": 889.948,
+      "pause_end": 890.998
+    },
+    {
+      "id": "L04_A199",
+      "speaker": "instructor",
+      "text": "Answer naturally: Do you have water?",
+      "start": 890.998,
+      "end": 893.918,
+      "pause_end": 899.668
+    },
+    {
+      "id": "L04_A200",
+      "speaker": "arabic",
+      "text": "عندك ماي؟",
+      "start": 899.668,
+      "end": 900.551,
+      "pause_end": 901.601
+    },
+    {
+      "id": "L04_A201",
+      "speaker": "instructor",
+      "text": "Quick review. Where are you from?",
+      "start": 901.601,
+      "end": 903.681,
+      "pause_end": 908.431
+    },
+    {
+      "id": "L04_A202",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 908.431,
+      "end": 909.452,
+      "pause_end": 910.502
+    },
+    {
+      "id": "L04_A203",
+      "speaker": "instructor",
+      "text": "Answer naturally: I have water.",
+      "start": 910.502,
+      "end": 912.942,
+      "pause_end": 918.692
+    },
+    {
+      "id": "L04_A204",
+      "speaker": "arabic_female",
+      "text": "عندي ماي",
+      "start": 918.692,
+      "end": 919.621,
+      "pause_end": 920.671
+    },
+    {
+      "id": "L04_A205",
+      "speaker": "instructor",
+      "text": "Answer naturally: I don't have any.",
+      "start": 920.671,
+      "end": 923.071,
+      "pause_end": 928.821
+    },
+    {
+      "id": "L04_A206",
+      "speaker": "arabic",
+      "text": "ما عندي",
+      "start": 928.821,
+      "end": 929.611,
+      "pause_end": 930.661
+    },
+    {
+      "id": "L04_A207",
+      "speaker": "instructor",
+      "text": "Answer naturally: Where is the water?",
+      "start": 930.661,
+      "end": 932.861,
+      "pause_end": 938.611
+    },
+    {
+      "id": "L04_A208",
+      "speaker": "arabic_female",
+      "text": "وين الماي؟",
+      "start": 938.611,
+      "end": 939.54,
+      "pause_end": 940.59
+    },
+    {
+      "id": "L04_A209",
+      "speaker": "instructor",
+      "text": "Answer naturally: Here.",
+      "start": 940.59,
+      "end": 942.55,
+      "pause_end": 948.3
+    },
+    {
+      "id": "L04_A210",
+      "speaker": "arabic",
+      "text": "هني",
+      "start": 948.3,
+      "end": 948.95,
+      "pause_end": 950.0
+    },
+    {
+      "id": "L04_A211",
+      "speaker": "instructor",
+      "text": "Quick review. And peace be upon you.",
+      "start": 950.0,
+      "end": 952.68,
+      "pause_end": 957.43
+    },
+    {
+      "id": "L04_A212",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 957.43,
+      "end": 958.73,
+      "pause_end": 959.78
+    },
+    {
+      "id": "L04_A213",
+      "speaker": "instructor",
+      "text": "Answer naturally: Now.",
+      "start": 959.78,
+      "end": 961.66,
+      "pause_end": 967.41
+    },
+    {
+      "id": "L04_A214",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 967.41,
+      "end": 968.385,
+      "pause_end": 969.435
+    },
+    {
+      "id": "L04_A215",
+      "speaker": "instructor",
+      "text": "Answer naturally: In a little while.",
+      "start": 969.435,
+      "end": 972.635,
+      "pause_end": 978.385
+    },
+    {
+      "id": "L04_A216",
+      "speaker": "arabic",
+      "text": "بعد شوي",
+      "start": 978.385,
+      "end": 979.314,
+      "pause_end": 980.364
+    },
+    {
+      "id": "L04_A217",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer without hesitation.",
+      "start": 980.364,
+      "end": 983.684,
+      "pause_end": 984.434
+    },
+    {
+      "id": "L04_A218",
+      "speaker": "instructor",
+      "text": "How would you say: In a little while.",
+      "start": 984.434,
+      "end": 987.074,
+      "pause_end": 992.824
+    },
+    {
+      "id": "L04_A219",
+      "speaker": "arabic",
+      "text": "بعد شوي",
+      "start": 992.824,
+      "end": 993.753,
+      "pause_end": 994.803
+    },
+    {
+      "id": "L04_A220",
+      "speaker": "instructor",
+      "text": "How would you say: I want water.",
+      "start": 994.803,
+      "end": 997.443,
+      "pause_end": 1003.193
+    },
+    {
+      "id": "L04_A221",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 1003.193,
+      "end": 1004.168,
+      "pause_end": 1005.218
+    },
+    {
+      "id": "L04_A222",
+      "speaker": "instructor",
+      "text": "How would you say: What do you want?",
+      "start": 1005.218,
+      "end": 1007.658,
+      "pause_end": 1013.408
+    },
+    {
+      "id": "L04_A223",
+      "speaker": "arabic_female",
+      "text": "شو تبغي؟",
+      "start": 1013.408,
+      "end": 1014.384,
+      "pause_end": 1015.434
+    },
+    {
+      "id": "L04_A224",
+      "speaker": "instructor",
+      "text": "How would you say: Do you have water?",
+      "start": 1015.434,
+      "end": 1018.234,
+      "pause_end": 1023.984
+    },
+    {
+      "id": "L04_A225",
+      "speaker": "arabic",
+      "text": "عندك ماي؟",
+      "start": 1023.984,
+      "end": 1024.866,
+      "pause_end": 1025.916
+    },
+    {
+      "id": "L04_A226",
+      "speaker": "instructor",
+      "text": "How would you say: I don't want coffee.",
+      "start": 1025.916,
+      "end": 1028.236,
+      "pause_end": 1033.986
+    },
+    {
+      "id": "L04_A227",
+      "speaker": "arabic",
+      "text": "ما أبغي قهوة",
+      "start": 1033.986,
+      "end": 1035.101,
+      "pause_end": 1036.151
+    },
+    {
+      "id": "L04_A228",
+      "speaker": "instructor",
+      "text": "How would you say: Now.",
+      "start": 1036.151,
+      "end": 1038.031,
+      "pause_end": 1043.781
+    },
+    {
+      "id": "L04_A229",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 1043.781,
+      "end": 1044.756,
+      "pause_end": 1045.806
+    },
+    {
+      "id": "L04_A230",
+      "speaker": "instructor",
+      "text": "Good work. Review this lesson again before moving on.",
+      "start": 1045.806,
+      "end": 1048.846,
+      "pause_end": 1049.596
+    }
+  ]
+}

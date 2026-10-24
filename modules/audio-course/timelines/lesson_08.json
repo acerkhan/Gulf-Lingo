@@ -1,0 +1,2156 @@
+{
+  "events": [
+    {
+      "id": "L08_A001",
+      "speaker": "instructor",
+      "text": "Lesson 8. Time and Daily Routines. Listen carefully, and speak when you hear a question.",
+      "start": 0.0,
+      "end": 6.0,
+      "pause_end": 7.05
+    },
+    {
+      "id": "L08_A002",
+      "speaker": "instructor",
+      "text": "First, remember some expressions from earlier lessons.",
+      "start": 7.05,
+      "end": 11.01,
+      "pause_end": 11.86
+    },
+    {
+      "id": "L08_A003",
+      "speaker": "instructor",
+      "text": "Greet someone.",
+      "start": 11.86,
+      "end": 12.74,
+      "pause_end": 17.19
+    },
+    {
+      "id": "L08_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 17.19,
+      "end": 18.351,
+      "pause_end": 19.301
+    },
+    {
+      "id": "L08_A005",
+      "speaker": "instructor",
+      "text": "Ask a man how he is.",
+      "start": 19.301,
+      "end": 21.221,
+      "pause_end": 25.671
+    },
+    {
+      "id": "L08_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 25.671,
+      "end": 26.646,
+      "pause_end": 27.596
+    },
+    {
+      "id": "L08_A007",
+      "speaker": "instructor",
+      "text": "Ask a man his name.",
+      "start": 27.596,
+      "end": 28.996,
+      "pause_end": 33.446
+    },
+    {
+      "id": "L08_A008",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 33.446,
+      "end": 34.282,
+      "pause_end": 35.232
+    },
+    {
+      "id": "L08_A009",
+      "speaker": "instructor",
+      "text": "Ask a man where he is from.",
+      "start": 35.232,
+      "end": 37.032,
+      "pause_end": 41.482
+    },
+    {
+      "id": "L08_A010",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 41.482,
+      "end": 42.504,
+      "pause_end": 43.454
+    },
+    {
+      "id": "L08_A011",
+      "speaker": "instructor",
+      "text": "Ask a man where he lives.",
+      "start": 43.454,
+      "end": 45.254,
+      "pause_end": 49.704
+    },
+    {
+      "id": "L08_A012",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 49.704,
+      "end": 50.772,
+      "pause_end": 51.722
+    },
+    {
+      "id": "L08_A013",
+      "speaker": "instructor",
+      "text": "Say that you want water.",
+      "start": 51.722,
+      "end": 53.242,
+      "pause_end": 57.692
+    },
+    {
+      "id": "L08_A014",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 57.692,
+      "end": 58.667,
+      "pause_end": 59.617
+    },
+    {
+      "id": "L08_A015",
+      "speaker": "instructor",
+      "text": "Ask for the bill.",
+      "start": 59.617,
+      "end": 60.817,
+      "pause_end": 65.267
+    },
+    {
+      "id": "L08_A016",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 65.267,
+      "end": 66.428,
+      "pause_end": 67.378
+    },
+    {
+      "id": "L08_A017",
+      "speaker": "instructor",
+      "text": "Say pleased to meet you.",
+      "start": 67.378,
+      "end": 69.418,
+      "pause_end": 73.868
+    },
+    {
+      "id": "L08_A018",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 73.868,
+      "end": 74.797,
+      "pause_end": 75.747
+    },
+    {
+      "id": "L08_A019",
+      "speaker": "instructor",
+      "text": "Now listen to the new expressions.",
+      "start": 75.747,
+      "end": 77.907,
+      "pause_end": 78.757
+    },
+    {
+      "id": "L08_A020",
+      "speaker": "instructor",
+      "text": "What time is it?",
+      "start": 78.757,
+      "end": 79.717,
+      "pause_end": 80.317
+    },
+    {
+      "id": "L08_A021",
+      "speaker": "arabic_female",
+      "text": "كم الساعة؟",
+      "start": 80.317,
+      "end": 81.385,
+      "pause_end": 82.735
+    },
+    {
+      "id": "L08_A022",
+      "speaker": "instructor",
+      "text": "It is one o’clock.",
+      "start": 82.735,
+      "end": 84.455,
+      "pause_end": 85.055
+    },
+    {
+      "id": "L08_A023",
+      "speaker": "arabic",
+      "text": "الساعة وحدة",
+      "start": 85.055,
+      "end": 86.216,
+      "pause_end": 87.566
+    },
+    {
+      "id": "L08_A024",
+      "speaker": "instructor",
+      "text": "It is two o’clock.",
+      "start": 87.566,
+      "end": 88.766,
+      "pause_end": 89.366
+    },
+    {
+      "id": "L08_A025",
+      "speaker": "arabic_female",
+      "text": "الساعة ثنتين",
+      "start": 89.366,
+      "end": 90.713,
+      "pause_end": 92.063
+    },
+    {
+      "id": "L08_A026",
+      "speaker": "instructor",
+      "text": "Now.",
+      "start": 92.063,
+      "end": 92.583,
+      "pause_end": 93.183
+    },
+    {
+      "id": "L08_A027",
+      "speaker": "arabic",
+      "text": "الحين",
+      "start": 93.183,
+      "end": 94.019,
+      "pause_end": 95.369
+    },
+    {
+      "id": "L08_A028",
+      "speaker": "instructor",
+      "text": "Today.",
+      "start": 95.369,
+      "end": 96.089,
+      "pause_end": 96.689
+    },
+    {
+      "id": "L08_A029",
+      "speaker": "arabic_female",
+      "text": "اليوم",
+      "start": 96.689,
+      "end": 97.618,
+      "pause_end": 98.968
+    },
+    {
+      "id": "L08_A030",
+      "speaker": "instructor",
+      "text": "Tomorrow.",
+      "start": 98.968,
+      "end": 99.808,
+      "pause_end": 100.408
+    },
+    {
+      "id": "L08_A031",
+      "speaker": "arabic",
+      "text": "باچر",
+      "start": 100.408,
+      "end": 101.151,
+      "pause_end": 102.501
+    },
+    {
+      "id": "L08_A032",
+      "speaker": "instructor",
+      "text": "Yesterday.",
+      "start": 102.501,
+      "end": 103.181,
+      "pause_end": 103.781
+    },
+    {
+      "id": "L08_A033",
+      "speaker": "arabic_female",
+      "text": "أمس",
+      "start": 103.781,
+      "end": 104.431,
+      "pause_end": 105.781
+    },
+    {
+      "id": "L08_A034",
+      "speaker": "instructor",
+      "text": "In the morning.",
+      "start": 105.781,
+      "end": 106.701,
+      "pause_end": 107.301
+    },
+    {
+      "id": "L08_A035",
+      "speaker": "arabic",
+      "text": "الصبح",
+      "start": 107.301,
+      "end": 108.137,
+      "pause_end": 109.487
+    },
+    {
+      "id": "L08_A036",
+      "speaker": "instructor",
+      "text": "At noon.",
+      "start": 109.487,
+      "end": 110.527,
+      "pause_end": 111.127
+    },
+    {
+      "id": "L08_A037",
+      "speaker": "arabic_female",
+      "text": "الظهر",
+      "start": 111.127,
+      "end": 112.056,
+      "pause_end": 113.406
+    },
+    {
+      "id": "L08_A038",
+      "speaker": "instructor",
+      "text": "At night.",
+      "start": 113.406,
+      "end": 114.326,
+      "pause_end": 114.926
+    },
+    {
+      "id": "L08_A039",
+      "speaker": "arabic",
+      "text": "الليل",
+      "start": 114.926,
+      "end": 115.762,
+      "pause_end": 117.112
+    },
+    {
+      "id": "L08_A040",
+      "speaker": "instructor",
+      "text": "When do you start work?",
+      "start": 117.112,
+      "end": 118.752,
+      "pause_end": 119.352
+    },
+    {
+      "id": "L08_A041",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 119.352,
+      "end": 120.467,
+      "pause_end": 121.817
+    },
+    {
+      "id": "L08_A042",
+      "speaker": "instructor",
+      "text": "I work in the morning.",
+      "start": 121.817,
+      "end": 122.977,
+      "pause_end": 123.577
+    },
+    {
+      "id": "L08_A043",
+      "speaker": "arabic",
+      "text": "أداوم الصبح",
+      "start": 123.577,
+      "end": 124.691,
+      "pause_end": 126.041
+    },
+    {
+      "id": "L08_A044",
+      "speaker": "instructor",
+      "text": "When do you go home?",
+      "start": 126.041,
+      "end": 127.081,
+      "pause_end": 127.681
+    },
+    {
+      "id": "L08_A045",
+      "speaker": "arabic_female",
+      "text": "متى تروح البيت؟",
+      "start": 127.681,
+      "end": 128.982,
+      "pause_end": 130.332
+    },
+    {
+      "id": "L08_A046",
+      "speaker": "instructor",
+      "text": "I go home at night.",
+      "start": 130.332,
+      "end": 132.052,
+      "pause_end": 132.652
+    },
+    {
+      "id": "L08_A047",
+      "speaker": "arabic",
+      "text": "أروح البيت بالليل",
+      "start": 132.652,
+      "end": 133.952,
+      "pause_end": 135.302
+    },
+    {
+      "id": "L08_A048",
+      "speaker": "instructor",
+      "text": "I have time.",
+      "start": 135.302,
+      "end": 136.382,
+      "pause_end": 136.982
+    },
+    {
+      "id": "L08_A049",
+      "speaker": "arabic_female",
+      "text": "عندي وقت",
+      "start": 136.982,
+      "end": 137.911,
+      "pause_end": 139.261
+    },
+    {
+      "id": "L08_A050",
+      "speaker": "instructor",
+      "text": "I do not have time.",
+      "start": 139.261,
+      "end": 140.901,
+      "pause_end": 141.501
+    },
+    {
+      "id": "L08_A051",
+      "speaker": "arabic",
+      "text": "ما عندي وقت",
+      "start": 141.501,
+      "end": 142.662,
+      "pause_end": 144.012
+    },
+    {
+      "id": "L08_A052",
+      "speaker": "instructor",
+      "text": "Now answer in Arabic, before you hear the speaker.",
+      "start": 144.012,
+      "end": 147.052,
+      "pause_end": 147.902
+    },
+    {
+      "id": "L08_A053",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What time is it?",
+      "start": 147.902,
+      "end": 150.502,
+      "pause_end": 155.752
+    },
+    {
+      "id": "L08_A054",
+      "speaker": "arabic_female",
+      "text": "كم الساعة؟",
+      "start": 155.752,
+      "end": 156.82,
+      "pause_end": 157.77
+    },
+    {
+      "id": "L08_A055",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 157.77,
+      "end": 158.77,
+      "pause_end": 162.32
+    },
+    {
+      "id": "L08_A056",
+      "speaker": "arabic_female",
+      "text": "كم الساعة؟",
+      "start": 162.32,
+      "end": 163.388,
+      "pause_end": 164.288
+    },
+    {
+      "id": "L08_A057",
+      "speaker": "instructor",
+      "text": "Say in Arabic: It is one o’clock.",
+      "start": 164.288,
+      "end": 167.288,
+      "pause_end": 172.538
+    },
+    {
+      "id": "L08_A058",
+      "speaker": "arabic",
+      "text": "الساعة وحدة",
+      "start": 172.538,
+      "end": 173.699,
+      "pause_end": 174.649
+    },
+    {
+      "id": "L08_A059",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 174.649,
+      "end": 175.649,
+      "pause_end": 179.199
+    },
+    {
+      "id": "L08_A060",
+      "speaker": "arabic",
+      "text": "الساعة وحدة",
+      "start": 179.199,
+      "end": 180.36,
+      "pause_end": 181.26
+    },
+    {
+      "id": "L08_A061",
+      "speaker": "instructor",
+      "text": "Say in Arabic: It is two o’clock.",
+      "start": 181.26,
+      "end": 183.82,
+      "pause_end": 189.07
+    },
+    {
+      "id": "L08_A062",
+      "speaker": "arabic_female",
+      "text": "الساعة ثنتين",
+      "start": 189.07,
+      "end": 190.417,
+      "pause_end": 191.367
+    },
+    {
+      "id": "L08_A063",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 191.367,
+      "end": 192.367,
+      "pause_end": 195.917
+    },
+    {
+      "id": "L08_A064",
+      "speaker": "arabic_female",
+      "text": "الساعة ثنتين",
+      "start": 195.917,
+      "end": 197.264,
+      "pause_end": 198.164
+    },
+    {
+      "id": "L08_A065",
+      "speaker": "instructor",
+      "text": "Remember: What time is it?",
+      "start": 198.164,
+      "end": 200.564,
+      "pause_end": 205.614
+    },
+    {
+      "id": "L08_A066",
+      "speaker": "arabic_female",
+      "text": "كم الساعة؟",
+      "start": 205.614,
+      "end": 206.682,
+      "pause_end": 207.632
+    },
+    {
+      "id": "L08_A067",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man his name.",
+      "start": 207.632,
+      "end": 210.272,
+      "pause_end": 215.322
+    },
+    {
+      "id": "L08_A068",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 215.322,
+      "end": 216.158,
+      "pause_end": 217.108
+    },
+    {
+      "id": "L08_A069",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Now.",
+      "start": 217.108,
+      "end": 218.948,
+      "pause_end": 224.198
+    },
+    {
+      "id": "L08_A070",
+      "speaker": "arabic",
+      "text": "الحين",
+      "start": 224.198,
+      "end": 225.034,
+      "pause_end": 225.984
+    },
+    {
+      "id": "L08_A071",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 225.984,
+      "end": 226.984,
+      "pause_end": 230.534
+    },
+    {
+      "id": "L08_A072",
+      "speaker": "arabic",
+      "text": "الحين",
+      "start": 230.534,
+      "end": 231.37,
+      "pause_end": 232.27
+    },
+    {
+      "id": "L08_A073",
+      "speaker": "instructor",
+      "text": "Remember: It is one o’clock.",
+      "start": 232.27,
+      "end": 234.03,
+      "pause_end": 239.08
+    },
+    {
+      "id": "L08_A074",
+      "speaker": "arabic",
+      "text": "الساعة وحدة",
+      "start": 239.08,
+      "end": 240.241,
+      "pause_end": 241.191
+    },
+    {
+      "id": "L08_A075",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Today.",
+      "start": 241.191,
+      "end": 243.231,
+      "pause_end": 248.481
+    },
+    {
+      "id": "L08_A076",
+      "speaker": "arabic_female",
+      "text": "اليوم",
+      "start": 248.481,
+      "end": 249.41,
+      "pause_end": 250.36
+    },
+    {
+      "id": "L08_A077",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 250.36,
+      "end": 251.36,
+      "pause_end": 254.91
+    },
+    {
+      "id": "L08_A078",
+      "speaker": "arabic_female",
+      "text": "اليوم",
+      "start": 254.91,
+      "end": 255.838,
+      "pause_end": 256.738
+    },
+    {
+      "id": "L08_A079",
+      "speaker": "instructor",
+      "text": "Remember: It is two o’clock.",
+      "start": 256.738,
+      "end": 258.818,
+      "pause_end": 263.868
+    },
+    {
+      "id": "L08_A080",
+      "speaker": "arabic_female",
+      "text": "الساعة ثنتين",
+      "start": 263.868,
+      "end": 265.215,
+      "pause_end": 266.165
+    },
+    {
+      "id": "L08_A081",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Tomorrow.",
+      "start": 266.165,
+      "end": 268.285,
+      "pause_end": 273.535
+    },
+    {
+      "id": "L08_A082",
+      "speaker": "arabic",
+      "text": "باچر",
+      "start": 273.535,
+      "end": 274.278,
+      "pause_end": 275.228
+    },
+    {
+      "id": "L08_A083",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 275.228,
+      "end": 276.228,
+      "pause_end": 279.778
+    },
+    {
+      "id": "L08_A084",
+      "speaker": "arabic",
+      "text": "باچر",
+      "start": 279.778,
+      "end": 280.521,
+      "pause_end": 281.421
+    },
+    {
+      "id": "L08_A085",
+      "speaker": "instructor",
+      "text": "Remember: Now.",
+      "start": 281.421,
+      "end": 282.901,
+      "pause_end": 287.951
+    },
+    {
+      "id": "L08_A086",
+      "speaker": "arabic",
+      "text": "الحين",
+      "start": 287.951,
+      "end": 288.787,
+      "pause_end": 289.737
+    },
+    {
+      "id": "L08_A087",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Say that you want water.",
+      "start": 289.737,
+      "end": 292.337,
+      "pause_end": 297.387
+    },
+    {
+      "id": "L08_A088",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 297.387,
+      "end": 298.363,
+      "pause_end": 299.313
+    },
+    {
+      "id": "L08_A089",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Yesterday.",
+      "start": 299.313,
+      "end": 301.873,
+      "pause_end": 307.123
+    },
+    {
+      "id": "L08_A090",
+      "speaker": "arabic_female",
+      "text": "أمس",
+      "start": 307.123,
+      "end": 307.773,
+      "pause_end": 308.723
+    },
+    {
+      "id": "L08_A091",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 308.723,
+      "end": 309.723,
+      "pause_end": 313.273
+    },
+    {
+      "id": "L08_A092",
+      "speaker": "arabic_female",
+      "text": "أمس",
+      "start": 313.273,
+      "end": 313.923,
+      "pause_end": 314.823
+    },
+    {
+      "id": "L08_A093",
+      "speaker": "instructor",
+      "text": "Remember: Today.",
+      "start": 314.823,
+      "end": 316.303,
+      "pause_end": 321.353
+    },
+    {
+      "id": "L08_A094",
+      "speaker": "arabic_female",
+      "text": "اليوم",
+      "start": 321.353,
+      "end": 322.282,
+      "pause_end": 323.232
+    },
+    {
+      "id": "L08_A095",
+      "speaker": "instructor",
+      "text": "Say in Arabic: In the morning.",
+      "start": 323.232,
+      "end": 325.712,
+      "pause_end": 330.962
+    },
+    {
+      "id": "L08_A096",
+      "speaker": "arabic",
+      "text": "الصبح",
+      "start": 330.962,
+      "end": 331.798,
+      "pause_end": 332.748
+    },
+    {
+      "id": "L08_A097",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 332.748,
+      "end": 333.748,
+      "pause_end": 337.298
+    },
+    {
+      "id": "L08_A098",
+      "speaker": "arabic",
+      "text": "الصبح",
+      "start": 337.298,
+      "end": 338.134,
+      "pause_end": 339.034
+    },
+    {
+      "id": "L08_A099",
+      "speaker": "instructor",
+      "text": "Remember: Tomorrow.",
+      "start": 339.034,
+      "end": 340.914,
+      "pause_end": 345.964
+    },
+    {
+      "id": "L08_A100",
+      "speaker": "arabic",
+      "text": "باچر",
+      "start": 345.964,
+      "end": 346.707,
+      "pause_end": 347.657
+    },
+    {
+      "id": "L08_A101",
+      "speaker": "instructor",
+      "text": "Say in Arabic: At noon.",
+      "start": 347.657,
+      "end": 350.217,
+      "pause_end": 355.467
+    },
+    {
+      "id": "L08_A102",
+      "speaker": "arabic_female",
+      "text": "الظهر",
+      "start": 355.467,
+      "end": 356.396,
+      "pause_end": 357.346
+    },
+    {
+      "id": "L08_A103",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 357.346,
+      "end": 358.346,
+      "pause_end": 361.896
+    },
+    {
+      "id": "L08_A104",
+      "speaker": "arabic_female",
+      "text": "الظهر",
+      "start": 361.896,
+      "end": 362.825,
+      "pause_end": 363.725
+    },
+    {
+      "id": "L08_A105",
+      "speaker": "instructor",
+      "text": "Remember: Yesterday.",
+      "start": 363.725,
+      "end": 365.565,
+      "pause_end": 370.615
+    },
+    {
+      "id": "L08_A106",
+      "speaker": "arabic_female",
+      "text": "أمس",
+      "start": 370.615,
+      "end": 371.265,
+      "pause_end": 372.215
+    },
+    {
+      "id": "L08_A107",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Greet someone.",
+      "start": 372.215,
+      "end": 374.175,
+      "pause_end": 379.225
+    },
+    {
+      "id": "L08_A108",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 379.225,
+      "end": 380.386,
+      "pause_end": 381.336
+    },
+    {
+      "id": "L08_A109",
+      "speaker": "instructor",
+      "text": "Say in Arabic: At night.",
+      "start": 381.336,
+      "end": 383.856,
+      "pause_end": 389.106
+    },
+    {
+      "id": "L08_A110",
+      "speaker": "arabic",
+      "text": "الليل",
+      "start": 389.106,
+      "end": 389.942,
+      "pause_end": 390.892
+    },
+    {
+      "id": "L08_A111",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 390.892,
+      "end": 391.892,
+      "pause_end": 395.442
+    },
+    {
+      "id": "L08_A112",
+      "speaker": "arabic",
+      "text": "الليل",
+      "start": 395.442,
+      "end": 396.278,
+      "pause_end": 397.178
+    },
+    {
+      "id": "L08_A113",
+      "speaker": "instructor",
+      "text": "Remember: In the morning.",
+      "start": 397.178,
+      "end": 398.978,
+      "pause_end": 404.028
+    },
+    {
+      "id": "L08_A114",
+      "speaker": "arabic",
+      "text": "الصبح",
+      "start": 404.028,
+      "end": 404.864,
+      "pause_end": 405.814
+    },
+    {
+      "id": "L08_A115",
+      "speaker": "instructor",
+      "text": "Say in Arabic: When do you start work?",
+      "start": 405.814,
+      "end": 408.774,
+      "pause_end": 414.024
+    },
+    {
+      "id": "L08_A116",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 414.024,
+      "end": 415.139,
+      "pause_end": 416.089
+    },
+    {
+      "id": "L08_A117",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 416.089,
+      "end": 417.089,
+      "pause_end": 420.639
+    },
+    {
+      "id": "L08_A118",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 420.639,
+      "end": 421.754,
+      "pause_end": 422.654
+    },
+    {
+      "id": "L08_A119",
+      "speaker": "instructor",
+      "text": "Remember: At noon.",
+      "start": 422.654,
+      "end": 424.534,
+      "pause_end": 429.584
+    },
+    {
+      "id": "L08_A120",
+      "speaker": "arabic_female",
+      "text": "الظهر",
+      "start": 429.584,
+      "end": 430.512,
+      "pause_end": 431.462
+    },
+    {
+      "id": "L08_A121",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I work in the morning.",
+      "start": 431.462,
+      "end": 434.022,
+      "pause_end": 439.272
+    },
+    {
+      "id": "L08_A122",
+      "speaker": "arabic",
+      "text": "أداوم الصبح",
+      "start": 439.272,
+      "end": 440.387,
+      "pause_end": 441.337
+    },
+    {
+      "id": "L08_A123",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 441.337,
+      "end": 442.337,
+      "pause_end": 445.887
+    },
+    {
+      "id": "L08_A124",
+      "speaker": "arabic",
+      "text": "أداوم الصبح",
+      "start": 445.887,
+      "end": 447.002,
+      "pause_end": 447.902
+    },
+    {
+      "id": "L08_A125",
+      "speaker": "instructor",
+      "text": "Remember: At night.",
+      "start": 447.902,
+      "end": 449.702,
+      "pause_end": 454.752
+    },
+    {
+      "id": "L08_A126",
+      "speaker": "arabic",
+      "text": "الليل",
+      "start": 454.752,
+      "end": 455.588,
+      "pause_end": 456.538
+    },
+    {
+      "id": "L08_A127",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man where he is from.",
+      "start": 456.538,
+      "end": 459.578,
+      "pause_end": 464.628
+    },
+    {
+      "id": "L08_A128",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 464.628,
+      "end": 465.649,
+      "pause_end": 466.599
+    },
+    {
+      "id": "L08_A129",
+      "speaker": "instructor",
+      "text": "Say in Arabic: When do you go home?",
+      "start": 466.599,
+      "end": 469.399,
+      "pause_end": 474.649
+    },
+    {
+      "id": "L08_A130",
+      "speaker": "arabic_female",
+      "text": "متى تروح البيت؟",
+      "start": 474.649,
+      "end": 475.95,
+      "pause_end": 476.9
+    },
+    {
+      "id": "L08_A131",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 476.9,
+      "end": 477.9,
+      "pause_end": 481.45
+    },
+    {
+      "id": "L08_A132",
+      "speaker": "arabic_female",
+      "text": "متى تروح البيت؟",
+      "start": 481.45,
+      "end": 482.75,
+      "pause_end": 483.65
+    },
+    {
+      "id": "L08_A133",
+      "speaker": "instructor",
+      "text": "Remember: When do you start work?",
+      "start": 483.65,
+      "end": 486.29,
+      "pause_end": 491.34
+    },
+    {
+      "id": "L08_A134",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 491.34,
+      "end": 492.454,
+      "pause_end": 493.404
+    },
+    {
+      "id": "L08_A135",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I go home at night.",
+      "start": 493.404,
+      "end": 496.204,
+      "pause_end": 501.454
+    },
+    {
+      "id": "L08_A136",
+      "speaker": "arabic",
+      "text": "أروح البيت بالليل",
+      "start": 501.454,
+      "end": 502.755,
+      "pause_end": 503.705
+    },
+    {
+      "id": "L08_A137",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 503.705,
+      "end": 504.705,
+      "pause_end": 508.255
+    },
+    {
+      "id": "L08_A138",
+      "speaker": "arabic",
+      "text": "أروح البيت بالليل",
+      "start": 508.255,
+      "end": 509.555,
+      "pause_end": 510.455
+    },
+    {
+      "id": "L08_A139",
+      "speaker": "instructor",
+      "text": "Remember: I work in the morning.",
+      "start": 510.455,
+      "end": 512.735,
+      "pause_end": 517.785
+    },
+    {
+      "id": "L08_A140",
+      "speaker": "arabic",
+      "text": "أداوم الصبح",
+      "start": 517.785,
+      "end": 518.9,
+      "pause_end": 519.85
+    },
+    {
+      "id": "L08_A141",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I have time.",
+      "start": 519.85,
+      "end": 522.53,
+      "pause_end": 527.78
+    },
+    {
+      "id": "L08_A142",
+      "speaker": "arabic_female",
+      "text": "عندي وقت",
+      "start": 527.78,
+      "end": 528.708,
+      "pause_end": 529.659
+    },
+    {
+      "id": "L08_A143",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 529.659,
+      "end": 530.659,
+      "pause_end": 534.208
+    },
+    {
+      "id": "L08_A144",
+      "speaker": "arabic_female",
+      "text": "عندي وقت",
+      "start": 534.208,
+      "end": 535.137,
+      "pause_end": 536.037
+    },
+    {
+      "id": "L08_A145",
+      "speaker": "instructor",
+      "text": "Remember: When do you go home?",
+      "start": 536.037,
+      "end": 538.077,
+      "pause_end": 543.127
+    },
+    {
+      "id": "L08_A146",
+      "speaker": "arabic_female",
+      "text": "متى تروح البيت؟",
+      "start": 543.127,
+      "end": 544.428,
+      "pause_end": 545.378
+    },
+    {
+      "id": "L08_A147",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask for the bill.",
+      "start": 545.378,
+      "end": 547.658,
+      "pause_end": 552.708
+    },
+    {
+      "id": "L08_A148",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 552.708,
+      "end": 553.869,
+      "pause_end": 554.819
+    },
+    {
+      "id": "L08_A149",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I do not have time.",
+      "start": 554.819,
+      "end": 557.659,
+      "pause_end": 562.909
+    },
+    {
+      "id": "L08_A150",
+      "speaker": "arabic",
+      "text": "ما عندي وقت",
+      "start": 562.909,
+      "end": 564.07,
+      "pause_end": 565.02
+    },
+    {
+      "id": "L08_A151",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 565.02,
+      "end": 566.02,
+      "pause_end": 569.57
+    },
+    {
+      "id": "L08_A152",
+      "speaker": "arabic",
+      "text": "ما عندي وقت",
+      "start": 569.57,
+      "end": 570.731,
+      "pause_end": 571.631
+    },
+    {
+      "id": "L08_A153",
+      "speaker": "instructor",
+      "text": "Remember: I go home at night.",
+      "start": 571.631,
+      "end": 574.071,
+      "pause_end": 579.121
+    },
+    {
+      "id": "L08_A154",
+      "speaker": "arabic",
+      "text": "أروح البيت بالليل",
+      "start": 579.121,
+      "end": 580.421,
+      "pause_end": 581.371
+    },
+    {
+      "id": "L08_A155",
+      "speaker": "instructor",
+      "text": "Now practice responding without a translation first.",
+      "start": 581.371,
+      "end": 584.931,
+      "pause_end": 585.781
+    },
+    {
+      "id": "L08_A156",
+      "speaker": "instructor",
+      "text": "Recall this phrase: What time is it?",
+      "start": 585.781,
+      "end": 588.581,
+      "pause_end": 594.331
+    },
+    {
+      "id": "L08_A157",
+      "speaker": "arabic_female",
+      "text": "كم الساعة؟",
+      "start": 594.331,
+      "end": 595.399,
+      "pause_end": 596.349
+    },
+    {
+      "id": "L08_A158",
+      "speaker": "instructor",
+      "text": "Recall this phrase: It is two o’clock.",
+      "start": 596.349,
+      "end": 599.349,
+      "pause_end": 605.099
+    },
+    {
+      "id": "L08_A159",
+      "speaker": "arabic_female",
+      "text": "الساعة ثنتين",
+      "start": 605.099,
+      "end": 606.446,
+      "pause_end": 607.396
+    },
+    {
+      "id": "L08_A160",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Today.",
+      "start": 607.396,
+      "end": 609.996,
+      "pause_end": 615.746
+    },
+    {
+      "id": "L08_A161",
+      "speaker": "arabic_female",
+      "text": "اليوم",
+      "start": 615.746,
+      "end": 616.675,
+      "pause_end": 617.625
+    },
+    {
+      "id": "L08_A162",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Yesterday.",
+      "start": 617.625,
+      "end": 620.265,
+      "pause_end": 626.015
+    },
+    {
+      "id": "L08_A163",
+      "speaker": "arabic_female",
+      "text": "أمس",
+      "start": 626.015,
+      "end": 626.665,
+      "pause_end": 627.615
+    },
+    {
+      "id": "L08_A164",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he is from.",
+      "start": 627.615,
+      "end": 630.495,
+      "pause_end": 635.545
+    },
+    {
+      "id": "L08_A165",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 635.545,
+      "end": 636.567,
+      "pause_end": 637.517
+    },
+    {
+      "id": "L08_A166",
+      "speaker": "instructor",
+      "text": "Recall this phrase: At noon.",
+      "start": 637.517,
+      "end": 639.797,
+      "pause_end": 645.547
+    },
+    {
+      "id": "L08_A167",
+      "speaker": "arabic_female",
+      "text": "الظهر",
+      "start": 645.547,
+      "end": 646.475,
+      "pause_end": 647.425
+    },
+    {
+      "id": "L08_A168",
+      "speaker": "instructor",
+      "text": "Recall this phrase: When do you start work?",
+      "start": 647.425,
+      "end": 650.505,
+      "pause_end": 656.255
+    },
+    {
+      "id": "L08_A169",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 656.255,
+      "end": 657.37,
+      "pause_end": 658.32
+    },
+    {
+      "id": "L08_A170",
+      "speaker": "instructor",
+      "text": "Recall this phrase: When do you go home?",
+      "start": 658.32,
+      "end": 661.24,
+      "pause_end": 666.99
+    },
+    {
+      "id": "L08_A171",
+      "speaker": "arabic_female",
+      "text": "متى تروح البيت؟",
+      "start": 666.99,
+      "end": 668.29,
+      "pause_end": 669.24
+    },
+    {
+      "id": "L08_A172",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I have time.",
+      "start": 669.24,
+      "end": 671.8,
+      "pause_end": 677.55
+    },
+    {
+      "id": "L08_A173",
+      "speaker": "arabic_female",
+      "text": "عندي وقت",
+      "start": 677.55,
+      "end": 678.479,
+      "pause_end": 679.429
+    },
+    {
+      "id": "L08_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Say pleased to meet you.",
+      "start": 679.429,
+      "end": 682.309,
+      "pause_end": 687.359
+    },
+    {
+      "id": "L08_A175",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 687.359,
+      "end": 688.288,
+      "pause_end": 689.238
+    },
+    {
+      "id": "L08_A176",
+      "speaker": "instructor",
+      "text": "Recall this phrase: It is one o’clock.",
+      "start": 689.238,
+      "end": 692.238,
+      "pause_end": 697.988
+    },
+    {
+      "id": "L08_A177",
+      "speaker": "arabic",
+      "text": "الساعة وحدة",
+      "start": 697.988,
+      "end": 699.149,
+      "pause_end": 700.099
+    },
+    {
+      "id": "L08_A178",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Now.",
+      "start": 700.099,
+      "end": 702.419,
+      "pause_end": 708.169
+    },
+    {
+      "id": "L08_A179",
+      "speaker": "arabic",
+      "text": "الحين",
+      "start": 708.169,
+      "end": 709.005,
+      "pause_end": 709.955
+    },
+    {
+      "id": "L08_A180",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Tomorrow.",
+      "start": 709.955,
+      "end": 711.955,
+      "pause_end": 717.705
+    },
+    {
+      "id": "L08_A181",
+      "speaker": "arabic",
+      "text": "باچر",
+      "start": 717.705,
+      "end": 718.448,
+      "pause_end": 719.398
+    },
+    {
+      "id": "L08_A182",
+      "speaker": "instructor",
+      "text": "Recall this phrase: In the morning.",
+      "start": 719.398,
+      "end": 721.878,
+      "pause_end": 727.628
+    },
+    {
+      "id": "L08_A183",
+      "speaker": "arabic",
+      "text": "الصبح",
+      "start": 727.628,
+      "end": 728.464,
+      "pause_end": 729.414
+    },
+    {
+      "id": "L08_A184",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he is from.",
+      "start": 729.414,
+      "end": 732.294,
+      "pause_end": 737.344
+    },
+    {
+      "id": "L08_A185",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 737.344,
+      "end": 738.366,
+      "pause_end": 739.316
+    },
+    {
+      "id": "L08_A186",
+      "speaker": "instructor",
+      "text": "Recall this phrase: At night.",
+      "start": 739.316,
+      "end": 741.676,
+      "pause_end": 747.426
+    },
+    {
+      "id": "L08_A187",
+      "speaker": "arabic",
+      "text": "الليل",
+      "start": 747.426,
+      "end": 748.262,
+      "pause_end": 749.212
+    },
+    {
+      "id": "L08_A188",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I work in the morning.",
+      "start": 749.212,
+      "end": 752.332,
+      "pause_end": 758.082
+    },
+    {
+      "id": "L08_A189",
+      "speaker": "arabic",
+      "text": "أداوم الصبح",
+      "start": 758.082,
+      "end": 759.197,
+      "pause_end": 760.147
+    },
+    {
+      "id": "L08_A190",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I go home at night.",
+      "start": 760.147,
+      "end": 762.907,
+      "pause_end": 768.657
+    },
+    {
+      "id": "L08_A191",
+      "speaker": "arabic",
+      "text": "أروح البيت بالليل",
+      "start": 768.657,
+      "end": 769.957,
+      "pause_end": 770.907
+    },
+    {
+      "id": "L08_A192",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I do not have time.",
+      "start": 770.907,
+      "end": 774.027,
+      "pause_end": 779.777
+    },
+    {
+      "id": "L08_A193",
+      "speaker": "arabic",
+      "text": "ما عندي وقت",
+      "start": 779.777,
+      "end": 780.938,
+      "pause_end": 781.888
+    },
+    {
+      "id": "L08_A194",
+      "speaker": "instructor",
+      "text": "Quick review. Say pleased to meet you.",
+      "start": 781.888,
+      "end": 784.768,
+      "pause_end": 789.818
+    },
+    {
+      "id": "L08_A195",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 789.818,
+      "end": 790.747,
+      "pause_end": 791.697
+    },
+    {
+      "id": "L08_A196",
+      "speaker": "instructor",
+      "text": "How would you say: I do not have time.",
+      "start": 791.697,
+      "end": 793.937,
+      "pause_end": 799.687
+    },
+    {
+      "id": "L08_A197",
+      "speaker": "arabic",
+      "text": "ما عندي وقت",
+      "start": 799.687,
+      "end": 800.848,
+      "pause_end": 801.798
+    },
+    {
+      "id": "L08_A198",
+      "speaker": "instructor",
+      "text": "How would you say: I have time.",
+      "start": 801.798,
+      "end": 804.118,
+      "pause_end": 809.868
+    },
+    {
+      "id": "L08_A199",
+      "speaker": "arabic_female",
+      "text": "عندي وقت",
+      "start": 809.868,
+      "end": 810.797,
+      "pause_end": 811.747
+    },
+    {
+      "id": "L08_A200",
+      "speaker": "instructor",
+      "text": "How would you say: I go home at night.",
+      "start": 811.747,
+      "end": 814.387,
+      "pause_end": 820.137
+    },
+    {
+      "id": "L08_A201",
+      "speaker": "arabic",
+      "text": "أروح البيت بالليل",
+      "start": 820.137,
+      "end": 821.437,
+      "pause_end": 822.387
+    },
+    {
+      "id": "L08_A202",
+      "speaker": "instructor",
+      "text": "How would you say: When do you go home?",
+      "start": 822.387,
+      "end": 825.347,
+      "pause_end": 831.097
+    },
+    {
+      "id": "L08_A203",
+      "speaker": "arabic_female",
+      "text": "متى تروح البيت؟",
+      "start": 831.097,
+      "end": 832.397,
+      "pause_end": 833.347
+    },
+    {
+      "id": "L08_A204",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 833.347,
+      "end": 836.307,
+      "pause_end": 841.357
+    },
+    {
+      "id": "L08_A205",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 841.357,
+      "end": 842.425,
+      "pause_end": 843.375
+    },
+    {
+      "id": "L08_A206",
+      "speaker": "instructor",
+      "text": "How would you say: I work in the morning.",
+      "start": 843.375,
+      "end": 846.135,
+      "pause_end": 851.885
+    },
+    {
+      "id": "L08_A207",
+      "speaker": "arabic",
+      "text": "أداوم الصبح",
+      "start": 851.885,
+      "end": 853.0,
+      "pause_end": 853.95
+    },
+    {
+      "id": "L08_A208",
+      "speaker": "instructor",
+      "text": "How would you say: When do you start work?",
+      "start": 853.95,
+      "end": 856.67,
+      "pause_end": 862.42
+    },
+    {
+      "id": "L08_A209",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 862.42,
+      "end": 863.535,
+      "pause_end": 864.485
+    },
+    {
+      "id": "L08_A210",
+      "speaker": "instructor",
+      "text": "How would you say: At night.",
+      "start": 864.485,
+      "end": 866.605,
+      "pause_end": 872.355
+    },
+    {
+      "id": "L08_A211",
+      "speaker": "arabic",
+      "text": "الليل",
+      "start": 872.355,
+      "end": 873.191,
+      "pause_end": 874.141
+    },
+    {
+      "id": "L08_A212",
+      "speaker": "instructor",
+      "text": "How would you say: At noon.",
+      "start": 874.141,
+      "end": 876.101,
+      "pause_end": 881.851
+    },
+    {
+      "id": "L08_A213",
+      "speaker": "arabic_female",
+      "text": "الظهر",
+      "start": 881.851,
+      "end": 882.779,
+      "pause_end": 883.729
+    },
+    {
+      "id": "L08_A214",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 883.729,
+      "end": 886.009,
+      "pause_end": 891.059
+    },
+    {
+      "id": "L08_A215",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 891.059,
+      "end": 892.22,
+      "pause_end": 893.17
+    },
+    {
+      "id": "L08_A216",
+      "speaker": "instructor",
+      "text": "How would you say: In the morning.",
+      "start": 893.17,
+      "end": 895.53,
+      "pause_end": 901.28
+    },
+    {
+      "id": "L08_A217",
+      "speaker": "arabic",
+      "text": "الصبح",
+      "start": 901.28,
+      "end": 902.116,
+      "pause_end": 903.066
+    },
+    {
+      "id": "L08_A218",
+      "speaker": "instructor",
+      "text": "How would you say: Yesterday.",
+      "start": 903.066,
+      "end": 905.386,
+      "pause_end": 911.136
+    },
+    {
+      "id": "L08_A219",
+      "speaker": "arabic_female",
+      "text": "أمس",
+      "start": 911.136,
+      "end": 911.787,
+      "pause_end": 912.737
+    },
+    {
+      "id": "L08_A220",
+      "speaker": "instructor",
+      "text": "How would you say: Tomorrow.",
+      "start": 912.737,
+      "end": 914.777,
+      "pause_end": 920.527
+    },
+    {
+      "id": "L08_A221",
+      "speaker": "arabic",
+      "text": "باچر",
+      "start": 920.527,
+      "end": 921.27,
+      "pause_end": 922.22
+    },
+    {
+      "id": "L08_A222",
+      "speaker": "instructor",
+      "text": "How would you say: Today.",
+      "start": 922.22,
+      "end": 924.22,
+      "pause_end": 929.97
+    },
+    {
+      "id": "L08_A223",
+      "speaker": "arabic_female",
+      "text": "اليوم",
+      "start": 929.97,
+      "end": 930.899,
+      "pause_end": 931.849
+    },
+    {
+      "id": "L08_A224",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 931.849,
+      "end": 934.809,
+      "pause_end": 939.859
+    },
+    {
+      "id": "L08_A225",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 939.859,
+      "end": 940.927,
+      "pause_end": 941.877
+    },
+    {
+      "id": "L08_A226",
+      "speaker": "instructor",
+      "text": "How would you say: Now.",
+      "start": 941.877,
+      "end": 943.757,
+      "pause_end": 949.507
+    },
+    {
+      "id": "L08_A227",
+      "speaker": "arabic",
+      "text": "الحين",
+      "start": 949.507,
+      "end": 950.343,
+      "pause_end": 951.293
+    },
+    {
+      "id": "L08_A228",
+      "speaker": "instructor",
+      "text": "How would you say: It is two o’clock.",
+      "start": 951.293,
+      "end": 953.893,
+      "pause_end": 959.643
+    },
+    {
+      "id": "L08_A229",
+      "speaker": "arabic_female",
+      "text": "الساعة ثنتين",
+      "start": 959.643,
+      "end": 960.99,
+      "pause_end": 961.94
+    },
+    {
+      "id": "L08_A230",
+      "speaker": "instructor",
+      "text": "How would you say: It is one o’clock.",
+      "start": 961.94,
+      "end": 964.54,
+      "pause_end": 970.29
+    },
+    {
+      "id": "L08_A231",
+      "speaker": "arabic",
+      "text": "الساعة وحدة",
+      "start": 970.29,
+      "end": 971.451,
+      "pause_end": 972.401
+    },
+    {
+      "id": "L08_A232",
+      "speaker": "instructor",
+      "text": "How would you say: What time is it?",
+      "start": 972.401,
+      "end": 974.561,
+      "pause_end": 980.311
+    },
+    {
+      "id": "L08_A233",
+      "speaker": "arabic_female",
+      "text": "كم الساعة؟",
+      "start": 980.311,
+      "end": 981.379,
+      "pause_end": 982.329
+    },
+    {
+      "id": "L08_A234",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 982.329,
+      "end": 984.609,
+      "pause_end": 989.659
+    },
+    {
+      "id": "L08_A235",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 989.659,
+      "end": 990.82,
+      "pause_end": 991.77
+    },
+    {
+      "id": "L08_A236",
+      "speaker": "instructor",
+      "text": "Final practice. Respond naturally.",
+      "start": 991.77,
+      "end": 995.29,
+      "pause_end": 996.14
+    },
+    {
+      "id": "L08_A237",
+      "speaker": "instructor",
+      "text": "What time is it?",
+      "start": 996.14,
+      "end": 997.1,
+      "pause_end": 1003.05
+    },
+    {
+      "id": "L08_A238",
+      "speaker": "arabic_female",
+      "text": "كم الساعة؟",
+      "start": 1003.05,
+      "end": 1004.118,
+      "pause_end": 1005.068
+    },
+    {
+      "id": "L08_A239",
+      "speaker": "instructor",
+      "text": "In the morning.",
+      "start": 1005.068,
+      "end": 1005.988,
+      "pause_end": 1011.938
+    },
+    {
+      "id": "L08_A240",
+      "speaker": "arabic",
+      "text": "الصبح",
+      "start": 1011.938,
+      "end": 1012.774,
+      "pause_end": 1013.724
+    },
+    {
+      "id": "L08_A241",
+      "speaker": "instructor",
+      "text": "I have time.",
+      "start": 1013.724,
+      "end": 1014.804,
+      "pause_end": 1020.754
+    },
+    {
+      "id": "L08_A242",
+      "speaker": "arabic_female",
+      "text": "عندي وقت",
+      "start": 1020.754,
+      "end": 1021.683,
+      "pause_end": 1022.633
+    },
+    {
+      "id": "L08_A243",
+      "speaker": "instructor",
+      "text": "Tomorrow.",
+      "start": 1022.633,
+      "end": 1023.473,
+      "pause_end": 1029.423
+    },
+    {
+      "id": "L08_A244",
+      "speaker": "arabic",
+      "text": "باچر",
+      "start": 1029.423,
+      "end": 1030.166,
+      "pause_end": 1031.116
+    },
+    {
+      "id": "L08_A245",
+      "speaker": "instructor",
+      "text": "When do you go home?",
+      "start": 1031.116,
+      "end": 1032.156,
+      "pause_end": 1038.106
+    },
+    {
+      "id": "L08_A246",
+      "speaker": "arabic_female",
+      "text": "متى تروح البيت؟",
+      "start": 1038.106,
+      "end": 1039.406,
+      "pause_end": 1040.356
+    },
+    {
+      "id": "L08_A247",
+      "speaker": "instructor",
+      "text": "Now.",
+      "start": 1040.356,
+      "end": 1040.876,
+      "pause_end": 1046.826
+    },
+    {
+      "id": "L08_A248",
+      "speaker": "arabic",
+      "text": "الحين",
+      "start": 1046.826,
+      "end": 1047.662,
+      "pause_end": 1048.612
+    },
+    {
+      "id": "L08_A249",
+      "speaker": "instructor",
+      "text": "When do you start work?",
+      "start": 1048.612,
+      "end": 1050.252,
+      "pause_end": 1056.202
+    },
+    {
+      "id": "L08_A250",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 1056.202,
+      "end": 1057.317,
+      "pause_end": 1058.267
+    },
+    {
+      "id": "L08_A251",
+      "speaker": "instructor",
+      "text": "It is one o’clock.",
+      "start": 1058.267,
+      "end": 1059.987,
+      "pause_end": 1065.937
+    },
+    {
+      "id": "L08_A252",
+      "speaker": "arabic",
+      "text": "الساعة وحدة",
+      "start": 1065.937,
+      "end": 1067.098,
+      "pause_end": 1068.048
+    },
+    {
+      "id": "L08_A253",
+      "speaker": "instructor",
+      "text": "At noon.",
+      "start": 1068.048,
+      "end": 1069.088,
+      "pause_end": 1075.038
+    },
+    {
+      "id": "L08_A254",
+      "speaker": "arabic_female",
+      "text": "الظهر",
+      "start": 1075.038,
+      "end": 1075.967,
+      "pause_end": 1076.917
+    },
+    {
+      "id": "L08_A255",
+      "speaker": "instructor",
+      "text": "I do not have time.",
+      "start": 1076.917,
+      "end": 1078.557,
+      "pause_end": 1084.507
+    },
+    {
+      "id": "L08_A256",
+      "speaker": "arabic",
+      "text": "ما عندي وقت",
+      "start": 1084.507,
+      "end": 1085.668,
+      "pause_end": 1086.618
+    },
+    {
+      "id": "L08_A257",
+      "speaker": "instructor",
+      "text": "Yesterday.",
+      "start": 1086.618,
+      "end": 1087.298,
+      "pause_end": 1093.248
+    },
+    {
+      "id": "L08_A258",
+      "speaker": "arabic_female",
+      "text": "أمس",
+      "start": 1093.248,
+      "end": 1093.898,
+      "pause_end": 1094.848
+    },
+    {
+      "id": "L08_A259",
+      "speaker": "instructor",
+      "text": "I go home at night.",
+      "start": 1094.848,
+      "end": 1096.568,
+      "pause_end": 1102.518
+    },
+    {
+      "id": "L08_A260",
+      "speaker": "arabic",
+      "text": "أروح البيت بالليل",
+      "start": 1102.518,
+      "end": 1103.818,
+      "pause_end": 1104.768
+    },
+    {
+      "id": "L08_A261",
+      "speaker": "instructor",
+      "text": "Today.",
+      "start": 1104.768,
+      "end": 1105.488,
+      "pause_end": 1111.438
+    },
+    {
+      "id": "L08_A262",
+      "speaker": "arabic_female",
+      "text": "اليوم",
+      "start": 1111.438,
+      "end": 1112.367,
+      "pause_end": 1113.317
+    },
+    {
+      "id": "L08_A263",
+      "speaker": "instructor",
+      "text": "I work in the morning.",
+      "start": 1113.317,
+      "end": 1114.477,
+      "pause_end": 1120.427
+    },
+    {
+      "id": "L08_A264",
+      "speaker": "arabic",
+      "text": "أداوم الصبح",
+      "start": 1120.427,
+      "end": 1121.542,
+      "pause_end": 1122.492
+    },
+    {
+      "id": "L08_A265",
+      "speaker": "instructor",
+      "text": "It is two o’clock.",
+      "start": 1122.492,
+      "end": 1123.692,
+      "pause_end": 1129.642
+    },
+    {
+      "id": "L08_A266",
+      "speaker": "arabic_female",
+      "text": "الساعة ثنتين",
+      "start": 1129.642,
+      "end": 1130.988,
+      "pause_end": 1131.938
+    },
+    {
+      "id": "L08_A267",
+      "speaker": "instructor",
+      "text": "At night.",
+      "start": 1131.938,
+      "end": 1132.858,
+      "pause_end": 1138.808
+    },
+    {
+      "id": "L08_A268",
+      "speaker": "arabic",
+      "text": "الليل",
+      "start": 1138.808,
+      "end": 1139.644,
+      "pause_end": 1140.594
+    },
+    {
+      "id": "L08_A269",
+      "speaker": "instructor",
+      "text": "End of lesson. Practice again before moving on.",
+      "start": 1140.594,
+      "end": 1143.794,
+      "pause_end": 1144.744
+    }
+  ]
+}

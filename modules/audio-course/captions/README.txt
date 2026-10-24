@@ -1,0 +1,1 @@
+To enable synchronized captions, add lesson_01.vtt ... lesson_30.vtt here. Each cue may contain Arabic on first line and English on second line. Do not invent timestamps: align them with the actual lesson MP3.

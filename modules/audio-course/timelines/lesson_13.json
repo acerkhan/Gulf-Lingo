@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L13_A001",
+      "speaker": "instructor",
+      "text": "Lesson 13. Family and Friends. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 6.84,
+      "pause_end": 7.79
+    },
+    {
+      "id": "L13_A002",
+      "speaker": "instructor",
+      "text": "First, a quick review. Answer before you hear the speaker.",
+      "start": 7.79,
+      "end": 11.51,
+      "pause_end": 12.46
+    },
+    {
+      "id": "L13_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 12.46,
+      "end": 14.98,
+      "pause_end": 19.43
+    },
+    {
+      "id": "L13_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 19.43,
+      "end": 20.591,
+      "pause_end": 21.691
+    },
+    {
+      "id": "L13_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 21.691,
+      "end": 24.851,
+      "pause_end": 29.301
+    },
+    {
+      "id": "L13_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 29.301,
+      "end": 30.276,
+      "pause_end": 31.376
+    },
+    {
+      "id": "L13_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask someone their name.",
+      "start": 31.376,
+      "end": 34.656,
+      "pause_end": 39.106
+    },
+    {
+      "id": "L13_A008",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 39.106,
+      "end": 39.942,
+      "pause_end": 41.042
+    },
+    {
+      "id": "L13_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask where someone is from.",
+      "start": 41.042,
+      "end": 44.842,
+      "pause_end": 49.292
+    },
+    {
+      "id": "L13_A010",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 49.292,
+      "end": 50.407,
+      "pause_end": 51.507
+    },
+    {
+      "id": "L13_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 51.507,
+      "end": 54.907,
+      "pause_end": 59.357
+    },
+    {
+      "id": "L13_A012",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 59.357,
+      "end": 60.425,
+      "pause_end": 61.525
+    },
+    {
+      "id": "L13_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 61.525,
+      "end": 65.165,
+      "pause_end": 69.615
+    },
+    {
+      "id": "L13_A014",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 69.615,
+      "end": 70.59,
+      "pause_end": 71.69
+    },
+    {
+      "id": "L13_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few useful expressions for today.",
+      "start": 71.69,
+      "end": 74.49,
+      "pause_end": 75.24
+    },
+    {
+      "id": "L13_A016",
+      "speaker": "instructor",
+      "text": "Listen. Do you have brothers or siblings?",
+      "start": 75.24,
+      "end": 78.28,
+      "pause_end": 78.93
+    },
+    {
+      "id": "L13_A017",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 78.93,
+      "end": 80.045,
+      "pause_end": 81.295
+    },
+    {
+      "id": "L13_A018",
+      "speaker": "instructor",
+      "text": "Listen. I have one brother.",
+      "start": 81.295,
+      "end": 83.095,
+      "pause_end": 83.745
+    },
+    {
+      "id": "L13_A019",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 83.745,
+      "end": 85.045,
+      "pause_end": 86.295
+    },
+    {
+      "id": "L13_A020",
+      "speaker": "instructor",
+      "text": "Listen. And I have two sisters.",
+      "start": 86.295,
+      "end": 88.695,
+      "pause_end": 89.345
+    },
+    {
+      "id": "L13_A021",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 89.345,
+      "end": 90.553,
+      "pause_end": 91.803
+    },
+    {
+      "id": "L13_A022",
+      "speaker": "instructor",
+      "text": "Listen. Where is your family?",
+      "start": 91.803,
+      "end": 93.643,
+      "pause_end": 94.293
+    },
+    {
+      "id": "L13_A023",
+      "speaker": "arabic",
+      "text": "وين أهلك؟",
+      "start": 94.293,
+      "end": 95.314,
+      "pause_end": 96.564
+    },
+    {
+      "id": "L13_A024",
+      "speaker": "instructor",
+      "text": "Listen. My family is in Al Ain.",
+      "start": 96.564,
+      "end": 99.684,
+      "pause_end": 100.334
+    },
+    {
+      "id": "L13_A025",
+      "speaker": "arabic_female",
+      "text": "أهلي في العين",
+      "start": 100.334,
+      "end": 101.588,
+      "pause_end": 102.838
+    },
+    {
+      "id": "L13_A026",
+      "speaker": "instructor",
+      "text": "Now say each expression yourself.",
+      "start": 102.838,
+      "end": 105.718,
+      "pause_end": 106.468
+    },
+    {
+      "id": "L13_A027",
+      "speaker": "instructor",
+      "text": "Listen. Do you have brothers or siblings?",
+      "start": 106.468,
+      "end": 109.508,
+      "pause_end": 110.108
+    },
+    {
+      "id": "L13_A028",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 110.108,
+      "end": 111.223,
+      "pause_end": 112.473
+    },
+    {
+      "id": "L13_A029",
+      "speaker": "instructor",
+      "text": "Your turn. Do you have brothers or siblings?",
+      "start": 112.473,
+      "end": 115.793,
+      "pause_end": 120.543
+    },
+    {
+      "id": "L13_A030",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 120.543,
+      "end": 121.658,
+      "pause_end": 122.758
+    },
+    {
+      "id": "L13_A031",
+      "speaker": "instructor",
+      "text": "Listen. I have one brother.",
+      "start": 122.758,
+      "end": 124.558,
+      "pause_end": 125.158
+    },
+    {
+      "id": "L13_A032",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 125.158,
+      "end": 126.458,
+      "pause_end": 127.708
+    },
+    {
+      "id": "L13_A033",
+      "speaker": "instructor",
+      "text": "Your turn. I have one brother.",
+      "start": 127.708,
+      "end": 129.708,
+      "pause_end": 134.458
+    },
+    {
+      "id": "L13_A034",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 134.458,
+      "end": 135.758,
+      "pause_end": 136.858
+    },
+    {
+      "id": "L13_A035",
+      "speaker": "instructor",
+      "text": "Listen. And I have two sisters.",
+      "start": 136.858,
+      "end": 139.258,
+      "pause_end": 139.858
+    },
+    {
+      "id": "L13_A036",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 139.858,
+      "end": 141.066,
+      "pause_end": 142.316
+    },
+    {
+      "id": "L13_A037",
+      "speaker": "instructor",
+      "text": "Your turn. And I have two sisters.",
+      "start": 142.316,
+      "end": 145.596,
+      "pause_end": 150.346
+    },
+    {
+      "id": "L13_A038",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 150.346,
+      "end": 151.553,
+      "pause_end": 152.653
+    },
+    {
+      "id": "L13_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do you have brothers or siblings?",
+      "start": 152.653,
+      "end": 157.373,
+      "pause_end": 162.823
+    },
+    {
+      "id": "L13_A040",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 162.823,
+      "end": 163.938,
+      "pause_end": 165.038
+    },
+    {
+      "id": "L13_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask someone their name.",
+      "start": 165.038,
+      "end": 167.958,
+      "pause_end": 172.708
+    },
+    {
+      "id": "L13_A042",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 172.708,
+      "end": 173.544,
+      "pause_end": 174.644
+    },
+    {
+      "id": "L13_A043",
+      "speaker": "instructor",
+      "text": "Listen. Where is your family?",
+      "start": 174.644,
+      "end": 176.484,
+      "pause_end": 177.084
+    },
+    {
+      "id": "L13_A044",
+      "speaker": "arabic",
+      "text": "وين أهلك؟",
+      "start": 177.084,
+      "end": 178.105,
+      "pause_end": 179.355
+    },
+    {
+      "id": "L13_A045",
+      "speaker": "instructor",
+      "text": "Your turn. Where is your family?",
+      "start": 179.355,
+      "end": 181.795,
+      "pause_end": 186.545
+    },
+    {
+      "id": "L13_A046",
+      "speaker": "arabic",
+      "text": "وين أهلك؟",
+      "start": 186.545,
+      "end": 187.567,
+      "pause_end": 188.667
+    },
+    {
+      "id": "L13_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: I have one brother.",
+      "start": 188.667,
+      "end": 191.307,
+      "pause_end": 196.757
+    },
+    {
+      "id": "L13_A048",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 196.757,
+      "end": 198.057,
+      "pause_end": 199.157
+    },
+    {
+      "id": "L13_A049",
+      "speaker": "instructor",
+      "text": "Listen. My family is in Al Ain.",
+      "start": 199.157,
+      "end": 202.277,
+      "pause_end": 202.877
+    },
+    {
+      "id": "L13_A050",
+      "speaker": "arabic_female",
+      "text": "أهلي في العين",
+      "start": 202.877,
+      "end": 204.131,
+      "pause_end": 205.381
+    },
+    {
+      "id": "L13_A051",
+      "speaker": "instructor",
+      "text": "Your turn. My family is in Al Ain.",
+      "start": 205.381,
+      "end": 207.781,
+      "pause_end": 212.531
+    },
+    {
+      "id": "L13_A052",
+      "speaker": "arabic_female",
+      "text": "أهلي في العين",
+      "start": 212.531,
+      "end": 213.785,
+      "pause_end": 214.885
+    },
+    {
+      "id": "L13_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: And I have two sisters.",
+      "start": 214.885,
+      "end": 217.685,
+      "pause_end": 223.135
+    },
+    {
+      "id": "L13_A054",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 223.135,
+      "end": 224.343,
+      "pause_end": 225.443
+    },
+    {
+      "id": "L13_A055",
+      "speaker": "instructor",
+      "text": "Listen. This is my brother.",
+      "start": 225.443,
+      "end": 227.523,
+      "pause_end": 228.123
+    },
+    {
+      "id": "L13_A056",
+      "speaker": "arabic",
+      "text": "هذا أخوي",
+      "start": 228.123,
+      "end": 229.098,
+      "pause_end": 230.348
+    },
+    {
+      "id": "L13_A057",
+      "speaker": "instructor",
+      "text": "Your turn. This is my brother.",
+      "start": 230.348,
+      "end": 233.028,
+      "pause_end": 237.778
+    },
+    {
+      "id": "L13_A058",
+      "speaker": "arabic",
+      "text": "هذا أخوي",
+      "start": 237.778,
+      "end": 238.753,
+      "pause_end": 239.853
+    },
+    {
+      "id": "L13_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where is your family?",
+      "start": 239.853,
+      "end": 242.653,
+      "pause_end": 248.103
+    },
+    {
+      "id": "L13_A060",
+      "speaker": "arabic",
+      "text": "وين أهلك؟",
+      "start": 248.103,
+      "end": 249.125,
+      "pause_end": 250.225
+    },
+    {
+      "id": "L13_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Ask where someone is from.",
+      "start": 250.225,
+      "end": 253.105,
+      "pause_end": 257.855
+    },
+    {
+      "id": "L13_A062",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 257.855,
+      "end": 258.969,
+      "pause_end": 260.069
+    },
+    {
+      "id": "L13_A063",
+      "speaker": "instructor",
+      "text": "Listen. This is my sister.",
+      "start": 260.069,
+      "end": 262.149,
+      "pause_end": 262.749
+    },
+    {
+      "id": "L13_A064",
+      "speaker": "arabic_female",
+      "text": "هذي أختي",
+      "start": 262.749,
+      "end": 263.818,
+      "pause_end": 265.068
+    },
+    {
+      "id": "L13_A065",
+      "speaker": "instructor",
+      "text": "Your turn. This is my sister.",
+      "start": 265.068,
+      "end": 267.628,
+      "pause_end": 272.378
+    },
+    {
+      "id": "L13_A066",
+      "speaker": "arabic_female",
+      "text": "هذي أختي",
+      "start": 272.378,
+      "end": 273.446,
+      "pause_end": 274.546
+    },
+    {
+      "id": "L13_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: My family is in Al Ain.",
+      "start": 274.546,
+      "end": 277.706,
+      "pause_end": 283.156
+    },
+    {
+      "id": "L13_A068",
+      "speaker": "arabic_female",
+      "text": "أهلي في العين",
+      "start": 283.156,
+      "end": 284.41,
+      "pause_end": 285.51
+    },
+    {
+      "id": "L13_A069",
+      "speaker": "instructor",
+      "text": "Listen. This is my friend. Said by a man.",
+      "start": 285.51,
+      "end": 288.39,
+      "pause_end": 288.99
+    },
+    {
+      "id": "L13_A070",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 288.99,
+      "end": 290.058,
+      "pause_end": 291.308
+    },
+    {
+      "id": "L13_A071",
+      "speaker": "instructor",
+      "text": "Your turn. This is my friend. Said by a man.",
+      "start": 291.308,
+      "end": 295.068,
+      "pause_end": 299.818
+    },
+    {
+      "id": "L13_A072",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 299.818,
+      "end": 300.886,
+      "pause_end": 301.986
+    },
+    {
+      "id": "L13_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: This is my brother.",
+      "start": 301.986,
+      "end": 304.786,
+      "pause_end": 310.236
+    },
+    {
+      "id": "L13_A074",
+      "speaker": "arabic",
+      "text": "هذا أخوي",
+      "start": 310.236,
+      "end": 311.211,
+      "pause_end": 312.311
+    },
+    {
+      "id": "L13_A075",
+      "speaker": "instructor",
+      "text": "Listen. This is my friend. Said by a woman.",
+      "start": 312.311,
+      "end": 315.511,
+      "pause_end": 316.111
+    },
+    {
+      "id": "L13_A076",
+      "speaker": "arabic_female",
+      "text": "هذي ربيعتي",
+      "start": 316.111,
+      "end": 317.226,
+      "pause_end": 318.476
+    },
+    {
+      "id": "L13_A077",
+      "speaker": "instructor",
+      "text": "Your turn. This is my friend. Said by a woman.",
+      "start": 318.476,
+      "end": 321.956,
+      "pause_end": 326.706
+    },
+    {
+      "id": "L13_A078",
+      "speaker": "arabic_female",
+      "text": "هذي ربيعتي",
+      "start": 326.706,
+      "end": 327.82,
+      "pause_end": 328.92
+    },
+    {
+      "id": "L13_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: This is my sister.",
+      "start": 328.92,
+      "end": 331.52,
+      "pause_end": 336.97
+    },
+    {
+      "id": "L13_A080",
+      "speaker": "arabic_female",
+      "text": "هذي أختي",
+      "start": 336.97,
+      "end": 338.039,
+      "pause_end": 339.139
+    },
+    {
+      "id": "L13_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 339.139,
+      "end": 342.019,
+      "pause_end": 346.769
+    },
+    {
+      "id": "L13_A082",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 346.769,
+      "end": 347.837,
+      "pause_end": 348.937
+    },
+    {
+      "id": "L13_A083",
+      "speaker": "instructor",
+      "text": "Listen. What is your brother’s name?",
+      "start": 348.937,
+      "end": 351.057,
+      "pause_end": 351.657
+    },
+    {
+      "id": "L13_A084",
+      "speaker": "arabic_female",
+      "text": "شو اسم أخوك؟",
+      "start": 351.657,
+      "end": 352.771,
+      "pause_end": 354.021
+    },
+    {
+      "id": "L13_A085",
+      "speaker": "instructor",
+      "text": "Your turn. What is your brother’s name?",
+      "start": 354.021,
+      "end": 356.541,
+      "pause_end": 361.291
+    },
+    {
+      "id": "L13_A086",
+      "speaker": "arabic_female",
+      "text": "شو اسم أخوك؟",
+      "start": 361.291,
+      "end": 362.406,
+      "pause_end": 363.506
+    },
+    {
+      "id": "L13_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: This is my friend. Said by a man.",
+      "start": 363.506,
+      "end": 367.426,
+      "pause_end": 372.876
+    },
+    {
+      "id": "L13_A088",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 372.876,
+      "end": 373.944,
+      "pause_end": 375.044
+    },
+    {
+      "id": "L13_A089",
+      "speaker": "instructor",
+      "text": "Listen. His name is Mohammed.",
+      "start": 375.044,
+      "end": 377.004,
+      "pause_end": 377.604
+    },
+    {
+      "id": "L13_A090",
+      "speaker": "arabic",
+      "text": "اسمه محمد",
+      "start": 377.604,
+      "end": 378.719,
+      "pause_end": 379.969
+    },
+    {
+      "id": "L13_A091",
+      "speaker": "instructor",
+      "text": "Your turn. His name is Mohammed.",
+      "start": 379.969,
+      "end": 382.809,
+      "pause_end": 387.559
+    },
+    {
+      "id": "L13_A092",
+      "speaker": "arabic",
+      "text": "اسمه محمد",
+      "start": 387.559,
+      "end": 388.673,
+      "pause_end": 389.773
+    },
+    {
+      "id": "L13_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: This is my friend. Said by a woman.",
+      "start": 389.773,
+      "end": 394.333,
+      "pause_end": 399.783
+    },
+    {
+      "id": "L13_A094",
+      "speaker": "arabic_female",
+      "text": "هذي ربيعتي",
+      "start": 399.783,
+      "end": 400.898,
+      "pause_end": 401.998
+    },
+    {
+      "id": "L13_A095",
+      "speaker": "instructor",
+      "text": "Listen. I will visit my family today.",
+      "start": 401.998,
+      "end": 404.358,
+      "pause_end": 404.958
+    },
+    {
+      "id": "L13_A096",
+      "speaker": "arabic_female",
+      "text": "بزور أهلي اليوم",
+      "start": 404.958,
+      "end": 406.212,
+      "pause_end": 407.462
+    },
+    {
+      "id": "L13_A097",
+      "speaker": "instructor",
+      "text": "Your turn. I will visit my family today.",
+      "start": 407.462,
+      "end": 410.502,
+      "pause_end": 415.252
+    },
+    {
+      "id": "L13_A098",
+      "speaker": "arabic_female",
+      "text": "بزور أهلي اليوم",
+      "start": 415.252,
+      "end": 416.506,
+      "pause_end": 417.606
+    },
+    {
+      "id": "L13_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: What is your brother’s name?",
+      "start": 417.606,
+      "end": 420.446,
+      "pause_end": 425.896
+    },
+    {
+      "id": "L13_A100",
+      "speaker": "arabic_female",
+      "text": "شو اسم أخوك؟",
+      "start": 425.896,
+      "end": 427.01,
+      "pause_end": 428.11
+    },
+    {
+      "id": "L13_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 428.11,
+      "end": 430.83,
+      "pause_end": 435.58
+    },
+    {
+      "id": "L13_A102",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 435.58,
+      "end": 436.556,
+      "pause_end": 437.656
+    },
+    {
+      "id": "L13_A103",
+      "speaker": "instructor",
+      "text": "Listen. Come with us.",
+      "start": 437.656,
+      "end": 439.416,
+      "pause_end": 440.016
+    },
+    {
+      "id": "L13_A104",
+      "speaker": "arabic",
+      "text": "تعال ويانا",
+      "start": 440.016,
+      "end": 441.13,
+      "pause_end": 442.38
+    },
+    {
+      "id": "L13_A105",
+      "speaker": "instructor",
+      "text": "Your turn. Come with us.",
+      "start": 442.38,
+      "end": 444.94,
+      "pause_end": 449.69
+    },
+    {
+      "id": "L13_A106",
+      "speaker": "arabic",
+      "text": "تعال ويانا",
+      "start": 449.69,
+      "end": 450.805,
+      "pause_end": 451.905
+    },
+    {
+      "id": "L13_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: His name is Mohammed.",
+      "start": 451.905,
+      "end": 454.945,
+      "pause_end": 460.395
+    },
+    {
+      "id": "L13_A108",
+      "speaker": "arabic",
+      "text": "اسمه محمد",
+      "start": 460.395,
+      "end": 461.509,
+      "pause_end": 462.609
+    },
+    {
+      "id": "L13_A109",
+      "speaker": "instructor",
+      "text": "Listen. You are welcome. Said to a man.",
+      "start": 462.609,
+      "end": 465.529,
+      "pause_end": 466.129
+    },
+    {
+      "id": "L13_A110",
+      "speaker": "arabic_female",
+      "text": "حياك الله",
+      "start": 466.129,
+      "end": 467.244,
+      "pause_end": 468.494
+    },
+    {
+      "id": "L13_A111",
+      "speaker": "instructor",
+      "text": "Your turn. You are welcome. Said to a man.",
+      "start": 468.494,
+      "end": 470.894,
+      "pause_end": 475.644
+    },
+    {
+      "id": "L13_A112",
+      "speaker": "arabic_female",
+      "text": "حياك الله",
+      "start": 475.644,
+      "end": 476.759,
+      "pause_end": 477.859
+    },
+    {
+      "id": "L13_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: I will visit my family today.",
+      "start": 477.859,
+      "end": 480.899,
+      "pause_end": 486.349
+    },
+    {
+      "id": "L13_A114",
+      "speaker": "arabic_female",
+      "text": "بزور أهلي اليوم",
+      "start": 486.349,
+      "end": 487.603,
+      "pause_end": 488.703
+    },
+    {
+      "id": "L13_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Give your answer before the recording.",
+      "start": 488.703,
+      "end": 492.023,
+      "pause_end": 492.973
+    },
+    {
+      "id": "L13_A116",
+      "speaker": "instructor",
+      "text": "Say: Do you have brothers or siblings?",
+      "start": 492.973,
+      "end": 496.333,
+      "pause_end": 501.383
+    },
+    {
+      "id": "L13_A117",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 501.383,
+      "end": 502.497,
+      "pause_end": 503.597
+    },
+    {
+      "id": "L13_A118",
+      "speaker": "instructor",
+      "text": "Say: I have one brother.",
+      "start": 503.597,
+      "end": 505.997,
+      "pause_end": 511.047
+    },
+    {
+      "id": "L13_A119",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 511.047,
+      "end": 512.347,
+      "pause_end": 513.447
+    },
+    {
+      "id": "L13_A120",
+      "speaker": "instructor",
+      "text": "Say: And I have two sisters.",
+      "start": 513.447,
+      "end": 515.727,
+      "pause_end": 520.777
+    },
+    {
+      "id": "L13_A121",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 520.777,
+      "end": 521.985,
+      "pause_end": 523.085
+    },
+    {
+      "id": "L13_A122",
+      "speaker": "instructor",
+      "text": "Say: Where is your family?",
+      "start": 523.085,
+      "end": 525.325,
+      "pause_end": 530.375
+    },
+    {
+      "id": "L13_A123",
+      "speaker": "arabic",
+      "text": "وين أهلك؟",
+      "start": 530.375,
+      "end": 531.397,
+      "pause_end": 532.497
+    },
+    {
+      "id": "L13_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 532.497,
+      "end": 534.577,
+      "pause_end": 539.527
+    },
+    {
+      "id": "L13_A125",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 539.527,
+      "end": 540.781,
+      "pause_end": 541.881
+    },
+    {
+      "id": "L13_A126",
+      "speaker": "instructor",
+      "text": "Say: My family is in Al Ain.",
+      "start": 541.881,
+      "end": 544.401,
+      "pause_end": 549.451
+    },
+    {
+      "id": "L13_A127",
+      "speaker": "arabic_female",
+      "text": "أهلي في العين",
+      "start": 549.451,
+      "end": 550.704,
+      "pause_end": 551.804
+    },
+    {
+      "id": "L13_A128",
+      "speaker": "instructor",
+      "text": "Say: This is my brother.",
+      "start": 551.804,
+      "end": 553.964,
+      "pause_end": 559.014
+    },
+    {
+      "id": "L13_A129",
+      "speaker": "arabic",
+      "text": "هذا أخوي",
+      "start": 559.014,
+      "end": 559.99,
+      "pause_end": 561.09
+    },
+    {
+      "id": "L13_A130",
+      "speaker": "instructor",
+      "text": "Say: This is my sister.",
+      "start": 561.09,
+      "end": 563.37,
+      "pause_end": 568.42
+    },
+    {
+      "id": "L13_A131",
+      "speaker": "arabic_female",
+      "text": "هذي أختي",
+      "start": 568.42,
+      "end": 569.488,
+      "pause_end": 570.588
+    },
+    {
+      "id": "L13_A132",
+      "speaker": "instructor",
+      "text": "Say: This is my friend. Said by a man.",
+      "start": 570.588,
+      "end": 573.828,
+      "pause_end": 578.878
+    },
+    {
+      "id": "L13_A133",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 578.878,
+      "end": 579.946,
+      "pause_end": 581.046
+    },
+    {
+      "id": "L13_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 581.046,
+      "end": 583.326,
+      "pause_end": 588.276
+    },
+    {
+      "id": "L13_A135",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 588.276,
+      "end": 589.437,
+      "pause_end": 590.537
+    },
+    {
+      "id": "L13_A136",
+      "speaker": "instructor",
+      "text": "Say: This is my friend. Said by a woman.",
+      "start": 590.537,
+      "end": 593.817,
+      "pause_end": 598.867
+    },
+    {
+      "id": "L13_A137",
+      "speaker": "arabic_female",
+      "text": "هذي ربيعتي",
+      "start": 598.867,
+      "end": 599.982,
+      "pause_end": 601.082
+    },
+    {
+      "id": "L13_A138",
+      "speaker": "instructor",
+      "text": "Say: What is your brother’s name?",
+      "start": 601.082,
+      "end": 603.362,
+      "pause_end": 608.412
+    },
+    {
+      "id": "L13_A139",
+      "speaker": "arabic_female",
+      "text": "شو اسم أخوك؟",
+      "start": 608.412,
+      "end": 609.526,
+      "pause_end": 610.626
+    },
+    {
+      "id": "L13_A140",
+      "speaker": "instructor",
+      "text": "Say: His name is Mohammed.",
+      "start": 610.626,
+      "end": 613.746,
+      "pause_end": 618.796
+    },
+    {
+      "id": "L13_A141",
+      "speaker": "arabic",
+      "text": "اسمه محمد",
+      "start": 618.796,
+      "end": 619.911,
+      "pause_end": 621.011
+    },
+    {
+      "id": "L13_A142",
+      "speaker": "instructor",
+      "text": "Say: I will visit my family today.",
+      "start": 621.011,
+      "end": 624.051,
+      "pause_end": 629.101
+    },
+    {
+      "id": "L13_A143",
+      "speaker": "arabic_female",
+      "text": "بزور أهلي اليوم",
+      "start": 629.101,
+      "end": 630.355,
+      "pause_end": 631.455
+    },
+    {
+      "id": "L13_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 631.455,
+      "end": 634.415,
+      "pause_end": 639.365
+    },
+    {
+      "id": "L13_A145",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 639.365,
+      "end": 640.433,
+      "pause_end": 641.533
+    },
+    {
+      "id": "L13_A146",
+      "speaker": "instructor",
+      "text": "Say: Come with us.",
+      "start": 641.533,
+      "end": 643.413,
+      "pause_end": 648.463
+    },
+    {
+      "id": "L13_A147",
+      "speaker": "arabic",
+      "text": "تعال ويانا",
+      "start": 648.463,
+      "end": 649.577,
+      "pause_end": 650.677
+    },
+    {
+      "id": "L13_A148",
+      "speaker": "instructor",
+      "text": "Say: You are welcome. Said to a man.",
+      "start": 650.677,
+      "end": 654.317,
+      "pause_end": 659.367
+    },
+    {
+      "id": "L13_A149",
+      "speaker": "arabic_female",
+      "text": "حياك الله",
+      "start": 659.367,
+      "end": 660.482,
+      "pause_end": 661.582
+    },
+    {
+      "id": "L13_A150",
+      "speaker": "instructor",
+      "text": "Say: Do you have brothers or siblings?",
+      "start": 661.582,
+      "end": 664.942,
+      "pause_end": 669.992
+    },
+    {
+      "id": "L13_A151",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 669.992,
+      "end": 671.107,
+      "pause_end": 672.207
+    },
+    {
+      "id": "L13_A152",
+      "speaker": "instructor",
+      "text": "Say: And I have two sisters.",
+      "start": 672.207,
+      "end": 674.487,
+      "pause_end": 679.537
+    },
+    {
+      "id": "L13_A153",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 679.537,
+      "end": 680.744,
+      "pause_end": 681.844
+    },
+    {
+      "id": "L13_A154",
+      "speaker": "instructor",
+      "text": "Say: My family is in Al Ain.",
+      "start": 681.844,
+      "end": 684.364,
+      "pause_end": 689.414
+    },
+    {
+      "id": "L13_A155",
+      "speaker": "arabic_female",
+      "text": "أهلي في العين",
+      "start": 689.414,
+      "end": 690.668,
+      "pause_end": 691.768
+    },
+    {
+      "id": "L13_A156",
+      "speaker": "instructor",
+      "text": "Say: This is my sister.",
+      "start": 691.768,
+      "end": 694.048,
+      "pause_end": 699.098
+    },
+    {
+      "id": "L13_A157",
+      "speaker": "arabic_female",
+      "text": "هذي أختي",
+      "start": 699.098,
+      "end": 700.166,
+      "pause_end": 701.266
+    },
+    {
+      "id": "L13_A158",
+      "speaker": "instructor",
+      "text": "Say: This is my friend. Said by a woman.",
+      "start": 701.266,
+      "end": 704.546,
+      "pause_end": 709.596
+    },
+    {
+      "id": "L13_A159",
+      "speaker": "arabic_female",
+      "text": "هذي ربيعتي",
+      "start": 709.596,
+      "end": 710.711,
+      "pause_end": 711.811
+    },
+    {
+      "id": "L13_A160",
+      "speaker": "instructor",
+      "text": "Say: His name is Mohammed.",
+      "start": 711.811,
+      "end": 714.931,
+      "pause_end": 719.981
+    },
+    {
+      "id": "L13_A161",
+      "speaker": "arabic",
+      "text": "اسمه محمد",
+      "start": 719.981,
+      "end": 721.095,
+      "pause_end": 722.195
+    },
+    {
+      "id": "L13_A162",
+      "speaker": "instructor",
+      "text": "Say: Come with us.",
+      "start": 722.195,
+      "end": 724.075,
+      "pause_end": 729.125
+    },
+    {
+      "id": "L13_A163",
+      "speaker": "arabic",
+      "text": "تعال ويانا",
+      "start": 729.125,
+      "end": 730.24,
+      "pause_end": 731.34
+    },
+    {
+      "id": "L13_A164",
+      "speaker": "instructor",
+      "text": "Say: I have one brother.",
+      "start": 731.34,
+      "end": 733.74,
+      "pause_end": 738.79
+    },
+    {
+      "id": "L13_A165",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 738.79,
+      "end": 740.09,
+      "pause_end": 741.19
+    },
+    {
+      "id": "L13_A166",
+      "speaker": "instructor",
+      "text": "Say: Where is your family?",
+      "start": 741.19,
+      "end": 743.43,
+      "pause_end": 748.48
+    },
+    {
+      "id": "L13_A167",
+      "speaker": "arabic",
+      "text": "وين أهلك؟",
+      "start": 748.48,
+      "end": 749.502,
+      "pause_end": 750.602
+    },
+    {
+      "id": "L13_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone works.",
+      "start": 750.602,
+      "end": 753.082,
+      "pause_end": 758.032
+    },
+    {
+      "id": "L13_A169",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 758.032,
+      "end": 759.147,
+      "pause_end": 760.247
+    },
+    {
+      "id": "L13_A170",
+      "speaker": "instructor",
+      "text": "Say: This is my brother.",
+      "start": 760.247,
+      "end": 762.407,
+      "pause_end": 767.457
+    },
+    {
+      "id": "L13_A171",
+      "speaker": "arabic",
+      "text": "هذا أخوي",
+      "start": 767.457,
+      "end": 768.432,
+      "pause_end": 769.532
+    },
+    {
+      "id": "L13_A172",
+      "speaker": "instructor",
+      "text": "Say: This is my friend. Said by a man.",
+      "start": 769.532,
+      "end": 772.772,
+      "pause_end": 777.822
+    },
+    {
+      "id": "L13_A173",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 777.822,
+      "end": 778.89,
+      "pause_end": 779.99
+    },
+    {
+      "id": "L13_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 779.99,
+      "end": 782.95,
+      "pause_end": 787.9
+    },
+    {
+      "id": "L13_A175",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 787.9,
+      "end": 788.875,
+      "pause_end": 789.975
+    },
+    {
+      "id": "L13_A176",
+      "speaker": "instructor",
+      "text": "Say: What is your brother’s name?",
+      "start": 789.975,
+      "end": 792.255,
+      "pause_end": 797.305
+    },
+    {
+      "id": "L13_A177",
+      "speaker": "arabic_female",
+      "text": "شو اسم أخوك؟",
+      "start": 797.305,
+      "end": 798.42,
+      "pause_end": 799.52
+    },
+    {
+      "id": "L13_A178",
+      "speaker": "instructor",
+      "text": "Say: I will visit my family today.",
+      "start": 799.52,
+      "end": 802.56,
+      "pause_end": 807.61
+    },
+    {
+      "id": "L13_A179",
+      "speaker": "arabic_female",
+      "text": "بزور أهلي اليوم",
+      "start": 807.61,
+      "end": 808.864,
+      "pause_end": 809.964
+    },
+    {
+      "id": "L13_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 809.964,
+      "end": 812.164,
+      "pause_end": 817.114
+    },
+    {
+      "id": "L13_A181",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 817.114,
+      "end": 818.089,
+      "pause_end": 819.189
+    },
+    {
+      "id": "L13_A182",
+      "speaker": "instructor",
+      "text": "Say: You are welcome. Said to a man.",
+      "start": 819.189,
+      "end": 822.829,
+      "pause_end": 827.879
+    },
+    {
+      "id": "L13_A183",
+      "speaker": "arabic_female",
+      "text": "حياك الله",
+      "start": 827.879,
+      "end": 828.994,
+      "pause_end": 830.094
+    },
+    {
+      "id": "L13_A184",
+      "speaker": "instructor",
+      "text": "How do you say: You are welcome. Said to a man.",
+      "start": 830.094,
+      "end": 834.174,
+      "pause_end": 839.624
+    },
+    {
+      "id": "L13_A185",
+      "speaker": "arabic_female",
+      "text": "حياك الله",
+      "start": 839.624,
+      "end": 840.738,
+      "pause_end": 841.838
+    },
+    {
+      "id": "L13_A186",
+      "speaker": "instructor",
+      "text": "How do you say: Come with us.",
+      "start": 841.838,
+      "end": 844.238,
+      "pause_end": 849.688
+    },
+    {
+      "id": "L13_A187",
+      "speaker": "arabic",
+      "text": "تعال ويانا",
+      "start": 849.688,
+      "end": 850.803,
+      "pause_end": 851.903
+    },
+    {
+      "id": "L13_A188",
+      "speaker": "instructor",
+      "text": "How do you say: I will visit my family today.",
+      "start": 851.903,
+      "end": 855.303,
+      "pause_end": 860.753
+    },
+    {
+      "id": "L13_A189",
+      "speaker": "arabic_female",
+      "text": "بزور أهلي اليوم",
+      "start": 860.753,
+      "end": 862.007,
+      "pause_end": 863.107
+    },
+    {
+      "id": "L13_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 863.107,
+      "end": 865.187,
+      "pause_end": 870.137
+    },
+    {
+      "id": "L13_A191",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 870.137,
+      "end": 871.391,
+      "pause_end": 872.491
+    },
+    {
+      "id": "L13_A192",
+      "speaker": "instructor",
+      "text": "How do you say: His name is Mohammed.",
+      "start": 872.491,
+      "end": 875.651,
+      "pause_end": 881.101
+    },
+    {
+      "id": "L13_A193",
+      "speaker": "arabic",
+      "text": "اسمه محمد",
+      "start": 881.101,
+      "end": 882.215,
+      "pause_end": 883.315
+    },
+    {
+      "id": "L13_A194",
+      "speaker": "instructor",
+      "text": "How do you say: What is your brother’s name?",
+      "start": 883.315,
+      "end": 887.115,
+      "pause_end": 892.565
+    },
+    {
+      "id": "L13_A195",
+      "speaker": "arabic_female",
+      "text": "شو اسم أخوك؟",
+      "start": 892.565,
+      "end": 893.68,
+      "pause_end": 894.78
+    },
+    {
+      "id": "L13_A196",
+      "speaker": "instructor",
+      "text": "How do you say: This is my friend. Said by a woman.",
+      "start": 894.78,
+      "end": 898.22,
+      "pause_end": 903.67
+    },
+    {
+      "id": "L13_A197",
+      "speaker": "arabic_female",
+      "text": "هذي ربيعتي",
+      "start": 903.67,
+      "end": 904.785,
+      "pause_end": 905.885
+    },
+    {
+      "id": "L13_A198",
+      "speaker": "instructor",
+      "text": "How do you say: This is my friend. Said by a man.",
+      "start": 905.885,
+      "end": 909.925,
+      "pause_end": 915.375
+    },
+    {
+      "id": "L13_A199",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 915.375,
+      "end": 916.443,
+      "pause_end": 917.543
+    },
+    {
+      "id": "L13_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Ask someone their name.",
+      "start": 917.543,
+      "end": 919.983,
+      "pause_end": 924.933
+    },
+    {
+      "id": "L13_A201",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 924.933,
+      "end": 925.769,
+      "pause_end": 926.869
+    },
+    {
+      "id": "L13_A202",
+      "speaker": "instructor",
+      "text": "How do you say: This is my sister.",
+      "start": 926.869,
+      "end": 929.389,
+      "pause_end": 934.839
+    },
+    {
+      "id": "L13_A203",
+      "speaker": "arabic_female",
+      "text": "هذي أختي",
+      "start": 934.839,
+      "end": 935.907,
+      "pause_end": 937.007
+    },
+    {
+      "id": "L13_A204",
+      "speaker": "instructor",
+      "text": "How do you say: This is my brother.",
+      "start": 937.007,
+      "end": 939.687,
+      "pause_end": 945.137
+    },
+    {
+      "id": "L13_A205",
+      "speaker": "arabic",
+      "text": "هذا أخوي",
+      "start": 945.137,
+      "end": 946.112,
+      "pause_end": 947.212
+    },
+    {
+      "id": "L13_A206",
+      "speaker": "instructor",
+      "text": "How do you say: My family is in Al Ain.",
+      "start": 947.212,
+      "end": 950.332,
+      "pause_end": 955.782
+    },
+    {
+      "id": "L13_A207",
+      "speaker": "arabic_female",
+      "text": "أهلي في العين",
+      "start": 955.782,
+      "end": 957.036,
+      "pause_end": 958.136
+    },
+    {
+      "id": "L13_A208",
+      "speaker": "instructor",
+      "text": "How do you say: Where is your family?",
+      "start": 958.136,
+      "end": 960.856,
+      "pause_end": 966.306
+    },
+    {
+      "id": "L13_A209",
+      "speaker": "arabic",
+      "text": "وين أهلك؟",
+      "start": 966.306,
+      "end": 967.328,
+      "pause_end": 968.428
+    },
+    {
+      "id": "L13_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow.",
+      "start": 968.428,
+      "end": 970.348,
+      "pause_end": 975.298
+    },
+    {
+      "id": "L13_A211",
+      "speaker": "arabic",
+      "text": "باجر",
+      "start": 975.298,
+      "end": 976.087,
+      "pause_end": 977.187
+    },
+    {
+      "id": "L13_A212",
+      "speaker": "instructor",
+      "text": "How do you say: And I have two sisters.",
+      "start": 977.187,
+      "end": 980.227,
+      "pause_end": 985.677
+    },
+    {
+      "id": "L13_A213",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 985.677,
+      "end": 986.885,
+      "pause_end": 987.985
+    },
+    {
+      "id": "L13_A214",
+      "speaker": "instructor",
+      "text": "How do you say: I have one brother.",
+      "start": 987.985,
+      "end": 990.505,
+      "pause_end": 995.955
+    },
+    {
+      "id": "L13_A215",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 995.955,
+      "end": 997.255,
+      "pause_end": 998.355
+    },
+    {
+      "id": "L13_A216",
+      "speaker": "instructor",
+      "text": "How do you say: Do you have brothers or siblings?",
+      "start": 998.355,
+      "end": 1001.795,
+      "pause_end": 1007.245
+    },
+    {
+      "id": "L13_A217",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 1007.245,
+      "end": 1008.36,
+      "pause_end": 1009.46
+    },
+    {
+      "id": "L13_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Speak naturally, without waiting for a hint.",
+      "start": 1009.46,
+      "end": 1013.7,
+      "pause_end": 1014.55
+    },
+    {
+      "id": "L13_A219",
+      "speaker": "instructor",
+      "text": "Say: You are welcome. Said to a man.",
+      "start": 1014.55,
+      "end": 1018.19,
+      "pause_end": 1023.84
+    },
+    {
+      "id": "L13_A220",
+      "speaker": "arabic_female",
+      "text": "حياك الله",
+      "start": 1023.84,
+      "end": 1024.954,
+      "pause_end": 1026.054
+    },
+    {
+      "id": "L13_A221",
+      "speaker": "instructor",
+      "text": "Say: And I have two sisters.",
+      "start": 1026.054,
+      "end": 1028.334,
+      "pause_end": 1033.984
+    },
+    {
+      "id": "L13_A222",
+      "speaker": "arabic_female",
+      "text": "وعندي أختين",
+      "start": 1033.984,
+      "end": 1035.192,
+      "pause_end": 1036.292
+    },
+    {
+      "id": "L13_A223",
+      "speaker": "instructor",
+      "text": "Say: Do you have brothers or siblings?",
+      "start": 1036.292,
+      "end": 1039.652,
+      "pause_end": 1045.302
+    },
+    {
+      "id": "L13_A224",
+      "speaker": "arabic_female",
+      "text": "عندك إخوان؟",
+      "start": 1045.302,
+      "end": 1046.416,
+      "pause_end": 1047.516
+    },
+    {
+      "id": "L13_A225",
+      "speaker": "instructor",
+      "text": "Say: This is my friend. Said by a man.",
+      "start": 1047.516,
+      "end": 1050.756,
+      "pause_end": 1056.406
+    },
+    {
+      "id": "L13_A226",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 1056.406,
+      "end": 1057.474,
+      "pause_end": 1058.574
+    },
+    {
+      "id": "L13_A227",
+      "speaker": "instructor",
+      "text": "Say: This is my brother.",
+      "start": 1058.574,
+      "end": 1060.734,
+      "pause_end": 1066.384
+    },
+    {
+      "id": "L13_A228",
+      "speaker": "arabic",
+      "text": "هذا أخوي",
+      "start": 1066.384,
+      "end": 1067.36,
+      "pause_end": 1068.46
+    },
+    {
+      "id": "L13_A229",
+      "speaker": "instructor",
+      "text": "Say: I will visit my family today.",
+      "start": 1068.46,
+      "end": 1071.5,
+      "pause_end": 1077.15
+    },
+    {
+      "id": "L13_A230",
+      "speaker": "arabic_female",
+      "text": "بزور أهلي اليوم",
+      "start": 1077.15,
+      "end": 1078.404,
+      "pause_end": 1079.504
+    },
+    {
+      "id": "L13_A231",
+      "speaker": "instructor",
+      "text": "Say: I have one brother.",
+      "start": 1079.504,
+      "end": 1081.904,
+      "pause_end": 1087.554
+    },
+    {
+      "id": "L13_A232",
+      "speaker": "arabic",
+      "text": "عندي أخ واحد",
+      "start": 1087.554,
+      "end": 1088.854,
+      "pause_end": 1089.954
+    },
+    {
+      "id": "L13_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1089.954,
+      "end": 1094.034,
+      "pause_end": 1094.984
+    }
+  ]
+}

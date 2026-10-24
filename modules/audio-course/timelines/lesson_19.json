@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L19_A001",
+      "speaker": "instructor",
+      "text": "Lesson 19. Weather and Weekend Plans. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 5.52,
+      "pause_end": 6.47
+    },
+    {
+      "id": "L19_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 6.47,
+      "end": 9.83,
+      "pause_end": 10.68
+    },
+    {
+      "id": "L19_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 10.68,
+      "end": 13.2,
+      "pause_end": 17.65
+    },
+    {
+      "id": "L19_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 17.65,
+      "end": 18.811,
+      "pause_end": 19.911
+    },
+    {
+      "id": "L19_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 19.911,
+      "end": 23.071,
+      "pause_end": 27.521
+    },
+    {
+      "id": "L19_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 27.521,
+      "end": 28.496,
+      "pause_end": 29.596
+    },
+    {
+      "id": "L19_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 29.596,
+      "end": 32.996,
+      "pause_end": 37.446
+    },
+    {
+      "id": "L19_A008",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 37.446,
+      "end": 38.514,
+      "pause_end": 39.614
+    },
+    {
+      "id": "L19_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 39.614,
+      "end": 43.254,
+      "pause_end": 47.704
+    },
+    {
+      "id": "L19_A010",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 47.704,
+      "end": 48.68,
+      "pause_end": 49.78
+    },
+    {
+      "id": "L19_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask how much the bill is.",
+      "start": 49.78,
+      "end": 53.14,
+      "pause_end": 57.59
+    },
+    {
+      "id": "L19_A012",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 57.59,
+      "end": 58.751,
+      "pause_end": 59.851
+    },
+    {
+      "id": "L19_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man when he starts work.",
+      "start": 59.851,
+      "end": 63.251,
+      "pause_end": 67.701
+    },
+    {
+      "id": "L19_A014",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 67.701,
+      "end": 68.815,
+      "pause_end": 69.915
+    },
+    {
+      "id": "L19_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few new expressions.",
+      "start": 69.915,
+      "end": 71.875,
+      "pause_end": 72.625
+    },
+    {
+      "id": "L19_A016",
+      "speaker": "instructor",
+      "text": "Listen. How is the weather today?",
+      "start": 72.625,
+      "end": 75.305,
+      "pause_end": 75.955
+    },
+    {
+      "id": "L19_A017",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 75.955,
+      "end": 77.302,
+      "pause_end": 78.552
+    },
+    {
+      "id": "L19_A018",
+      "speaker": "instructor",
+      "text": "Listen. The weather is very hot.",
+      "start": 78.552,
+      "end": 80.992,
+      "pause_end": 81.642
+    },
+    {
+      "id": "L19_A019",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 81.642,
+      "end": 83.082,
+      "pause_end": 84.332
+    },
+    {
+      "id": "L19_A020",
+      "speaker": "instructor",
+      "text": "Listen. It is humid today.",
+      "start": 84.332,
+      "end": 86.292,
+      "pause_end": 86.942
+    },
+    {
+      "id": "L19_A021",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 86.942,
+      "end": 88.288,
+      "pause_end": 89.538
+    },
+    {
+      "id": "L19_A022",
+      "speaker": "instructor",
+      "text": "Listen. The weather is better at night.",
+      "start": 89.538,
+      "end": 91.658,
+      "pause_end": 92.308
+    },
+    {
+      "id": "L19_A023",
+      "speaker": "arabic",
+      "text": "الجو أحسن بالليل",
+      "start": 92.308,
+      "end": 93.934,
+      "pause_end": 95.184
+    },
+    {
+      "id": "L19_A024",
+      "speaker": "instructor",
+      "text": "Listen. Do you want to go out?",
+      "start": 95.184,
+      "end": 97.344,
+      "pause_end": 97.994
+    },
+    {
+      "id": "L19_A025",
+      "speaker": "arabic_female",
+      "text": "تبغي نطلع؟",
+      "start": 97.994,
+      "end": 99.016,
+      "pause_end": 100.266
+    },
+    {
+      "id": "L19_A026",
+      "speaker": "instructor",
+      "text": "Now speak before you hear the answer.",
+      "start": 100.266,
+      "end": 103.506,
+      "pause_end": 104.256
+    },
+    {
+      "id": "L19_A027",
+      "speaker": "instructor",
+      "text": "Listen. How is the weather today?",
+      "start": 104.256,
+      "end": 106.936,
+      "pause_end": 107.536
+    },
+    {
+      "id": "L19_A028",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 107.536,
+      "end": 108.882,
+      "pause_end": 110.132
+    },
+    {
+      "id": "L19_A029",
+      "speaker": "instructor",
+      "text": "Your turn. How is the weather today?",
+      "start": 110.132,
+      "end": 112.492,
+      "pause_end": 117.242
+    },
+    {
+      "id": "L19_A030",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 117.242,
+      "end": 118.589,
+      "pause_end": 119.689
+    },
+    {
+      "id": "L19_A031",
+      "speaker": "instructor",
+      "text": "Listen. The weather is very hot.",
+      "start": 119.689,
+      "end": 122.129,
+      "pause_end": 122.729
+    },
+    {
+      "id": "L19_A032",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 122.729,
+      "end": 124.169,
+      "pause_end": 125.419
+    },
+    {
+      "id": "L19_A033",
+      "speaker": "instructor",
+      "text": "Your turn. The weather is very hot.",
+      "start": 125.419,
+      "end": 128.259,
+      "pause_end": 133.009
+    },
+    {
+      "id": "L19_A034",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 133.009,
+      "end": 134.448,
+      "pause_end": 135.548
+    },
+    {
+      "id": "L19_A035",
+      "speaker": "instructor",
+      "text": "Listen. It is humid today.",
+      "start": 135.548,
+      "end": 137.508,
+      "pause_end": 138.108
+    },
+    {
+      "id": "L19_A036",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 138.108,
+      "end": 139.455,
+      "pause_end": 140.705
+    },
+    {
+      "id": "L19_A037",
+      "speaker": "instructor",
+      "text": "Your turn. It is humid today.",
+      "start": 140.705,
+      "end": 143.265,
+      "pause_end": 148.015
+    },
+    {
+      "id": "L19_A038",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 148.015,
+      "end": 149.362,
+      "pause_end": 150.462
+    },
+    {
+      "id": "L19_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: How is the weather today?",
+      "start": 150.462,
+      "end": 153.342,
+      "pause_end": 158.792
+    },
+    {
+      "id": "L19_A040",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 158.792,
+      "end": 160.138,
+      "pause_end": 161.238
+    },
+    {
+      "id": "L19_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 161.238,
+      "end": 164.118,
+      "pause_end": 168.868
+    },
+    {
+      "id": "L19_A042",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 168.868,
+      "end": 169.937,
+      "pause_end": 171.037
+    },
+    {
+      "id": "L19_A043",
+      "speaker": "instructor",
+      "text": "Listen. The weather is better at night.",
+      "start": 171.037,
+      "end": 173.157,
+      "pause_end": 173.757
+    },
+    {
+      "id": "L19_A044",
+      "speaker": "arabic",
+      "text": "الجو أحسن بالليل",
+      "start": 173.757,
+      "end": 175.382,
+      "pause_end": 176.632
+    },
+    {
+      "id": "L19_A045",
+      "speaker": "instructor",
+      "text": "Your turn. The weather is better at night.",
+      "start": 176.632,
+      "end": 179.032,
+      "pause_end": 183.782
+    },
+    {
+      "id": "L19_A046",
+      "speaker": "arabic",
+      "text": "الجو أحسن بالليل",
+      "start": 183.782,
+      "end": 185.407,
+      "pause_end": 186.507
+    },
+    {
+      "id": "L19_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: The weather is very hot.",
+      "start": 186.507,
+      "end": 189.547,
+      "pause_end": 194.997
+    },
+    {
+      "id": "L19_A048",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 194.997,
+      "end": 196.437,
+      "pause_end": 197.537
+    },
+    {
+      "id": "L19_A049",
+      "speaker": "instructor",
+      "text": "Listen. Do you want to go out?",
+      "start": 197.537,
+      "end": 199.697,
+      "pause_end": 200.297
+    },
+    {
+      "id": "L19_A050",
+      "speaker": "arabic_female",
+      "text": "تبغي نطلع؟",
+      "start": 200.297,
+      "end": 201.319,
+      "pause_end": 202.569
+    },
+    {
+      "id": "L19_A051",
+      "speaker": "instructor",
+      "text": "Your turn. Do you want to go out?",
+      "start": 202.569,
+      "end": 204.889,
+      "pause_end": 209.639
+    },
+    {
+      "id": "L19_A052",
+      "speaker": "arabic_female",
+      "text": "تبغي نطلع؟",
+      "start": 209.639,
+      "end": 210.66,
+      "pause_end": 211.76
+    },
+    {
+      "id": "L19_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: It is humid today.",
+      "start": 211.76,
+      "end": 214.44,
+      "pause_end": 219.89
+    },
+    {
+      "id": "L19_A054",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 219.89,
+      "end": 221.237,
+      "pause_end": 222.337
+    },
+    {
+      "id": "L19_A055",
+      "speaker": "instructor",
+      "text": "Listen. Where shall we go?",
+      "start": 222.337,
+      "end": 224.217,
+      "pause_end": 224.817
+    },
+    {
+      "id": "L19_A056",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 224.817,
+      "end": 225.746,
+      "pause_end": 226.996
+    },
+    {
+      "id": "L19_A057",
+      "speaker": "instructor",
+      "text": "Your turn. Where shall we go?",
+      "start": 226.996,
+      "end": 229.596,
+      "pause_end": 234.346
+    },
+    {
+      "id": "L19_A058",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 234.346,
+      "end": 235.275,
+      "pause_end": 236.375
+    },
+    {
+      "id": "L19_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: The weather is better at night.",
+      "start": 236.375,
+      "end": 240.215,
+      "pause_end": 245.665
+    },
+    {
+      "id": "L19_A060",
+      "speaker": "arabic",
+      "text": "الجو أحسن بالليل",
+      "start": 245.665,
+      "end": 247.29,
+      "pause_end": 248.39
+    },
+    {
+      "id": "L19_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 248.39,
+      "end": 251.11,
+      "pause_end": 255.86
+    },
+    {
+      "id": "L19_A062",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 255.86,
+      "end": 256.836,
+      "pause_end": 257.936
+    },
+    {
+      "id": "L19_A063",
+      "speaker": "instructor",
+      "text": "Listen. Let us go to the beach.",
+      "start": 257.936,
+      "end": 259.856,
+      "pause_end": 260.456
+    },
+    {
+      "id": "L19_A064",
+      "speaker": "arabic_female",
+      "text": "نروح البحر",
+      "start": 260.456,
+      "end": 261.617,
+      "pause_end": 262.867
+    },
+    {
+      "id": "L19_A065",
+      "speaker": "instructor",
+      "text": "Your turn. Let us go to the beach.",
+      "start": 262.867,
+      "end": 265.427,
+      "pause_end": 270.177
+    },
+    {
+      "id": "L19_A066",
+      "speaker": "arabic_female",
+      "text": "نروح البحر",
+      "start": 270.177,
+      "end": 271.338,
+      "pause_end": 272.438
+    },
+    {
+      "id": "L19_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do you want to go out?",
+      "start": 272.438,
+      "end": 275.158,
+      "pause_end": 280.608
+    },
+    {
+      "id": "L19_A068",
+      "speaker": "arabic_female",
+      "text": "تبغي نطلع؟",
+      "start": 280.608,
+      "end": 281.629,
+      "pause_end": 282.729
+    },
+    {
+      "id": "L19_A069",
+      "speaker": "instructor",
+      "text": "Listen. Is the weather suitable?",
+      "start": 282.729,
+      "end": 285.009,
+      "pause_end": 285.609
+    },
+    {
+      "id": "L19_A070",
+      "speaker": "arabic",
+      "text": "الجو مناسب؟",
+      "start": 285.609,
+      "end": 286.77,
+      "pause_end": 288.02
+    },
+    {
+      "id": "L19_A071",
+      "speaker": "instructor",
+      "text": "Your turn. Is the weather suitable?",
+      "start": 288.02,
+      "end": 290.62,
+      "pause_end": 295.37
+    },
+    {
+      "id": "L19_A072",
+      "speaker": "arabic",
+      "text": "الجو مناسب؟",
+      "start": 295.37,
+      "end": 296.531,
+      "pause_end": 297.631
+    },
+    {
+      "id": "L19_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where shall we go?",
+      "start": 297.631,
+      "end": 300.311,
+      "pause_end": 305.761
+    },
+    {
+      "id": "L19_A074",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 305.761,
+      "end": 306.69,
+      "pause_end": 307.79
+    },
+    {
+      "id": "L19_A075",
+      "speaker": "instructor",
+      "text": "Listen. It might rain.",
+      "start": 307.79,
+      "end": 309.67,
+      "pause_end": 310.27
+    },
+    {
+      "id": "L19_A076",
+      "speaker": "arabic_female",
+      "text": "يمكن تمطر",
+      "start": 310.27,
+      "end": 311.478,
+      "pause_end": 312.728
+    },
+    {
+      "id": "L19_A077",
+      "speaker": "instructor",
+      "text": "Your turn. It might rain.",
+      "start": 312.728,
+      "end": 314.848,
+      "pause_end": 319.598
+    },
+    {
+      "id": "L19_A078",
+      "speaker": "arabic_female",
+      "text": "يمكن تمطر",
+      "start": 319.598,
+      "end": 320.805,
+      "pause_end": 321.905
+    },
+    {
+      "id": "L19_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: Let us go to the beach.",
+      "start": 321.905,
+      "end": 324.865,
+      "pause_end": 330.315
+    },
+    {
+      "id": "L19_A080",
+      "speaker": "arabic_female",
+      "text": "نروح البحر",
+      "start": 330.315,
+      "end": 331.476,
+      "pause_end": 332.576
+    },
+    {
+      "id": "L19_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask how much the bill is.",
+      "start": 332.576,
+      "end": 335.576,
+      "pause_end": 340.326
+    },
+    {
+      "id": "L19_A082",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 340.326,
+      "end": 341.487,
+      "pause_end": 342.587
+    },
+    {
+      "id": "L19_A083",
+      "speaker": "instructor",
+      "text": "Listen. Let us see tomorrow.",
+      "start": 342.587,
+      "end": 344.667,
+      "pause_end": 345.267
+    },
+    {
+      "id": "L19_A084",
+      "speaker": "arabic",
+      "text": "خلنا نشوف باجر",
+      "start": 345.267,
+      "end": 346.707,
+      "pause_end": 347.957
+    },
+    {
+      "id": "L19_A085",
+      "speaker": "instructor",
+      "text": "Your turn. Let us see tomorrow.",
+      "start": 347.957,
+      "end": 350.517,
+      "pause_end": 355.267
+    },
+    {
+      "id": "L19_A086",
+      "speaker": "arabic",
+      "text": "خلنا نشوف باجر",
+      "start": 355.267,
+      "end": 356.707,
+      "pause_end": 357.807
+    },
+    {
+      "id": "L19_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: Is the weather suitable?",
+      "start": 357.807,
+      "end": 360.727,
+      "pause_end": 366.177
+    },
+    {
+      "id": "L19_A088",
+      "speaker": "arabic",
+      "text": "الجو مناسب؟",
+      "start": 366.177,
+      "end": 367.338,
+      "pause_end": 368.438
+    },
+    {
+      "id": "L19_A089",
+      "speaker": "instructor",
+      "text": "Listen. What is your plan for the weekend?",
+      "start": 368.438,
+      "end": 370.838,
+      "pause_end": 371.438
+    },
+    {
+      "id": "L19_A090",
+      "speaker": "arabic_female",
+      "text": "شو خطتك للويكند؟",
+      "start": 371.438,
+      "end": 372.97,
+      "pause_end": 374.22
+    },
+    {
+      "id": "L19_A091",
+      "speaker": "instructor",
+      "text": "Your turn. What is your plan for the weekend?",
+      "start": 374.22,
+      "end": 376.94,
+      "pause_end": 381.69
+    },
+    {
+      "id": "L19_A092",
+      "speaker": "arabic_female",
+      "text": "شو خطتك للويكند؟",
+      "start": 381.69,
+      "end": 383.223,
+      "pause_end": 384.323
+    },
+    {
+      "id": "L19_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: It might rain.",
+      "start": 384.323,
+      "end": 386.723,
+      "pause_end": 392.173
+    },
+    {
+      "id": "L19_A094",
+      "speaker": "arabic_female",
+      "text": "يمكن تمطر",
+      "start": 392.173,
+      "end": 393.38,
+      "pause_end": 394.48
+    },
+    {
+      "id": "L19_A095",
+      "speaker": "instructor",
+      "text": "Listen. I will visit my family.",
+      "start": 394.48,
+      "end": 397.0,
+      "pause_end": 397.6
+    },
+    {
+      "id": "L19_A096",
+      "speaker": "arabic",
+      "text": "بزور أهلي",
+      "start": 397.6,
+      "end": 398.668,
+      "pause_end": 399.918
+    },
+    {
+      "id": "L19_A097",
+      "speaker": "instructor",
+      "text": "Your turn. I will visit my family.",
+      "start": 399.918,
+      "end": 402.598,
+      "pause_end": 407.348
+    },
+    {
+      "id": "L19_A098",
+      "speaker": "arabic",
+      "text": "بزور أهلي",
+      "start": 407.348,
+      "end": 408.416,
+      "pause_end": 409.516
+    },
+    {
+      "id": "L19_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: Let us see tomorrow.",
+      "start": 409.516,
+      "end": 412.796,
+      "pause_end": 418.246
+    },
+    {
+      "id": "L19_A100",
+      "speaker": "arabic",
+      "text": "خلنا نشوف باجر",
+      "start": 418.246,
+      "end": 419.686,
+      "pause_end": 420.786
+    },
+    {
+      "id": "L19_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man when he starts work.",
+      "start": 420.786,
+      "end": 423.786,
+      "pause_end": 428.536
+    },
+    {
+      "id": "L19_A102",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 428.536,
+      "end": 429.651,
+      "pause_end": 430.751
+    },
+    {
+      "id": "L19_A103",
+      "speaker": "instructor",
+      "text": "Listen. If I have time, I will call you.",
+      "start": 430.751,
+      "end": 434.231,
+      "pause_end": 434.831
+    },
+    {
+      "id": "L19_A104",
+      "speaker": "arabic_female",
+      "text": "إذا فضيت بكلمك",
+      "start": 434.831,
+      "end": 436.456,
+      "pause_end": 437.706
+    },
+    {
+      "id": "L19_A105",
+      "speaker": "instructor",
+      "text": "Your turn. If I have time, I will call you.",
+      "start": 437.706,
+      "end": 441.386,
+      "pause_end": 446.136
+    },
+    {
+      "id": "L19_A106",
+      "speaker": "arabic_female",
+      "text": "إذا فضيت بكلمك",
+      "start": 446.136,
+      "end": 447.761,
+      "pause_end": 448.861
+    },
+    {
+      "id": "L19_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: What is your plan for the weekend?",
+      "start": 448.861,
+      "end": 452.141,
+      "pause_end": 457.591
+    },
+    {
+      "id": "L19_A108",
+      "speaker": "arabic_female",
+      "text": "شو خطتك للويكند؟",
+      "start": 457.591,
+      "end": 459.124,
+      "pause_end": 460.224
+    },
+    {
+      "id": "L19_A109",
+      "speaker": "instructor",
+      "text": "Listen. Hopefully we will see you.",
+      "start": 460.224,
+      "end": 462.624,
+      "pause_end": 463.224
+    },
+    {
+      "id": "L19_A110",
+      "speaker": "arabic",
+      "text": "إن شاء الله نشوفك",
+      "start": 463.224,
+      "end": 464.663,
+      "pause_end": 465.913
+    },
+    {
+      "id": "L19_A111",
+      "speaker": "instructor",
+      "text": "Your turn. Hopefully we will see you.",
+      "start": 465.913,
+      "end": 468.833,
+      "pause_end": 473.583
+    },
+    {
+      "id": "L19_A112",
+      "speaker": "arabic",
+      "text": "إن شاء الله نشوفك",
+      "start": 473.583,
+      "end": 475.023,
+      "pause_end": 476.123
+    },
+    {
+      "id": "L19_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: I will visit my family.",
+      "start": 476.123,
+      "end": 479.243,
+      "pause_end": 484.693
+    },
+    {
+      "id": "L19_A114",
+      "speaker": "arabic",
+      "text": "بزور أهلي",
+      "start": 484.693,
+      "end": 485.761,
+      "pause_end": 486.861
+    },
+    {
+      "id": "L19_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Speak before the recording.",
+      "start": 486.861,
+      "end": 489.941,
+      "pause_end": 490.891
+    },
+    {
+      "id": "L19_A116",
+      "speaker": "instructor",
+      "text": "Say: How is the weather today?",
+      "start": 490.891,
+      "end": 493.331,
+      "pause_end": 498.381
+    },
+    {
+      "id": "L19_A117",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 498.381,
+      "end": 499.728,
+      "pause_end": 500.828
+    },
+    {
+      "id": "L19_A118",
+      "speaker": "instructor",
+      "text": "Say: The weather is very hot.",
+      "start": 500.828,
+      "end": 503.388,
+      "pause_end": 508.438
+    },
+    {
+      "id": "L19_A119",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 508.438,
+      "end": 509.878,
+      "pause_end": 510.978
+    },
+    {
+      "id": "L19_A120",
+      "speaker": "instructor",
+      "text": "Say: It is humid today.",
+      "start": 510.978,
+      "end": 513.298,
+      "pause_end": 518.348
+    },
+    {
+      "id": "L19_A121",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 518.348,
+      "end": 519.694,
+      "pause_end": 520.794
+    },
+    {
+      "id": "L19_A122",
+      "speaker": "instructor",
+      "text": "Say: The weather is better at night.",
+      "start": 520.794,
+      "end": 524.034,
+      "pause_end": 529.084
+    },
+    {
+      "id": "L19_A123",
+      "speaker": "arabic",
+      "text": "الجو أحسن بالليل",
+      "start": 529.084,
+      "end": 530.71,
+      "pause_end": 531.81
+    },
+    {
+      "id": "L19_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 531.81,
+      "end": 534.77,
+      "pause_end": 539.72
+    },
+    {
+      "id": "L19_A125",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 539.72,
+      "end": 540.788,
+      "pause_end": 541.888
+    },
+    {
+      "id": "L19_A126",
+      "speaker": "instructor",
+      "text": "Say: Do you want to go out?",
+      "start": 541.888,
+      "end": 544.168,
+      "pause_end": 549.218
+    },
+    {
+      "id": "L19_A127",
+      "speaker": "arabic_female",
+      "text": "تبغي نطلع؟",
+      "start": 549.218,
+      "end": 550.24,
+      "pause_end": 551.34
+    },
+    {
+      "id": "L19_A128",
+      "speaker": "instructor",
+      "text": "Say: Where shall we go?",
+      "start": 551.34,
+      "end": 553.3,
+      "pause_end": 558.35
+    },
+    {
+      "id": "L19_A129",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 558.35,
+      "end": 559.278,
+      "pause_end": 560.378
+    },
+    {
+      "id": "L19_A130",
+      "speaker": "instructor",
+      "text": "Say: Let us go to the beach.",
+      "start": 560.378,
+      "end": 562.458,
+      "pause_end": 567.508
+    },
+    {
+      "id": "L19_A131",
+      "speaker": "arabic_female",
+      "text": "نروح البحر",
+      "start": 567.508,
+      "end": 568.669,
+      "pause_end": 569.769
+    },
+    {
+      "id": "L19_A132",
+      "speaker": "instructor",
+      "text": "Say: Is the weather suitable?",
+      "start": 569.769,
+      "end": 571.729,
+      "pause_end": 576.779
+    },
+    {
+      "id": "L19_A133",
+      "speaker": "arabic",
+      "text": "الجو مناسب؟",
+      "start": 576.779,
+      "end": 577.94,
+      "pause_end": 579.04
+    },
+    {
+      "id": "L19_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow morning.",
+      "start": 579.04,
+      "end": 581.12,
+      "pause_end": 586.07
+    },
+    {
+      "id": "L19_A135",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 586.07,
+      "end": 587.185,
+      "pause_end": 588.285
+    },
+    {
+      "id": "L19_A136",
+      "speaker": "instructor",
+      "text": "Say: It might rain.",
+      "start": 588.285,
+      "end": 590.165,
+      "pause_end": 595.215
+    },
+    {
+      "id": "L19_A137",
+      "speaker": "arabic_female",
+      "text": "يمكن تمطر",
+      "start": 595.215,
+      "end": 596.423,
+      "pause_end": 597.523
+    },
+    {
+      "id": "L19_A138",
+      "speaker": "instructor",
+      "text": "Say: Let us see tomorrow.",
+      "start": 597.523,
+      "end": 599.123,
+      "pause_end": 604.173
+    },
+    {
+      "id": "L19_A139",
+      "speaker": "arabic",
+      "text": "خلنا نشوف باجر",
+      "start": 604.173,
+      "end": 605.612,
+      "pause_end": 606.712
+    },
+    {
+      "id": "L19_A140",
+      "speaker": "instructor",
+      "text": "Say: What is your plan for the weekend?",
+      "start": 606.712,
+      "end": 609.192,
+      "pause_end": 614.242
+    },
+    {
+      "id": "L19_A141",
+      "speaker": "arabic_female",
+      "text": "شو خطتك للويكند؟",
+      "start": 614.242,
+      "end": 615.775,
+      "pause_end": 616.875
+    },
+    {
+      "id": "L19_A142",
+      "speaker": "instructor",
+      "text": "Say: I will visit my family.",
+      "start": 616.875,
+      "end": 619.355,
+      "pause_end": 624.405
+    },
+    {
+      "id": "L19_A143",
+      "speaker": "arabic",
+      "text": "بزور أهلي",
+      "start": 624.405,
+      "end": 625.473,
+      "pause_end": 626.573
+    },
+    {
+      "id": "L19_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 626.573,
+      "end": 628.853,
+      "pause_end": 633.803
+    },
+    {
+      "id": "L19_A145",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 633.803,
+      "end": 634.964,
+      "pause_end": 636.064
+    },
+    {
+      "id": "L19_A146",
+      "speaker": "instructor",
+      "text": "Say: If I have time, I will call you.",
+      "start": 636.064,
+      "end": 639.064,
+      "pause_end": 644.114
+    },
+    {
+      "id": "L19_A147",
+      "speaker": "arabic_female",
+      "text": "إذا فضيت بكلمك",
+      "start": 644.114,
+      "end": 645.739,
+      "pause_end": 646.839
+    },
+    {
+      "id": "L19_A148",
+      "speaker": "instructor",
+      "text": "Say: Hopefully we will see you.",
+      "start": 646.839,
+      "end": 648.599,
+      "pause_end": 653.649
+    },
+    {
+      "id": "L19_A149",
+      "speaker": "arabic",
+      "text": "إن شاء الله نشوفك",
+      "start": 653.649,
+      "end": 655.089,
+      "pause_end": 656.189
+    },
+    {
+      "id": "L19_A150",
+      "speaker": "instructor",
+      "text": "Say: How is the weather today?",
+      "start": 656.189,
+      "end": 658.629,
+      "pause_end": 663.679
+    },
+    {
+      "id": "L19_A151",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 663.679,
+      "end": 665.026,
+      "pause_end": 666.126
+    },
+    {
+      "id": "L19_A152",
+      "speaker": "instructor",
+      "text": "Say: It is humid today.",
+      "start": 666.126,
+      "end": 668.446,
+      "pause_end": 673.496
+    },
+    {
+      "id": "L19_A153",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 673.496,
+      "end": 674.842,
+      "pause_end": 675.942
+    },
+    {
+      "id": "L19_A154",
+      "speaker": "instructor",
+      "text": "Say: Do you want to go out?",
+      "start": 675.942,
+      "end": 678.222,
+      "pause_end": 683.272
+    },
+    {
+      "id": "L19_A155",
+      "speaker": "arabic_female",
+      "text": "تبغي نطلع؟",
+      "start": 683.272,
+      "end": 684.294,
+      "pause_end": 685.394
+    },
+    {
+      "id": "L19_A156",
+      "speaker": "instructor",
+      "text": "Say: Let us go to the beach.",
+      "start": 685.394,
+      "end": 687.474,
+      "pause_end": 692.524
+    },
+    {
+      "id": "L19_A157",
+      "speaker": "arabic_female",
+      "text": "نروح البحر",
+      "start": 692.524,
+      "end": 693.685,
+      "pause_end": 694.785
+    },
+    {
+      "id": "L19_A158",
+      "speaker": "instructor",
+      "text": "Say: It might rain.",
+      "start": 694.785,
+      "end": 696.665,
+      "pause_end": 701.715
+    },
+    {
+      "id": "L19_A159",
+      "speaker": "arabic_female",
+      "text": "يمكن تمطر",
+      "start": 701.715,
+      "end": 702.923,
+      "pause_end": 704.023
+    },
+    {
+      "id": "L19_A160",
+      "speaker": "instructor",
+      "text": "Say: What is your plan for the weekend?",
+      "start": 704.023,
+      "end": 706.503,
+      "pause_end": 711.553
+    },
+    {
+      "id": "L19_A161",
+      "speaker": "arabic_female",
+      "text": "شو خطتك للويكند؟",
+      "start": 711.553,
+      "end": 713.085,
+      "pause_end": 714.185
+    },
+    {
+      "id": "L19_A162",
+      "speaker": "instructor",
+      "text": "Say: If I have time, I will call you.",
+      "start": 714.185,
+      "end": 717.185,
+      "pause_end": 722.235
+    },
+    {
+      "id": "L19_A163",
+      "speaker": "arabic_female",
+      "text": "إذا فضيت بكلمك",
+      "start": 722.235,
+      "end": 723.86,
+      "pause_end": 724.96
+    },
+    {
+      "id": "L19_A164",
+      "speaker": "instructor",
+      "text": "Say: The weather is very hot.",
+      "start": 724.96,
+      "end": 727.52,
+      "pause_end": 732.57
+    },
+    {
+      "id": "L19_A165",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 732.57,
+      "end": 734.01,
+      "pause_end": 735.11
+    },
+    {
+      "id": "L19_A166",
+      "speaker": "instructor",
+      "text": "Say: The weather is better at night.",
+      "start": 735.11,
+      "end": 738.35,
+      "pause_end": 743.4
+    },
+    {
+      "id": "L19_A167",
+      "speaker": "arabic",
+      "text": "الجو أحسن بالليل",
+      "start": 743.4,
+      "end": 745.025,
+      "pause_end": 746.125
+    },
+    {
+      "id": "L19_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 746.125,
+      "end": 748.325,
+      "pause_end": 753.275
+    },
+    {
+      "id": "L19_A169",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 753.275,
+      "end": 754.251,
+      "pause_end": 755.351
+    },
+    {
+      "id": "L19_A170",
+      "speaker": "instructor",
+      "text": "Say: Where shall we go?",
+      "start": 755.351,
+      "end": 757.311,
+      "pause_end": 762.361
+    },
+    {
+      "id": "L19_A171",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 762.361,
+      "end": 763.29,
+      "pause_end": 764.39
+    },
+    {
+      "id": "L19_A172",
+      "speaker": "instructor",
+      "text": "Say: Is the weather suitable?",
+      "start": 764.39,
+      "end": 766.35,
+      "pause_end": 771.4
+    },
+    {
+      "id": "L19_A173",
+      "speaker": "arabic",
+      "text": "الجو مناسب؟",
+      "start": 771.4,
+      "end": 772.561,
+      "pause_end": 773.661
+    },
+    {
+      "id": "L19_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Say you cannot today.",
+      "start": 773.661,
+      "end": 776.901,
+      "pause_end": 781.851
+    },
+    {
+      "id": "L19_A175",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 781.851,
+      "end": 783.058,
+      "pause_end": 784.158
+    },
+    {
+      "id": "L19_A176",
+      "speaker": "instructor",
+      "text": "Say: Let us see tomorrow.",
+      "start": 784.158,
+      "end": 785.758,
+      "pause_end": 790.808
+    },
+    {
+      "id": "L19_A177",
+      "speaker": "arabic",
+      "text": "خلنا نشوف باجر",
+      "start": 790.808,
+      "end": 792.248,
+      "pause_end": 793.348
+    },
+    {
+      "id": "L19_A178",
+      "speaker": "instructor",
+      "text": "Say: I will visit my family.",
+      "start": 793.348,
+      "end": 795.828,
+      "pause_end": 800.878
+    },
+    {
+      "id": "L19_A179",
+      "speaker": "arabic",
+      "text": "بزور أهلي",
+      "start": 800.878,
+      "end": 801.946,
+      "pause_end": 803.046
+    },
+    {
+      "id": "L19_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 803.046,
+      "end": 806.006,
+      "pause_end": 810.956
+    },
+    {
+      "id": "L19_A181",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 810.956,
+      "end": 811.931,
+      "pause_end": 813.031
+    },
+    {
+      "id": "L19_A182",
+      "speaker": "instructor",
+      "text": "Say: Hopefully we will see you.",
+      "start": 813.031,
+      "end": 814.791,
+      "pause_end": 819.841
+    },
+    {
+      "id": "L19_A183",
+      "speaker": "arabic",
+      "text": "إن شاء الله نشوفك",
+      "start": 819.841,
+      "end": 821.281,
+      "pause_end": 822.381
+    },
+    {
+      "id": "L19_A184",
+      "speaker": "instructor",
+      "text": "How do you say: Hopefully we will see you.",
+      "start": 822.381,
+      "end": 825.261,
+      "pause_end": 830.711
+    },
+    {
+      "id": "L19_A185",
+      "speaker": "arabic",
+      "text": "إن شاء الله نشوفك",
+      "start": 830.711,
+      "end": 832.15,
+      "pause_end": 833.25
+    },
+    {
+      "id": "L19_A186",
+      "speaker": "instructor",
+      "text": "How do you say: If I have time, I will call you.",
+      "start": 833.25,
+      "end": 836.93,
+      "pause_end": 842.38
+    },
+    {
+      "id": "L19_A187",
+      "speaker": "arabic_female",
+      "text": "إذا فضيت بكلمك",
+      "start": 842.38,
+      "end": 844.006,
+      "pause_end": 845.106
+    },
+    {
+      "id": "L19_A188",
+      "speaker": "instructor",
+      "text": "How do you say: I will visit my family.",
+      "start": 845.106,
+      "end": 847.906,
+      "pause_end": 853.356
+    },
+    {
+      "id": "L19_A189",
+      "speaker": "arabic",
+      "text": "بزور أهلي",
+      "start": 853.356,
+      "end": 854.424,
+      "pause_end": 855.524
+    },
+    {
+      "id": "L19_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 855.524,
+      "end": 858.484,
+      "pause_end": 863.434
+    },
+    {
+      "id": "L19_A191",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 863.434,
+      "end": 864.502,
+      "pause_end": 865.602
+    },
+    {
+      "id": "L19_A192",
+      "speaker": "instructor",
+      "text": "How do you say: What is your plan for the weekend?",
+      "start": 865.602,
+      "end": 868.642,
+      "pause_end": 874.092
+    },
+    {
+      "id": "L19_A193",
+      "speaker": "arabic_female",
+      "text": "شو خطتك للويكند؟",
+      "start": 874.092,
+      "end": 875.624,
+      "pause_end": 876.724
+    },
+    {
+      "id": "L19_A194",
+      "speaker": "instructor",
+      "text": "How do you say: Let us see tomorrow.",
+      "start": 876.724,
+      "end": 880.604,
+      "pause_end": 886.054
+    },
+    {
+      "id": "L19_A195",
+      "speaker": "arabic",
+      "text": "خلنا نشوف باجر",
+      "start": 886.054,
+      "end": 887.494,
+      "pause_end": 888.594
+    },
+    {
+      "id": "L19_A196",
+      "speaker": "instructor",
+      "text": "How do you say: It might rain.",
+      "start": 888.594,
+      "end": 891.114,
+      "pause_end": 896.564
+    },
+    {
+      "id": "L19_A197",
+      "speaker": "arabic_female",
+      "text": "يمكن تمطر",
+      "start": 896.564,
+      "end": 897.772,
+      "pause_end": 898.872
+    },
+    {
+      "id": "L19_A198",
+      "speaker": "instructor",
+      "text": "How do you say: Is the weather suitable?",
+      "start": 898.872,
+      "end": 901.352,
+      "pause_end": 906.802
+    },
+    {
+      "id": "L19_A199",
+      "speaker": "arabic",
+      "text": "الجو مناسب؟",
+      "start": 906.802,
+      "end": 907.963,
+      "pause_end": 909.063
+    },
+    {
+      "id": "L19_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Say you have an appointment.",
+      "start": 909.063,
+      "end": 911.463,
+      "pause_end": 916.413
+    },
+    {
+      "id": "L19_A201",
+      "speaker": "arabic_female",
+      "text": "عندي موعد",
+      "start": 916.413,
+      "end": 917.341,
+      "pause_end": 918.441
+    },
+    {
+      "id": "L19_A202",
+      "speaker": "instructor",
+      "text": "How do you say: Let us go to the beach.",
+      "start": 918.441,
+      "end": 921.041,
+      "pause_end": 926.491
+    },
+    {
+      "id": "L19_A203",
+      "speaker": "arabic_female",
+      "text": "نروح البحر",
+      "start": 926.491,
+      "end": 927.652,
+      "pause_end": 928.752
+    },
+    {
+      "id": "L19_A204",
+      "speaker": "instructor",
+      "text": "How do you say: Where shall we go?",
+      "start": 928.752,
+      "end": 932.432,
+      "pause_end": 937.882
+    },
+    {
+      "id": "L19_A205",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 937.882,
+      "end": 938.811,
+      "pause_end": 939.911
+    },
+    {
+      "id": "L19_A206",
+      "speaker": "instructor",
+      "text": "How do you say: Do you want to go out?",
+      "start": 939.911,
+      "end": 942.271,
+      "pause_end": 947.721
+    },
+    {
+      "id": "L19_A207",
+      "speaker": "arabic_female",
+      "text": "تبغي نطلع؟",
+      "start": 947.721,
+      "end": 948.743,
+      "pause_end": 949.843
+    },
+    {
+      "id": "L19_A208",
+      "speaker": "instructor",
+      "text": "How do you say: The weather is better at night.",
+      "start": 949.843,
+      "end": 952.723,
+      "pause_end": 958.173
+    },
+    {
+      "id": "L19_A209",
+      "speaker": "arabic",
+      "text": "الجو أحسن بالليل",
+      "start": 958.173,
+      "end": 959.798,
+      "pause_end": 960.898
+    },
+    {
+      "id": "L19_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Ask how much the bill is.",
+      "start": 960.898,
+      "end": 964.138,
+      "pause_end": 969.088
+    },
+    {
+      "id": "L19_A211",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 969.088,
+      "end": 970.249,
+      "pause_end": 971.349
+    },
+    {
+      "id": "L19_A212",
+      "speaker": "instructor",
+      "text": "How do you say: It is humid today.",
+      "start": 971.349,
+      "end": 974.189,
+      "pause_end": 979.639
+    },
+    {
+      "id": "L19_A213",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 979.639,
+      "end": 980.986,
+      "pause_end": 982.086
+    },
+    {
+      "id": "L19_A214",
+      "speaker": "instructor",
+      "text": "How do you say: The weather is very hot.",
+      "start": 982.086,
+      "end": 985.086,
+      "pause_end": 990.536
+    },
+    {
+      "id": "L19_A215",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 990.536,
+      "end": 991.976,
+      "pause_end": 993.076
+    },
+    {
+      "id": "L19_A216",
+      "speaker": "instructor",
+      "text": "How do you say: How is the weather today?",
+      "start": 993.076,
+      "end": 995.876,
+      "pause_end": 1001.326
+    },
+    {
+      "id": "L19_A217",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 1001.326,
+      "end": 1002.673,
+      "pause_end": 1003.773
+    },
+    {
+      "id": "L19_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer naturally.",
+      "start": 1003.773,
+      "end": 1006.453,
+      "pause_end": 1007.303
+    },
+    {
+      "id": "L19_A219",
+      "speaker": "instructor",
+      "text": "Say: Hopefully we will see you.",
+      "start": 1007.303,
+      "end": 1009.063,
+      "pause_end": 1014.713
+    },
+    {
+      "id": "L19_A220",
+      "speaker": "arabic",
+      "text": "إن شاء الله نشوفك",
+      "start": 1014.713,
+      "end": 1016.152,
+      "pause_end": 1017.252
+    },
+    {
+      "id": "L19_A221",
+      "speaker": "instructor",
+      "text": "Say: It is humid today.",
+      "start": 1017.252,
+      "end": 1019.572,
+      "pause_end": 1025.222
+    },
+    {
+      "id": "L19_A222",
+      "speaker": "arabic_female",
+      "text": "اليوم في رطوبة",
+      "start": 1025.222,
+      "end": 1026.569,
+      "pause_end": 1027.669
+    },
+    {
+      "id": "L19_A223",
+      "speaker": "instructor",
+      "text": "Say: How is the weather today?",
+      "start": 1027.669,
+      "end": 1030.109,
+      "pause_end": 1035.759
+    },
+    {
+      "id": "L19_A224",
+      "speaker": "arabic_female",
+      "text": "شلون الجو اليوم؟",
+      "start": 1035.759,
+      "end": 1037.106,
+      "pause_end": 1038.206
+    },
+    {
+      "id": "L19_A225",
+      "speaker": "instructor",
+      "text": "Say: Is the weather suitable?",
+      "start": 1038.206,
+      "end": 1040.166,
+      "pause_end": 1045.816
+    },
+    {
+      "id": "L19_A226",
+      "speaker": "arabic",
+      "text": "الجو مناسب؟",
+      "start": 1045.816,
+      "end": 1046.977,
+      "pause_end": 1048.077
+    },
+    {
+      "id": "L19_A227",
+      "speaker": "instructor",
+      "text": "Say: Where shall we go?",
+      "start": 1048.077,
+      "end": 1050.037,
+      "pause_end": 1055.687
+    },
+    {
+      "id": "L19_A228",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 1055.687,
+      "end": 1056.616,
+      "pause_end": 1057.716
+    },
+    {
+      "id": "L19_A229",
+      "speaker": "instructor",
+      "text": "Say: I will visit my family.",
+      "start": 1057.716,
+      "end": 1060.196,
+      "pause_end": 1065.846
+    },
+    {
+      "id": "L19_A230",
+      "speaker": "arabic",
+      "text": "بزور أهلي",
+      "start": 1065.846,
+      "end": 1066.914,
+      "pause_end": 1068.014
+    },
+    {
+      "id": "L19_A231",
+      "speaker": "instructor",
+      "text": "Say: The weather is very hot.",
+      "start": 1068.014,
+      "end": 1070.574,
+      "pause_end": 1076.224
+    },
+    {
+      "id": "L19_A232",
+      "speaker": "arabic",
+      "text": "الجو حار وايد",
+      "start": 1076.224,
+      "end": 1077.663,
+      "pause_end": 1078.763
+    },
+    {
+      "id": "L19_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1078.763,
+      "end": 1082.843,
+      "pause_end": 1083.793
+    }
+  ]
+}

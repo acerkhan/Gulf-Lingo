@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L20_A001",
+      "speaker": "instructor",
+      "text": "Lesson 20. Solving Everyday Problems. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 5.48,
+      "pause_end": 6.43
+    },
+    {
+      "id": "L20_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 6.43,
+      "end": 9.79,
+      "pause_end": 10.64
+    },
+    {
+      "id": "L20_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 10.64,
+      "end": 13.16,
+      "pause_end": 17.61
+    },
+    {
+      "id": "L20_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 17.61,
+      "end": 18.771,
+      "pause_end": 19.871
+    },
+    {
+      "id": "L20_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 19.871,
+      "end": 23.031,
+      "pause_end": 27.481
+    },
+    {
+      "id": "L20_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 27.481,
+      "end": 28.456,
+      "pause_end": 29.556
+    },
+    {
+      "id": "L20_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 29.556,
+      "end": 32.956,
+      "pause_end": 37.406
+    },
+    {
+      "id": "L20_A008",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 37.406,
+      "end": 38.474,
+      "pause_end": 39.574
+    },
+    {
+      "id": "L20_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 39.574,
+      "end": 43.214,
+      "pause_end": 47.664
+    },
+    {
+      "id": "L20_A010",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 47.664,
+      "end": 48.64,
+      "pause_end": 49.74
+    },
+    {
+      "id": "L20_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask how much the bill is.",
+      "start": 49.74,
+      "end": 53.1,
+      "pause_end": 57.55
+    },
+    {
+      "id": "L20_A012",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 57.55,
+      "end": 58.711,
+      "pause_end": 59.811
+    },
+    {
+      "id": "L20_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man when he starts work.",
+      "start": 59.811,
+      "end": 63.211,
+      "pause_end": 67.661
+    },
+    {
+      "id": "L20_A014",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 67.661,
+      "end": 68.775,
+      "pause_end": 69.875
+    },
+    {
+      "id": "L20_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few new expressions.",
+      "start": 69.875,
+      "end": 71.835,
+      "pause_end": 72.585
+    },
+    {
+      "id": "L20_A016",
+      "speaker": "instructor",
+      "text": "Listen. I have a problem.",
+      "start": 72.585,
+      "end": 74.305,
+      "pause_end": 74.955
+    },
+    {
+      "id": "L20_A017",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 74.955,
+      "end": 75.931,
+      "pause_end": 77.181
+    },
+    {
+      "id": "L20_A018",
+      "speaker": "instructor",
+      "text": "Listen. What is the problem?",
+      "start": 77.181,
+      "end": 78.981,
+      "pause_end": 79.631
+    },
+    {
+      "id": "L20_A019",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 79.631,
+      "end": 80.699,
+      "pause_end": 81.949
+    },
+    {
+      "id": "L20_A020",
+      "speaker": "instructor",
+      "text": "Listen. I lost my key.",
+      "start": 81.949,
+      "end": 84.029,
+      "pause_end": 84.679
+    },
+    {
+      "id": "L20_A021",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 84.679,
+      "end": 85.979,
+      "pause_end": 87.229
+    },
+    {
+      "id": "L20_A022",
+      "speaker": "instructor",
+      "text": "Listen. Where did you see it last? Ask a man.",
+      "start": 87.229,
+      "end": 90.469,
+      "pause_end": 91.119
+    },
+    {
+      "id": "L20_A023",
+      "speaker": "arabic_female",
+      "text": "وين شفته آخر مرة؟",
+      "start": 91.119,
+      "end": 92.559,
+      "pause_end": 93.809
+    },
+    {
+      "id": "L20_A024",
+      "speaker": "instructor",
+      "text": "Listen. Maybe it is in the car.",
+      "start": 93.809,
+      "end": 96.489,
+      "pause_end": 97.139
+    },
+    {
+      "id": "L20_A025",
+      "speaker": "arabic",
+      "text": "يمكن في السيارة",
+      "start": 97.139,
+      "end": 98.532,
+      "pause_end": 99.782
+    },
+    {
+      "id": "L20_A026",
+      "speaker": "instructor",
+      "text": "Now speak before you hear the answer.",
+      "start": 99.782,
+      "end": 103.022,
+      "pause_end": 103.772
+    },
+    {
+      "id": "L20_A027",
+      "speaker": "instructor",
+      "text": "Listen. I have a problem.",
+      "start": 103.772,
+      "end": 105.492,
+      "pause_end": 106.092
+    },
+    {
+      "id": "L20_A028",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 106.092,
+      "end": 107.067,
+      "pause_end": 108.317
+    },
+    {
+      "id": "L20_A029",
+      "speaker": "instructor",
+      "text": "Your turn. I have a problem.",
+      "start": 108.317,
+      "end": 110.957,
+      "pause_end": 115.707
+    },
+    {
+      "id": "L20_A030",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 115.707,
+      "end": 116.682,
+      "pause_end": 117.782
+    },
+    {
+      "id": "L20_A031",
+      "speaker": "instructor",
+      "text": "Listen. What is the problem?",
+      "start": 117.782,
+      "end": 119.582,
+      "pause_end": 120.182
+    },
+    {
+      "id": "L20_A032",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 120.182,
+      "end": 121.25,
+      "pause_end": 122.5
+    },
+    {
+      "id": "L20_A033",
+      "speaker": "instructor",
+      "text": "Your turn. What is the problem?",
+      "start": 122.5,
+      "end": 124.66,
+      "pause_end": 129.41
+    },
+    {
+      "id": "L20_A034",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 129.41,
+      "end": 130.479,
+      "pause_end": 131.579
+    },
+    {
+      "id": "L20_A035",
+      "speaker": "instructor",
+      "text": "Listen. I lost my key.",
+      "start": 131.579,
+      "end": 133.659,
+      "pause_end": 134.259
+    },
+    {
+      "id": "L20_A036",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 134.259,
+      "end": 135.559,
+      "pause_end": 136.809
+    },
+    {
+      "id": "L20_A037",
+      "speaker": "instructor",
+      "text": "Your turn. I lost my key.",
+      "start": 136.809,
+      "end": 139.089,
+      "pause_end": 143.839
+    },
+    {
+      "id": "L20_A038",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 143.839,
+      "end": 145.139,
+      "pause_end": 146.239
+    },
+    {
+      "id": "L20_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: I have a problem.",
+      "start": 146.239,
+      "end": 148.599,
+      "pause_end": 154.049
+    },
+    {
+      "id": "L20_A040",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 154.049,
+      "end": 155.024,
+      "pause_end": 156.124
+    },
+    {
+      "id": "L20_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 156.124,
+      "end": 159.004,
+      "pause_end": 163.754
+    },
+    {
+      "id": "L20_A042",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 163.754,
+      "end": 164.822,
+      "pause_end": 165.922
+    },
+    {
+      "id": "L20_A043",
+      "speaker": "instructor",
+      "text": "Listen. Where did you see it last? Ask a man.",
+      "start": 165.922,
+      "end": 169.162,
+      "pause_end": 169.762
+    },
+    {
+      "id": "L20_A044",
+      "speaker": "arabic_female",
+      "text": "وين شفته آخر مرة؟",
+      "start": 169.762,
+      "end": 171.202,
+      "pause_end": 172.452
+    },
+    {
+      "id": "L20_A045",
+      "speaker": "instructor",
+      "text": "Your turn. Where did you see it last? Ask a man.",
+      "start": 172.452,
+      "end": 176.172,
+      "pause_end": 180.922
+    },
+    {
+      "id": "L20_A046",
+      "speaker": "arabic_female",
+      "text": "وين شفته آخر مرة؟",
+      "start": 180.922,
+      "end": 182.362,
+      "pause_end": 183.462
+    },
+    {
+      "id": "L20_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: What is the problem?",
+      "start": 183.462,
+      "end": 186.302,
+      "pause_end": 191.752
+    },
+    {
+      "id": "L20_A048",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 191.752,
+      "end": 192.82,
+      "pause_end": 193.92
+    },
+    {
+      "id": "L20_A049",
+      "speaker": "instructor",
+      "text": "Listen. Maybe it is in the car.",
+      "start": 193.92,
+      "end": 196.6,
+      "pause_end": 197.2
+    },
+    {
+      "id": "L20_A050",
+      "speaker": "arabic",
+      "text": "يمكن في السيارة",
+      "start": 197.2,
+      "end": 198.593,
+      "pause_end": 199.843
+    },
+    {
+      "id": "L20_A051",
+      "speaker": "instructor",
+      "text": "Your turn. Maybe it is in the car.",
+      "start": 199.843,
+      "end": 202.043,
+      "pause_end": 206.793
+    },
+    {
+      "id": "L20_A052",
+      "speaker": "arabic",
+      "text": "يمكن في السيارة",
+      "start": 206.793,
+      "end": 208.186,
+      "pause_end": 209.286
+    },
+    {
+      "id": "L20_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: I lost my key.",
+      "start": 209.286,
+      "end": 212.246,
+      "pause_end": 217.696
+    },
+    {
+      "id": "L20_A054",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 217.696,
+      "end": 218.996,
+      "pause_end": 220.096
+    },
+    {
+      "id": "L20_A055",
+      "speaker": "instructor",
+      "text": "Listen. Did you look in the bag? Ask a man.",
+      "start": 220.096,
+      "end": 223.457,
+      "pause_end": 224.056
+    },
+    {
+      "id": "L20_A056",
+      "speaker": "arabic_female",
+      "text": "دورت في الشنطة؟",
+      "start": 224.056,
+      "end": 225.496,
+      "pause_end": 226.746
+    },
+    {
+      "id": "L20_A057",
+      "speaker": "instructor",
+      "text": "Your turn. Did you look in the bag? Ask a man.",
+      "start": 226.746,
+      "end": 230.066,
+      "pause_end": 234.816
+    },
+    {
+      "id": "L20_A058",
+      "speaker": "arabic_female",
+      "text": "دورت في الشنطة؟",
+      "start": 234.816,
+      "end": 236.256,
+      "pause_end": 237.356
+    },
+    {
+      "id": "L20_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where did you see it last? Ask a man.",
+      "start": 237.356,
+      "end": 241.876,
+      "pause_end": 247.326
+    },
+    {
+      "id": "L20_A060",
+      "speaker": "arabic_female",
+      "text": "وين شفته آخر مرة؟",
+      "start": 247.326,
+      "end": 248.765,
+      "pause_end": 249.865
+    },
+    {
+      "id": "L20_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 249.865,
+      "end": 252.585,
+      "pause_end": 257.335
+    },
+    {
+      "id": "L20_A062",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 257.335,
+      "end": 258.311,
+      "pause_end": 259.411
+    },
+    {
+      "id": "L20_A063",
+      "speaker": "instructor",
+      "text": "Listen. Yes, I looked.",
+      "start": 259.411,
+      "end": 261.491,
+      "pause_end": 262.091
+    },
+    {
+      "id": "L20_A064",
+      "speaker": "arabic",
+      "text": "هيه، دورت",
+      "start": 262.091,
+      "end": 263.252,
+      "pause_end": 264.502
+    },
+    {
+      "id": "L20_A065",
+      "speaker": "instructor",
+      "text": "Your turn. Yes, I looked.",
+      "start": 264.502,
+      "end": 267.742,
+      "pause_end": 272.492
+    },
+    {
+      "id": "L20_A066",
+      "speaker": "arabic",
+      "text": "هيه، دورت",
+      "start": 272.492,
+      "end": 273.653,
+      "pause_end": 274.753
+    },
+    {
+      "id": "L20_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: Maybe it is in the car.",
+      "start": 274.753,
+      "end": 277.913,
+      "pause_end": 283.363
+    },
+    {
+      "id": "L20_A068",
+      "speaker": "arabic",
+      "text": "يمكن في السيارة",
+      "start": 283.363,
+      "end": 284.756,
+      "pause_end": 285.856
+    },
+    {
+      "id": "L20_A069",
+      "speaker": "instructor",
+      "text": "Listen. I did not find it.",
+      "start": 285.856,
+      "end": 287.936,
+      "pause_end": 288.536
+    },
+    {
+      "id": "L20_A070",
+      "speaker": "arabic",
+      "text": "ما حصلته",
+      "start": 288.536,
+      "end": 289.604,
+      "pause_end": 290.854
+    },
+    {
+      "id": "L20_A071",
+      "speaker": "instructor",
+      "text": "Your turn. I did not find it.",
+      "start": 290.854,
+      "end": 293.494,
+      "pause_end": 298.244
+    },
+    {
+      "id": "L20_A072",
+      "speaker": "arabic",
+      "text": "ما حصلته",
+      "start": 298.244,
+      "end": 299.312,
+      "pause_end": 300.412
+    },
+    {
+      "id": "L20_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: Did you look in the bag? Ask a man.",
+      "start": 300.412,
+      "end": 304.212,
+      "pause_end": 309.662
+    },
+    {
+      "id": "L20_A074",
+      "speaker": "arabic_female",
+      "text": "دورت في الشنطة؟",
+      "start": 309.662,
+      "end": 311.102,
+      "pause_end": 312.202
+    },
+    {
+      "id": "L20_A075",
+      "speaker": "instructor",
+      "text": "Listen. Do not worry.",
+      "start": 312.202,
+      "end": 313.722,
+      "pause_end": 314.322
+    },
+    {
+      "id": "L20_A076",
+      "speaker": "arabic_female",
+      "text": "لا تحاتي",
+      "start": 314.322,
+      "end": 315.436,
+      "pause_end": 316.686
+    },
+    {
+      "id": "L20_A077",
+      "speaker": "instructor",
+      "text": "Your turn. Do not worry.",
+      "start": 316.686,
+      "end": 318.446,
+      "pause_end": 323.196
+    },
+    {
+      "id": "L20_A078",
+      "speaker": "arabic_female",
+      "text": "لا تحاتي",
+      "start": 323.196,
+      "end": 324.311,
+      "pause_end": 325.411
+    },
+    {
+      "id": "L20_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: Yes, I looked.",
+      "start": 325.411,
+      "end": 328.131,
+      "pause_end": 333.581
+    },
+    {
+      "id": "L20_A080",
+      "speaker": "arabic",
+      "text": "هيه، دورت",
+      "start": 333.581,
+      "end": 334.742,
+      "pause_end": 335.842
+    },
+    {
+      "id": "L20_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask how much the bill is.",
+      "start": 335.842,
+      "end": 338.842,
+      "pause_end": 343.592
+    },
+    {
+      "id": "L20_A082",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 343.592,
+      "end": 344.753,
+      "pause_end": 345.853
+    },
+    {
+      "id": "L20_A083",
+      "speaker": "instructor",
+      "text": "Listen. Let us look again.",
+      "start": 345.853,
+      "end": 347.813,
+      "pause_end": 348.413
+    },
+    {
+      "id": "L20_A084",
+      "speaker": "arabic_female",
+      "text": "خلنا ندور مرة ثانية",
+      "start": 348.413,
+      "end": 350.085,
+      "pause_end": 351.335
+    },
+    {
+      "id": "L20_A085",
+      "speaker": "instructor",
+      "text": "Your turn. Let us look again.",
+      "start": 351.335,
+      "end": 353.735,
+      "pause_end": 358.485
+    },
+    {
+      "id": "L20_A086",
+      "speaker": "arabic_female",
+      "text": "خلنا ندور مرة ثانية",
+      "start": 358.485,
+      "end": 360.157,
+      "pause_end": 361.257
+    },
+    {
+      "id": "L20_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: I did not find it.",
+      "start": 361.257,
+      "end": 364.057,
+      "pause_end": 369.507
+    },
+    {
+      "id": "L20_A088",
+      "speaker": "arabic",
+      "text": "ما حصلته",
+      "start": 369.507,
+      "end": 370.575,
+      "pause_end": 371.675
+    },
+    {
+      "id": "L20_A089",
+      "speaker": "instructor",
+      "text": "Listen. Wait, I found it.",
+      "start": 371.675,
+      "end": 373.835,
+      "pause_end": 374.435
+    },
+    {
+      "id": "L20_A090",
+      "speaker": "arabic",
+      "text": "لحظة، حصلته",
+      "start": 374.435,
+      "end": 375.875,
+      "pause_end": 377.125
+    },
+    {
+      "id": "L20_A091",
+      "speaker": "instructor",
+      "text": "Your turn. Wait, I found it.",
+      "start": 377.125,
+      "end": 379.805,
+      "pause_end": 384.555
+    },
+    {
+      "id": "L20_A092",
+      "speaker": "arabic",
+      "text": "لحظة، حصلته",
+      "start": 384.555,
+      "end": 385.994,
+      "pause_end": 387.094
+    },
+    {
+      "id": "L20_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do not worry.",
+      "start": 387.094,
+      "end": 389.454,
+      "pause_end": 394.904
+    },
+    {
+      "id": "L20_A094",
+      "speaker": "arabic_female",
+      "text": "لا تحاتي",
+      "start": 394.904,
+      "end": 396.019,
+      "pause_end": 397.119
+    },
+    {
+      "id": "L20_A095",
+      "speaker": "instructor",
+      "text": "Listen. Where was it?",
+      "start": 397.119,
+      "end": 398.839,
+      "pause_end": 399.439
+    },
+    {
+      "id": "L20_A096",
+      "speaker": "arabic_female",
+      "text": "وين كان؟",
+      "start": 399.439,
+      "end": 400.507,
+      "pause_end": 401.757
+    },
+    {
+      "id": "L20_A097",
+      "speaker": "instructor",
+      "text": "Your turn. Where was it?",
+      "start": 401.757,
+      "end": 403.837,
+      "pause_end": 408.587
+    },
+    {
+      "id": "L20_A098",
+      "speaker": "arabic_female",
+      "text": "وين كان؟",
+      "start": 408.587,
+      "end": 409.655,
+      "pause_end": 410.755
+    },
+    {
+      "id": "L20_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: Let us look again.",
+      "start": 410.755,
+      "end": 413.115,
+      "pause_end": 418.565
+    },
+    {
+      "id": "L20_A100",
+      "speaker": "arabic_female",
+      "text": "خلنا ندور مرة ثانية",
+      "start": 418.565,
+      "end": 420.237,
+      "pause_end": 421.337
+    },
+    {
+      "id": "L20_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man when he starts work.",
+      "start": 421.337,
+      "end": 424.337,
+      "pause_end": 429.087
+    },
+    {
+      "id": "L20_A102",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 429.087,
+      "end": 430.202,
+      "pause_end": 431.302
+    },
+    {
+      "id": "L20_A103",
+      "speaker": "instructor",
+      "text": "Listen. It was in my pocket.",
+      "start": 431.302,
+      "end": 433.622,
+      "pause_end": 434.222
+    },
+    {
+      "id": "L20_A104",
+      "speaker": "arabic",
+      "text": "كان في جيبي",
+      "start": 434.222,
+      "end": 435.243,
+      "pause_end": 436.493
+    },
+    {
+      "id": "L20_A105",
+      "speaker": "instructor",
+      "text": "Your turn. It was in my pocket.",
+      "start": 436.493,
+      "end": 439.293,
+      "pause_end": 444.043
+    },
+    {
+      "id": "L20_A106",
+      "speaker": "arabic",
+      "text": "كان في جيبي",
+      "start": 444.043,
+      "end": 445.065,
+      "pause_end": 446.165
+    },
+    {
+      "id": "L20_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: Wait, I found it.",
+      "start": 446.165,
+      "end": 449.645,
+      "pause_end": 455.095
+    },
+    {
+      "id": "L20_A108",
+      "speaker": "arabic",
+      "text": "لحظة، حصلته",
+      "start": 455.095,
+      "end": 456.535,
+      "pause_end": 457.635
+    },
+    {
+      "id": "L20_A109",
+      "speaker": "instructor",
+      "text": "Listen. Thank goodness.",
+      "start": 457.635,
+      "end": 459.675,
+      "pause_end": 460.275
+    },
+    {
+      "id": "L20_A110",
+      "speaker": "arabic_female",
+      "text": "الحمد لله",
+      "start": 460.275,
+      "end": 461.436,
+      "pause_end": 462.686
+    },
+    {
+      "id": "L20_A111",
+      "speaker": "instructor",
+      "text": "Your turn. Thank goodness.",
+      "start": 462.686,
+      "end": 464.766,
+      "pause_end": 469.516
+    },
+    {
+      "id": "L20_A112",
+      "speaker": "arabic_female",
+      "text": "الحمد لله",
+      "start": 469.516,
+      "end": 470.677,
+      "pause_end": 471.777
+    },
+    {
+      "id": "L20_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where was it?",
+      "start": 471.777,
+      "end": 474.097,
+      "pause_end": 479.547
+    },
+    {
+      "id": "L20_A114",
+      "speaker": "arabic_female",
+      "text": "وين كان؟",
+      "start": 479.547,
+      "end": 480.615,
+      "pause_end": 481.715
+    },
+    {
+      "id": "L20_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Speak before the recording.",
+      "start": 481.715,
+      "end": 484.795,
+      "pause_end": 485.745
+    },
+    {
+      "id": "L20_A116",
+      "speaker": "instructor",
+      "text": "Say: I have a problem.",
+      "start": 485.745,
+      "end": 487.825,
+      "pause_end": 492.875
+    },
+    {
+      "id": "L20_A117",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 492.875,
+      "end": 493.85,
+      "pause_end": 494.95
+    },
+    {
+      "id": "L20_A118",
+      "speaker": "instructor",
+      "text": "Say: What is the problem?",
+      "start": 494.95,
+      "end": 497.19,
+      "pause_end": 502.24
+    },
+    {
+      "id": "L20_A119",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 502.24,
+      "end": 503.308,
+      "pause_end": 504.408
+    },
+    {
+      "id": "L20_A120",
+      "speaker": "instructor",
+      "text": "Say: I lost my key.",
+      "start": 504.408,
+      "end": 506.608,
+      "pause_end": 511.658
+    },
+    {
+      "id": "L20_A121",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 511.658,
+      "end": 512.958,
+      "pause_end": 514.058
+    },
+    {
+      "id": "L20_A122",
+      "speaker": "instructor",
+      "text": "Say: Where did you see it last? Ask a man.",
+      "start": 514.058,
+      "end": 517.458,
+      "pause_end": 522.508
+    },
+    {
+      "id": "L20_A123",
+      "speaker": "arabic_female",
+      "text": "وين شفته آخر مرة؟",
+      "start": 522.508,
+      "end": 523.948,
+      "pause_end": 525.048
+    },
+    {
+      "id": "L20_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 525.048,
+      "end": 527.248,
+      "pause_end": 532.198
+    },
+    {
+      "id": "L20_A125",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 532.198,
+      "end": 533.173,
+      "pause_end": 534.273
+    },
+    {
+      "id": "L20_A126",
+      "speaker": "instructor",
+      "text": "Say: Maybe it is in the car.",
+      "start": 534.273,
+      "end": 536.553,
+      "pause_end": 541.603
+    },
+    {
+      "id": "L20_A127",
+      "speaker": "arabic",
+      "text": "يمكن في السيارة",
+      "start": 541.603,
+      "end": 542.997,
+      "pause_end": 544.097
+    },
+    {
+      "id": "L20_A128",
+      "speaker": "instructor",
+      "text": "Say: Did you look in the bag? Ask a man.",
+      "start": 544.097,
+      "end": 547.377,
+      "pause_end": 552.427
+    },
+    {
+      "id": "L20_A129",
+      "speaker": "arabic_female",
+      "text": "دورت في الشنطة؟",
+      "start": 552.427,
+      "end": 553.866,
+      "pause_end": 554.966
+    },
+    {
+      "id": "L20_A130",
+      "speaker": "instructor",
+      "text": "Say: Yes, I looked.",
+      "start": 554.966,
+      "end": 557.166,
+      "pause_end": 562.216
+    },
+    {
+      "id": "L20_A131",
+      "speaker": "arabic",
+      "text": "هيه، دورت",
+      "start": 562.216,
+      "end": 563.377,
+      "pause_end": 564.477
+    },
+    {
+      "id": "L20_A132",
+      "speaker": "instructor",
+      "text": "Say: I did not find it.",
+      "start": 564.477,
+      "end": 566.757,
+      "pause_end": 571.807
+    },
+    {
+      "id": "L20_A133",
+      "speaker": "arabic",
+      "text": "ما حصلته",
+      "start": 571.807,
+      "end": 572.875,
+      "pause_end": 573.975
+    },
+    {
+      "id": "L20_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Say you cannot today.",
+      "start": 573.975,
+      "end": 577.215,
+      "pause_end": 582.165
+    },
+    {
+      "id": "L20_A135",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 582.165,
+      "end": 583.373,
+      "pause_end": 584.473
+    },
+    {
+      "id": "L20_A136",
+      "speaker": "instructor",
+      "text": "Say: Do not worry.",
+      "start": 584.473,
+      "end": 586.273,
+      "pause_end": 591.323
+    },
+    {
+      "id": "L20_A137",
+      "speaker": "arabic_female",
+      "text": "لا تحاتي",
+      "start": 591.323,
+      "end": 592.437,
+      "pause_end": 593.537
+    },
+    {
+      "id": "L20_A138",
+      "speaker": "instructor",
+      "text": "Say: Let us look again.",
+      "start": 593.537,
+      "end": 595.537,
+      "pause_end": 600.587
+    },
+    {
+      "id": "L20_A139",
+      "speaker": "arabic_female",
+      "text": "خلنا ندور مرة ثانية",
+      "start": 600.587,
+      "end": 602.259,
+      "pause_end": 603.359
+    },
+    {
+      "id": "L20_A140",
+      "speaker": "instructor",
+      "text": "Say: Wait, I found it.",
+      "start": 603.359,
+      "end": 605.919,
+      "pause_end": 610.969
+    },
+    {
+      "id": "L20_A141",
+      "speaker": "arabic",
+      "text": "لحظة، حصلته",
+      "start": 610.969,
+      "end": 612.409,
+      "pause_end": 613.509
+    },
+    {
+      "id": "L20_A142",
+      "speaker": "instructor",
+      "text": "Say: Where was it?",
+      "start": 613.509,
+      "end": 615.389,
+      "pause_end": 620.439
+    },
+    {
+      "id": "L20_A143",
+      "speaker": "arabic_female",
+      "text": "وين كان؟",
+      "start": 620.439,
+      "end": 621.507,
+      "pause_end": 622.607
+    },
+    {
+      "id": "L20_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 622.607,
+      "end": 625.567,
+      "pause_end": 630.517
+    },
+    {
+      "id": "L20_A145",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 630.517,
+      "end": 631.492,
+      "pause_end": 632.592
+    },
+    {
+      "id": "L20_A146",
+      "speaker": "instructor",
+      "text": "Say: It was in my pocket.",
+      "start": 632.592,
+      "end": 634.872,
+      "pause_end": 639.922
+    },
+    {
+      "id": "L20_A147",
+      "speaker": "arabic",
+      "text": "كان في جيبي",
+      "start": 639.922,
+      "end": 640.944,
+      "pause_end": 642.044
+    },
+    {
+      "id": "L20_A148",
+      "speaker": "instructor",
+      "text": "Say: Thank goodness.",
+      "start": 642.044,
+      "end": 644.084,
+      "pause_end": 649.134
+    },
+    {
+      "id": "L20_A149",
+      "speaker": "arabic_female",
+      "text": "الحمد لله",
+      "start": 649.134,
+      "end": 650.295,
+      "pause_end": 651.395
+    },
+    {
+      "id": "L20_A150",
+      "speaker": "instructor",
+      "text": "Say: I have a problem.",
+      "start": 651.395,
+      "end": 653.475,
+      "pause_end": 658.525
+    },
+    {
+      "id": "L20_A151",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 658.525,
+      "end": 659.5,
+      "pause_end": 660.6
+    },
+    {
+      "id": "L20_A152",
+      "speaker": "instructor",
+      "text": "Say: I lost my key.",
+      "start": 660.6,
+      "end": 662.8,
+      "pause_end": 667.85
+    },
+    {
+      "id": "L20_A153",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 667.85,
+      "end": 669.151,
+      "pause_end": 670.251
+    },
+    {
+      "id": "L20_A154",
+      "speaker": "instructor",
+      "text": "Say: Maybe it is in the car.",
+      "start": 670.251,
+      "end": 672.531,
+      "pause_end": 677.581
+    },
+    {
+      "id": "L20_A155",
+      "speaker": "arabic",
+      "text": "يمكن في السيارة",
+      "start": 677.581,
+      "end": 678.974,
+      "pause_end": 680.074
+    },
+    {
+      "id": "L20_A156",
+      "speaker": "instructor",
+      "text": "Say: Yes, I looked.",
+      "start": 680.074,
+      "end": 682.274,
+      "pause_end": 687.324
+    },
+    {
+      "id": "L20_A157",
+      "speaker": "arabic",
+      "text": "هيه، دورت",
+      "start": 687.324,
+      "end": 688.485,
+      "pause_end": 689.585
+    },
+    {
+      "id": "L20_A158",
+      "speaker": "instructor",
+      "text": "Say: Do not worry.",
+      "start": 689.585,
+      "end": 691.385,
+      "pause_end": 696.435
+    },
+    {
+      "id": "L20_A159",
+      "speaker": "arabic_female",
+      "text": "لا تحاتي",
+      "start": 696.435,
+      "end": 697.549,
+      "pause_end": 698.649
+    },
+    {
+      "id": "L20_A160",
+      "speaker": "instructor",
+      "text": "Say: Wait, I found it.",
+      "start": 698.649,
+      "end": 701.209,
+      "pause_end": 706.259
+    },
+    {
+      "id": "L20_A161",
+      "speaker": "arabic",
+      "text": "لحظة، حصلته",
+      "start": 706.259,
+      "end": 707.699,
+      "pause_end": 708.799
+    },
+    {
+      "id": "L20_A162",
+      "speaker": "instructor",
+      "text": "Say: It was in my pocket.",
+      "start": 708.799,
+      "end": 711.079,
+      "pause_end": 716.129
+    },
+    {
+      "id": "L20_A163",
+      "speaker": "arabic",
+      "text": "كان في جيبي",
+      "start": 716.129,
+      "end": 717.151,
+      "pause_end": 718.251
+    },
+    {
+      "id": "L20_A164",
+      "speaker": "instructor",
+      "text": "Say: What is the problem?",
+      "start": 718.251,
+      "end": 720.491,
+      "pause_end": 725.541
+    },
+    {
+      "id": "L20_A165",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 725.541,
+      "end": 726.609,
+      "pause_end": 727.709
+    },
+    {
+      "id": "L20_A166",
+      "speaker": "instructor",
+      "text": "Say: Where did you see it last? Ask a man.",
+      "start": 727.709,
+      "end": 731.109,
+      "pause_end": 736.159
+    },
+    {
+      "id": "L20_A167",
+      "speaker": "arabic_female",
+      "text": "وين شفته آخر مرة؟",
+      "start": 736.159,
+      "end": 737.598,
+      "pause_end": 738.698
+    },
+    {
+      "id": "L20_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Ask how much the bill is.",
+      "start": 738.698,
+      "end": 741.938,
+      "pause_end": 746.888
+    },
+    {
+      "id": "L20_A169",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 746.888,
+      "end": 748.049,
+      "pause_end": 749.149
+    },
+    {
+      "id": "L20_A170",
+      "speaker": "instructor",
+      "text": "Say: Did you look in the bag? Ask a man.",
+      "start": 749.149,
+      "end": 752.429,
+      "pause_end": 757.479
+    },
+    {
+      "id": "L20_A171",
+      "speaker": "arabic_female",
+      "text": "دورت في الشنطة؟",
+      "start": 757.479,
+      "end": 758.919,
+      "pause_end": 760.019
+    },
+    {
+      "id": "L20_A172",
+      "speaker": "instructor",
+      "text": "Say: I did not find it.",
+      "start": 760.019,
+      "end": 762.299,
+      "pause_end": 767.349
+    },
+    {
+      "id": "L20_A173",
+      "speaker": "arabic",
+      "text": "ما حصلته",
+      "start": 767.349,
+      "end": 768.417,
+      "pause_end": 769.517
+    },
+    {
+      "id": "L20_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Say you have an appointment.",
+      "start": 769.517,
+      "end": 771.917,
+      "pause_end": 776.867
+    },
+    {
+      "id": "L20_A175",
+      "speaker": "arabic_female",
+      "text": "عندي موعد",
+      "start": 776.867,
+      "end": 777.796,
+      "pause_end": 778.896
+    },
+    {
+      "id": "L20_A176",
+      "speaker": "instructor",
+      "text": "Say: Let us look again.",
+      "start": 778.896,
+      "end": 780.896,
+      "pause_end": 785.946
+    },
+    {
+      "id": "L20_A177",
+      "speaker": "arabic_female",
+      "text": "خلنا ندور مرة ثانية",
+      "start": 785.946,
+      "end": 787.618,
+      "pause_end": 788.718
+    },
+    {
+      "id": "L20_A178",
+      "speaker": "instructor",
+      "text": "Say: Where was it?",
+      "start": 788.718,
+      "end": 790.598,
+      "pause_end": 795.648
+    },
+    {
+      "id": "L20_A179",
+      "speaker": "arabic_female",
+      "text": "وين كان؟",
+      "start": 795.648,
+      "end": 796.716,
+      "pause_end": 797.816
+    },
+    {
+      "id": "L20_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 797.816,
+      "end": 800.776,
+      "pause_end": 805.726
+    },
+    {
+      "id": "L20_A181",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 805.726,
+      "end": 806.794,
+      "pause_end": 807.894
+    },
+    {
+      "id": "L20_A182",
+      "speaker": "instructor",
+      "text": "Say: Thank goodness.",
+      "start": 807.894,
+      "end": 809.934,
+      "pause_end": 814.984
+    },
+    {
+      "id": "L20_A183",
+      "speaker": "arabic_female",
+      "text": "الحمد لله",
+      "start": 814.984,
+      "end": 816.145,
+      "pause_end": 817.245
+    },
+    {
+      "id": "L20_A184",
+      "speaker": "instructor",
+      "text": "How do you say: Thank goodness.",
+      "start": 817.245,
+      "end": 819.765,
+      "pause_end": 825.215
+    },
+    {
+      "id": "L20_A185",
+      "speaker": "arabic_female",
+      "text": "الحمد لله",
+      "start": 825.215,
+      "end": 826.376,
+      "pause_end": 827.476
+    },
+    {
+      "id": "L20_A186",
+      "speaker": "instructor",
+      "text": "How do you say: It was in my pocket.",
+      "start": 827.476,
+      "end": 830.436,
+      "pause_end": 835.886
+    },
+    {
+      "id": "L20_A187",
+      "speaker": "arabic",
+      "text": "كان في جيبي",
+      "start": 835.886,
+      "end": 836.908,
+      "pause_end": 838.008
+    },
+    {
+      "id": "L20_A188",
+      "speaker": "instructor",
+      "text": "How do you say: Where was it?",
+      "start": 838.008,
+      "end": 840.448,
+      "pause_end": 845.898
+    },
+    {
+      "id": "L20_A189",
+      "speaker": "arabic_female",
+      "text": "وين كان؟",
+      "start": 845.898,
+      "end": 846.966,
+      "pause_end": 848.066
+    },
+    {
+      "id": "L20_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 848.066,
+      "end": 850.266,
+      "pause_end": 855.216
+    },
+    {
+      "id": "L20_A191",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 855.216,
+      "end": 856.191,
+      "pause_end": 857.291
+    },
+    {
+      "id": "L20_A192",
+      "speaker": "instructor",
+      "text": "How do you say: Wait, I found it.",
+      "start": 857.291,
+      "end": 860.491,
+      "pause_end": 865.941
+    },
+    {
+      "id": "L20_A193",
+      "speaker": "arabic",
+      "text": "لحظة، حصلته",
+      "start": 865.941,
+      "end": 867.381,
+      "pause_end": 868.481
+    },
+    {
+      "id": "L20_A194",
+      "speaker": "instructor",
+      "text": "How do you say: Let us look again.",
+      "start": 868.481,
+      "end": 870.481,
+      "pause_end": 875.931
+    },
+    {
+      "id": "L20_A195",
+      "speaker": "arabic_female",
+      "text": "خلنا ندور مرة ثانية",
+      "start": 875.931,
+      "end": 877.603,
+      "pause_end": 878.703
+    },
+    {
+      "id": "L20_A196",
+      "speaker": "instructor",
+      "text": "How do you say: Do not worry.",
+      "start": 878.703,
+      "end": 881.023,
+      "pause_end": 886.473
+    },
+    {
+      "id": "L20_A197",
+      "speaker": "arabic_female",
+      "text": "لا تحاتي",
+      "start": 886.473,
+      "end": 887.588,
+      "pause_end": 888.688
+    },
+    {
+      "id": "L20_A198",
+      "speaker": "instructor",
+      "text": "How do you say: I did not find it.",
+      "start": 888.688,
+      "end": 891.368,
+      "pause_end": 896.818
+    },
+    {
+      "id": "L20_A199",
+      "speaker": "arabic",
+      "text": "ما حصلته",
+      "start": 896.818,
+      "end": 897.886,
+      "pause_end": 898.986
+    },
+    {
+      "id": "L20_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Say you will send a message.",
+      "start": 898.986,
+      "end": 902.146,
+      "pause_end": 907.096
+    },
+    {
+      "id": "L20_A201",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 907.096,
+      "end": 908.442,
+      "pause_end": 909.542
+    },
+    {
+      "id": "L20_A202",
+      "speaker": "instructor",
+      "text": "How do you say: Yes, I looked.",
+      "start": 909.542,
+      "end": 912.302,
+      "pause_end": 917.752
+    },
+    {
+      "id": "L20_A203",
+      "speaker": "arabic",
+      "text": "هيه، دورت",
+      "start": 917.752,
+      "end": 918.913,
+      "pause_end": 920.013
+    },
+    {
+      "id": "L20_A204",
+      "speaker": "instructor",
+      "text": "How do you say: Did you look in the bag? Ask a man.",
+      "start": 920.013,
+      "end": 923.733,
+      "pause_end": 929.183
+    },
+    {
+      "id": "L20_A205",
+      "speaker": "arabic_female",
+      "text": "دورت في الشنطة؟",
+      "start": 929.183,
+      "end": 930.623,
+      "pause_end": 931.723
+    },
+    {
+      "id": "L20_A206",
+      "speaker": "instructor",
+      "text": "How do you say: Maybe it is in the car.",
+      "start": 931.723,
+      "end": 934.523,
+      "pause_end": 939.973
+    },
+    {
+      "id": "L20_A207",
+      "speaker": "arabic",
+      "text": "يمكن في السيارة",
+      "start": 939.973,
+      "end": 941.366,
+      "pause_end": 942.466
+    },
+    {
+      "id": "L20_A208",
+      "speaker": "instructor",
+      "text": "How do you say: Where did you see it last? Ask a man.",
+      "start": 942.466,
+      "end": 946.466,
+      "pause_end": 951.916
+    },
+    {
+      "id": "L20_A209",
+      "speaker": "arabic_female",
+      "text": "وين شفته آخر مرة؟",
+      "start": 951.916,
+      "end": 953.356,
+      "pause_end": 954.456
+    },
+    {
+      "id": "L20_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man when he starts work.",
+      "start": 954.456,
+      "end": 957.616,
+      "pause_end": 962.566
+    },
+    {
+      "id": "L20_A211",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 962.566,
+      "end": 963.681,
+      "pause_end": 964.781
+    },
+    {
+      "id": "L20_A212",
+      "speaker": "instructor",
+      "text": "How do you say: I lost my key.",
+      "start": 964.781,
+      "end": 968.221,
+      "pause_end": 973.671
+    },
+    {
+      "id": "L20_A213",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 973.671,
+      "end": 974.971,
+      "pause_end": 976.071
+    },
+    {
+      "id": "L20_A214",
+      "speaker": "instructor",
+      "text": "How do you say: What is the problem?",
+      "start": 976.071,
+      "end": 978.591,
+      "pause_end": 984.041
+    },
+    {
+      "id": "L20_A215",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 984.041,
+      "end": 985.109,
+      "pause_end": 986.209
+    },
+    {
+      "id": "L20_A216",
+      "speaker": "instructor",
+      "text": "How do you say: I have a problem.",
+      "start": 986.209,
+      "end": 988.689,
+      "pause_end": 994.139
+    },
+    {
+      "id": "L20_A217",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 994.139,
+      "end": 995.114,
+      "pause_end": 996.214
+    },
+    {
+      "id": "L20_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer naturally.",
+      "start": 996.214,
+      "end": 998.894,
+      "pause_end": 999.744
+    },
+    {
+      "id": "L20_A219",
+      "speaker": "instructor",
+      "text": "Say: Thank goodness.",
+      "start": 999.744,
+      "end": 1001.784,
+      "pause_end": 1007.434
+    },
+    {
+      "id": "L20_A220",
+      "speaker": "arabic_female",
+      "text": "الحمد لله",
+      "start": 1007.434,
+      "end": 1008.595,
+      "pause_end": 1009.695
+    },
+    {
+      "id": "L20_A221",
+      "speaker": "instructor",
+      "text": "Say: I lost my key.",
+      "start": 1009.695,
+      "end": 1011.895,
+      "pause_end": 1017.545
+    },
+    {
+      "id": "L20_A222",
+      "speaker": "arabic",
+      "text": "ضيعت مفتاحي",
+      "start": 1017.545,
+      "end": 1018.845,
+      "pause_end": 1019.945
+    },
+    {
+      "id": "L20_A223",
+      "speaker": "instructor",
+      "text": "Say: I have a problem.",
+      "start": 1019.945,
+      "end": 1022.025,
+      "pause_end": 1027.675
+    },
+    {
+      "id": "L20_A224",
+      "speaker": "arabic",
+      "text": "عندي مشكلة",
+      "start": 1027.675,
+      "end": 1028.651,
+      "pause_end": 1029.751
+    },
+    {
+      "id": "L20_A225",
+      "speaker": "instructor",
+      "text": "Say: I did not find it.",
+      "start": 1029.751,
+      "end": 1032.031,
+      "pause_end": 1037.681
+    },
+    {
+      "id": "L20_A226",
+      "speaker": "arabic",
+      "text": "ما حصلته",
+      "start": 1037.681,
+      "end": 1038.749,
+      "pause_end": 1039.849
+    },
+    {
+      "id": "L20_A227",
+      "speaker": "instructor",
+      "text": "Say: Did you look in the bag? Ask a man.",
+      "start": 1039.849,
+      "end": 1043.129,
+      "pause_end": 1048.779
+    },
+    {
+      "id": "L20_A228",
+      "speaker": "arabic_female",
+      "text": "دورت في الشنطة؟",
+      "start": 1048.779,
+      "end": 1050.218,
+      "pause_end": 1051.318
+    },
+    {
+      "id": "L20_A229",
+      "speaker": "instructor",
+      "text": "Say: Where was it?",
+      "start": 1051.318,
+      "end": 1053.198,
+      "pause_end": 1058.848
+    },
+    {
+      "id": "L20_A230",
+      "speaker": "arabic_female",
+      "text": "وين كان؟",
+      "start": 1058.848,
+      "end": 1059.917,
+      "pause_end": 1061.017
+    },
+    {
+      "id": "L20_A231",
+      "speaker": "instructor",
+      "text": "Say: What is the problem?",
+      "start": 1061.017,
+      "end": 1063.257,
+      "pause_end": 1068.907
+    },
+    {
+      "id": "L20_A232",
+      "speaker": "arabic_female",
+      "text": "شو المشكلة؟",
+      "start": 1068.907,
+      "end": 1069.975,
+      "pause_end": 1071.075
+    },
+    {
+      "id": "L20_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1071.075,
+      "end": 1075.155,
+      "pause_end": 1076.105
+    }
+  ]
+}

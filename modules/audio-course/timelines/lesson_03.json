@@ -1,0 +1,1652 @@
+{
+  "events": [
+    {
+      "id": "L03_A001",
+      "speaker": "instructor",
+      "text": "Lesson 3. Where You Live. Listen to a short conversation, then speak when prompted.",
+      "start": 0.0,
+      "end": 6.84,
+      "pause_end": 7.69
+    },
+    {
+      "id": "L03_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 7.69,
+      "end": 11.05,
+      "pause_end": 11.8
+    },
+    {
+      "id": "L03_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Peace be upon you.",
+      "start": 11.8,
+      "end": 15.0,
+      "pause_end": 19.75
+    },
+    {
+      "id": "L03_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 19.75,
+      "end": 20.911,
+      "pause_end": 21.961
+    },
+    {
+      "id": "L03_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: And peace be upon you.",
+      "start": 21.961,
+      "end": 25.561,
+      "pause_end": 30.311
+    },
+    {
+      "id": "L03_A006",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 30.311,
+      "end": 31.611,
+      "pause_end": 32.661
+    },
+    {
+      "id": "L03_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How are you, said to a man?",
+      "start": 32.661,
+      "end": 36.621,
+      "pause_end": 41.371
+    },
+    {
+      "id": "L03_A008",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 41.371,
+      "end": 42.347,
+      "pause_end": 43.397
+    },
+    {
+      "id": "L03_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Fine, thank God.",
+      "start": 43.397,
+      "end": 46.717,
+      "pause_end": 51.467
+    },
+    {
+      "id": "L03_A010",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 51.467,
+      "end": 53.278,
+      "pause_end": 54.328
+    },
+    {
+      "id": "L03_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What's your name?",
+      "start": 54.328,
+      "end": 56.848,
+      "pause_end": 61.598
+    },
+    {
+      "id": "L03_A012",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 61.598,
+      "end": 62.434,
+      "pause_end": 63.484
+    },
+    {
+      "id": "L03_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: My name is Khalid.",
+      "start": 63.484,
+      "end": 66.564,
+      "pause_end": 71.314
+    },
+    {
+      "id": "L03_A014",
+      "speaker": "arabic",
+      "text": "اسمي خالد",
+      "start": 71.314,
+      "end": 72.428,
+      "pause_end": 73.478
+    },
+    {
+      "id": "L03_A015",
+      "speaker": "instructor",
+      "text": "Now listen to today's new expressions. You will hear both a man and a woman speaking.",
+      "start": 73.478,
+      "end": 79.878,
+      "pause_end": 80.728
+    },
+    {
+      "id": "L03_A016",
+      "speaker": "instructor",
+      "text": "Listen. Where do you live?",
+      "start": 80.728,
+      "end": 82.568,
+      "pause_end": 83.218
+    },
+    {
+      "id": "L03_A017",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 83.218,
+      "end": 84.194,
+      "pause_end": 85.644
+    },
+    {
+      "id": "L03_A018",
+      "speaker": "instructor",
+      "text": "Listen. I live in Dubai.",
+      "start": 85.644,
+      "end": 87.524,
+      "pause_end": 88.174
+    },
+    {
+      "id": "L03_A019",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 88.174,
+      "end": 89.381,
+      "pause_end": 90.831
+    },
+    {
+      "id": "L03_A020",
+      "speaker": "instructor",
+      "text": "Listen. I live in Dubai, said by a woman.",
+      "start": 90.831,
+      "end": 93.951,
+      "pause_end": 94.601
+    },
+    {
+      "id": "L03_A021",
+      "speaker": "arabic_female",
+      "text": "ساكنة في دبي",
+      "start": 94.601,
+      "end": 95.948,
+      "pause_end": 97.398
+    },
+    {
+      "id": "L03_A022",
+      "speaker": "instructor",
+      "text": "Listen. And you?",
+      "start": 97.398,
+      "end": 99.118,
+      "pause_end": 99.768
+    },
+    {
+      "id": "L03_A023",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 99.768,
+      "end": 100.511,
+      "pause_end": 101.961
+    },
+    {
+      "id": "L03_A024",
+      "speaker": "instructor",
+      "text": "Listen. I live in Sharjah.",
+      "start": 101.961,
+      "end": 104.481,
+      "pause_end": 105.131
+    },
+    {
+      "id": "L03_A025",
+      "speaker": "arabic",
+      "text": "أنا ساكن في الشارقة",
+      "start": 105.131,
+      "end": 106.617,
+      "pause_end": 108.067
+    },
+    {
+      "id": "L03_A026",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Where do you live?",
+      "start": 108.067,
+      "end": 110.587,
+      "pause_end": 111.187
+    },
+    {
+      "id": "L03_A027",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 111.187,
+      "end": 112.162,
+      "pause_end": 113.412
+    },
+    {
+      "id": "L03_A028",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 113.412,
+      "end": 114.532,
+      "pause_end": 118.782
+    },
+    {
+      "id": "L03_A029",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 118.782,
+      "end": 119.758,
+      "pause_end": 120.808
+    },
+    {
+      "id": "L03_A030",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I live in Dubai.",
+      "start": 120.808,
+      "end": 123.968,
+      "pause_end": 124.568
+    },
+    {
+      "id": "L03_A031",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 124.568,
+      "end": 125.775,
+      "pause_end": 127.025
+    },
+    {
+      "id": "L03_A032",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 127.025,
+      "end": 128.145,
+      "pause_end": 132.395
+    },
+    {
+      "id": "L03_A033",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 132.395,
+      "end": 133.603,
+      "pause_end": 134.653
+    },
+    {
+      "id": "L03_A034",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I live in Dubai, said by a woman.",
+      "start": 134.653,
+      "end": 139.533,
+      "pause_end": 140.133
+    },
+    {
+      "id": "L03_A035",
+      "speaker": "arabic_female",
+      "text": "ساكنة في دبي",
+      "start": 140.133,
+      "end": 141.479,
+      "pause_end": 142.729
+    },
+    {
+      "id": "L03_A036",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 142.729,
+      "end": 143.849,
+      "pause_end": 148.099
+    },
+    {
+      "id": "L03_A037",
+      "speaker": "arabic_female",
+      "text": "ساكنة في دبي",
+      "start": 148.099,
+      "end": 149.446,
+      "pause_end": 150.496
+    },
+    {
+      "id": "L03_A038",
+      "speaker": "instructor",
+      "text": "Without help, say: Where do you live?",
+      "start": 150.496,
+      "end": 153.616,
+      "pause_end": 158.866
+    },
+    {
+      "id": "L03_A039",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 158.866,
+      "end": 159.841,
+      "pause_end": 160.891
+    },
+    {
+      "id": "L03_A040",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. Peace be upon you.",
+      "start": 160.891,
+      "end": 164.051,
+      "pause_end": 169.301
+    },
+    {
+      "id": "L03_A041",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 169.301,
+      "end": 170.462,
+      "pause_end": 171.512
+    },
+    {
+      "id": "L03_A042",
+      "speaker": "instructor",
+      "text": "Listen to how you say: And you?",
+      "start": 171.512,
+      "end": 174.072,
+      "pause_end": 174.672
+    },
+    {
+      "id": "L03_A043",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 174.672,
+      "end": 175.416,
+      "pause_end": 176.666
+    },
+    {
+      "id": "L03_A044",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 176.666,
+      "end": 177.786,
+      "pause_end": 182.036
+    },
+    {
+      "id": "L03_A045",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 182.036,
+      "end": 182.779,
+      "pause_end": 183.829
+    },
+    {
+      "id": "L03_A046",
+      "speaker": "instructor",
+      "text": "Without help, say: I live in Dubai.",
+      "start": 183.829,
+      "end": 186.989,
+      "pause_end": 192.239
+    },
+    {
+      "id": "L03_A047",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 192.239,
+      "end": 193.446,
+      "pause_end": 194.496
+    },
+    {
+      "id": "L03_A048",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I live in Sharjah.",
+      "start": 194.496,
+      "end": 197.576,
+      "pause_end": 198.176
+    },
+    {
+      "id": "L03_A049",
+      "speaker": "arabic",
+      "text": "أنا ساكن في الشارقة",
+      "start": 198.176,
+      "end": 199.662,
+      "pause_end": 200.912
+    },
+    {
+      "id": "L03_A050",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 200.912,
+      "end": 202.032,
+      "pause_end": 206.282
+    },
+    {
+      "id": "L03_A051",
+      "speaker": "arabic",
+      "text": "أنا ساكن في الشارقة",
+      "start": 206.282,
+      "end": 207.768,
+      "pause_end": 208.818
+    },
+    {
+      "id": "L03_A052",
+      "speaker": "instructor",
+      "text": "Without help, say: I live in Dubai, said by a woman.",
+      "start": 208.818,
+      "end": 213.258,
+      "pause_end": 218.508
+    },
+    {
+      "id": "L03_A053",
+      "speaker": "arabic_female",
+      "text": "ساكنة في دبي",
+      "start": 218.508,
+      "end": 219.855,
+      "pause_end": 220.905
+    },
+    {
+      "id": "L03_A054",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I live in Abu Dhabi, said by a woman.",
+      "start": 220.905,
+      "end": 225.025,
+      "pause_end": 225.625
+    },
+    {
+      "id": "L03_A055",
+      "speaker": "arabic_female",
+      "text": "أنا ساكنة في أبوظبي",
+      "start": 225.625,
+      "end": 227.111,
+      "pause_end": 228.361
+    },
+    {
+      "id": "L03_A056",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 228.361,
+      "end": 229.481,
+      "pause_end": 233.731
+    },
+    {
+      "id": "L03_A057",
+      "speaker": "arabic_female",
+      "text": "أنا ساكنة في أبوظبي",
+      "start": 233.731,
+      "end": 235.217,
+      "pause_end": 236.267
+    },
+    {
+      "id": "L03_A058",
+      "speaker": "instructor",
+      "text": "Without help, say: And you?",
+      "start": 236.267,
+      "end": 239.027,
+      "pause_end": 244.277
+    },
+    {
+      "id": "L03_A059",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 244.277,
+      "end": 245.021,
+      "pause_end": 246.071
+    },
+    {
+      "id": "L03_A060",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. And peace be upon you.",
+      "start": 246.071,
+      "end": 250.191,
+      "pause_end": 255.441
+    },
+    {
+      "id": "L03_A061",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 255.441,
+      "end": 256.741,
+      "pause_end": 257.791
+    },
+    {
+      "id": "L03_A062",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Near here.",
+      "start": 257.791,
+      "end": 260.031,
+      "pause_end": 260.631
+    },
+    {
+      "id": "L03_A063",
+      "speaker": "arabic",
+      "text": "قريب من هني",
+      "start": 260.631,
+      "end": 261.745,
+      "pause_end": 262.995
+    },
+    {
+      "id": "L03_A064",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 262.995,
+      "end": 264.115,
+      "pause_end": 268.365
+    },
+    {
+      "id": "L03_A065",
+      "speaker": "arabic",
+      "text": "قريب من هني",
+      "start": 268.365,
+      "end": 269.48,
+      "pause_end": 270.53
+    },
+    {
+      "id": "L03_A066",
+      "speaker": "instructor",
+      "text": "Without help, say: I live in Sharjah.",
+      "start": 270.53,
+      "end": 273.61,
+      "pause_end": 278.86
+    },
+    {
+      "id": "L03_A067",
+      "speaker": "arabic",
+      "text": "أنا ساكن في الشارقة",
+      "start": 278.86,
+      "end": 280.346,
+      "pause_end": 281.396
+    },
+    {
+      "id": "L03_A068",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Far from here.",
+      "start": 281.396,
+      "end": 284.476,
+      "pause_end": 285.076
+    },
+    {
+      "id": "L03_A069",
+      "speaker": "arabic",
+      "text": "بعيد من هني",
+      "start": 285.076,
+      "end": 286.191,
+      "pause_end": 287.441
+    },
+    {
+      "id": "L03_A070",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 287.441,
+      "end": 288.561,
+      "pause_end": 292.811
+    },
+    {
+      "id": "L03_A071",
+      "speaker": "arabic",
+      "text": "بعيد من هني",
+      "start": 292.811,
+      "end": 293.925,
+      "pause_end": 294.975
+    },
+    {
+      "id": "L03_A072",
+      "speaker": "instructor",
+      "text": "Without help, say: I live in Abu Dhabi, said by a woman.",
+      "start": 294.975,
+      "end": 299.335,
+      "pause_end": 304.585
+    },
+    {
+      "id": "L03_A073",
+      "speaker": "arabic_female",
+      "text": "أنا ساكنة في أبوظبي",
+      "start": 304.585,
+      "end": 306.072,
+      "pause_end": 307.122
+    },
+    {
+      "id": "L03_A074",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Where do you work?",
+      "start": 307.122,
+      "end": 309.562,
+      "pause_end": 310.162
+    },
+    {
+      "id": "L03_A075",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 310.162,
+      "end": 311.276,
+      "pause_end": 312.526
+    },
+    {
+      "id": "L03_A076",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 312.526,
+      "end": 313.646,
+      "pause_end": 317.896
+    },
+    {
+      "id": "L03_A077",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 317.896,
+      "end": 319.011,
+      "pause_end": 320.061
+    },
+    {
+      "id": "L03_A078",
+      "speaker": "instructor",
+      "text": "Without help, say: Near here.",
+      "start": 320.061,
+      "end": 322.741,
+      "pause_end": 327.991
+    },
+    {
+      "id": "L03_A079",
+      "speaker": "arabic",
+      "text": "قريب من هني",
+      "start": 327.991,
+      "end": 329.105,
+      "pause_end": 330.155
+    },
+    {
+      "id": "L03_A080",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. How are you, said to a man?",
+      "start": 330.155,
+      "end": 334.515,
+      "pause_end": 339.765
+    },
+    {
+      "id": "L03_A081",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 339.765,
+      "end": 340.741,
+      "pause_end": 341.791
+    },
+    {
+      "id": "L03_A082",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I work in Dubai.",
+      "start": 341.791,
+      "end": 344.191,
+      "pause_end": 344.791
+    },
+    {
+      "id": "L03_A083",
+      "speaker": "arabic",
+      "text": "أشتغل في دبي",
+      "start": 344.791,
+      "end": 346.091,
+      "pause_end": 347.341
+    },
+    {
+      "id": "L03_A084",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 347.341,
+      "end": 348.461,
+      "pause_end": 352.711
+    },
+    {
+      "id": "L03_A085",
+      "speaker": "arabic",
+      "text": "أشتغل في دبي",
+      "start": 352.711,
+      "end": 354.011,
+      "pause_end": 355.061
+    },
+    {
+      "id": "L03_A086",
+      "speaker": "instructor",
+      "text": "Without help, say: Far from here.",
+      "start": 355.061,
+      "end": 358.101,
+      "pause_end": 363.351
+    },
+    {
+      "id": "L03_A087",
+      "speaker": "arabic",
+      "text": "بعيد من هني",
+      "start": 363.351,
+      "end": 364.466,
+      "pause_end": 365.516
+    },
+    {
+      "id": "L03_A088",
+      "speaker": "instructor",
+      "text": "Listen to how you say: I'm from the Emirates.",
+      "start": 365.516,
+      "end": 368.676,
+      "pause_end": 369.276
+    },
+    {
+      "id": "L03_A089",
+      "speaker": "arabic_female",
+      "text": "أنا من الإمارات",
+      "start": 369.276,
+      "end": 370.576,
+      "pause_end": 371.826
+    },
+    {
+      "id": "L03_A090",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 371.826,
+      "end": 372.946,
+      "pause_end": 377.196
+    },
+    {
+      "id": "L03_A091",
+      "speaker": "arabic_female",
+      "text": "أنا من الإمارات",
+      "start": 377.196,
+      "end": 378.496,
+      "pause_end": 379.546
+    },
+    {
+      "id": "L03_A092",
+      "speaker": "instructor",
+      "text": "Without help, say: Where do you work?",
+      "start": 379.546,
+      "end": 382.466,
+      "pause_end": 387.716
+    },
+    {
+      "id": "L03_A093",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 387.716,
+      "end": 388.831,
+      "pause_end": 389.881
+    },
+    {
+      "id": "L03_A094",
+      "speaker": "instructor",
+      "text": "Listen to how you say: Pleased to meet you.",
+      "start": 389.881,
+      "end": 392.681,
+      "pause_end": 393.281
+    },
+    {
+      "id": "L03_A095",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 393.281,
+      "end": 394.21,
+      "pause_end": 395.46
+    },
+    {
+      "id": "L03_A096",
+      "speaker": "instructor",
+      "text": "Now you say it.",
+      "start": 395.46,
+      "end": 396.58,
+      "pause_end": 400.83
+    },
+    {
+      "id": "L03_A097",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 400.83,
+      "end": 401.759,
+      "pause_end": 402.809
+    },
+    {
+      "id": "L03_A098",
+      "speaker": "instructor",
+      "text": "Without help, say: I work in Dubai.",
+      "start": 402.809,
+      "end": 406.049,
+      "pause_end": 411.299
+    },
+    {
+      "id": "L03_A099",
+      "speaker": "arabic",
+      "text": "أشتغل في دبي",
+      "start": 411.299,
+      "end": 412.599,
+      "pause_end": 413.649
+    },
+    {
+      "id": "L03_A100",
+      "speaker": "instructor",
+      "text": "Remember this from an earlier lesson. Fine, thank God.",
+      "start": 413.649,
+      "end": 417.409,
+      "pause_end": 422.659
+    },
+    {
+      "id": "L03_A101",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 422.659,
+      "end": 424.47,
+      "pause_end": 425.52
+    },
+    {
+      "id": "L03_A102",
+      "speaker": "instructor",
+      "text": "Now practice a conversation. Speak your part before you hear the answer.",
+      "start": 425.52,
+      "end": 429.6,
+      "pause_end": 430.45
+    },
+    {
+      "id": "L03_A103",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where do you live?",
+      "start": 430.45,
+      "end": 433.49,
+      "pause_end": 438.74
+    },
+    {
+      "id": "L03_A104",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 438.74,
+      "end": 439.715,
+      "pause_end": 440.765
+    },
+    {
+      "id": "L03_A105",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Dubai.",
+      "start": 440.765,
+      "end": 443.845,
+      "pause_end": 449.095
+    },
+    {
+      "id": "L03_A106",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 449.095,
+      "end": 450.303,
+      "pause_end": 451.353
+    },
+    {
+      "id": "L03_A107",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Dubai, said by a woman.",
+      "start": 451.353,
+      "end": 455.233,
+      "pause_end": 460.483
+    },
+    {
+      "id": "L03_A108",
+      "speaker": "arabic_female",
+      "text": "ساكنة في دبي",
+      "start": 460.483,
+      "end": 461.83,
+      "pause_end": 462.88
+    },
+    {
+      "id": "L03_A109",
+      "speaker": "instructor",
+      "text": "Say in Arabic: And you?",
+      "start": 462.88,
+      "end": 465.04,
+      "pause_end": 470.29
+    },
+    {
+      "id": "L03_A110",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 470.29,
+      "end": 471.033,
+      "pause_end": 472.083
+    },
+    {
+      "id": "L03_A111",
+      "speaker": "instructor",
+      "text": "Quick review. Fine, thank God.",
+      "start": 472.083,
+      "end": 474.763,
+      "pause_end": 479.513
+    },
+    {
+      "id": "L03_A112",
+      "speaker": "arabic",
+      "text": "بخير، الحمد لله",
+      "start": 479.513,
+      "end": 481.324,
+      "pause_end": 482.374
+    },
+    {
+      "id": "L03_A113",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Sharjah.",
+      "start": 482.374,
+      "end": 485.734,
+      "pause_end": 490.984
+    },
+    {
+      "id": "L03_A114",
+      "speaker": "arabic",
+      "text": "أنا ساكن في الشارقة",
+      "start": 490.984,
+      "end": 492.47,
+      "pause_end": 493.52
+    },
+    {
+      "id": "L03_A115",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Abu Dhabi, said by a woman.",
+      "start": 493.52,
+      "end": 497.96,
+      "pause_end": 503.21
+    },
+    {
+      "id": "L03_A116",
+      "speaker": "arabic_female",
+      "text": "أنا ساكنة في أبوظبي",
+      "start": 503.21,
+      "end": 504.696,
+      "pause_end": 505.746
+    },
+    {
+      "id": "L03_A117",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Near here.",
+      "start": 505.746,
+      "end": 508.466,
+      "pause_end": 513.716
+    },
+    {
+      "id": "L03_A118",
+      "speaker": "arabic",
+      "text": "قريب من هني",
+      "start": 513.716,
+      "end": 514.831,
+      "pause_end": 515.881
+    },
+    {
+      "id": "L03_A119",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Far from here.",
+      "start": 515.881,
+      "end": 518.681,
+      "pause_end": 523.931
+    },
+    {
+      "id": "L03_A120",
+      "speaker": "arabic",
+      "text": "بعيد من هني",
+      "start": 523.931,
+      "end": 525.046,
+      "pause_end": 526.096
+    },
+    {
+      "id": "L03_A121",
+      "speaker": "instructor",
+      "text": "Quick review. I'm from the Emirates.",
+      "start": 526.096,
+      "end": 528.736,
+      "pause_end": 533.486
+    },
+    {
+      "id": "L03_A122",
+      "speaker": "arabic",
+      "text": "أنا من الإمارات",
+      "start": 533.486,
+      "end": 534.786,
+      "pause_end": 535.836
+    },
+    {
+      "id": "L03_A123",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where do you work?",
+      "start": 535.836,
+      "end": 538.276,
+      "pause_end": 543.526
+    },
+    {
+      "id": "L03_A124",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 543.526,
+      "end": 544.64,
+      "pause_end": 545.69
+    },
+    {
+      "id": "L03_A125",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I work in Dubai.",
+      "start": 545.69,
+      "end": 548.29,
+      "pause_end": 553.54
+    },
+    {
+      "id": "L03_A126",
+      "speaker": "arabic",
+      "text": "أشتغل في دبي",
+      "start": 553.54,
+      "end": 554.841,
+      "pause_end": 555.891
+    },
+    {
+      "id": "L03_A127",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I'm from the Emirates.",
+      "start": 555.891,
+      "end": 558.571,
+      "pause_end": 563.821
+    },
+    {
+      "id": "L03_A128",
+      "speaker": "arabic_female",
+      "text": "أنا من الإمارات",
+      "start": 563.821,
+      "end": 565.121,
+      "pause_end": 566.171
+    },
+    {
+      "id": "L03_A129",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Pleased to meet you.",
+      "start": 566.171,
+      "end": 568.771,
+      "pause_end": 574.021
+    },
+    {
+      "id": "L03_A130",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 574.021,
+      "end": 574.95,
+      "pause_end": 576.0
+    },
+    {
+      "id": "L03_A131",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 576.0,
+      "end": 578.8,
+      "pause_end": 583.55
+    },
+    {
+      "id": "L03_A132",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 583.55,
+      "end": 584.525,
+      "pause_end": 585.575
+    },
+    {
+      "id": "L03_A133",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where do you live?",
+      "start": 585.575,
+      "end": 588.615,
+      "pause_end": 593.865
+    },
+    {
+      "id": "L03_A134",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 593.865,
+      "end": 594.84,
+      "pause_end": 595.89
+    },
+    {
+      "id": "L03_A135",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Dubai.",
+      "start": 595.89,
+      "end": 598.97,
+      "pause_end": 604.22
+    },
+    {
+      "id": "L03_A136",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 604.22,
+      "end": 605.428,
+      "pause_end": 606.478
+    },
+    {
+      "id": "L03_A137",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Dubai, said by a woman.",
+      "start": 606.478,
+      "end": 610.358,
+      "pause_end": 615.608
+    },
+    {
+      "id": "L03_A138",
+      "speaker": "arabic_female",
+      "text": "ساكنة في دبي",
+      "start": 615.608,
+      "end": 616.955,
+      "pause_end": 618.005
+    },
+    {
+      "id": "L03_A139",
+      "speaker": "instructor",
+      "text": "Say in Arabic: And you?",
+      "start": 618.005,
+      "end": 620.165,
+      "pause_end": 625.415
+    },
+    {
+      "id": "L03_A140",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 625.415,
+      "end": 626.158,
+      "pause_end": 627.208
+    },
+    {
+      "id": "L03_A141",
+      "speaker": "instructor",
+      "text": "Quick review. I'm from the Emirates.",
+      "start": 627.208,
+      "end": 629.848,
+      "pause_end": 634.598
+    },
+    {
+      "id": "L03_A142",
+      "speaker": "arabic",
+      "text": "أنا من الإمارات",
+      "start": 634.598,
+      "end": 635.898,
+      "pause_end": 636.948
+    },
+    {
+      "id": "L03_A143",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Sharjah.",
+      "start": 636.948,
+      "end": 640.308,
+      "pause_end": 645.558
+    },
+    {
+      "id": "L03_A144",
+      "speaker": "arabic",
+      "text": "أنا ساكن في الشارقة",
+      "start": 645.558,
+      "end": 647.044,
+      "pause_end": 648.094
+    },
+    {
+      "id": "L03_A145",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I live in Abu Dhabi, said by a woman.",
+      "start": 648.094,
+      "end": 652.534,
+      "pause_end": 657.784
+    },
+    {
+      "id": "L03_A146",
+      "speaker": "arabic_female",
+      "text": "أنا ساكنة في أبوظبي",
+      "start": 657.784,
+      "end": 659.27,
+      "pause_end": 660.32
+    },
+    {
+      "id": "L03_A147",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Near here.",
+      "start": 660.32,
+      "end": 663.04,
+      "pause_end": 668.29
+    },
+    {
+      "id": "L03_A148",
+      "speaker": "arabic",
+      "text": "قريب من هني",
+      "start": 668.29,
+      "end": 669.405,
+      "pause_end": 670.455
+    },
+    {
+      "id": "L03_A149",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Far from here.",
+      "start": 670.455,
+      "end": 673.255,
+      "pause_end": 678.505
+    },
+    {
+      "id": "L03_A150",
+      "speaker": "arabic",
+      "text": "بعيد من هني",
+      "start": 678.505,
+      "end": 679.619,
+      "pause_end": 680.669
+    },
+    {
+      "id": "L03_A151",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 680.669,
+      "end": 683.469,
+      "pause_end": 688.219
+    },
+    {
+      "id": "L03_A152",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 688.219,
+      "end": 689.195,
+      "pause_end": 690.245
+    },
+    {
+      "id": "L03_A153",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where do you work?",
+      "start": 690.245,
+      "end": 692.685,
+      "pause_end": 697.935
+    },
+    {
+      "id": "L03_A154",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 697.935,
+      "end": 699.049,
+      "pause_end": 700.099
+    },
+    {
+      "id": "L03_A155",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I work in Dubai.",
+      "start": 700.099,
+      "end": 702.699,
+      "pause_end": 707.949
+    },
+    {
+      "id": "L03_A156",
+      "speaker": "arabic",
+      "text": "أشتغل في دبي",
+      "start": 707.949,
+      "end": 709.249,
+      "pause_end": 710.299
+    },
+    {
+      "id": "L03_A157",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I'm from the Emirates.",
+      "start": 710.299,
+      "end": 712.979,
+      "pause_end": 718.229
+    },
+    {
+      "id": "L03_A158",
+      "speaker": "arabic_female",
+      "text": "أنا من الإمارات",
+      "start": 718.229,
+      "end": 719.53,
+      "pause_end": 720.58
+    },
+    {
+      "id": "L03_A159",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Pleased to meet you.",
+      "start": 720.58,
+      "end": 723.18,
+      "pause_end": 728.43
+    },
+    {
+      "id": "L03_A160",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 728.43,
+      "end": 729.359,
+      "pause_end": 730.409
+    },
+    {
+      "id": "L03_A161",
+      "speaker": "instructor",
+      "text": "Quick review. Where are you from?",
+      "start": 730.409,
+      "end": 732.489,
+      "pause_end": 737.239
+    },
+    {
+      "id": "L03_A162",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 737.239,
+      "end": 738.26,
+      "pause_end": 739.31
+    },
+    {
+      "id": "L03_A163",
+      "speaker": "instructor",
+      "text": "Answer naturally: Where do you live?",
+      "start": 739.31,
+      "end": 741.75,
+      "pause_end": 747.5
+    },
+    {
+      "id": "L03_A164",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 747.5,
+      "end": 748.476,
+      "pause_end": 749.526
+    },
+    {
+      "id": "L03_A165",
+      "speaker": "instructor",
+      "text": "Answer naturally: I live in Dubai.",
+      "start": 749.526,
+      "end": 752.566,
+      "pause_end": 758.316
+    },
+    {
+      "id": "L03_A166",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 758.316,
+      "end": 759.523,
+      "pause_end": 760.573
+    },
+    {
+      "id": "L03_A167",
+      "speaker": "instructor",
+      "text": "Answer naturally: I live in Dubai, said by a woman.",
+      "start": 760.573,
+      "end": 764.573,
+      "pause_end": 770.323
+    },
+    {
+      "id": "L03_A168",
+      "speaker": "arabic_female",
+      "text": "ساكنة في دبي",
+      "start": 770.323,
+      "end": 771.67,
+      "pause_end": 772.72
+    },
+    {
+      "id": "L03_A169",
+      "speaker": "instructor",
+      "text": "Answer naturally: And you?",
+      "start": 772.72,
+      "end": 775.04,
+      "pause_end": 780.79
+    },
+    {
+      "id": "L03_A170",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 780.79,
+      "end": 781.533,
+      "pause_end": 782.583
+    },
+    {
+      "id": "L03_A171",
+      "speaker": "instructor",
+      "text": "Quick review. How are you, said to a man?",
+      "start": 782.583,
+      "end": 785.383,
+      "pause_end": 790.133
+    },
+    {
+      "id": "L03_A172",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 790.133,
+      "end": 791.108,
+      "pause_end": 792.158
+    },
+    {
+      "id": "L03_A173",
+      "speaker": "instructor",
+      "text": "Answer naturally: I live in Sharjah.",
+      "start": 792.158,
+      "end": 795.038,
+      "pause_end": 800.788
+    },
+    {
+      "id": "L03_A174",
+      "speaker": "arabic",
+      "text": "أنا ساكن في الشارقة",
+      "start": 800.788,
+      "end": 802.274,
+      "pause_end": 803.324
+    },
+    {
+      "id": "L03_A175",
+      "speaker": "instructor",
+      "text": "Answer naturally: I live in Abu Dhabi, said by a woman.",
+      "start": 803.324,
+      "end": 807.764,
+      "pause_end": 813.514
+    },
+    {
+      "id": "L03_A176",
+      "speaker": "arabic_female",
+      "text": "أنا ساكنة في أبوظبي",
+      "start": 813.514,
+      "end": 815.0,
+      "pause_end": 816.05
+    },
+    {
+      "id": "L03_A177",
+      "speaker": "instructor",
+      "text": "Answer naturally: Near here.",
+      "start": 816.05,
+      "end": 818.45,
+      "pause_end": 824.2
+    },
+    {
+      "id": "L03_A178",
+      "speaker": "arabic",
+      "text": "قريب من هني",
+      "start": 824.2,
+      "end": 825.315,
+      "pause_end": 826.365
+    },
+    {
+      "id": "L03_A179",
+      "speaker": "instructor",
+      "text": "Answer naturally: Far from here.",
+      "start": 826.365,
+      "end": 828.885,
+      "pause_end": 834.635
+    },
+    {
+      "id": "L03_A180",
+      "speaker": "arabic",
+      "text": "بعيد من هني",
+      "start": 834.635,
+      "end": 835.75,
+      "pause_end": 836.8
+    },
+    {
+      "id": "L03_A181",
+      "speaker": "instructor",
+      "text": "Quick review. Where are you from?",
+      "start": 836.8,
+      "end": 838.88,
+      "pause_end": 843.63
+    },
+    {
+      "id": "L03_A182",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 843.63,
+      "end": 844.651,
+      "pause_end": 845.701
+    },
+    {
+      "id": "L03_A183",
+      "speaker": "instructor",
+      "text": "Answer naturally: Where do you work?",
+      "start": 845.701,
+      "end": 848.181,
+      "pause_end": 853.931
+    },
+    {
+      "id": "L03_A184",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 853.931,
+      "end": 855.046,
+      "pause_end": 856.096
+    },
+    {
+      "id": "L03_A185",
+      "speaker": "instructor",
+      "text": "Answer naturally: I work in Dubai.",
+      "start": 856.096,
+      "end": 858.816,
+      "pause_end": 864.566
+    },
+    {
+      "id": "L03_A186",
+      "speaker": "arabic",
+      "text": "أشتغل في دبي",
+      "start": 864.566,
+      "end": 865.866,
+      "pause_end": 866.916
+    },
+    {
+      "id": "L03_A187",
+      "speaker": "instructor",
+      "text": "Answer naturally: I'm from the Emirates.",
+      "start": 866.916,
+      "end": 869.916,
+      "pause_end": 875.666
+    },
+    {
+      "id": "L03_A188",
+      "speaker": "arabic_female",
+      "text": "أنا من الإمارات",
+      "start": 875.666,
+      "end": 876.967,
+      "pause_end": 878.017
+    },
+    {
+      "id": "L03_A189",
+      "speaker": "instructor",
+      "text": "Answer naturally: Pleased to meet you.",
+      "start": 878.017,
+      "end": 880.937,
+      "pause_end": 886.687
+    },
+    {
+      "id": "L03_A190",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 886.687,
+      "end": 887.615,
+      "pause_end": 888.665
+    },
+    {
+      "id": "L03_A191",
+      "speaker": "instructor",
+      "text": "Quick review. And peace be upon you.",
+      "start": 888.665,
+      "end": 891.345,
+      "pause_end": 896.095
+    },
+    {
+      "id": "L03_A192",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 896.095,
+      "end": 897.396,
+      "pause_end": 898.446
+    },
+    {
+      "id": "L03_A193",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer without hesitation.",
+      "start": 898.446,
+      "end": 901.766,
+      "pause_end": 902.516
+    },
+    {
+      "id": "L03_A194",
+      "speaker": "instructor",
+      "text": "How would you say: Pleased to meet you.",
+      "start": 902.516,
+      "end": 904.916,
+      "pause_end": 910.666
+    },
+    {
+      "id": "L03_A195",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 910.666,
+      "end": 911.595,
+      "pause_end": 912.645
+    },
+    {
+      "id": "L03_A196",
+      "speaker": "instructor",
+      "text": "How would you say: I live in Dubai.",
+      "start": 912.645,
+      "end": 915.085,
+      "pause_end": 920.835
+    },
+    {
+      "id": "L03_A197",
+      "speaker": "arabic",
+      "text": "ساكن في دبي",
+      "start": 920.835,
+      "end": 922.042,
+      "pause_end": 923.092
+    },
+    {
+      "id": "L03_A198",
+      "speaker": "instructor",
+      "text": "How would you say: Where do you live?",
+      "start": 923.092,
+      "end": 926.652,
+      "pause_end": 932.402
+    },
+    {
+      "id": "L03_A199",
+      "speaker": "arabic",
+      "text": "وين ساكن؟",
+      "start": 932.402,
+      "end": 933.377,
+      "pause_end": 934.427
+    },
+    {
+      "id": "L03_A200",
+      "speaker": "instructor",
+      "text": "How would you say: Near here.",
+      "start": 934.427,
+      "end": 936.667,
+      "pause_end": 942.417
+    },
+    {
+      "id": "L03_A201",
+      "speaker": "arabic",
+      "text": "قريب من هني",
+      "start": 942.417,
+      "end": 943.532,
+      "pause_end": 944.582
+    },
+    {
+      "id": "L03_A202",
+      "speaker": "instructor",
+      "text": "How would you say: And you?",
+      "start": 944.582,
+      "end": 946.942,
+      "pause_end": 952.692
+    },
+    {
+      "id": "L03_A203",
+      "speaker": "arabic",
+      "text": "وإنت؟",
+      "start": 952.692,
+      "end": 953.435,
+      "pause_end": 954.485
+    },
+    {
+      "id": "L03_A204",
+      "speaker": "instructor",
+      "text": "How would you say: I'm from the Emirates.",
+      "start": 954.485,
+      "end": 957.165,
+      "pause_end": 962.915
+    },
+    {
+      "id": "L03_A205",
+      "speaker": "arabic_female",
+      "text": "أنا من الإمارات",
+      "start": 962.915,
+      "end": 964.215,
+      "pause_end": 965.265
+    },
+    {
+      "id": "L03_A206",
+      "speaker": "instructor",
+      "text": "Good work. Review this lesson again before moving on.",
+      "start": 965.265,
+      "end": 968.305,
+      "pause_end": 969.055
+    }
+  ]
+}

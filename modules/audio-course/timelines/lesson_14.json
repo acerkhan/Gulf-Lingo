@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L14_A001",
+      "speaker": "instructor",
+      "text": "Lesson 14. Yesterday and Tomorrow. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 6.16,
+      "pause_end": 7.11
+    },
+    {
+      "id": "L14_A002",
+      "speaker": "instructor",
+      "text": "First, a quick review. Answer before you hear the speaker.",
+      "start": 7.11,
+      "end": 10.83,
+      "pause_end": 11.78
+    },
+    {
+      "id": "L14_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 11.78,
+      "end": 14.3,
+      "pause_end": 18.75
+    },
+    {
+      "id": "L14_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 18.75,
+      "end": 19.911,
+      "pause_end": 21.011
+    },
+    {
+      "id": "L14_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 21.011,
+      "end": 24.171,
+      "pause_end": 28.621
+    },
+    {
+      "id": "L14_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 28.621,
+      "end": 29.596,
+      "pause_end": 30.696
+    },
+    {
+      "id": "L14_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask someone their name.",
+      "start": 30.696,
+      "end": 33.976,
+      "pause_end": 38.426
+    },
+    {
+      "id": "L14_A008",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 38.426,
+      "end": 39.262,
+      "pause_end": 40.362
+    },
+    {
+      "id": "L14_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask where someone is from.",
+      "start": 40.362,
+      "end": 44.162,
+      "pause_end": 48.612
+    },
+    {
+      "id": "L14_A010",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 48.612,
+      "end": 49.727,
+      "pause_end": 50.827
+    },
+    {
+      "id": "L14_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 50.827,
+      "end": 54.227,
+      "pause_end": 58.677
+    },
+    {
+      "id": "L14_A012",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 58.677,
+      "end": 59.745,
+      "pause_end": 60.845
+    },
+    {
+      "id": "L14_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 60.845,
+      "end": 64.485,
+      "pause_end": 68.935
+    },
+    {
+      "id": "L14_A014",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 68.935,
+      "end": 69.91,
+      "pause_end": 71.01
+    },
+    {
+      "id": "L14_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few useful expressions for today.",
+      "start": 71.01,
+      "end": 73.81,
+      "pause_end": 74.56
+    },
+    {
+      "id": "L14_A016",
+      "speaker": "instructor",
+      "text": "Listen. What did you do yesterday? Ask a man.",
+      "start": 74.56,
+      "end": 77.92,
+      "pause_end": 78.57
+    },
+    {
+      "id": "L14_A017",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 78.57,
+      "end": 79.778,
+      "pause_end": 81.028
+    },
+    {
+      "id": "L14_A018",
+      "speaker": "instructor",
+      "text": "Listen. I went to work.",
+      "start": 81.028,
+      "end": 82.748,
+      "pause_end": 83.398
+    },
+    {
+      "id": "L14_A019",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 83.398,
+      "end": 84.559,
+      "pause_end": 85.809
+    },
+    {
+      "id": "L14_A020",
+      "speaker": "instructor",
+      "text": "Listen. I returned home.",
+      "start": 85.809,
+      "end": 87.289,
+      "pause_end": 87.939
+    },
+    {
+      "id": "L14_A021",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 87.939,
+      "end": 89.193,
+      "pause_end": 90.443
+    },
+    {
+      "id": "L14_A022",
+      "speaker": "instructor",
+      "text": "Listen. I was tired. Said by a man.",
+      "start": 90.443,
+      "end": 92.843,
+      "pause_end": 93.493
+    },
+    {
+      "id": "L14_A023",
+      "speaker": "arabic",
+      "text": "كنت تعبان",
+      "start": 93.493,
+      "end": 94.654,
+      "pause_end": 95.904
+    },
+    {
+      "id": "L14_A024",
+      "speaker": "instructor",
+      "text": "Listen. I was tired. Said by a woman.",
+      "start": 95.904,
+      "end": 99.064,
+      "pause_end": 99.714
+    },
+    {
+      "id": "L14_A025",
+      "speaker": "arabic_female",
+      "text": "كنت تعبانة",
+      "start": 99.714,
+      "end": 100.828,
+      "pause_end": 102.078
+    },
+    {
+      "id": "L14_A026",
+      "speaker": "instructor",
+      "text": "Now say each expression yourself.",
+      "start": 102.078,
+      "end": 104.958,
+      "pause_end": 105.708
+    },
+    {
+      "id": "L14_A027",
+      "speaker": "instructor",
+      "text": "Listen. What did you do yesterday? Ask a man.",
+      "start": 105.708,
+      "end": 109.068,
+      "pause_end": 109.668
+    },
+    {
+      "id": "L14_A028",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 109.668,
+      "end": 110.876,
+      "pause_end": 112.126
+    },
+    {
+      "id": "L14_A029",
+      "speaker": "instructor",
+      "text": "Your turn. What did you do yesterday? Ask a man.",
+      "start": 112.126,
+      "end": 115.566,
+      "pause_end": 120.316
+    },
+    {
+      "id": "L14_A030",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 120.316,
+      "end": 121.523,
+      "pause_end": 122.623
+    },
+    {
+      "id": "L14_A031",
+      "speaker": "instructor",
+      "text": "Listen. I went to work.",
+      "start": 122.623,
+      "end": 124.343,
+      "pause_end": 124.943
+    },
+    {
+      "id": "L14_A032",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 124.943,
+      "end": 126.104,
+      "pause_end": 127.354
+    },
+    {
+      "id": "L14_A033",
+      "speaker": "instructor",
+      "text": "Your turn. I went to work.",
+      "start": 127.354,
+      "end": 130.794,
+      "pause_end": 135.544
+    },
+    {
+      "id": "L14_A034",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 135.544,
+      "end": 136.705,
+      "pause_end": 137.805
+    },
+    {
+      "id": "L14_A035",
+      "speaker": "instructor",
+      "text": "Listen. I returned home.",
+      "start": 137.805,
+      "end": 139.285,
+      "pause_end": 139.885
+    },
+    {
+      "id": "L14_A036",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 139.885,
+      "end": 141.139,
+      "pause_end": 142.389
+    },
+    {
+      "id": "L14_A037",
+      "speaker": "instructor",
+      "text": "Your turn. I returned home.",
+      "start": 142.389,
+      "end": 145.029,
+      "pause_end": 149.779
+    },
+    {
+      "id": "L14_A038",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 149.779,
+      "end": 151.033,
+      "pause_end": 152.133
+    },
+    {
+      "id": "L14_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: What did you do yesterday? Ask a man.",
+      "start": 152.133,
+      "end": 156.693,
+      "pause_end": 162.143
+    },
+    {
+      "id": "L14_A040",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 162.143,
+      "end": 163.35,
+      "pause_end": 164.45
+    },
+    {
+      "id": "L14_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask someone their name.",
+      "start": 164.45,
+      "end": 167.37,
+      "pause_end": 172.12
+    },
+    {
+      "id": "L14_A042",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 172.12,
+      "end": 172.956,
+      "pause_end": 174.056
+    },
+    {
+      "id": "L14_A043",
+      "speaker": "instructor",
+      "text": "Listen. I was tired. Said by a man.",
+      "start": 174.056,
+      "end": 176.456,
+      "pause_end": 177.056
+    },
+    {
+      "id": "L14_A044",
+      "speaker": "arabic",
+      "text": "كنت تعبان",
+      "start": 177.056,
+      "end": 178.217,
+      "pause_end": 179.467
+    },
+    {
+      "id": "L14_A045",
+      "speaker": "instructor",
+      "text": "Your turn. I was tired. Said by a man.",
+      "start": 179.467,
+      "end": 182.867,
+      "pause_end": 187.617
+    },
+    {
+      "id": "L14_A046",
+      "speaker": "arabic",
+      "text": "كنت تعبان",
+      "start": 187.617,
+      "end": 188.778,
+      "pause_end": 189.878
+    },
+    {
+      "id": "L14_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: I went to work.",
+      "start": 189.878,
+      "end": 191.958,
+      "pause_end": 197.408
+    },
+    {
+      "id": "L14_A048",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 197.408,
+      "end": 198.569,
+      "pause_end": 199.669
+    },
+    {
+      "id": "L14_A049",
+      "speaker": "instructor",
+      "text": "Listen. I was tired. Said by a woman.",
+      "start": 199.669,
+      "end": 202.829,
+      "pause_end": 203.429
+    },
+    {
+      "id": "L14_A050",
+      "speaker": "arabic_female",
+      "text": "كنت تعبانة",
+      "start": 203.429,
+      "end": 204.544,
+      "pause_end": 205.794
+    },
+    {
+      "id": "L14_A051",
+      "speaker": "instructor",
+      "text": "Your turn. I was tired. Said by a woman.",
+      "start": 205.794,
+      "end": 209.154,
+      "pause_end": 213.904
+    },
+    {
+      "id": "L14_A052",
+      "speaker": "arabic_female",
+      "text": "كنت تعبانة",
+      "start": 213.904,
+      "end": 215.019,
+      "pause_end": 216.119
+    },
+    {
+      "id": "L14_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: I returned home.",
+      "start": 216.119,
+      "end": 218.439,
+      "pause_end": 223.889
+    },
+    {
+      "id": "L14_A054",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 223.889,
+      "end": 225.143,
+      "pause_end": 226.243
+    },
+    {
+      "id": "L14_A055",
+      "speaker": "instructor",
+      "text": "Listen. What will you do tomorrow? Ask a man.",
+      "start": 226.243,
+      "end": 229.323,
+      "pause_end": 229.923
+    },
+    {
+      "id": "L14_A056",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باجر؟",
+      "start": 229.923,
+      "end": 231.176,
+      "pause_end": 232.426
+    },
+    {
+      "id": "L14_A057",
+      "speaker": "instructor",
+      "text": "Your turn. What will you do tomorrow? Ask a man.",
+      "start": 232.426,
+      "end": 235.866,
+      "pause_end": 240.616
+    },
+    {
+      "id": "L14_A058",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باجر؟",
+      "start": 240.616,
+      "end": 241.87,
+      "pause_end": 242.97
+    },
+    {
+      "id": "L14_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: I was tired. Said by a man.",
+      "start": 242.97,
+      "end": 246.73,
+      "pause_end": 252.18
+    },
+    {
+      "id": "L14_A060",
+      "speaker": "arabic",
+      "text": "كنت تعبان",
+      "start": 252.18,
+      "end": 253.341,
+      "pause_end": 254.441
+    },
+    {
+      "id": "L14_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Ask where someone is from.",
+      "start": 254.441,
+      "end": 257.321,
+      "pause_end": 262.071
+    },
+    {
+      "id": "L14_A062",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 262.071,
+      "end": 263.186,
+      "pause_end": 264.286
+    },
+    {
+      "id": "L14_A063",
+      "speaker": "instructor",
+      "text": "Listen. I will go to the market.",
+      "start": 264.286,
+      "end": 266.526,
+      "pause_end": 267.126
+    },
+    {
+      "id": "L14_A064",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 267.126,
+      "end": 268.194,
+      "pause_end": 269.444
+    },
+    {
+      "id": "L14_A065",
+      "speaker": "instructor",
+      "text": "Your turn. I will go to the market.",
+      "start": 269.444,
+      "end": 272.244,
+      "pause_end": 276.994
+    },
+    {
+      "id": "L14_A066",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 276.994,
+      "end": 278.062,
+      "pause_end": 279.162
+    },
+    {
+      "id": "L14_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: I was tired. Said by a woman.",
+      "start": 279.162,
+      "end": 283.082,
+      "pause_end": 288.532
+    },
+    {
+      "id": "L14_A068",
+      "speaker": "arabic_female",
+      "text": "كنت تعبانة",
+      "start": 288.532,
+      "end": 289.647,
+      "pause_end": 290.747
+    },
+    {
+      "id": "L14_A069",
+      "speaker": "instructor",
+      "text": "Listen. I will go with you.",
+      "start": 290.747,
+      "end": 293.067,
+      "pause_end": 293.667
+    },
+    {
+      "id": "L14_A070",
+      "speaker": "arabic_female",
+      "text": "بروح معاك",
+      "start": 293.667,
+      "end": 294.689,
+      "pause_end": 295.939
+    },
+    {
+      "id": "L14_A071",
+      "speaker": "instructor",
+      "text": "Your turn. I will go with you.",
+      "start": 295.939,
+      "end": 298.419,
+      "pause_end": 303.169
+    },
+    {
+      "id": "L14_A072",
+      "speaker": "arabic_female",
+      "text": "بروح معاك",
+      "start": 303.169,
+      "end": 304.19,
+      "pause_end": 305.29
+    },
+    {
+      "id": "L14_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: What will you do tomorrow? Ask a man.",
+      "start": 305.29,
+      "end": 310.33,
+      "pause_end": 315.78
+    },
+    {
+      "id": "L14_A074",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باجر؟",
+      "start": 315.78,
+      "end": 317.034,
+      "pause_end": 318.134
+    },
+    {
+      "id": "L14_A075",
+      "speaker": "instructor",
+      "text": "Listen. When will you go?",
+      "start": 318.134,
+      "end": 319.974,
+      "pause_end": 320.574
+    },
+    {
+      "id": "L14_A076",
+      "speaker": "arabic_female",
+      "text": "متى بتروح؟",
+      "start": 320.574,
+      "end": 321.642,
+      "pause_end": 322.892
+    },
+    {
+      "id": "L14_A077",
+      "speaker": "instructor",
+      "text": "Your turn. When will you go?",
+      "start": 322.892,
+      "end": 325.292,
+      "pause_end": 330.042
+    },
+    {
+      "id": "L14_A078",
+      "speaker": "arabic_female",
+      "text": "متى بتروح؟",
+      "start": 330.042,
+      "end": 331.111,
+      "pause_end": 332.211
+    },
+    {
+      "id": "L14_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: I will go to the market.",
+      "start": 332.211,
+      "end": 334.811,
+      "pause_end": 340.261
+    },
+    {
+      "id": "L14_A080",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 340.261,
+      "end": 341.329,
+      "pause_end": 342.429
+    },
+    {
+      "id": "L14_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 342.429,
+      "end": 345.309,
+      "pause_end": 350.059
+    },
+    {
+      "id": "L14_A082",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 350.059,
+      "end": 351.127,
+      "pause_end": 352.227
+    },
+    {
+      "id": "L14_A083",
+      "speaker": "instructor",
+      "text": "Listen. Tomorrow morning.",
+      "start": 352.227,
+      "end": 353.707,
+      "pause_end": 354.307
+    },
+    {
+      "id": "L14_A084",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 354.307,
+      "end": 355.421,
+      "pause_end": 356.671
+    },
+    {
+      "id": "L14_A085",
+      "speaker": "instructor",
+      "text": "Your turn. Tomorrow morning.",
+      "start": 356.671,
+      "end": 359.231,
+      "pause_end": 363.981
+    },
+    {
+      "id": "L14_A086",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 363.981,
+      "end": 365.096,
+      "pause_end": 366.196
+    },
+    {
+      "id": "L14_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: I will go with you.",
+      "start": 366.196,
+      "end": 369.076,
+      "pause_end": 374.526
+    },
+    {
+      "id": "L14_A088",
+      "speaker": "arabic_female",
+      "text": "بروح معاك",
+      "start": 374.526,
+      "end": 375.548,
+      "pause_end": 376.648
+    },
+    {
+      "id": "L14_A089",
+      "speaker": "instructor",
+      "text": "Listen. I do not have time today.",
+      "start": 376.648,
+      "end": 379.288,
+      "pause_end": 379.888
+    },
+    {
+      "id": "L14_A090",
+      "speaker": "arabic_female",
+      "text": "اليوم ما عندي وقت",
+      "start": 379.888,
+      "end": 381.327,
+      "pause_end": 382.577
+    },
+    {
+      "id": "L14_A091",
+      "speaker": "instructor",
+      "text": "Your turn. I do not have time today.",
+      "start": 382.577,
+      "end": 386.817,
+      "pause_end": 391.567
+    },
+    {
+      "id": "L14_A092",
+      "speaker": "arabic_female",
+      "text": "اليوم ما عندي وقت",
+      "start": 391.567,
+      "end": 393.007,
+      "pause_end": 394.107
+    },
+    {
+      "id": "L14_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: When will you go?",
+      "start": 394.107,
+      "end": 396.227,
+      "pause_end": 401.677
+    },
+    {
+      "id": "L14_A094",
+      "speaker": "arabic_female",
+      "text": "متى بتروح؟",
+      "start": 401.677,
+      "end": 402.745,
+      "pause_end": 403.845
+    },
+    {
+      "id": "L14_A095",
+      "speaker": "instructor",
+      "text": "Listen. After work.",
+      "start": 403.845,
+      "end": 405.405,
+      "pause_end": 406.005
+    },
+    {
+      "id": "L14_A096",
+      "speaker": "arabic",
+      "text": "عقب الدوام",
+      "start": 406.005,
+      "end": 407.073,
+      "pause_end": 408.323
+    },
+    {
+      "id": "L14_A097",
+      "speaker": "instructor",
+      "text": "Your turn. After work.",
+      "start": 408.323,
+      "end": 410.643,
+      "pause_end": 415.393
+    },
+    {
+      "id": "L14_A098",
+      "speaker": "arabic",
+      "text": "عقب الدوام",
+      "start": 415.393,
+      "end": 416.461,
+      "pause_end": 417.561
+    },
+    {
+      "id": "L14_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: Tomorrow morning.",
+      "start": 417.561,
+      "end": 420.201,
+      "pause_end": 425.651
+    },
+    {
+      "id": "L14_A100",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 425.651,
+      "end": 426.766,
+      "pause_end": 427.866
+    },
+    {
+      "id": "L14_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 427.866,
+      "end": 430.586,
+      "pause_end": 435.336
+    },
+    {
+      "id": "L14_A102",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 435.336,
+      "end": 436.311,
+      "pause_end": 437.411
+    },
+    {
+      "id": "L14_A103",
+      "speaker": "instructor",
+      "text": "Listen. Before sunset.",
+      "start": 437.411,
+      "end": 439.931,
+      "pause_end": 440.531
+    },
+    {
+      "id": "L14_A104",
+      "speaker": "arabic_female",
+      "text": "قبل المغرب",
+      "start": 440.531,
+      "end": 441.739,
+      "pause_end": 442.989
+    },
+    {
+      "id": "L14_A105",
+      "speaker": "instructor",
+      "text": "Your turn. Before sunset.",
+      "start": 442.989,
+      "end": 446.549,
+      "pause_end": 451.299
+    },
+    {
+      "id": "L14_A106",
+      "speaker": "arabic_female",
+      "text": "قبل المغرب",
+      "start": 451.299,
+      "end": 452.506,
+      "pause_end": 453.606
+    },
+    {
+      "id": "L14_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: I do not have time today.",
+      "start": 453.606,
+      "end": 456.926,
+      "pause_end": 462.376
+    },
+    {
+      "id": "L14_A108",
+      "speaker": "arabic_female",
+      "text": "اليوم ما عندي وقت",
+      "start": 462.376,
+      "end": 463.816,
+      "pause_end": 464.916
+    },
+    {
+      "id": "L14_A109",
+      "speaker": "instructor",
+      "text": "Listen. See you tomorrow.",
+      "start": 464.916,
+      "end": 466.956,
+      "pause_end": 467.556
+    },
+    {
+      "id": "L14_A110",
+      "speaker": "arabic",
+      "text": "نشوفك باجر",
+      "start": 467.556,
+      "end": 468.763,
+      "pause_end": 470.013
+    },
+    {
+      "id": "L14_A111",
+      "speaker": "instructor",
+      "text": "Your turn. See you tomorrow.",
+      "start": 470.013,
+      "end": 472.093,
+      "pause_end": 476.843
+    },
+    {
+      "id": "L14_A112",
+      "speaker": "arabic",
+      "text": "نشوفك باجر",
+      "start": 476.843,
+      "end": 478.051,
+      "pause_end": 479.151
+    },
+    {
+      "id": "L14_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: After work.",
+      "start": 479.151,
+      "end": 481.791,
+      "pause_end": 487.241
+    },
+    {
+      "id": "L14_A114",
+      "speaker": "arabic",
+      "text": "عقب الدوام",
+      "start": 487.241,
+      "end": 488.309,
+      "pause_end": 489.409
+    },
+    {
+      "id": "L14_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Give your answer before the recording.",
+      "start": 489.409,
+      "end": 492.729,
+      "pause_end": 493.679
+    },
+    {
+      "id": "L14_A116",
+      "speaker": "instructor",
+      "text": "Say: What did you do yesterday? Ask a man.",
+      "start": 493.679,
+      "end": 497.559,
+      "pause_end": 502.609
+    },
+    {
+      "id": "L14_A117",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 502.609,
+      "end": 503.817,
+      "pause_end": 504.917
+    },
+    {
+      "id": "L14_A118",
+      "speaker": "instructor",
+      "text": "Say: I went to work.",
+      "start": 504.917,
+      "end": 507.397,
+      "pause_end": 512.447
+    },
+    {
+      "id": "L14_A119",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 512.447,
+      "end": 513.608,
+      "pause_end": 514.708
+    },
+    {
+      "id": "L14_A120",
+      "speaker": "instructor",
+      "text": "Say: I returned home.",
+      "start": 514.708,
+      "end": 516.628,
+      "pause_end": 521.678
+    },
+    {
+      "id": "L14_A121",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 521.678,
+      "end": 522.931,
+      "pause_end": 524.031
+    },
+    {
+      "id": "L14_A122",
+      "speaker": "instructor",
+      "text": "Say: I was tired. Said by a man.",
+      "start": 524.031,
+      "end": 527.191,
+      "pause_end": 532.241
+    },
+    {
+      "id": "L14_A123",
+      "speaker": "arabic",
+      "text": "كنت تعبان",
+      "start": 532.241,
+      "end": 533.402,
+      "pause_end": 534.502
+    },
+    {
+      "id": "L14_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone works.",
+      "start": 534.502,
+      "end": 536.982,
+      "pause_end": 541.932
+    },
+    {
+      "id": "L14_A125",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 541.932,
+      "end": 543.047,
+      "pause_end": 544.147
+    },
+    {
+      "id": "L14_A126",
+      "speaker": "instructor",
+      "text": "Say: I was tired. Said by a woman.",
+      "start": 544.147,
+      "end": 547.187,
+      "pause_end": 552.237
+    },
+    {
+      "id": "L14_A127",
+      "speaker": "arabic_female",
+      "text": "كنت تعبانة",
+      "start": 552.237,
+      "end": 553.352,
+      "pause_end": 554.452
+    },
+    {
+      "id": "L14_A128",
+      "speaker": "instructor",
+      "text": "Say: What will you do tomorrow? Ask a man.",
+      "start": 554.452,
+      "end": 558.212,
+      "pause_end": 563.262
+    },
+    {
+      "id": "L14_A129",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باجر؟",
+      "start": 563.262,
+      "end": 564.516,
+      "pause_end": 565.616
+    },
+    {
+      "id": "L14_A130",
+      "speaker": "instructor",
+      "text": "Say: I will go to the market.",
+      "start": 565.616,
+      "end": 568.296,
+      "pause_end": 573.346
+    },
+    {
+      "id": "L14_A131",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 573.346,
+      "end": 574.414,
+      "pause_end": 575.514
+    },
+    {
+      "id": "L14_A132",
+      "speaker": "instructor",
+      "text": "Say: I will go with you.",
+      "start": 575.514,
+      "end": 577.594,
+      "pause_end": 582.644
+    },
+    {
+      "id": "L14_A133",
+      "speaker": "arabic_female",
+      "text": "بروح معاك",
+      "start": 582.644,
+      "end": 583.665,
+      "pause_end": 584.765
+    },
+    {
+      "id": "L14_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 584.765,
+      "end": 587.725,
+      "pause_end": 592.675
+    },
+    {
+      "id": "L14_A135",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 592.675,
+      "end": 593.651,
+      "pause_end": 594.751
+    },
+    {
+      "id": "L14_A136",
+      "speaker": "instructor",
+      "text": "Say: When will you go?",
+      "start": 594.751,
+      "end": 597.071,
+      "pause_end": 602.121
+    },
+    {
+      "id": "L14_A137",
+      "speaker": "arabic_female",
+      "text": "متى بتروح؟",
+      "start": 602.121,
+      "end": 603.189,
+      "pause_end": 604.289
+    },
+    {
+      "id": "L14_A138",
+      "speaker": "instructor",
+      "text": "Say: Tomorrow morning.",
+      "start": 604.289,
+      "end": 605.889,
+      "pause_end": 610.939
+    },
+    {
+      "id": "L14_A139",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 610.939,
+      "end": 612.053,
+      "pause_end": 613.153
+    },
+    {
+      "id": "L14_A140",
+      "speaker": "instructor",
+      "text": "Say: I do not have time today.",
+      "start": 613.153,
+      "end": 614.953,
+      "pause_end": 620.003
+    },
+    {
+      "id": "L14_A141",
+      "speaker": "arabic_female",
+      "text": "اليوم ما عندي وقت",
+      "start": 620.003,
+      "end": 621.443,
+      "pause_end": 622.543
+    },
+    {
+      "id": "L14_A142",
+      "speaker": "instructor",
+      "text": "Say: After work.",
+      "start": 622.543,
+      "end": 624.423,
+      "pause_end": 629.473
+    },
+    {
+      "id": "L14_A143",
+      "speaker": "arabic",
+      "text": "عقب الدوام",
+      "start": 629.473,
+      "end": 630.541,
+      "pause_end": 631.641
+    },
+    {
+      "id": "L14_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 631.641,
+      "end": 633.841,
+      "pause_end": 638.791
+    },
+    {
+      "id": "L14_A145",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 638.791,
+      "end": 639.766,
+      "pause_end": 640.866
+    },
+    {
+      "id": "L14_A146",
+      "speaker": "instructor",
+      "text": "Say: Before sunset.",
+      "start": 640.866,
+      "end": 643.386,
+      "pause_end": 648.436
+    },
+    {
+      "id": "L14_A147",
+      "speaker": "arabic_female",
+      "text": "قبل المغرب",
+      "start": 648.436,
+      "end": 649.644,
+      "pause_end": 650.744
+    },
+    {
+      "id": "L14_A148",
+      "speaker": "instructor",
+      "text": "Say: See you tomorrow.",
+      "start": 650.744,
+      "end": 653.184,
+      "pause_end": 658.234
+    },
+    {
+      "id": "L14_A149",
+      "speaker": "arabic",
+      "text": "نشوفك باجر",
+      "start": 658.234,
+      "end": 659.441,
+      "pause_end": 660.541
+    },
+    {
+      "id": "L14_A150",
+      "speaker": "instructor",
+      "text": "Say: What did you do yesterday? Ask a man.",
+      "start": 660.541,
+      "end": 664.421,
+      "pause_end": 669.471
+    },
+    {
+      "id": "L14_A151",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 669.471,
+      "end": 670.679,
+      "pause_end": 671.779
+    },
+    {
+      "id": "L14_A152",
+      "speaker": "instructor",
+      "text": "Say: I returned home.",
+      "start": 671.779,
+      "end": 673.699,
+      "pause_end": 678.749
+    },
+    {
+      "id": "L14_A153",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 678.749,
+      "end": 680.003,
+      "pause_end": 681.103
+    },
+    {
+      "id": "L14_A154",
+      "speaker": "instructor",
+      "text": "Say: I was tired. Said by a woman.",
+      "start": 681.103,
+      "end": 684.143,
+      "pause_end": 689.193
+    },
+    {
+      "id": "L14_A155",
+      "speaker": "arabic_female",
+      "text": "كنت تعبانة",
+      "start": 689.193,
+      "end": 690.307,
+      "pause_end": 691.407
+    },
+    {
+      "id": "L14_A156",
+      "speaker": "instructor",
+      "text": "Say: I will go to the market.",
+      "start": 691.407,
+      "end": 694.087,
+      "pause_end": 699.137
+    },
+    {
+      "id": "L14_A157",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 699.137,
+      "end": 700.206,
+      "pause_end": 701.306
+    },
+    {
+      "id": "L14_A158",
+      "speaker": "instructor",
+      "text": "Say: When will you go?",
+      "start": 701.306,
+      "end": 703.626,
+      "pause_end": 708.676
+    },
+    {
+      "id": "L14_A159",
+      "speaker": "arabic_female",
+      "text": "متى بتروح؟",
+      "start": 708.676,
+      "end": 709.744,
+      "pause_end": 710.844
+    },
+    {
+      "id": "L14_A160",
+      "speaker": "instructor",
+      "text": "Say: I do not have time today.",
+      "start": 710.844,
+      "end": 712.644,
+      "pause_end": 717.694
+    },
+    {
+      "id": "L14_A161",
+      "speaker": "arabic_female",
+      "text": "اليوم ما عندي وقت",
+      "start": 717.694,
+      "end": 719.133,
+      "pause_end": 720.233
+    },
+    {
+      "id": "L14_A162",
+      "speaker": "instructor",
+      "text": "Say: Before sunset.",
+      "start": 720.233,
+      "end": 722.753,
+      "pause_end": 727.803
+    },
+    {
+      "id": "L14_A163",
+      "speaker": "arabic_female",
+      "text": "قبل المغرب",
+      "start": 727.803,
+      "end": 729.011,
+      "pause_end": 730.111
+    },
+    {
+      "id": "L14_A164",
+      "speaker": "instructor",
+      "text": "Say: I went to work.",
+      "start": 730.111,
+      "end": 732.591,
+      "pause_end": 737.641
+    },
+    {
+      "id": "L14_A165",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 737.641,
+      "end": 738.802,
+      "pause_end": 739.902
+    },
+    {
+      "id": "L14_A166",
+      "speaker": "instructor",
+      "text": "Say: I was tired. Said by a man.",
+      "start": 739.902,
+      "end": 743.062,
+      "pause_end": 748.112
+    },
+    {
+      "id": "L14_A167",
+      "speaker": "arabic",
+      "text": "كنت تعبان",
+      "start": 748.112,
+      "end": 749.273,
+      "pause_end": 750.373
+    },
+    {
+      "id": "L14_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow.",
+      "start": 750.373,
+      "end": 752.293,
+      "pause_end": 757.243
+    },
+    {
+      "id": "L14_A169",
+      "speaker": "arabic",
+      "text": "باجر",
+      "start": 757.243,
+      "end": 758.032,
+      "pause_end": 759.132
+    },
+    {
+      "id": "L14_A170",
+      "speaker": "instructor",
+      "text": "Say: What will you do tomorrow? Ask a man.",
+      "start": 759.132,
+      "end": 762.892,
+      "pause_end": 767.942
+    },
+    {
+      "id": "L14_A171",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باجر؟",
+      "start": 767.942,
+      "end": 769.196,
+      "pause_end": 770.296
+    },
+    {
+      "id": "L14_A172",
+      "speaker": "instructor",
+      "text": "Say: I will go with you.",
+      "start": 770.296,
+      "end": 772.376,
+      "pause_end": 777.426
+    },
+    {
+      "id": "L14_A173",
+      "speaker": "arabic_female",
+      "text": "بروح معاك",
+      "start": 777.426,
+      "end": 778.448,
+      "pause_end": 779.548
+    },
+    {
+      "id": "L14_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Ask someone their name.",
+      "start": 779.548,
+      "end": 781.988,
+      "pause_end": 786.938
+    },
+    {
+      "id": "L14_A175",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 786.938,
+      "end": 787.774,
+      "pause_end": 788.874
+    },
+    {
+      "id": "L14_A176",
+      "speaker": "instructor",
+      "text": "Say: Tomorrow morning.",
+      "start": 788.874,
+      "end": 790.474,
+      "pause_end": 795.524
+    },
+    {
+      "id": "L14_A177",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 795.524,
+      "end": 796.638,
+      "pause_end": 797.738
+    },
+    {
+      "id": "L14_A178",
+      "speaker": "instructor",
+      "text": "Say: After work.",
+      "start": 797.738,
+      "end": 799.618,
+      "pause_end": 804.668
+    },
+    {
+      "id": "L14_A179",
+      "speaker": "arabic",
+      "text": "عقب الدوام",
+      "start": 804.668,
+      "end": 805.737,
+      "pause_end": 806.837
+    },
+    {
+      "id": "L14_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 806.837,
+      "end": 808.917,
+      "pause_end": 813.867
+    },
+    {
+      "id": "L14_A181",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 813.867,
+      "end": 815.12,
+      "pause_end": 816.221
+    },
+    {
+      "id": "L14_A182",
+      "speaker": "instructor",
+      "text": "Say: See you tomorrow.",
+      "start": 816.221,
+      "end": 818.661,
+      "pause_end": 823.711
+    },
+    {
+      "id": "L14_A183",
+      "speaker": "arabic",
+      "text": "نشوفك باجر",
+      "start": 823.711,
+      "end": 824.918,
+      "pause_end": 826.018
+    },
+    {
+      "id": "L14_A184",
+      "speaker": "instructor",
+      "text": "How do you say: See you tomorrow.",
+      "start": 826.018,
+      "end": 828.298,
+      "pause_end": 833.748
+    },
+    {
+      "id": "L14_A185",
+      "speaker": "arabic",
+      "text": "نشوفك باجر",
+      "start": 833.748,
+      "end": 834.956,
+      "pause_end": 836.056
+    },
+    {
+      "id": "L14_A186",
+      "speaker": "instructor",
+      "text": "How do you say: Before sunset.",
+      "start": 836.056,
+      "end": 838.856,
+      "pause_end": 844.306
+    },
+    {
+      "id": "L14_A187",
+      "speaker": "arabic_female",
+      "text": "قبل المغرب",
+      "start": 844.306,
+      "end": 845.513,
+      "pause_end": 846.613
+    },
+    {
+      "id": "L14_A188",
+      "speaker": "instructor",
+      "text": "How do you say: After work.",
+      "start": 846.613,
+      "end": 849.333,
+      "pause_end": 854.783
+    },
+    {
+      "id": "L14_A189",
+      "speaker": "arabic",
+      "text": "عقب الدوام",
+      "start": 854.783,
+      "end": 855.851,
+      "pause_end": 856.951
+    },
+    {
+      "id": "L14_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone works.",
+      "start": 856.951,
+      "end": 859.431,
+      "pause_end": 864.381
+    },
+    {
+      "id": "L14_A191",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 864.381,
+      "end": 865.496,
+      "pause_end": 866.596
+    },
+    {
+      "id": "L14_A192",
+      "speaker": "instructor",
+      "text": "How do you say: I do not have time today.",
+      "start": 866.596,
+      "end": 869.756,
+      "pause_end": 875.206
+    },
+    {
+      "id": "L14_A193",
+      "speaker": "arabic_female",
+      "text": "اليوم ما عندي وقت",
+      "start": 875.206,
+      "end": 876.645,
+      "pause_end": 877.745
+    },
+    {
+      "id": "L14_A194",
+      "speaker": "instructor",
+      "text": "How do you say: Tomorrow morning.",
+      "start": 877.745,
+      "end": 880.185,
+      "pause_end": 885.635
+    },
+    {
+      "id": "L14_A195",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 885.635,
+      "end": 886.75,
+      "pause_end": 887.85
+    },
+    {
+      "id": "L14_A196",
+      "speaker": "instructor",
+      "text": "How do you say: When will you go?",
+      "start": 887.85,
+      "end": 891.29,
+      "pause_end": 896.74
+    },
+    {
+      "id": "L14_A197",
+      "speaker": "arabic_female",
+      "text": "متى بتروح؟",
+      "start": 896.74,
+      "end": 897.808,
+      "pause_end": 898.908
+    },
+    {
+      "id": "L14_A198",
+      "speaker": "instructor",
+      "text": "How do you say: I will go with you.",
+      "start": 898.908,
+      "end": 901.348,
+      "pause_end": 906.798
+    },
+    {
+      "id": "L14_A199",
+      "speaker": "arabic_female",
+      "text": "بروح معاك",
+      "start": 906.798,
+      "end": 907.82,
+      "pause_end": 908.92
+    },
+    {
+      "id": "L14_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone is from.",
+      "start": 908.92,
+      "end": 911.52,
+      "pause_end": 916.47
+    },
+    {
+      "id": "L14_A201",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 916.47,
+      "end": 917.585,
+      "pause_end": 918.685
+    },
+    {
+      "id": "L14_A202",
+      "speaker": "instructor",
+      "text": "How do you say: I will go to the market.",
+      "start": 918.685,
+      "end": 921.965,
+      "pause_end": 927.415
+    },
+    {
+      "id": "L14_A203",
+      "speaker": "arabic",
+      "text": "بروح السوق",
+      "start": 927.415,
+      "end": 928.483,
+      "pause_end": 929.583
+    },
+    {
+      "id": "L14_A204",
+      "speaker": "instructor",
+      "text": "How do you say: What will you do tomorrow? Ask a man.",
+      "start": 929.583,
+      "end": 933.663,
+      "pause_end": 939.113
+    },
+    {
+      "id": "L14_A205",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باجر؟",
+      "start": 939.113,
+      "end": 940.367,
+      "pause_end": 941.467
+    },
+    {
+      "id": "L14_A206",
+      "speaker": "instructor",
+      "text": "How do you say: I was tired. Said by a woman.",
+      "start": 941.467,
+      "end": 945.187,
+      "pause_end": 950.637
+    },
+    {
+      "id": "L14_A207",
+      "speaker": "arabic_female",
+      "text": "كنت تعبانة",
+      "start": 950.637,
+      "end": 951.751,
+      "pause_end": 952.851
+    },
+    {
+      "id": "L14_A208",
+      "speaker": "instructor",
+      "text": "How do you say: I was tired. Said by a man.",
+      "start": 952.851,
+      "end": 956.291,
+      "pause_end": 961.741
+    },
+    {
+      "id": "L14_A209",
+      "speaker": "arabic",
+      "text": "كنت تعبان",
+      "start": 961.741,
+      "end": 962.902,
+      "pause_end": 964.002
+    },
+    {
+      "id": "L14_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Say now.",
+      "start": 964.002,
+      "end": 965.722,
+      "pause_end": 970.672
+    },
+    {
+      "id": "L14_A211",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 970.672,
+      "end": 971.647,
+      "pause_end": 972.747
+    },
+    {
+      "id": "L14_A212",
+      "speaker": "instructor",
+      "text": "How do you say: I returned home.",
+      "start": 972.747,
+      "end": 976.067,
+      "pause_end": 981.517
+    },
+    {
+      "id": "L14_A213",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 981.517,
+      "end": 982.771,
+      "pause_end": 983.871
+    },
+    {
+      "id": "L14_A214",
+      "speaker": "instructor",
+      "text": "How do you say: I went to work.",
+      "start": 983.871,
+      "end": 986.391,
+      "pause_end": 991.841
+    },
+    {
+      "id": "L14_A215",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 991.841,
+      "end": 993.002,
+      "pause_end": 994.102
+    },
+    {
+      "id": "L14_A216",
+      "speaker": "instructor",
+      "text": "How do you say: What did you do yesterday? Ask a man.",
+      "start": 994.102,
+      "end": 997.942,
+      "pause_end": 1003.392
+    },
+    {
+      "id": "L14_A217",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 1003.392,
+      "end": 1004.6,
+      "pause_end": 1005.7
+    },
+    {
+      "id": "L14_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Speak naturally, without waiting for a hint.",
+      "start": 1005.7,
+      "end": 1009.94,
+      "pause_end": 1010.79
+    },
+    {
+      "id": "L14_A219",
+      "speaker": "instructor",
+      "text": "Say: See you tomorrow.",
+      "start": 1010.79,
+      "end": 1013.23,
+      "pause_end": 1018.88
+    },
+    {
+      "id": "L14_A220",
+      "speaker": "arabic",
+      "text": "نشوفك باجر",
+      "start": 1018.88,
+      "end": 1020.087,
+      "pause_end": 1021.187
+    },
+    {
+      "id": "L14_A221",
+      "speaker": "instructor",
+      "text": "Say: I returned home.",
+      "start": 1021.187,
+      "end": 1023.107,
+      "pause_end": 1028.757
+    },
+    {
+      "id": "L14_A222",
+      "speaker": "arabic_female",
+      "text": "رجعت البيت",
+      "start": 1028.757,
+      "end": 1030.011,
+      "pause_end": 1031.111
+    },
+    {
+      "id": "L14_A223",
+      "speaker": "instructor",
+      "text": "Say: What did you do yesterday? Ask a man.",
+      "start": 1031.111,
+      "end": 1034.991,
+      "pause_end": 1040.641
+    },
+    {
+      "id": "L14_A224",
+      "speaker": "arabic_female",
+      "text": "شو سويت أمس؟",
+      "start": 1040.641,
+      "end": 1041.849,
+      "pause_end": 1042.949
+    },
+    {
+      "id": "L14_A225",
+      "speaker": "instructor",
+      "text": "Say: I will go with you.",
+      "start": 1042.949,
+      "end": 1045.029,
+      "pause_end": 1050.679
+    },
+    {
+      "id": "L14_A226",
+      "speaker": "arabic_female",
+      "text": "بروح معاك",
+      "start": 1050.679,
+      "end": 1051.7,
+      "pause_end": 1052.8
+    },
+    {
+      "id": "L14_A227",
+      "speaker": "instructor",
+      "text": "Say: What will you do tomorrow? Ask a man.",
+      "start": 1052.8,
+      "end": 1056.56,
+      "pause_end": 1062.21
+    },
+    {
+      "id": "L14_A228",
+      "speaker": "arabic_female",
+      "text": "شو بتسوي باجر؟",
+      "start": 1062.21,
+      "end": 1063.464,
+      "pause_end": 1064.564
+    },
+    {
+      "id": "L14_A229",
+      "speaker": "instructor",
+      "text": "Say: After work.",
+      "start": 1064.564,
+      "end": 1066.444,
+      "pause_end": 1072.094
+    },
+    {
+      "id": "L14_A230",
+      "speaker": "arabic",
+      "text": "عقب الدوام",
+      "start": 1072.094,
+      "end": 1073.162,
+      "pause_end": 1074.262
+    },
+    {
+      "id": "L14_A231",
+      "speaker": "instructor",
+      "text": "Say: I went to work.",
+      "start": 1074.262,
+      "end": 1076.742,
+      "pause_end": 1082.392
+    },
+    {
+      "id": "L14_A232",
+      "speaker": "arabic",
+      "text": "رحت الدوام",
+      "start": 1082.392,
+      "end": 1083.553,
+      "pause_end": 1084.653
+    },
+    {
+      "id": "L14_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1084.653,
+      "end": 1088.733,
+      "pause_end": 1089.683
+    }
+  ]
+}

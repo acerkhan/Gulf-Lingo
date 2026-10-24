@@ -1,0 +1,1980 @@
+{
+  "events": [
+    {
+      "id": "L15_A001",
+      "speaker": "instructor",
+      "text": "Lesson 15. Changing Plans. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 4.96,
+      "pause_end": 5.91
+    },
+    {
+      "id": "L15_A002",
+      "speaker": "instructor",
+      "text": "First, a quick review. Answer before you hear the speaker.",
+      "start": 5.91,
+      "end": 9.63,
+      "pause_end": 10.58
+    },
+    {
+      "id": "L15_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 10.58,
+      "end": 13.1,
+      "pause_end": 17.55
+    },
+    {
+      "id": "L15_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 17.55,
+      "end": 18.711,
+      "pause_end": 19.811
+    },
+    {
+      "id": "L15_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 19.811,
+      "end": 22.971,
+      "pause_end": 27.421
+    },
+    {
+      "id": "L15_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 27.421,
+      "end": 28.396,
+      "pause_end": 29.496
+    },
+    {
+      "id": "L15_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask someone their name.",
+      "start": 29.496,
+      "end": 32.776,
+      "pause_end": 37.226
+    },
+    {
+      "id": "L15_A008",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 37.226,
+      "end": 38.062,
+      "pause_end": 39.162
+    },
+    {
+      "id": "L15_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask where someone is from.",
+      "start": 39.162,
+      "end": 42.962,
+      "pause_end": 47.412
+    },
+    {
+      "id": "L15_A010",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 47.412,
+      "end": 48.527,
+      "pause_end": 49.627
+    },
+    {
+      "id": "L15_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 49.627,
+      "end": 53.027,
+      "pause_end": 57.477
+    },
+    {
+      "id": "L15_A012",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 57.477,
+      "end": 58.545,
+      "pause_end": 59.645
+    },
+    {
+      "id": "L15_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 59.645,
+      "end": 63.285,
+      "pause_end": 67.735
+    },
+    {
+      "id": "L15_A014",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 67.735,
+      "end": 68.71,
+      "pause_end": 69.81
+    },
+    {
+      "id": "L15_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few useful expressions for today.",
+      "start": 69.81,
+      "end": 72.61,
+      "pause_end": 73.36
+    },
+    {
+      "id": "L15_A016",
+      "speaker": "instructor",
+      "text": "Listen. Do you have time today?",
+      "start": 73.36,
+      "end": 75.24,
+      "pause_end": 75.89
+    },
+    {
+      "id": "L15_A017",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 75.89,
+      "end": 77.144,
+      "pause_end": 78.394
+    },
+    {
+      "id": "L15_A018",
+      "speaker": "instructor",
+      "text": "Listen. I have work to do.",
+      "start": 78.394,
+      "end": 80.474,
+      "pause_end": 81.124
+    },
+    {
+      "id": "L15_A019",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 81.124,
+      "end": 82.053,
+      "pause_end": 83.303
+    },
+    {
+      "id": "L15_A020",
+      "speaker": "instructor",
+      "text": "Listen. What do you think about going out?",
+      "start": 83.303,
+      "end": 85.623,
+      "pause_end": 86.273
+    },
+    {
+      "id": "L15_A021",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 86.273,
+      "end": 87.388,
+      "pause_end": 88.638
+    },
+    {
+      "id": "L15_A022",
+      "speaker": "instructor",
+      "text": "Listen. Where shall we go?",
+      "start": 88.638,
+      "end": 90.518,
+      "pause_end": 91.168
+    },
+    {
+      "id": "L15_A023",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 91.168,
+      "end": 92.097,
+      "pause_end": 93.347
+    },
+    {
+      "id": "L15_A024",
+      "speaker": "instructor",
+      "text": "Listen. Let’s go to the café.",
+      "start": 93.347,
+      "end": 95.547,
+      "pause_end": 96.197
+    },
+    {
+      "id": "L15_A025",
+      "speaker": "arabic_female",
+      "text": "نروح الكوفي",
+      "start": 96.197,
+      "end": 97.358,
+      "pause_end": 98.608
+    },
+    {
+      "id": "L15_A026",
+      "speaker": "instructor",
+      "text": "Now say each expression yourself.",
+      "start": 98.608,
+      "end": 101.488,
+      "pause_end": 102.238
+    },
+    {
+      "id": "L15_A027",
+      "speaker": "instructor",
+      "text": "Listen. Do you have time today?",
+      "start": 102.238,
+      "end": 104.118,
+      "pause_end": 104.718
+    },
+    {
+      "id": "L15_A028",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 104.718,
+      "end": 105.971,
+      "pause_end": 107.221
+    },
+    {
+      "id": "L15_A029",
+      "speaker": "instructor",
+      "text": "Your turn. Do you have time today?",
+      "start": 107.221,
+      "end": 109.701,
+      "pause_end": 114.451
+    },
+    {
+      "id": "L15_A030",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 114.451,
+      "end": 115.705,
+      "pause_end": 116.805
+    },
+    {
+      "id": "L15_A031",
+      "speaker": "instructor",
+      "text": "Listen. I have work to do.",
+      "start": 116.805,
+      "end": 118.885,
+      "pause_end": 119.485
+    },
+    {
+      "id": "L15_A032",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 119.485,
+      "end": 120.414,
+      "pause_end": 121.664
+    },
+    {
+      "id": "L15_A033",
+      "speaker": "instructor",
+      "text": "Your turn. I have work to do.",
+      "start": 121.664,
+      "end": 124.144,
+      "pause_end": 128.894
+    },
+    {
+      "id": "L15_A034",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 128.894,
+      "end": 129.823,
+      "pause_end": 130.923
+    },
+    {
+      "id": "L15_A035",
+      "speaker": "instructor",
+      "text": "Listen. What do you think about going out?",
+      "start": 130.923,
+      "end": 133.243,
+      "pause_end": 133.843
+    },
+    {
+      "id": "L15_A036",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 133.843,
+      "end": 134.958,
+      "pause_end": 136.208
+    },
+    {
+      "id": "L15_A037",
+      "speaker": "instructor",
+      "text": "Your turn. What do you think about going out?",
+      "start": 136.208,
+      "end": 139.208,
+      "pause_end": 143.958
+    },
+    {
+      "id": "L15_A038",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 143.958,
+      "end": 145.072,
+      "pause_end": 146.172
+    },
+    {
+      "id": "L15_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: Do you have time today?",
+      "start": 146.172,
+      "end": 149.292,
+      "pause_end": 154.742
+    },
+    {
+      "id": "L15_A040",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 154.742,
+      "end": 155.996,
+      "pause_end": 157.096
+    },
+    {
+      "id": "L15_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask someone their name.",
+      "start": 157.096,
+      "end": 160.016,
+      "pause_end": 164.766
+    },
+    {
+      "id": "L15_A042",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 164.766,
+      "end": 165.602,
+      "pause_end": 166.702
+    },
+    {
+      "id": "L15_A043",
+      "speaker": "instructor",
+      "text": "Listen. Where shall we go?",
+      "start": 166.702,
+      "end": 168.582,
+      "pause_end": 169.182
+    },
+    {
+      "id": "L15_A044",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 169.182,
+      "end": 170.111,
+      "pause_end": 171.361
+    },
+    {
+      "id": "L15_A045",
+      "speaker": "instructor",
+      "text": "Your turn. Where shall we go?",
+      "start": 171.361,
+      "end": 173.961,
+      "pause_end": 178.711
+    },
+    {
+      "id": "L15_A046",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 178.711,
+      "end": 179.64,
+      "pause_end": 180.74
+    },
+    {
+      "id": "L15_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: I have work to do.",
+      "start": 180.74,
+      "end": 183.34,
+      "pause_end": 188.79
+    },
+    {
+      "id": "L15_A048",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 188.79,
+      "end": 189.719,
+      "pause_end": 190.819
+    },
+    {
+      "id": "L15_A049",
+      "speaker": "instructor",
+      "text": "Listen. Let’s go to the café.",
+      "start": 190.819,
+      "end": 193.019,
+      "pause_end": 193.619
+    },
+    {
+      "id": "L15_A050",
+      "speaker": "arabic_female",
+      "text": "نروح الكوفي",
+      "start": 193.619,
+      "end": 194.78,
+      "pause_end": 196.03
+    },
+    {
+      "id": "L15_A051",
+      "speaker": "instructor",
+      "text": "Your turn. Let’s go to the café.",
+      "start": 196.03,
+      "end": 198.79,
+      "pause_end": 203.54
+    },
+    {
+      "id": "L15_A052",
+      "speaker": "arabic_female",
+      "text": "نروح الكوفي",
+      "start": 203.54,
+      "end": 204.701,
+      "pause_end": 205.801
+    },
+    {
+      "id": "L15_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: What do you think about going out?",
+      "start": 205.801,
+      "end": 208.961,
+      "pause_end": 214.411
+    },
+    {
+      "id": "L15_A054",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 214.411,
+      "end": 215.525,
+      "pause_end": 216.625
+    },
+    {
+      "id": "L15_A055",
+      "speaker": "instructor",
+      "text": "Listen. At what time?",
+      "start": 216.625,
+      "end": 218.745,
+      "pause_end": 219.345
+    },
+    {
+      "id": "L15_A056",
+      "speaker": "arabic",
+      "text": "أي ساعة؟",
+      "start": 219.345,
+      "end": 220.228,
+      "pause_end": 221.478
+    },
+    {
+      "id": "L15_A057",
+      "speaker": "instructor",
+      "text": "Your turn. At what time?",
+      "start": 221.478,
+      "end": 224.678,
+      "pause_end": 229.428
+    },
+    {
+      "id": "L15_A058",
+      "speaker": "arabic",
+      "text": "أي ساعة؟",
+      "start": 229.428,
+      "end": 230.31,
+      "pause_end": 231.41
+    },
+    {
+      "id": "L15_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where shall we go?",
+      "start": 231.41,
+      "end": 234.09,
+      "pause_end": 239.54
+    },
+    {
+      "id": "L15_A060",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 239.54,
+      "end": 240.469,
+      "pause_end": 241.569
+    },
+    {
+      "id": "L15_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Ask where someone is from.",
+      "start": 241.569,
+      "end": 244.449,
+      "pause_end": 249.199
+    },
+    {
+      "id": "L15_A062",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 249.199,
+      "end": 250.314,
+      "pause_end": 251.414
+    },
+    {
+      "id": "L15_A063",
+      "speaker": "instructor",
+      "text": "Listen. At seven o’clock.",
+      "start": 251.414,
+      "end": 253.414,
+      "pause_end": 254.014
+    },
+    {
+      "id": "L15_A064",
+      "speaker": "arabic_female",
+      "text": "الساعة سبع",
+      "start": 254.014,
+      "end": 255.314,
+      "pause_end": 256.564
+    },
+    {
+      "id": "L15_A065",
+      "speaker": "instructor",
+      "text": "Your turn. At seven o’clock.",
+      "start": 256.564,
+      "end": 259.284,
+      "pause_end": 264.034
+    },
+    {
+      "id": "L15_A066",
+      "speaker": "arabic_female",
+      "text": "الساعة سبع",
+      "start": 264.034,
+      "end": 265.334,
+      "pause_end": 266.434
+    },
+    {
+      "id": "L15_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: Let’s go to the café.",
+      "start": 266.434,
+      "end": 268.914,
+      "pause_end": 274.364
+    },
+    {
+      "id": "L15_A068",
+      "speaker": "arabic_female",
+      "text": "نروح الكوفي",
+      "start": 274.364,
+      "end": 275.525,
+      "pause_end": 276.625
+    },
+    {
+      "id": "L15_A069",
+      "speaker": "instructor",
+      "text": "Listen. I cannot today.",
+      "start": 276.625,
+      "end": 278.625,
+      "pause_end": 279.225
+    },
+    {
+      "id": "L15_A070",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 279.225,
+      "end": 280.433,
+      "pause_end": 281.683
+    },
+    {
+      "id": "L15_A071",
+      "speaker": "instructor",
+      "text": "Your turn. I cannot today.",
+      "start": 281.683,
+      "end": 284.283,
+      "pause_end": 289.033
+    },
+    {
+      "id": "L15_A072",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 289.033,
+      "end": 290.24,
+      "pause_end": 291.34
+    },
+    {
+      "id": "L15_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: At what time?",
+      "start": 291.34,
+      "end": 294.5,
+      "pause_end": 299.95
+    },
+    {
+      "id": "L15_A074",
+      "speaker": "arabic",
+      "text": "أي ساعة؟",
+      "start": 299.95,
+      "end": 300.832,
+      "pause_end": 301.933
+    },
+    {
+      "id": "L15_A075",
+      "speaker": "instructor",
+      "text": "Listen. Why?",
+      "start": 301.933,
+      "end": 303.733,
+      "pause_end": 304.333
+    },
+    {
+      "id": "L15_A076",
+      "speaker": "arabic_female",
+      "text": "ليش؟",
+      "start": 304.333,
+      "end": 305.169,
+      "pause_end": 306.419
+    },
+    {
+      "id": "L15_A077",
+      "speaker": "instructor",
+      "text": "Your turn. Why?",
+      "start": 306.419,
+      "end": 307.899,
+      "pause_end": 312.649
+    },
+    {
+      "id": "L15_A078",
+      "speaker": "arabic_female",
+      "text": "ليش؟",
+      "start": 312.649,
+      "end": 313.485,
+      "pause_end": 314.585
+    },
+    {
+      "id": "L15_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: At seven o’clock.",
+      "start": 314.585,
+      "end": 317.385,
+      "pause_end": 322.835
+    },
+    {
+      "id": "L15_A080",
+      "speaker": "arabic_female",
+      "text": "الساعة سبع",
+      "start": 322.835,
+      "end": 324.135,
+      "pause_end": 325.235
+    },
+    {
+      "id": "L15_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 325.235,
+      "end": 328.115,
+      "pause_end": 332.865
+    },
+    {
+      "id": "L15_A082",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 332.865,
+      "end": 333.933,
+      "pause_end": 335.033
+    },
+    {
+      "id": "L15_A083",
+      "speaker": "instructor",
+      "text": "Listen. I have an appointment.",
+      "start": 335.033,
+      "end": 337.273,
+      "pause_end": 337.873
+    },
+    {
+      "id": "L15_A084",
+      "speaker": "arabic",
+      "text": "عندي موعد",
+      "start": 337.873,
+      "end": 338.895,
+      "pause_end": 340.145
+    },
+    {
+      "id": "L15_A085",
+      "speaker": "instructor",
+      "text": "Your turn. I have an appointment.",
+      "start": 340.145,
+      "end": 343.145,
+      "pause_end": 347.895
+    },
+    {
+      "id": "L15_A086",
+      "speaker": "arabic",
+      "text": "عندي موعد",
+      "start": 347.895,
+      "end": 348.916,
+      "pause_end": 350.016
+    },
+    {
+      "id": "L15_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: I cannot today.",
+      "start": 350.016,
+      "end": 352.856,
+      "pause_end": 358.306
+    },
+    {
+      "id": "L15_A088",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 358.306,
+      "end": 359.514,
+      "pause_end": 360.614
+    },
+    {
+      "id": "L15_A089",
+      "speaker": "instructor",
+      "text": "Listen. Let’s postpone it.",
+      "start": 360.614,
+      "end": 362.654,
+      "pause_end": 363.254
+    },
+    {
+      "id": "L15_A090",
+      "speaker": "arabic_female",
+      "text": "خلنا نأجل",
+      "start": 363.254,
+      "end": 364.322,
+      "pause_end": 365.572
+    },
+    {
+      "id": "L15_A091",
+      "speaker": "instructor",
+      "text": "Your turn. Let’s postpone it.",
+      "start": 365.572,
+      "end": 368.132,
+      "pause_end": 372.882
+    },
+    {
+      "id": "L15_A092",
+      "speaker": "arabic_female",
+      "text": "خلنا نأجل",
+      "start": 372.882,
+      "end": 373.95,
+      "pause_end": 375.05
+    },
+    {
+      "id": "L15_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: Why?",
+      "start": 375.05,
+      "end": 376.41,
+      "pause_end": 381.86
+    },
+    {
+      "id": "L15_A094",
+      "speaker": "arabic_female",
+      "text": "ليش؟",
+      "start": 381.86,
+      "end": 382.696,
+      "pause_end": 383.796
+    },
+    {
+      "id": "L15_A095",
+      "speaker": "instructor",
+      "text": "Listen. Does tomorrow suit you?",
+      "start": 383.796,
+      "end": 387.156,
+      "pause_end": 387.756
+    },
+    {
+      "id": "L15_A096",
+      "speaker": "arabic",
+      "text": "باجر يناسبك؟",
+      "start": 387.756,
+      "end": 389.01,
+      "pause_end": 390.26
+    },
+    {
+      "id": "L15_A097",
+      "speaker": "instructor",
+      "text": "Your turn. Does tomorrow suit you?",
+      "start": 390.26,
+      "end": 393.02,
+      "pause_end": 397.77
+    },
+    {
+      "id": "L15_A098",
+      "speaker": "arabic",
+      "text": "باجر يناسبك؟",
+      "start": 397.77,
+      "end": 399.024,
+      "pause_end": 400.124
+    },
+    {
+      "id": "L15_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: I have an appointment.",
+      "start": 400.124,
+      "end": 402.644,
+      "pause_end": 408.094
+    },
+    {
+      "id": "L15_A100",
+      "speaker": "arabic",
+      "text": "عندي موعد",
+      "start": 408.094,
+      "end": 409.116,
+      "pause_end": 410.216
+    },
+    {
+      "id": "L15_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 410.216,
+      "end": 412.936,
+      "pause_end": 417.686
+    },
+    {
+      "id": "L15_A102",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 417.686,
+      "end": 418.661,
+      "pause_end": 419.761
+    },
+    {
+      "id": "L15_A103",
+      "speaker": "instructor",
+      "text": "Listen. Yes, that suits me.",
+      "start": 419.761,
+      "end": 421.881,
+      "pause_end": 422.481
+    },
+    {
+      "id": "L15_A104",
+      "speaker": "arabic_female",
+      "text": "هيه، يناسبني",
+      "start": 422.481,
+      "end": 423.642,
+      "pause_end": 424.892
+    },
+    {
+      "id": "L15_A105",
+      "speaker": "instructor",
+      "text": "Your turn. Yes, that suits me.",
+      "start": 424.892,
+      "end": 429.692,
+      "pause_end": 434.442
+    },
+    {
+      "id": "L15_A106",
+      "speaker": "arabic_female",
+      "text": "هيه، يناسبني",
+      "start": 434.442,
+      "end": 435.603,
+      "pause_end": 436.703
+    },
+    {
+      "id": "L15_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: Let’s postpone it.",
+      "start": 436.703,
+      "end": 439.583,
+      "pause_end": 445.033
+    },
+    {
+      "id": "L15_A108",
+      "speaker": "arabic_female",
+      "text": "خلنا نأجل",
+      "start": 445.033,
+      "end": 446.101,
+      "pause_end": 447.201
+    },
+    {
+      "id": "L15_A109",
+      "speaker": "instructor",
+      "text": "Listen. We will meet tomorrow.",
+      "start": 447.201,
+      "end": 449.441,
+      "pause_end": 450.041
+    },
+    {
+      "id": "L15_A110",
+      "speaker": "arabic",
+      "text": "نتلاقى باجر",
+      "start": 450.041,
+      "end": 451.295,
+      "pause_end": 452.545
+    },
+    {
+      "id": "L15_A111",
+      "speaker": "instructor",
+      "text": "Your turn. We will meet tomorrow.",
+      "start": 452.545,
+      "end": 455.345,
+      "pause_end": 460.095
+    },
+    {
+      "id": "L15_A112",
+      "speaker": "arabic",
+      "text": "نتلاقى باجر",
+      "start": 460.095,
+      "end": 461.349,
+      "pause_end": 462.449
+    },
+    {
+      "id": "L15_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: Does tomorrow suit you?",
+      "start": 462.449,
+      "end": 465.369,
+      "pause_end": 470.819
+    },
+    {
+      "id": "L15_A114",
+      "speaker": "arabic",
+      "text": "باجر يناسبك؟",
+      "start": 470.819,
+      "end": 472.073,
+      "pause_end": 473.173
+    },
+    {
+      "id": "L15_A115",
+      "speaker": "instructor",
+      "text": "Listen. Agreed.",
+      "start": 473.173,
+      "end": 474.493,
+      "pause_end": 475.093
+    },
+    {
+      "id": "L15_A116",
+      "speaker": "arabic_female",
+      "text": "اتفقنا",
+      "start": 475.093,
+      "end": 475.975,
+      "pause_end": 477.225
+    },
+    {
+      "id": "L15_A117",
+      "speaker": "instructor",
+      "text": "Your turn. Agreed.",
+      "start": 477.225,
+      "end": 479.185,
+      "pause_end": 483.935
+    },
+    {
+      "id": "L15_A118",
+      "speaker": "arabic_female",
+      "text": "اتفقنا",
+      "start": 483.935,
+      "end": 484.817,
+      "pause_end": 485.917
+    },
+    {
+      "id": "L15_A119",
+      "speaker": "instructor",
+      "text": "From a moment ago: Yes, that suits me.",
+      "start": 485.917,
+      "end": 489.277,
+      "pause_end": 494.727
+    },
+    {
+      "id": "L15_A120",
+      "speaker": "arabic_female",
+      "text": "هيه، يناسبني",
+      "start": 494.727,
+      "end": 495.888,
+      "pause_end": 496.988
+    },
+    {
+      "id": "L15_A121",
+      "speaker": "instructor",
+      "text": "Remember this: Ask for the bill.",
+      "start": 496.988,
+      "end": 499.228,
+      "pause_end": 503.978
+    },
+    {
+      "id": "L15_A122",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 503.978,
+      "end": 505.232,
+      "pause_end": 506.332
+    },
+    {
+      "id": "L15_A123",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Give your answer before the recording.",
+      "start": 506.332,
+      "end": 509.652,
+      "pause_end": 510.602
+    },
+    {
+      "id": "L15_A124",
+      "speaker": "instructor",
+      "text": "Say: Do you have time today?",
+      "start": 510.602,
+      "end": 512.882,
+      "pause_end": 517.932
+    },
+    {
+      "id": "L15_A125",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 517.932,
+      "end": 519.186,
+      "pause_end": 520.286
+    },
+    {
+      "id": "L15_A126",
+      "speaker": "instructor",
+      "text": "Say: I have work to do.",
+      "start": 520.286,
+      "end": 522.526,
+      "pause_end": 527.576
+    },
+    {
+      "id": "L15_A127",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 527.576,
+      "end": 528.505,
+      "pause_end": 529.605
+    },
+    {
+      "id": "L15_A128",
+      "speaker": "instructor",
+      "text": "Say: What do you think about going out?",
+      "start": 529.605,
+      "end": 534.165,
+      "pause_end": 539.215
+    },
+    {
+      "id": "L15_A129",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 539.215,
+      "end": 540.33,
+      "pause_end": 541.43
+    },
+    {
+      "id": "L15_A130",
+      "speaker": "instructor",
+      "text": "Say: Where shall we go?",
+      "start": 541.43,
+      "end": 543.39,
+      "pause_end": 548.44
+    },
+    {
+      "id": "L15_A131",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 548.44,
+      "end": 549.369,
+      "pause_end": 550.469
+    },
+    {
+      "id": "L15_A132",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow.",
+      "start": 550.469,
+      "end": 552.389,
+      "pause_end": 557.339
+    },
+    {
+      "id": "L15_A133",
+      "speaker": "arabic",
+      "text": "باجر",
+      "start": 557.339,
+      "end": 558.128,
+      "pause_end": 559.228
+    },
+    {
+      "id": "L15_A134",
+      "speaker": "instructor",
+      "text": "Say: Let’s go to the café.",
+      "start": 559.228,
+      "end": 561.468,
+      "pause_end": 566.518
+    },
+    {
+      "id": "L15_A135",
+      "speaker": "arabic_female",
+      "text": "نروح الكوفي",
+      "start": 566.518,
+      "end": 567.679,
+      "pause_end": 568.779
+    },
+    {
+      "id": "L15_A136",
+      "speaker": "instructor",
+      "text": "Say: At what time?",
+      "start": 568.779,
+      "end": 570.499,
+      "pause_end": 575.549
+    },
+    {
+      "id": "L15_A137",
+      "speaker": "arabic",
+      "text": "أي ساعة؟",
+      "start": 575.549,
+      "end": 576.431,
+      "pause_end": 577.531
+    },
+    {
+      "id": "L15_A138",
+      "speaker": "instructor",
+      "text": "Say: At seven o’clock.",
+      "start": 577.531,
+      "end": 579.571,
+      "pause_end": 584.621
+    },
+    {
+      "id": "L15_A139",
+      "speaker": "arabic_female",
+      "text": "الساعة سبع",
+      "start": 584.621,
+      "end": 585.922,
+      "pause_end": 587.022
+    },
+    {
+      "id": "L15_A140",
+      "speaker": "instructor",
+      "text": "Say: I cannot today.",
+      "start": 587.022,
+      "end": 589.062,
+      "pause_end": 594.112
+    },
+    {
+      "id": "L15_A141",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 594.112,
+      "end": 595.319,
+      "pause_end": 596.419
+    },
+    {
+      "id": "L15_A142",
+      "speaker": "instructor",
+      "text": "Quick review. Ask someone their name.",
+      "start": 596.419,
+      "end": 598.859,
+      "pause_end": 603.809
+    },
+    {
+      "id": "L15_A143",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 603.809,
+      "end": 604.645,
+      "pause_end": 605.745
+    },
+    {
+      "id": "L15_A144",
+      "speaker": "instructor",
+      "text": "Say: Why?",
+      "start": 605.745,
+      "end": 607.145,
+      "pause_end": 612.195
+    },
+    {
+      "id": "L15_A145",
+      "speaker": "arabic_female",
+      "text": "ليش؟",
+      "start": 612.195,
+      "end": 613.031,
+      "pause_end": 614.131
+    },
+    {
+      "id": "L15_A146",
+      "speaker": "instructor",
+      "text": "Say: I have an appointment.",
+      "start": 614.131,
+      "end": 616.371,
+      "pause_end": 621.421
+    },
+    {
+      "id": "L15_A147",
+      "speaker": "arabic",
+      "text": "عندي موعد",
+      "start": 621.421,
+      "end": 622.443,
+      "pause_end": 623.543
+    },
+    {
+      "id": "L15_A148",
+      "speaker": "instructor",
+      "text": "Say: Let’s postpone it.",
+      "start": 623.543,
+      "end": 625.183,
+      "pause_end": 630.233
+    },
+    {
+      "id": "L15_A149",
+      "speaker": "arabic_female",
+      "text": "خلنا نأجل",
+      "start": 630.233,
+      "end": 631.301,
+      "pause_end": 632.401
+    },
+    {
+      "id": "L15_A150",
+      "speaker": "instructor",
+      "text": "Say: Does tomorrow suit you?",
+      "start": 632.401,
+      "end": 634.681,
+      "pause_end": 639.731
+    },
+    {
+      "id": "L15_A151",
+      "speaker": "arabic",
+      "text": "باجر يناسبك؟",
+      "start": 639.731,
+      "end": 640.985,
+      "pause_end": 642.085
+    },
+    {
+      "id": "L15_A152",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 642.085,
+      "end": 644.165,
+      "pause_end": 649.115
+    },
+    {
+      "id": "L15_A153",
+      "speaker": "arabic",
+      "text": "ممكن الحساب؟",
+      "start": 649.115,
+      "end": 650.369,
+      "pause_end": 651.469
+    },
+    {
+      "id": "L15_A154",
+      "speaker": "instructor",
+      "text": "Say: Yes, that suits me.",
+      "start": 651.469,
+      "end": 654.349,
+      "pause_end": 659.399
+    },
+    {
+      "id": "L15_A155",
+      "speaker": "arabic_female",
+      "text": "هيه، يناسبني",
+      "start": 659.399,
+      "end": 660.56,
+      "pause_end": 661.66
+    },
+    {
+      "id": "L15_A156",
+      "speaker": "instructor",
+      "text": "Say: We will meet tomorrow.",
+      "start": 661.66,
+      "end": 664.62,
+      "pause_end": 669.67
+    },
+    {
+      "id": "L15_A157",
+      "speaker": "arabic",
+      "text": "نتلاقى باجر",
+      "start": 669.67,
+      "end": 670.924,
+      "pause_end": 672.024
+    },
+    {
+      "id": "L15_A158",
+      "speaker": "instructor",
+      "text": "Say: Agreed.",
+      "start": 672.024,
+      "end": 673.584,
+      "pause_end": 678.634
+    },
+    {
+      "id": "L15_A159",
+      "speaker": "arabic_female",
+      "text": "اتفقنا",
+      "start": 678.634,
+      "end": 679.516,
+      "pause_end": 680.616
+    },
+    {
+      "id": "L15_A160",
+      "speaker": "instructor",
+      "text": "Say: Do you have time today?",
+      "start": 680.616,
+      "end": 682.896,
+      "pause_end": 687.946
+    },
+    {
+      "id": "L15_A161",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 687.946,
+      "end": 689.2,
+      "pause_end": 690.3
+    },
+    {
+      "id": "L15_A162",
+      "speaker": "instructor",
+      "text": "Say: What do you think about going out?",
+      "start": 690.3,
+      "end": 694.86,
+      "pause_end": 699.91
+    },
+    {
+      "id": "L15_A163",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 699.91,
+      "end": 701.025,
+      "pause_end": 702.125
+    },
+    {
+      "id": "L15_A164",
+      "speaker": "instructor",
+      "text": "Say: Let’s go to the café.",
+      "start": 702.125,
+      "end": 704.365,
+      "pause_end": 709.415
+    },
+    {
+      "id": "L15_A165",
+      "speaker": "arabic_female",
+      "text": "نروح الكوفي",
+      "start": 709.415,
+      "end": 710.576,
+      "pause_end": 711.676
+    },
+    {
+      "id": "L15_A166",
+      "speaker": "instructor",
+      "text": "Say: At seven o’clock.",
+      "start": 711.676,
+      "end": 713.716,
+      "pause_end": 718.766
+    },
+    {
+      "id": "L15_A167",
+      "speaker": "arabic_female",
+      "text": "الساعة سبع",
+      "start": 718.766,
+      "end": 720.066,
+      "pause_end": 721.166
+    },
+    {
+      "id": "L15_A168",
+      "speaker": "instructor",
+      "text": "Say: Why?",
+      "start": 721.166,
+      "end": 722.566,
+      "pause_end": 727.616
+    },
+    {
+      "id": "L15_A169",
+      "speaker": "arabic_female",
+      "text": "ليش؟",
+      "start": 727.616,
+      "end": 728.452,
+      "pause_end": 729.552
+    },
+    {
+      "id": "L15_A170",
+      "speaker": "instructor",
+      "text": "Say: Let’s postpone it.",
+      "start": 729.552,
+      "end": 731.192,
+      "pause_end": 736.242
+    },
+    {
+      "id": "L15_A171",
+      "speaker": "arabic_female",
+      "text": "خلنا نأجل",
+      "start": 736.242,
+      "end": 737.31,
+      "pause_end": 738.41
+    },
+    {
+      "id": "L15_A172",
+      "speaker": "instructor",
+      "text": "Say: Yes, that suits me.",
+      "start": 738.41,
+      "end": 741.29,
+      "pause_end": 746.34
+    },
+    {
+      "id": "L15_A173",
+      "speaker": "arabic_female",
+      "text": "هيه، يناسبني",
+      "start": 746.34,
+      "end": 747.501,
+      "pause_end": 748.601
+    },
+    {
+      "id": "L15_A174",
+      "speaker": "instructor",
+      "text": "Say: Agreed.",
+      "start": 748.601,
+      "end": 750.161,
+      "pause_end": 755.211
+    },
+    {
+      "id": "L15_A175",
+      "speaker": "arabic_female",
+      "text": "اتفقنا",
+      "start": 755.211,
+      "end": 756.093,
+      "pause_end": 757.193
+    },
+    {
+      "id": "L15_A176",
+      "speaker": "instructor",
+      "text": "Say: I have work to do.",
+      "start": 757.193,
+      "end": 759.433,
+      "pause_end": 764.483
+    },
+    {
+      "id": "L15_A177",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 764.483,
+      "end": 765.412,
+      "pause_end": 766.512
+    },
+    {
+      "id": "L15_A178",
+      "speaker": "instructor",
+      "text": "Say: Where shall we go?",
+      "start": 766.512,
+      "end": 768.472,
+      "pause_end": 773.522
+    },
+    {
+      "id": "L15_A179",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 773.522,
+      "end": 774.451,
+      "pause_end": 775.551
+    },
+    {
+      "id": "L15_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Say now.",
+      "start": 775.551,
+      "end": 777.271,
+      "pause_end": 782.221
+    },
+    {
+      "id": "L15_A181",
+      "speaker": "arabic_female",
+      "text": "الحين",
+      "start": 782.221,
+      "end": 783.196,
+      "pause_end": 784.296
+    },
+    {
+      "id": "L15_A182",
+      "speaker": "instructor",
+      "text": "Say: At what time?",
+      "start": 784.296,
+      "end": 786.016,
+      "pause_end": 791.066
+    },
+    {
+      "id": "L15_A183",
+      "speaker": "arabic",
+      "text": "أي ساعة؟",
+      "start": 791.066,
+      "end": 791.949,
+      "pause_end": 793.049
+    },
+    {
+      "id": "L15_A184",
+      "speaker": "instructor",
+      "text": "Say: I cannot today.",
+      "start": 793.049,
+      "end": 795.089,
+      "pause_end": 800.139
+    },
+    {
+      "id": "L15_A185",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 800.139,
+      "end": 801.346,
+      "pause_end": 802.446
+    },
+    {
+      "id": "L15_A186",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone is from.",
+      "start": 802.446,
+      "end": 805.046,
+      "pause_end": 809.996
+    },
+    {
+      "id": "L15_A187",
+      "speaker": "arabic",
+      "text": "من وين إنت؟",
+      "start": 809.996,
+      "end": 811.111,
+      "pause_end": 812.211
+    },
+    {
+      "id": "L15_A188",
+      "speaker": "instructor",
+      "text": "Say: I have an appointment.",
+      "start": 812.211,
+      "end": 814.451,
+      "pause_end": 819.501
+    },
+    {
+      "id": "L15_A189",
+      "speaker": "arabic",
+      "text": "عندي موعد",
+      "start": 819.501,
+      "end": 820.522,
+      "pause_end": 821.622
+    },
+    {
+      "id": "L15_A190",
+      "speaker": "instructor",
+      "text": "Say: Does tomorrow suit you?",
+      "start": 821.622,
+      "end": 823.902,
+      "pause_end": 828.952
+    },
+    {
+      "id": "L15_A191",
+      "speaker": "arabic",
+      "text": "باجر يناسبك؟",
+      "start": 828.952,
+      "end": 830.206,
+      "pause_end": 831.306
+    },
+    {
+      "id": "L15_A192",
+      "speaker": "instructor",
+      "text": "Quick review. Ask where someone works.",
+      "start": 831.306,
+      "end": 833.786,
+      "pause_end": 838.736
+    },
+    {
+      "id": "L15_A193",
+      "speaker": "arabic_female",
+      "text": "وين تشتغل؟",
+      "start": 838.736,
+      "end": 839.851,
+      "pause_end": 840.951
+    },
+    {
+      "id": "L15_A194",
+      "speaker": "instructor",
+      "text": "Say: We will meet tomorrow.",
+      "start": 840.951,
+      "end": 843.911,
+      "pause_end": 848.961
+    },
+    {
+      "id": "L15_A195",
+      "speaker": "arabic",
+      "text": "نتلاقى باجر",
+      "start": 848.961,
+      "end": 850.215,
+      "pause_end": 851.315
+    },
+    {
+      "id": "L15_A196",
+      "speaker": "instructor",
+      "text": "How do you say: Agreed.",
+      "start": 851.315,
+      "end": 853.355,
+      "pause_end": 858.805
+    },
+    {
+      "id": "L15_A197",
+      "speaker": "arabic_female",
+      "text": "اتفقنا",
+      "start": 858.805,
+      "end": 859.687,
+      "pause_end": 860.787
+    },
+    {
+      "id": "L15_A198",
+      "speaker": "instructor",
+      "text": "How do you say: We will meet tomorrow.",
+      "start": 860.787,
+      "end": 863.507,
+      "pause_end": 868.957
+    },
+    {
+      "id": "L15_A199",
+      "speaker": "arabic",
+      "text": "نتلاقى باجر",
+      "start": 868.957,
+      "end": 870.211,
+      "pause_end": 871.311
+    },
+    {
+      "id": "L15_A200",
+      "speaker": "instructor",
+      "text": "How do you say: Yes, that suits me.",
+      "start": 871.311,
+      "end": 874.751,
+      "pause_end": 880.201
+    },
+    {
+      "id": "L15_A201",
+      "speaker": "arabic_female",
+      "text": "هيه، يناسبني",
+      "start": 880.201,
+      "end": 881.362,
+      "pause_end": 882.462
+    },
+    {
+      "id": "L15_A202",
+      "speaker": "instructor",
+      "text": "How do you say: Does tomorrow suit you?",
+      "start": 882.462,
+      "end": 885.502,
+      "pause_end": 890.952
+    },
+    {
+      "id": "L15_A203",
+      "speaker": "arabic",
+      "text": "باجر يناسبك؟",
+      "start": 890.952,
+      "end": 892.206,
+      "pause_end": 893.306
+    },
+    {
+      "id": "L15_A204",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow.",
+      "start": 893.306,
+      "end": 895.226,
+      "pause_end": 900.176
+    },
+    {
+      "id": "L15_A205",
+      "speaker": "arabic",
+      "text": "باجر",
+      "start": 900.176,
+      "end": 900.966,
+      "pause_end": 902.066
+    },
+    {
+      "id": "L15_A206",
+      "speaker": "instructor",
+      "text": "How do you say: Let’s postpone it.",
+      "start": 902.066,
+      "end": 904.906,
+      "pause_end": 910.356
+    },
+    {
+      "id": "L15_A207",
+      "speaker": "arabic_female",
+      "text": "خلنا نأجل",
+      "start": 910.356,
+      "end": 911.424,
+      "pause_end": 912.524
+    },
+    {
+      "id": "L15_A208",
+      "speaker": "instructor",
+      "text": "How do you say: I have an appointment.",
+      "start": 912.524,
+      "end": 915.084,
+      "pause_end": 920.534
+    },
+    {
+      "id": "L15_A209",
+      "speaker": "arabic",
+      "text": "عندي موعد",
+      "start": 920.534,
+      "end": 921.555,
+      "pause_end": 922.655
+    },
+    {
+      "id": "L15_A210",
+      "speaker": "instructor",
+      "text": "How do you say: Why?",
+      "start": 922.655,
+      "end": 924.255,
+      "pause_end": 929.705
+    },
+    {
+      "id": "L15_A211",
+      "speaker": "arabic_female",
+      "text": "ليش؟",
+      "start": 929.705,
+      "end": 930.541,
+      "pause_end": 931.641
+    },
+    {
+      "id": "L15_A212",
+      "speaker": "instructor",
+      "text": "How do you say: I cannot today.",
+      "start": 931.641,
+      "end": 934.041,
+      "pause_end": 939.491
+    },
+    {
+      "id": "L15_A213",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 939.491,
+      "end": 940.699,
+      "pause_end": 941.799
+    },
+    {
+      "id": "L15_A214",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 941.799,
+      "end": 944.759,
+      "pause_end": 949.709
+    },
+    {
+      "id": "L15_A215",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 949.709,
+      "end": 950.777,
+      "pause_end": 951.877
+    },
+    {
+      "id": "L15_A216",
+      "speaker": "instructor",
+      "text": "How do you say: At seven o’clock.",
+      "start": 951.877,
+      "end": 954.997,
+      "pause_end": 960.447
+    },
+    {
+      "id": "L15_A217",
+      "speaker": "arabic_female",
+      "text": "الساعة سبع",
+      "start": 960.447,
+      "end": 961.747,
+      "pause_end": 962.847
+    },
+    {
+      "id": "L15_A218",
+      "speaker": "instructor",
+      "text": "How do you say: At what time?",
+      "start": 962.847,
+      "end": 965.807,
+      "pause_end": 971.257
+    },
+    {
+      "id": "L15_A219",
+      "speaker": "arabic",
+      "text": "أي ساعة؟",
+      "start": 971.257,
+      "end": 972.14,
+      "pause_end": 973.24
+    },
+    {
+      "id": "L15_A220",
+      "speaker": "instructor",
+      "text": "How do you say: Let’s go to the café.",
+      "start": 973.24,
+      "end": 976.08,
+      "pause_end": 981.53
+    },
+    {
+      "id": "L15_A221",
+      "speaker": "arabic_female",
+      "text": "نروح الكوفي",
+      "start": 981.53,
+      "end": 982.691,
+      "pause_end": 983.791
+    },
+    {
+      "id": "L15_A222",
+      "speaker": "instructor",
+      "text": "How do you say: Where shall we go?",
+      "start": 983.791,
+      "end": 987.471,
+      "pause_end": 992.921
+    },
+    {
+      "id": "L15_A223",
+      "speaker": "arabic",
+      "text": "وين نروح؟",
+      "start": 992.921,
+      "end": 993.85,
+      "pause_end": 994.95
+    },
+    {
+      "id": "L15_A224",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 994.95,
+      "end": 997.23,
+      "pause_end": 1002.18
+    },
+    {
+      "id": "L15_A225",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 1002.18,
+      "end": 1003.341,
+      "pause_end": 1004.441
+    },
+    {
+      "id": "L15_A226",
+      "speaker": "instructor",
+      "text": "How do you say: What do you think about going out?",
+      "start": 1004.441,
+      "end": 1007.721,
+      "pause_end": 1013.171
+    },
+    {
+      "id": "L15_A227",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 1013.171,
+      "end": 1014.285,
+      "pause_end": 1015.385
+    },
+    {
+      "id": "L15_A228",
+      "speaker": "instructor",
+      "text": "How do you say: I have work to do.",
+      "start": 1015.385,
+      "end": 1018.705,
+      "pause_end": 1024.155
+    },
+    {
+      "id": "L15_A229",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 1024.155,
+      "end": 1025.084,
+      "pause_end": 1026.184
+    },
+    {
+      "id": "L15_A230",
+      "speaker": "instructor",
+      "text": "How do you say: Do you have time today?",
+      "start": 1026.184,
+      "end": 1028.904,
+      "pause_end": 1034.354
+    },
+    {
+      "id": "L15_A231",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 1034.354,
+      "end": 1035.608,
+      "pause_end": 1036.708
+    },
+    {
+      "id": "L15_A232",
+      "speaker": "instructor",
+      "text": "Final recall. Speak naturally, without waiting for a hint.",
+      "start": 1036.708,
+      "end": 1040.948,
+      "pause_end": 1041.798
+    },
+    {
+      "id": "L15_A233",
+      "speaker": "instructor",
+      "text": "Say: Agreed.",
+      "start": 1041.798,
+      "end": 1043.358,
+      "pause_end": 1049.008
+    },
+    {
+      "id": "L15_A234",
+      "speaker": "arabic_female",
+      "text": "اتفقنا",
+      "start": 1049.008,
+      "end": 1049.89,
+      "pause_end": 1050.99
+    },
+    {
+      "id": "L15_A235",
+      "speaker": "instructor",
+      "text": "Say: What do you think about going out?",
+      "start": 1050.99,
+      "end": 1055.55,
+      "pause_end": 1061.2
+    },
+    {
+      "id": "L15_A236",
+      "speaker": "arabic_female",
+      "text": "شو رايك نطلع؟",
+      "start": 1061.2,
+      "end": 1062.315,
+      "pause_end": 1063.415
+    },
+    {
+      "id": "L15_A237",
+      "speaker": "instructor",
+      "text": "Say: Do you have time today?",
+      "start": 1063.415,
+      "end": 1065.695,
+      "pause_end": 1071.345
+    },
+    {
+      "id": "L15_A238",
+      "speaker": "arabic_female",
+      "text": "عندك وقت اليوم؟",
+      "start": 1071.345,
+      "end": 1072.599,
+      "pause_end": 1073.699
+    },
+    {
+      "id": "L15_A239",
+      "speaker": "instructor",
+      "text": "Say: I cannot today.",
+      "start": 1073.699,
+      "end": 1075.739,
+      "pause_end": 1081.389
+    },
+    {
+      "id": "L15_A240",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 1081.389,
+      "end": 1082.596,
+      "pause_end": 1083.696
+    },
+    {
+      "id": "L15_A241",
+      "speaker": "instructor",
+      "text": "Say: At what time?",
+      "start": 1083.696,
+      "end": 1085.416,
+      "pause_end": 1091.066
+    },
+    {
+      "id": "L15_A242",
+      "speaker": "arabic",
+      "text": "أي ساعة؟",
+      "start": 1091.066,
+      "end": 1091.949,
+      "pause_end": 1093.049
+    },
+    {
+      "id": "L15_A243",
+      "speaker": "instructor",
+      "text": "Say: Yes, that suits me.",
+      "start": 1093.049,
+      "end": 1095.929,
+      "pause_end": 1101.579
+    },
+    {
+      "id": "L15_A244",
+      "speaker": "arabic_female",
+      "text": "هيه، يناسبني",
+      "start": 1101.579,
+      "end": 1102.74,
+      "pause_end": 1103.84
+    },
+    {
+      "id": "L15_A245",
+      "speaker": "instructor",
+      "text": "Say: I have work to do.",
+      "start": 1103.84,
+      "end": 1106.08,
+      "pause_end": 1111.73
+    },
+    {
+      "id": "L15_A246",
+      "speaker": "arabic",
+      "text": "عندي شغل",
+      "start": 1111.73,
+      "end": 1112.659,
+      "pause_end": 1113.759
+    },
+    {
+      "id": "L15_A247",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1113.759,
+      "end": 1117.839,
+      "pause_end": 1118.789
+    }
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "events": [
+    {
+      "id": "L06_A001",
+      "speaker": "instructor",
+      "text": "Lesson 6. Questions and Answers. Listen carefully, and speak when you hear a question.",
+      "start": 0.0,
+      "end": 6.68,
+      "pause_end": 7.73
+    },
+    {
+      "id": "L06_A002",
+      "speaker": "instructor",
+      "text": "First, remember some expressions from earlier lessons.",
+      "start": 7.73,
+      "end": 11.69,
+      "pause_end": 12.54
+    },
+    {
+      "id": "L06_A003",
+      "speaker": "instructor",
+      "text": "Ask for the bill.",
+      "start": 12.54,
+      "end": 13.74,
+      "pause_end": 18.19
+    },
+    {
+      "id": "L06_A004",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 18.19,
+      "end": 19.351,
+      "pause_end": 20.301
+    },
+    {
+      "id": "L06_A005",
+      "speaker": "instructor",
+      "text": "Say pleased to meet you.",
+      "start": 20.301,
+      "end": 22.341,
+      "pause_end": 26.791
+    },
+    {
+      "id": "L06_A006",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 26.791,
+      "end": 27.72,
+      "pause_end": 28.67
+    },
+    {
+      "id": "L06_A007",
+      "speaker": "instructor",
+      "text": "Greet someone.",
+      "start": 28.67,
+      "end": 29.55,
+      "pause_end": 34.0
+    },
+    {
+      "id": "L06_A008",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 34.0,
+      "end": 35.161,
+      "pause_end": 36.111
+    },
+    {
+      "id": "L06_A009",
+      "speaker": "instructor",
+      "text": "Ask a man how he is.",
+      "start": 36.111,
+      "end": 38.031,
+      "pause_end": 42.481
+    },
+    {
+      "id": "L06_A010",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 42.481,
+      "end": 43.456,
+      "pause_end": 44.406
+    },
+    {
+      "id": "L06_A011",
+      "speaker": "instructor",
+      "text": "Ask a man his name.",
+      "start": 44.406,
+      "end": 45.806,
+      "pause_end": 50.256
+    },
+    {
+      "id": "L06_A012",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 50.256,
+      "end": 51.092,
+      "pause_end": 52.042
+    },
+    {
+      "id": "L06_A013",
+      "speaker": "instructor",
+      "text": "Ask a man where he is from.",
+      "start": 52.042,
+      "end": 53.842,
+      "pause_end": 58.292
+    },
+    {
+      "id": "L06_A014",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 58.292,
+      "end": 59.314,
+      "pause_end": 60.264
+    },
+    {
+      "id": "L06_A015",
+      "speaker": "instructor",
+      "text": "Ask a man where he lives.",
+      "start": 60.264,
+      "end": 62.064,
+      "pause_end": 66.514
+    },
+    {
+      "id": "L06_A016",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 66.514,
+      "end": 67.582,
+      "pause_end": 68.532
+    },
+    {
+      "id": "L06_A017",
+      "speaker": "instructor",
+      "text": "Say that you want water.",
+      "start": 68.532,
+      "end": 70.052,
+      "pause_end": 74.502
+    },
+    {
+      "id": "L06_A018",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 74.502,
+      "end": 75.477,
+      "pause_end": 76.427
+    },
+    {
+      "id": "L06_A019",
+      "speaker": "instructor",
+      "text": "Now listen to the new expressions.",
+      "start": 76.427,
+      "end": 78.587,
+      "pause_end": 79.437
+    },
+    {
+      "id": "L06_A020",
+      "speaker": "instructor",
+      "text": "What is this?",
+      "start": 79.437,
+      "end": 80.357,
+      "pause_end": 80.957
+    },
+    {
+      "id": "L06_A021",
+      "speaker": "arabic_female",
+      "text": "شو هذا؟",
+      "start": 80.957,
+      "end": 81.84,
+      "pause_end": 83.19
+    },
+    {
+      "id": "L06_A022",
+      "speaker": "instructor",
+      "text": "This is a book.",
+      "start": 83.19,
+      "end": 84.59,
+      "pause_end": 85.19
+    },
+    {
+      "id": "L06_A023",
+      "speaker": "arabic",
+      "text": "هذا كتاب",
+      "start": 85.19,
+      "end": 86.211,
+      "pause_end": 87.561
+    },
+    {
+      "id": "L06_A024",
+      "speaker": "instructor",
+      "text": "What is this? Referring to a feminine thing.",
+      "start": 87.561,
+      "end": 90.241,
+      "pause_end": 90.841
+    },
+    {
+      "id": "L06_A025",
+      "speaker": "arabic",
+      "text": "شو هذي؟",
+      "start": 90.841,
+      "end": 91.724,
+      "pause_end": 93.074
+    },
+    {
+      "id": "L06_A026",
+      "speaker": "instructor",
+      "text": "This is a bag.",
+      "start": 93.074,
+      "end": 94.154,
+      "pause_end": 94.754
+    },
+    {
+      "id": "L06_A027",
+      "speaker": "arabic_female",
+      "text": "هذي شنطة",
+      "start": 94.754,
+      "end": 95.775,
+      "pause_end": 97.125
+    },
+    {
+      "id": "L06_A028",
+      "speaker": "instructor",
+      "text": "Who is this?",
+      "start": 97.125,
+      "end": 98.125,
+      "pause_end": 98.725
+    },
+    {
+      "id": "L06_A029",
+      "speaker": "arabic_female",
+      "text": "منو هذا؟",
+      "start": 98.725,
+      "end": 99.701,
+      "pause_end": 101.051
+    },
+    {
+      "id": "L06_A030",
+      "speaker": "instructor",
+      "text": "This is my friend.",
+      "start": 101.051,
+      "end": 102.691,
+      "pause_end": 103.291
+    },
+    {
+      "id": "L06_A031",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 103.291,
+      "end": 104.359,
+      "pause_end": 105.709
+    },
+    {
+      "id": "L06_A032",
+      "speaker": "instructor",
+      "text": "Where is your friend?",
+      "start": 105.709,
+      "end": 106.909,
+      "pause_end": 107.509
+    },
+    {
+      "id": "L06_A033",
+      "speaker": "arabic_female",
+      "text": "وين ربيعك؟",
+      "start": 107.509,
+      "end": 108.438,
+      "pause_end": 109.788
+    },
+    {
+      "id": "L06_A034",
+      "speaker": "instructor",
+      "text": "My friend is here.",
+      "start": 109.788,
+      "end": 111.148,
+      "pause_end": 111.748
+    },
+    {
+      "id": "L06_A035",
+      "speaker": "arabic",
+      "text": "ربيعي هني",
+      "start": 111.748,
+      "end": 112.816,
+      "pause_end": 114.166
+    },
+    {
+      "id": "L06_A036",
+      "speaker": "instructor",
+      "text": "Do you have a question?",
+      "start": 114.166,
+      "end": 115.486,
+      "pause_end": 116.086
+    },
+    {
+      "id": "L06_A037",
+      "speaker": "arabic_female",
+      "text": "عندك سؤال؟",
+      "start": 116.086,
+      "end": 117.2,
+      "pause_end": 118.55
+    },
+    {
+      "id": "L06_A038",
+      "speaker": "instructor",
+      "text": "Yes, I have a question.",
+      "start": 118.55,
+      "end": 120.39,
+      "pause_end": 120.99
+    },
+    {
+      "id": "L06_A039",
+      "speaker": "arabic",
+      "text": "هيه، عندي سؤال",
+      "start": 120.99,
+      "end": 122.616,
+      "pause_end": 123.966
+    },
+    {
+      "id": "L06_A040",
+      "speaker": "instructor",
+      "text": "Did you understand?",
+      "start": 123.966,
+      "end": 125.046,
+      "pause_end": 125.646
+    },
+    {
+      "id": "L06_A041",
+      "speaker": "arabic_female",
+      "text": "فهمت؟",
+      "start": 125.646,
+      "end": 126.435,
+      "pause_end": 127.785
+    },
+    {
+      "id": "L06_A042",
+      "speaker": "instructor",
+      "text": "Yes, I understood.",
+      "start": 127.785,
+      "end": 129.705,
+      "pause_end": 130.305
+    },
+    {
+      "id": "L06_A043",
+      "speaker": "arabic",
+      "text": "هيه، فهمت",
+      "start": 130.305,
+      "end": 131.606,
+      "pause_end": 132.956
+    },
+    {
+      "id": "L06_A044",
+      "speaker": "instructor",
+      "text": "No, I did not understand.",
+      "start": 132.956,
+      "end": 134.836,
+      "pause_end": 135.436
+    },
+    {
+      "id": "L06_A045",
+      "speaker": "arabic_female",
+      "text": "لا، ما فهمت",
+      "start": 135.436,
+      "end": 136.55,
+      "pause_end": 137.9
+    },
+    {
+      "id": "L06_A046",
+      "speaker": "instructor",
+      "text": "Can you repeat?",
+      "start": 137.9,
+      "end": 139.06,
+      "pause_end": 139.66
+    },
+    {
+      "id": "L06_A047",
+      "speaker": "arabic",
+      "text": "ممكن تعيد؟",
+      "start": 139.66,
+      "end": 140.775,
+      "pause_end": 142.125
+    },
+    {
+      "id": "L06_A048",
+      "speaker": "instructor",
+      "text": "What do you mean?",
+      "start": 142.125,
+      "end": 143.005,
+      "pause_end": 143.605
+    },
+    {
+      "id": "L06_A049",
+      "speaker": "arabic_female",
+      "text": "شو تقصد؟",
+      "start": 143.605,
+      "end": 144.487,
+      "pause_end": 145.837
+    },
+    {
+      "id": "L06_A050",
+      "speaker": "instructor",
+      "text": "Now answer in Arabic, before you hear the speaker.",
+      "start": 145.837,
+      "end": 148.877,
+      "pause_end": 149.727
+    },
+    {
+      "id": "L06_A051",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What is this?",
+      "start": 149.727,
+      "end": 152.807,
+      "pause_end": 158.057
+    },
+    {
+      "id": "L06_A052",
+      "speaker": "arabic_female",
+      "text": "شو هذا؟",
+      "start": 158.057,
+      "end": 158.94,
+      "pause_end": 159.89
+    },
+    {
+      "id": "L06_A053",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 159.89,
+      "end": 160.89,
+      "pause_end": 164.44
+    },
+    {
+      "id": "L06_A054",
+      "speaker": "arabic_female",
+      "text": "شو هذا؟",
+      "start": 164.44,
+      "end": 165.322,
+      "pause_end": 166.222
+    },
+    {
+      "id": "L06_A055",
+      "speaker": "instructor",
+      "text": "Say in Arabic: This is a book.",
+      "start": 166.222,
+      "end": 169.182,
+      "pause_end": 174.432
+    },
+    {
+      "id": "L06_A056",
+      "speaker": "arabic",
+      "text": "هذا كتاب",
+      "start": 174.432,
+      "end": 175.454,
+      "pause_end": 176.404
+    },
+    {
+      "id": "L06_A057",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 176.404,
+      "end": 177.404,
+      "pause_end": 180.954
+    },
+    {
+      "id": "L06_A058",
+      "speaker": "arabic",
+      "text": "هذا كتاب",
+      "start": 180.954,
+      "end": 181.975,
+      "pause_end": 182.875
+    },
+    {
+      "id": "L06_A059",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What is this? Referring to a feminine thing.",
+      "start": 182.875,
+      "end": 187.395,
+      "pause_end": 192.645
+    },
+    {
+      "id": "L06_A060",
+      "speaker": "arabic",
+      "text": "شو هذي؟",
+      "start": 192.645,
+      "end": 193.528,
+      "pause_end": 194.478
+    },
+    {
+      "id": "L06_A061",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 194.478,
+      "end": 195.478,
+      "pause_end": 199.028
+    },
+    {
+      "id": "L06_A062",
+      "speaker": "arabic",
+      "text": "شو هذي؟",
+      "start": 199.028,
+      "end": 199.91,
+      "pause_end": 200.81
+    },
+    {
+      "id": "L06_A063",
+      "speaker": "instructor",
+      "text": "Remember: What is this?",
+      "start": 200.81,
+      "end": 202.61,
+      "pause_end": 207.66
+    },
+    {
+      "id": "L06_A064",
+      "speaker": "arabic_female",
+      "text": "شو هذا؟",
+      "start": 207.66,
+      "end": 208.543,
+      "pause_end": 209.493
+    },
+    {
+      "id": "L06_A065",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Greet someone.",
+      "start": 209.493,
+      "end": 211.453,
+      "pause_end": 216.503
+    },
+    {
+      "id": "L06_A066",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 216.503,
+      "end": 217.664,
+      "pause_end": 218.614
+    },
+    {
+      "id": "L06_A067",
+      "speaker": "instructor",
+      "text": "Say in Arabic: This is a bag.",
+      "start": 218.614,
+      "end": 221.654,
+      "pause_end": 226.904
+    },
+    {
+      "id": "L06_A068",
+      "speaker": "arabic_female",
+      "text": "هذي شنطة",
+      "start": 226.904,
+      "end": 227.925,
+      "pause_end": 228.875
+    },
+    {
+      "id": "L06_A069",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 228.875,
+      "end": 229.875,
+      "pause_end": 233.425
+    },
+    {
+      "id": "L06_A070",
+      "speaker": "arabic_female",
+      "text": "هذي شنطة",
+      "start": 233.425,
+      "end": 234.447,
+      "pause_end": 235.347
+    },
+    {
+      "id": "L06_A071",
+      "speaker": "instructor",
+      "text": "Remember: This is a book.",
+      "start": 235.347,
+      "end": 237.947,
+      "pause_end": 242.997
+    },
+    {
+      "id": "L06_A072",
+      "speaker": "arabic",
+      "text": "هذا كتاب",
+      "start": 242.997,
+      "end": 244.019,
+      "pause_end": 244.969
+    },
+    {
+      "id": "L06_A073",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Who is this?",
+      "start": 244.969,
+      "end": 247.649,
+      "pause_end": 252.899
+    },
+    {
+      "id": "L06_A074",
+      "speaker": "arabic_female",
+      "text": "منو هذا؟",
+      "start": 252.899,
+      "end": 253.874,
+      "pause_end": 254.824
+    },
+    {
+      "id": "L06_A075",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 254.824,
+      "end": 255.824,
+      "pause_end": 259.374
+    },
+    {
+      "id": "L06_A076",
+      "speaker": "arabic_female",
+      "text": "منو هذا؟",
+      "start": 259.374,
+      "end": 260.349,
+      "pause_end": 261.249
+    },
+    {
+      "id": "L06_A077",
+      "speaker": "instructor",
+      "text": "Remember: What is this? Referring to a feminine thing.",
+      "start": 261.249,
+      "end": 264.849,
+      "pause_end": 269.899
+    },
+    {
+      "id": "L06_A078",
+      "speaker": "arabic",
+      "text": "شو هذي؟",
+      "start": 269.899,
+      "end": 270.782,
+      "pause_end": 271.732
+    },
+    {
+      "id": "L06_A079",
+      "speaker": "instructor",
+      "text": "Say in Arabic: This is my friend.",
+      "start": 271.732,
+      "end": 275.412,
+      "pause_end": 280.662
+    },
+    {
+      "id": "L06_A080",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 280.662,
+      "end": 281.73,
+      "pause_end": 282.68
+    },
+    {
+      "id": "L06_A081",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 282.68,
+      "end": 283.68,
+      "pause_end": 287.23
+    },
+    {
+      "id": "L06_A082",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 287.23,
+      "end": 288.298,
+      "pause_end": 289.198
+    },
+    {
+      "id": "L06_A083",
+      "speaker": "instructor",
+      "text": "Remember: This is a bag.",
+      "start": 289.198,
+      "end": 291.238,
+      "pause_end": 296.288
+    },
+    {
+      "id": "L06_A084",
+      "speaker": "arabic_female",
+      "text": "هذي شنطة",
+      "start": 296.288,
+      "end": 297.31,
+      "pause_end": 298.26
+    },
+    {
+      "id": "L06_A085",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man where he is from.",
+      "start": 298.26,
+      "end": 301.3,
+      "pause_end": 306.35
+    },
+    {
+      "id": "L06_A086",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 306.35,
+      "end": 307.371,
+      "pause_end": 308.321
+    },
+    {
+      "id": "L06_A087",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Where is your friend?",
+      "start": 308.321,
+      "end": 311.161,
+      "pause_end": 316.411
+    },
+    {
+      "id": "L06_A088",
+      "speaker": "arabic_female",
+      "text": "وين ربيعك؟",
+      "start": 316.411,
+      "end": 317.34,
+      "pause_end": 318.29
+    },
+    {
+      "id": "L06_A089",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 318.29,
+      "end": 319.29,
+      "pause_end": 322.84
+    },
+    {
+      "id": "L06_A090",
+      "speaker": "arabic_female",
+      "text": "وين ربيعك؟",
+      "start": 322.84,
+      "end": 323.769,
+      "pause_end": 324.669
+    },
+    {
+      "id": "L06_A091",
+      "speaker": "instructor",
+      "text": "Remember: Who is this?",
+      "start": 324.669,
+      "end": 326.549,
+      "pause_end": 331.599
+    },
+    {
+      "id": "L06_A092",
+      "speaker": "arabic_female",
+      "text": "منو هذا؟",
+      "start": 331.599,
+      "end": 332.574,
+      "pause_end": 333.524
+    },
+    {
+      "id": "L06_A093",
+      "speaker": "instructor",
+      "text": "Say in Arabic: My friend is here.",
+      "start": 333.524,
+      "end": 336.564,
+      "pause_end": 341.814
+    },
+    {
+      "id": "L06_A094",
+      "speaker": "arabic",
+      "text": "ربيعي هني",
+      "start": 341.814,
+      "end": 342.883,
+      "pause_end": 343.833
+    },
+    {
+      "id": "L06_A095",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 343.833,
+      "end": 344.833,
+      "pause_end": 348.383
+    },
+    {
+      "id": "L06_A096",
+      "speaker": "arabic",
+      "text": "ربيعي هني",
+      "start": 348.383,
+      "end": 349.451,
+      "pause_end": 350.351
+    },
+    {
+      "id": "L06_A097",
+      "speaker": "instructor",
+      "text": "Remember: This is my friend.",
+      "start": 350.351,
+      "end": 352.271,
+      "pause_end": 357.321
+    },
+    {
+      "id": "L06_A098",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 357.321,
+      "end": 358.389,
+      "pause_end": 359.339
+    },
+    {
+      "id": "L06_A099",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you have a question?",
+      "start": 359.339,
+      "end": 362.419,
+      "pause_end": 367.669
+    },
+    {
+      "id": "L06_A100",
+      "speaker": "arabic_female",
+      "text": "عندك سؤال؟",
+      "start": 367.669,
+      "end": 368.783,
+      "pause_end": 369.733
+    },
+    {
+      "id": "L06_A101",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 369.733,
+      "end": 370.733,
+      "pause_end": 374.283
+    },
+    {
+      "id": "L06_A102",
+      "speaker": "arabic_female",
+      "text": "عندك سؤال؟",
+      "start": 374.283,
+      "end": 375.398,
+      "pause_end": 376.298
+    },
+    {
+      "id": "L06_A103",
+      "speaker": "instructor",
+      "text": "Remember: Where is your friend?",
+      "start": 376.298,
+      "end": 378.538,
+      "pause_end": 383.588
+    },
+    {
+      "id": "L06_A104",
+      "speaker": "arabic_female",
+      "text": "وين ربيعك؟",
+      "start": 383.588,
+      "end": 384.517,
+      "pause_end": 385.467
+    },
+    {
+      "id": "L06_A105",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask for the bill.",
+      "start": 385.467,
+      "end": 387.747,
+      "pause_end": 392.797
+    },
+    {
+      "id": "L06_A106",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 392.797,
+      "end": 393.958,
+      "pause_end": 394.908
+    },
+    {
+      "id": "L06_A107",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Yes, I have a question.",
+      "start": 394.908,
+      "end": 398.108,
+      "pause_end": 403.358
+    },
+    {
+      "id": "L06_A108",
+      "speaker": "arabic",
+      "text": "هيه، عندي سؤال",
+      "start": 403.358,
+      "end": 404.983,
+      "pause_end": 405.933
+    },
+    {
+      "id": "L06_A109",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 405.933,
+      "end": 406.933,
+      "pause_end": 410.483
+    },
+    {
+      "id": "L06_A110",
+      "speaker": "arabic",
+      "text": "هيه، عندي سؤال",
+      "start": 410.483,
+      "end": 412.109,
+      "pause_end": 413.009
+    },
+    {
+      "id": "L06_A111",
+      "speaker": "instructor",
+      "text": "Remember: My friend is here.",
+      "start": 413.009,
+      "end": 415.489,
+      "pause_end": 420.539
+    },
+    {
+      "id": "L06_A112",
+      "speaker": "arabic",
+      "text": "ربيعي هني",
+      "start": 420.539,
+      "end": 421.607,
+      "pause_end": 422.557
+    },
+    {
+      "id": "L06_A113",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Did you understand?",
+      "start": 422.557,
+      "end": 425.317,
+      "pause_end": 430.567
+    },
+    {
+      "id": "L06_A114",
+      "speaker": "arabic_female",
+      "text": "فهمت؟",
+      "start": 430.567,
+      "end": 431.356,
+      "pause_end": 432.306
+    },
+    {
+      "id": "L06_A115",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 432.306,
+      "end": 433.306,
+      "pause_end": 436.856
+    },
+    {
+      "id": "L06_A116",
+      "speaker": "arabic_female",
+      "text": "فهمت؟",
+      "start": 436.856,
+      "end": 437.646,
+      "pause_end": 438.546
+    },
+    {
+      "id": "L06_A117",
+      "speaker": "instructor",
+      "text": "Remember: Do you have a question?",
+      "start": 438.546,
+      "end": 441.226,
+      "pause_end": 446.276
+    },
+    {
+      "id": "L06_A118",
+      "speaker": "arabic_female",
+      "text": "عندك سؤال؟",
+      "start": 446.276,
+      "end": 447.39,
+      "pause_end": 448.34
+    },
+    {
+      "id": "L06_A119",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Yes, I understood.",
+      "start": 448.34,
+      "end": 451.1,
+      "pause_end": 456.35
+    },
+    {
+      "id": "L06_A120",
+      "speaker": "arabic",
+      "text": "هيه، فهمت",
+      "start": 456.35,
+      "end": 457.651,
+      "pause_end": 458.601
+    },
+    {
+      "id": "L06_A121",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 458.601,
+      "end": 459.601,
+      "pause_end": 463.151
+    },
+    {
+      "id": "L06_A122",
+      "speaker": "arabic",
+      "text": "هيه، فهمت",
+      "start": 463.151,
+      "end": 464.451,
+      "pause_end": 465.351
+    },
+    {
+      "id": "L06_A123",
+      "speaker": "instructor",
+      "text": "Remember: Yes, I have a question.",
+      "start": 465.351,
+      "end": 468.311,
+      "pause_end": 473.361
+    },
+    {
+      "id": "L06_A124",
+      "speaker": "arabic",
+      "text": "هيه، عندي سؤال",
+      "start": 473.361,
+      "end": 474.986,
+      "pause_end": 475.936
+    },
+    {
+      "id": "L06_A125",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man how he is.",
+      "start": 475.936,
+      "end": 478.896,
+      "pause_end": 483.946
+    },
+    {
+      "id": "L06_A126",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 483.946,
+      "end": 484.922,
+      "pause_end": 485.872
+    },
+    {
+      "id": "L06_A127",
+      "speaker": "instructor",
+      "text": "Say in Arabic: No, I did not understand.",
+      "start": 485.872,
+      "end": 489.312,
+      "pause_end": 494.562
+    },
+    {
+      "id": "L06_A128",
+      "speaker": "arabic_female",
+      "text": "لا، ما فهمت",
+      "start": 494.562,
+      "end": 495.676,
+      "pause_end": 496.626
+    },
+    {
+      "id": "L06_A129",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 496.626,
+      "end": 497.626,
+      "pause_end": 501.176
+    },
+    {
+      "id": "L06_A130",
+      "speaker": "arabic_female",
+      "text": "لا، ما فهمت",
+      "start": 501.176,
+      "end": 502.291,
+      "pause_end": 503.191
+    },
+    {
+      "id": "L06_A131",
+      "speaker": "instructor",
+      "text": "Remember: Did you understand?",
+      "start": 503.191,
+      "end": 505.391,
+      "pause_end": 510.441
+    },
+    {
+      "id": "L06_A132",
+      "speaker": "arabic_female",
+      "text": "فهمت؟",
+      "start": 510.441,
+      "end": 511.23,
+      "pause_end": 512.18
+    },
+    {
+      "id": "L06_A133",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Can you repeat?",
+      "start": 512.18,
+      "end": 514.74,
+      "pause_end": 519.99
+    },
+    {
+      "id": "L06_A134",
+      "speaker": "arabic",
+      "text": "ممكن تعيد؟",
+      "start": 519.99,
+      "end": 521.105,
+      "pause_end": 522.055
+    },
+    {
+      "id": "L06_A135",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 522.055,
+      "end": 523.055,
+      "pause_end": 526.605
+    },
+    {
+      "id": "L06_A136",
+      "speaker": "arabic",
+      "text": "ممكن تعيد؟",
+      "start": 526.605,
+      "end": 527.72,
+      "pause_end": 528.62
+    },
+    {
+      "id": "L06_A137",
+      "speaker": "instructor",
+      "text": "Remember: Yes, I understood.",
+      "start": 528.62,
+      "end": 531.1,
+      "pause_end": 536.15
+    },
+    {
+      "id": "L06_A138",
+      "speaker": "arabic",
+      "text": "هيه، فهمت",
+      "start": 536.15,
+      "end": 537.45,
+      "pause_end": 538.4
+    },
+    {
+      "id": "L06_A139",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What do you mean?",
+      "start": 538.4,
+      "end": 541.76,
+      "pause_end": 547.01
+    },
+    {
+      "id": "L06_A140",
+      "speaker": "arabic_female",
+      "text": "شو تقصد؟",
+      "start": 547.01,
+      "end": 547.892,
+      "pause_end": 548.842
+    },
+    {
+      "id": "L06_A141",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 548.842,
+      "end": 549.842,
+      "pause_end": 553.392
+    },
+    {
+      "id": "L06_A142",
+      "speaker": "arabic_female",
+      "text": "شو تقصد؟",
+      "start": 553.392,
+      "end": 554.275,
+      "pause_end": 555.175
+    },
+    {
+      "id": "L06_A143",
+      "speaker": "instructor",
+      "text": "Remember: No, I did not understand.",
+      "start": 555.175,
+      "end": 558.295,
+      "pause_end": 563.345
+    },
+    {
+      "id": "L06_A144",
+      "speaker": "arabic_female",
+      "text": "لا، ما فهمت",
+      "start": 563.345,
+      "end": 564.459,
+      "pause_end": 565.409
+    },
+    {
+      "id": "L06_A145",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man where he lives.",
+      "start": 565.409,
+      "end": 568.329,
+      "pause_end": 573.379
+    },
+    {
+      "id": "L06_A146",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 573.379,
+      "end": 574.447,
+      "pause_end": 575.397
+    },
+    {
+      "id": "L06_A147",
+      "speaker": "instructor",
+      "text": "Now practice responding without a translation first.",
+      "start": 575.397,
+      "end": 578.957,
+      "pause_end": 579.807
+    },
+    {
+      "id": "L06_A148",
+      "speaker": "instructor",
+      "text": "Recall this phrase: What is this?",
+      "start": 579.807,
+      "end": 582.207,
+      "pause_end": 587.957
+    },
+    {
+      "id": "L06_A149",
+      "speaker": "arabic_female",
+      "text": "شو هذا؟",
+      "start": 587.957,
+      "end": 588.84,
+      "pause_end": 589.79
+    },
+    {
+      "id": "L06_A150",
+      "speaker": "instructor",
+      "text": "Recall this phrase: What is this? Referring to a feminine thing.",
+      "start": 589.79,
+      "end": 594.23,
+      "pause_end": 599.98
+    },
+    {
+      "id": "L06_A151",
+      "speaker": "arabic",
+      "text": "شو هذي؟",
+      "start": 599.98,
+      "end": 600.862,
+      "pause_end": 601.812
+    },
+    {
+      "id": "L06_A152",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Who is this?",
+      "start": 601.812,
+      "end": 604.292,
+      "pause_end": 610.042
+    },
+    {
+      "id": "L06_A153",
+      "speaker": "arabic_female",
+      "text": "منو هذا؟",
+      "start": 610.042,
+      "end": 611.017,
+      "pause_end": 611.967
+    },
+    {
+      "id": "L06_A154",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Where is your friend?",
+      "start": 611.967,
+      "end": 614.687,
+      "pause_end": 620.437
+    },
+    {
+      "id": "L06_A155",
+      "speaker": "arabic_female",
+      "text": "وين ربيعك؟",
+      "start": 620.437,
+      "end": 621.366,
+      "pause_end": 622.316
+    },
+    {
+      "id": "L06_A156",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 622.316,
+      "end": 625.276,
+      "pause_end": 630.326
+    },
+    {
+      "id": "L06_A157",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 630.326,
+      "end": 631.301,
+      "pause_end": 632.251
+    },
+    {
+      "id": "L06_A158",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Do you have a question?",
+      "start": 632.251,
+      "end": 635.452,
+      "pause_end": 641.202
+    },
+    {
+      "id": "L06_A159",
+      "speaker": "arabic_female",
+      "text": "عندك سؤال؟",
+      "start": 641.202,
+      "end": 642.316,
+      "pause_end": 643.266
+    },
+    {
+      "id": "L06_A160",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Did you understand?",
+      "start": 643.266,
+      "end": 646.186,
+      "pause_end": 651.936
+    },
+    {
+      "id": "L06_A161",
+      "speaker": "arabic_female",
+      "text": "فهمت؟",
+      "start": 651.936,
+      "end": 652.726,
+      "pause_end": 653.676
+    },
+    {
+      "id": "L06_A162",
+      "speaker": "instructor",
+      "text": "Recall this phrase: No, I did not understand.",
+      "start": 653.676,
+      "end": 657.596,
+      "pause_end": 663.346
+    },
+    {
+      "id": "L06_A163",
+      "speaker": "arabic_female",
+      "text": "لا، ما فهمت",
+      "start": 663.346,
+      "end": 664.46,
+      "pause_end": 665.41
+    },
+    {
+      "id": "L06_A164",
+      "speaker": "instructor",
+      "text": "Recall this phrase: What do you mean?",
+      "start": 665.41,
+      "end": 667.97,
+      "pause_end": 673.72
+    },
+    {
+      "id": "L06_A165",
+      "speaker": "arabic_female",
+      "text": "شو تقصد؟",
+      "start": 673.72,
+      "end": 674.603,
+      "pause_end": 675.553
+    },
+    {
+      "id": "L06_A166",
+      "speaker": "instructor",
+      "text": "Quick review. Say that you want water.",
+      "start": 675.553,
+      "end": 677.833,
+      "pause_end": 682.883
+    },
+    {
+      "id": "L06_A167",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 682.883,
+      "end": 683.858,
+      "pause_end": 684.808
+    },
+    {
+      "id": "L06_A168",
+      "speaker": "instructor",
+      "text": "Recall this phrase: This is a book.",
+      "start": 684.808,
+      "end": 687.968,
+      "pause_end": 693.718
+    },
+    {
+      "id": "L06_A169",
+      "speaker": "arabic",
+      "text": "هذا كتاب",
+      "start": 693.718,
+      "end": 694.74,
+      "pause_end": 695.69
+    },
+    {
+      "id": "L06_A170",
+      "speaker": "instructor",
+      "text": "Recall this phrase: This is a bag.",
+      "start": 695.69,
+      "end": 698.89,
+      "pause_end": 704.64
+    },
+    {
+      "id": "L06_A171",
+      "speaker": "arabic_female",
+      "text": "هذي شنطة",
+      "start": 704.64,
+      "end": 705.661,
+      "pause_end": 706.611
+    },
+    {
+      "id": "L06_A172",
+      "speaker": "instructor",
+      "text": "Recall this phrase: This is my friend.",
+      "start": 706.611,
+      "end": 709.411,
+      "pause_end": 715.161
+    },
+    {
+      "id": "L06_A173",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 715.161,
+      "end": 716.23,
+      "pause_end": 717.18
+    },
+    {
+      "id": "L06_A174",
+      "speaker": "instructor",
+      "text": "Recall this phrase: My friend is here.",
+      "start": 717.18,
+      "end": 720.18,
+      "pause_end": 725.93
+    },
+    {
+      "id": "L06_A175",
+      "speaker": "arabic",
+      "text": "ربيعي هني",
+      "start": 725.93,
+      "end": 726.998,
+      "pause_end": 727.948
+    },
+    {
+      "id": "L06_A176",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 727.948,
+      "end": 730.908,
+      "pause_end": 735.958
+    },
+    {
+      "id": "L06_A177",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 735.958,
+      "end": 736.933,
+      "pause_end": 737.883
+    },
+    {
+      "id": "L06_A178",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Yes, I have a question.",
+      "start": 737.883,
+      "end": 741.603,
+      "pause_end": 747.353
+    },
+    {
+      "id": "L06_A179",
+      "speaker": "arabic",
+      "text": "هيه، عندي سؤال",
+      "start": 747.353,
+      "end": 748.978,
+      "pause_end": 749.928
+    },
+    {
+      "id": "L06_A180",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Yes, I understood.",
+      "start": 749.928,
+      "end": 753.928,
+      "pause_end": 759.678
+    },
+    {
+      "id": "L06_A181",
+      "speaker": "arabic",
+      "text": "هيه، فهمت",
+      "start": 759.678,
+      "end": 760.979,
+      "pause_end": 761.929
+    },
+    {
+      "id": "L06_A182",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Can you repeat?",
+      "start": 761.929,
+      "end": 764.569,
+      "pause_end": 770.319
+    },
+    {
+      "id": "L06_A183",
+      "speaker": "arabic",
+      "text": "ممكن تعيد؟",
+      "start": 770.319,
+      "end": 771.433,
+      "pause_end": 772.383
+    },
+    {
+      "id": "L06_A184",
+      "speaker": "instructor",
+      "text": "How would you say: What do you mean?",
+      "start": 772.383,
+      "end": 774.663,
+      "pause_end": 780.413
+    },
+    {
+      "id": "L06_A185",
+      "speaker": "arabic_female",
+      "text": "شو تقصد؟",
+      "start": 780.413,
+      "end": 781.296,
+      "pause_end": 782.246
+    },
+    {
+      "id": "L06_A186",
+      "speaker": "instructor",
+      "text": "How would you say: Can you repeat?",
+      "start": 782.246,
+      "end": 785.086,
+      "pause_end": 790.836
+    },
+    {
+      "id": "L06_A187",
+      "speaker": "arabic",
+      "text": "ممكن تعيد؟",
+      "start": 790.836,
+      "end": 791.95,
+      "pause_end": 792.9
+    },
+    {
+      "id": "L06_A188",
+      "speaker": "instructor",
+      "text": "How would you say: No, I did not understand.",
+      "start": 792.9,
+      "end": 796.22,
+      "pause_end": 801.97
+    },
+    {
+      "id": "L06_A189",
+      "speaker": "arabic_female",
+      "text": "لا، ما فهمت",
+      "start": 801.97,
+      "end": 803.085,
+      "pause_end": 804.035
+    },
+    {
+      "id": "L06_A190",
+      "speaker": "instructor",
+      "text": "How would you say: Yes, I understood.",
+      "start": 804.035,
+      "end": 807.155,
+      "pause_end": 812.905
+    },
+    {
+      "id": "L06_A191",
+      "speaker": "arabic",
+      "text": "هيه، فهمت",
+      "start": 812.905,
+      "end": 814.205,
+      "pause_end": 815.155
+    },
+    {
+      "id": "L06_A192",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man his name.",
+      "start": 815.155,
+      "end": 817.715,
+      "pause_end": 822.765
+    },
+    {
+      "id": "L06_A193",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 822.765,
+      "end": 823.601,
+      "pause_end": 824.551
+    },
+    {
+      "id": "L06_A194",
+      "speaker": "instructor",
+      "text": "How would you say: Did you understand?",
+      "start": 824.551,
+      "end": 827.151,
+      "pause_end": 832.901
+    },
+    {
+      "id": "L06_A195",
+      "speaker": "arabic_female",
+      "text": "فهمت؟",
+      "start": 832.901,
+      "end": 833.691,
+      "pause_end": 834.641
+    },
+    {
+      "id": "L06_A196",
+      "speaker": "instructor",
+      "text": "How would you say: Yes, I have a question.",
+      "start": 834.641,
+      "end": 837.601,
+      "pause_end": 843.351
+    },
+    {
+      "id": "L06_A197",
+      "speaker": "arabic",
+      "text": "هيه، عندي سؤال",
+      "start": 843.351,
+      "end": 844.976,
+      "pause_end": 845.926
+    },
+    {
+      "id": "L06_A198",
+      "speaker": "instructor",
+      "text": "How would you say: Do you have a question?",
+      "start": 845.926,
+      "end": 848.446,
+      "pause_end": 854.196
+    },
+    {
+      "id": "L06_A199",
+      "speaker": "arabic_female",
+      "text": "عندك سؤال؟",
+      "start": 854.196,
+      "end": 855.311,
+      "pause_end": 856.261
+    },
+    {
+      "id": "L06_A200",
+      "speaker": "instructor",
+      "text": "How would you say: My friend is here.",
+      "start": 856.261,
+      "end": 859.301,
+      "pause_end": 865.051
+    },
+    {
+      "id": "L06_A201",
+      "speaker": "arabic",
+      "text": "ربيعي هني",
+      "start": 865.051,
+      "end": 866.119,
+      "pause_end": 867.069
+    },
+    {
+      "id": "L06_A202",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 867.069,
+      "end": 869.149,
+      "pause_end": 874.199
+    },
+    {
+      "id": "L06_A203",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 874.199,
+      "end": 875.36,
+      "pause_end": 876.31
+    },
+    {
+      "id": "L06_A204",
+      "speaker": "instructor",
+      "text": "How would you say: Where is your friend?",
+      "start": 876.31,
+      "end": 879.27,
+      "pause_end": 885.02
+    },
+    {
+      "id": "L06_A205",
+      "speaker": "arabic_female",
+      "text": "وين ربيعك؟",
+      "start": 885.02,
+      "end": 885.949,
+      "pause_end": 886.899
+    },
+    {
+      "id": "L06_A206",
+      "speaker": "instructor",
+      "text": "How would you say: This is my friend.",
+      "start": 886.899,
+      "end": 889.939,
+      "pause_end": 895.689
+    },
+    {
+      "id": "L06_A207",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 895.689,
+      "end": 896.757,
+      "pause_end": 897.707
+    },
+    {
+      "id": "L06_A208",
+      "speaker": "instructor",
+      "text": "How would you say: Who is this?",
+      "start": 897.707,
+      "end": 899.587,
+      "pause_end": 905.337
+    },
+    {
+      "id": "L06_A209",
+      "speaker": "arabic_female",
+      "text": "منو هذا؟",
+      "start": 905.337,
+      "end": 906.312,
+      "pause_end": 907.262
+    },
+    {
+      "id": "L06_A210",
+      "speaker": "instructor",
+      "text": "How would you say: This is a bag.",
+      "start": 907.262,
+      "end": 909.862,
+      "pause_end": 915.612
+    },
+    {
+      "id": "L06_A211",
+      "speaker": "arabic_female",
+      "text": "هذي شنطة",
+      "start": 915.612,
+      "end": 916.634,
+      "pause_end": 917.584
+    },
+    {
+      "id": "L06_A212",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man his name.",
+      "start": 917.584,
+      "end": 920.144,
+      "pause_end": 925.194
+    },
+    {
+      "id": "L06_A213",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 925.194,
+      "end": 926.03,
+      "pause_end": 926.98
+    },
+    {
+      "id": "L06_A214",
+      "speaker": "instructor",
+      "text": "How would you say: What is this? Referring to a feminine thing.",
+      "start": 926.98,
+      "end": 930.94,
+      "pause_end": 936.69
+    },
+    {
+      "id": "L06_A215",
+      "speaker": "arabic",
+      "text": "شو هذي؟",
+      "start": 936.69,
+      "end": 937.572,
+      "pause_end": 938.522
+    },
+    {
+      "id": "L06_A216",
+      "speaker": "instructor",
+      "text": "How would you say: This is a book.",
+      "start": 938.522,
+      "end": 940.882,
+      "pause_end": 946.632
+    },
+    {
+      "id": "L06_A217",
+      "speaker": "arabic",
+      "text": "هذا كتاب",
+      "start": 946.632,
+      "end": 947.654,
+      "pause_end": 948.604
+    },
+    {
+      "id": "L06_A218",
+      "speaker": "instructor",
+      "text": "How would you say: What is this?",
+      "start": 948.604,
+      "end": 950.884,
+      "pause_end": 956.634
+    },
+    {
+      "id": "L06_A219",
+      "speaker": "arabic_female",
+      "text": "شو هذا؟",
+      "start": 956.634,
+      "end": 957.516,
+      "pause_end": 958.466
+    },
+    {
+      "id": "L06_A220",
+      "speaker": "instructor",
+      "text": "Final practice. Respond naturally.",
+      "start": 958.466,
+      "end": 961.986,
+      "pause_end": 962.836
+    },
+    {
+      "id": "L06_A221",
+      "speaker": "instructor",
+      "text": "What is this?",
+      "start": 962.836,
+      "end": 963.756,
+      "pause_end": 969.706
+    },
+    {
+      "id": "L06_A222",
+      "speaker": "arabic_female",
+      "text": "شو هذا؟",
+      "start": 969.706,
+      "end": 970.589,
+      "pause_end": 971.539
+    },
+    {
+      "id": "L06_A223",
+      "speaker": "instructor",
+      "text": "My friend is here.",
+      "start": 971.539,
+      "end": 972.899,
+      "pause_end": 978.849
+    },
+    {
+      "id": "L06_A224",
+      "speaker": "arabic",
+      "text": "ربيعي هني",
+      "start": 978.849,
+      "end": 979.917,
+      "pause_end": 980.867
+    },
+    {
+      "id": "L06_A225",
+      "speaker": "instructor",
+      "text": "What do you mean?",
+      "start": 980.867,
+      "end": 981.747,
+      "pause_end": 987.697
+    },
+    {
+      "id": "L06_A226",
+      "speaker": "arabic_female",
+      "text": "شو تقصد؟",
+      "start": 987.697,
+      "end": 988.579,
+      "pause_end": 989.529
+    },
+    {
+      "id": "L06_A227",
+      "speaker": "instructor",
+      "text": "Where is your friend?",
+      "start": 989.529,
+      "end": 990.729,
+      "pause_end": 996.679
+    },
+    {
+      "id": "L06_A228",
+      "speaker": "arabic_female",
+      "text": "وين ربيعك؟",
+      "start": 996.679,
+      "end": 997.608,
+      "pause_end": 998.558
+    },
+    {
+      "id": "L06_A229",
+      "speaker": "instructor",
+      "text": "Can you repeat?",
+      "start": 998.558,
+      "end": 999.718,
+      "pause_end": 1005.668
+    },
+    {
+      "id": "L06_A230",
+      "speaker": "arabic",
+      "text": "ممكن تعيد؟",
+      "start": 1005.668,
+      "end": 1006.783,
+      "pause_end": 1007.733
+    },
+    {
+      "id": "L06_A231",
+      "speaker": "instructor",
+      "text": "This is my friend.",
+      "start": 1007.733,
+      "end": 1009.373,
+      "pause_end": 1015.323
+    },
+    {
+      "id": "L06_A232",
+      "speaker": "arabic",
+      "text": "هذا ربيعي",
+      "start": 1015.323,
+      "end": 1016.391,
+      "pause_end": 1017.341
+    },
+    {
+      "id": "L06_A233",
+      "speaker": "instructor",
+      "text": "No, I did not understand.",
+      "start": 1017.341,
+      "end": 1019.221,
+      "pause_end": 1025.171
+    },
+    {
+      "id": "L06_A234",
+      "speaker": "arabic_female",
+      "text": "لا، ما فهمت",
+      "start": 1025.171,
+      "end": 1026.285,
+      "pause_end": 1027.235
+    },
+    {
+      "id": "L06_A235",
+      "speaker": "instructor",
+      "text": "Who is this?",
+      "start": 1027.235,
+      "end": 1028.235,
+      "pause_end": 1034.185
+    },
+    {
+      "id": "L06_A236",
+      "speaker": "arabic_female",
+      "text": "منو هذا؟",
+      "start": 1034.185,
+      "end": 1035.161,
+      "pause_end": 1036.111
+    },
+    {
+      "id": "L06_A237",
+      "speaker": "instructor",
+      "text": "Yes, I understood.",
+      "start": 1036.111,
+      "end": 1038.031,
+      "pause_end": 1043.981
+    },
+    {
+      "id": "L06_A238",
+      "speaker": "arabic",
+      "text": "هيه، فهمت",
+      "start": 1043.981,
+      "end": 1045.281,
+      "pause_end": 1046.231
+    },
+    {
+      "id": "L06_A239",
+      "speaker": "instructor",
+      "text": "This is a bag.",
+      "start": 1046.231,
+      "end": 1047.311,
+      "pause_end": 1053.261
+    },
+    {
+      "id": "L06_A240",
+      "speaker": "arabic_female",
+      "text": "هذي شنطة",
+      "start": 1053.261,
+      "end": 1054.283,
+      "pause_end": 1055.233
+    },
+    {
+      "id": "L06_A241",
+      "speaker": "instructor",
+      "text": "Did you understand?",
+      "start": 1055.233,
+      "end": 1056.313,
+      "pause_end": 1062.263
+    },
+    {
+      "id": "L06_A242",
+      "speaker": "arabic_female",
+      "text": "فهمت؟",
+      "start": 1062.263,
+      "end": 1063.052,
+      "pause_end": 1064.002
+    },
+    {
+      "id": "L06_A243",
+      "speaker": "instructor",
+      "text": "What is this? Referring to a feminine thing.",
+      "start": 1064.002,
+      "end": 1066.682,
+      "pause_end": 1072.632
+    },
+    {
+      "id": "L06_A244",
+      "speaker": "arabic",
+      "text": "شو هذي؟",
+      "start": 1072.632,
+      "end": 1073.514,
+      "pause_end": 1074.464
+    },
+    {
+      "id": "L06_A245",
+      "speaker": "instructor",
+      "text": "Yes, I have a question.",
+      "start": 1074.464,
+      "end": 1076.304,
+      "pause_end": 1082.254
+    },
+    {
+      "id": "L06_A246",
+      "speaker": "arabic",
+      "text": "هيه، عندي سؤال",
+      "start": 1082.254,
+      "end": 1083.88,
+      "pause_end": 1084.83
+    },
+    {
+      "id": "L06_A247",
+      "speaker": "instructor",
+      "text": "This is a book.",
+      "start": 1084.83,
+      "end": 1086.23,
+      "pause_end": 1092.18
+    },
+    {
+      "id": "L06_A248",
+      "speaker": "arabic",
+      "text": "هذا كتاب",
+      "start": 1092.18,
+      "end": 1093.202,
+      "pause_end": 1094.152
+    },
+    {
+      "id": "L06_A249",
+      "speaker": "instructor",
+      "text": "Do you have a question?",
+      "start": 1094.152,
+      "end": 1095.472,
+      "pause_end": 1101.422
+    },
+    {
+      "id": "L06_A250",
+      "speaker": "arabic_female",
+      "text": "عندك سؤال؟",
+      "start": 1101.422,
+      "end": 1102.536,
+      "pause_end": 1103.486
+    },
+    {
+      "id": "L06_A251",
+      "speaker": "instructor",
+      "text": "End of lesson. Practice again before moving on.",
+      "start": 1103.486,
+      "end": 1106.686,
+      "pause_end": 1107.636
+    }
+  ]
+}

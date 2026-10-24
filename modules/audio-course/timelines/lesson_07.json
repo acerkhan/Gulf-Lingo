@@ -1,0 +1,2156 @@
+{
+  "events": [
+    {
+      "id": "L07_A001",
+      "speaker": "instructor",
+      "text": "Lesson 7. Numbers and Shopping. Listen carefully, and speak when you hear a question.",
+      "start": 0.0,
+      "end": 5.52,
+      "pause_end": 6.57
+    },
+    {
+      "id": "L07_A002",
+      "speaker": "instructor",
+      "text": "First, remember some expressions from earlier lessons.",
+      "start": 6.57,
+      "end": 10.53,
+      "pause_end": 11.38
+    },
+    {
+      "id": "L07_A003",
+      "speaker": "instructor",
+      "text": "Say pleased to meet you.",
+      "start": 11.38,
+      "end": 13.42,
+      "pause_end": 17.87
+    },
+    {
+      "id": "L07_A004",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 17.87,
+      "end": 18.799,
+      "pause_end": 19.749
+    },
+    {
+      "id": "L07_A005",
+      "speaker": "instructor",
+      "text": "Greet someone.",
+      "start": 19.749,
+      "end": 20.629,
+      "pause_end": 25.079
+    },
+    {
+      "id": "L07_A006",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 25.079,
+      "end": 26.24,
+      "pause_end": 27.19
+    },
+    {
+      "id": "L07_A007",
+      "speaker": "instructor",
+      "text": "Ask a man how he is.",
+      "start": 27.19,
+      "end": 29.11,
+      "pause_end": 33.56
+    },
+    {
+      "id": "L07_A008",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 33.56,
+      "end": 34.535,
+      "pause_end": 35.485
+    },
+    {
+      "id": "L07_A009",
+      "speaker": "instructor",
+      "text": "Ask a man his name.",
+      "start": 35.485,
+      "end": 36.885,
+      "pause_end": 41.335
+    },
+    {
+      "id": "L07_A010",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 41.335,
+      "end": 42.171,
+      "pause_end": 43.121
+    },
+    {
+      "id": "L07_A011",
+      "speaker": "instructor",
+      "text": "Ask a man where he is from.",
+      "start": 43.121,
+      "end": 44.921,
+      "pause_end": 49.371
+    },
+    {
+      "id": "L07_A012",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 49.371,
+      "end": 50.393,
+      "pause_end": 51.343
+    },
+    {
+      "id": "L07_A013",
+      "speaker": "instructor",
+      "text": "Ask a man where he lives.",
+      "start": 51.343,
+      "end": 53.143,
+      "pause_end": 57.593
+    },
+    {
+      "id": "L07_A014",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 57.593,
+      "end": 58.661,
+      "pause_end": 59.611
+    },
+    {
+      "id": "L07_A015",
+      "speaker": "instructor",
+      "text": "Say that you want water.",
+      "start": 59.611,
+      "end": 61.131,
+      "pause_end": 65.581
+    },
+    {
+      "id": "L07_A016",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 65.581,
+      "end": 66.556,
+      "pause_end": 67.506
+    },
+    {
+      "id": "L07_A017",
+      "speaker": "instructor",
+      "text": "Ask for the bill.",
+      "start": 67.506,
+      "end": 68.706,
+      "pause_end": 73.156
+    },
+    {
+      "id": "L07_A018",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 73.156,
+      "end": 74.317,
+      "pause_end": 75.267
+    },
+    {
+      "id": "L07_A019",
+      "speaker": "instructor",
+      "text": "Now listen to the new expressions.",
+      "start": 75.267,
+      "end": 77.427,
+      "pause_end": 78.277
+    },
+    {
+      "id": "L07_A020",
+      "speaker": "instructor",
+      "text": "One.",
+      "start": 78.277,
+      "end": 78.877,
+      "pause_end": 79.477
+    },
+    {
+      "id": "L07_A021",
+      "speaker": "arabic",
+      "text": "واحد",
+      "start": 79.477,
+      "end": 80.313,
+      "pause_end": 81.663
+    },
+    {
+      "id": "L07_A022",
+      "speaker": "instructor",
+      "text": "Two.",
+      "start": 81.663,
+      "end": 82.143,
+      "pause_end": 82.743
+    },
+    {
+      "id": "L07_A023",
+      "speaker": "arabic_female",
+      "text": "اثنين",
+      "start": 82.743,
+      "end": 83.626,
+      "pause_end": 84.976
+    },
+    {
+      "id": "L07_A024",
+      "speaker": "instructor",
+      "text": "Three.",
+      "start": 84.976,
+      "end": 85.576,
+      "pause_end": 86.176
+    },
+    {
+      "id": "L07_A025",
+      "speaker": "arabic",
+      "text": "ثلاثة",
+      "start": 86.176,
+      "end": 87.012,
+      "pause_end": 88.362
+    },
+    {
+      "id": "L07_A026",
+      "speaker": "instructor",
+      "text": "Four.",
+      "start": 88.362,
+      "end": 88.962,
+      "pause_end": 89.562
+    },
+    {
+      "id": "L07_A027",
+      "speaker": "arabic_female",
+      "text": "أربعة",
+      "start": 89.562,
+      "end": 90.305,
+      "pause_end": 91.655
+    },
+    {
+      "id": "L07_A028",
+      "speaker": "instructor",
+      "text": "Five.",
+      "start": 91.655,
+      "end": 92.295,
+      "pause_end": 92.895
+    },
+    {
+      "id": "L07_A029",
+      "speaker": "arabic",
+      "text": "خمسة",
+      "start": 92.895,
+      "end": 93.684,
+      "pause_end": 95.034
+    },
+    {
+      "id": "L07_A030",
+      "speaker": "instructor",
+      "text": "Ten.",
+      "start": 95.034,
+      "end": 95.594,
+      "pause_end": 96.194
+    },
+    {
+      "id": "L07_A031",
+      "speaker": "arabic_female",
+      "text": "عشرة",
+      "start": 96.194,
+      "end": 96.937,
+      "pause_end": 98.287
+    },
+    {
+      "id": "L07_A032",
+      "speaker": "instructor",
+      "text": "Twenty.",
+      "start": 98.287,
+      "end": 99.087,
+      "pause_end": 99.687
+    },
+    {
+      "id": "L07_A033",
+      "speaker": "arabic",
+      "text": "عشرين",
+      "start": 99.687,
+      "end": 100.57,
+      "pause_end": 101.92
+    },
+    {
+      "id": "L07_A034",
+      "speaker": "instructor",
+      "text": "Fifty.",
+      "start": 101.92,
+      "end": 102.72,
+      "pause_end": 103.32
+    },
+    {
+      "id": "L07_A035",
+      "speaker": "arabic_female",
+      "text": "خمسين",
+      "start": 103.32,
+      "end": 104.202,
+      "pause_end": 105.552
+    },
+    {
+      "id": "L07_A036",
+      "speaker": "instructor",
+      "text": "One hundred.",
+      "start": 105.552,
+      "end": 106.672,
+      "pause_end": 107.272
+    },
+    {
+      "id": "L07_A037",
+      "speaker": "arabic",
+      "text": "مية",
+      "start": 107.272,
+      "end": 107.922,
+      "pause_end": 109.272
+    },
+    {
+      "id": "L07_A038",
+      "speaker": "instructor",
+      "text": "How much is this?",
+      "start": 109.272,
+      "end": 110.272,
+      "pause_end": 110.872
+    },
+    {
+      "id": "L07_A039",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 110.872,
+      "end": 111.755,
+      "pause_end": 113.105
+    },
+    {
+      "id": "L07_A040",
+      "speaker": "instructor",
+      "text": "For ten dirhams.",
+      "start": 113.105,
+      "end": 115.065,
+      "pause_end": 115.665
+    },
+    {
+      "id": "L07_A041",
+      "speaker": "arabic",
+      "text": "بعشرة دراهم",
+      "start": 115.665,
+      "end": 117.104,
+      "pause_end": 118.454
+    },
+    {
+      "id": "L07_A042",
+      "speaker": "instructor",
+      "text": "This is expensive.",
+      "start": 118.454,
+      "end": 119.774,
+      "pause_end": 120.374
+    },
+    {
+      "id": "L07_A043",
+      "speaker": "arabic_female",
+      "text": "هذا غالي",
+      "start": 120.374,
+      "end": 121.396,
+      "pause_end": 122.746
+    },
+    {
+      "id": "L07_A044",
+      "speaker": "instructor",
+      "text": "Do you have something cheaper?",
+      "start": 122.746,
+      "end": 124.426,
+      "pause_end": 125.026
+    },
+    {
+      "id": "L07_A045",
+      "speaker": "arabic",
+      "text": "عندك أرخص؟",
+      "start": 125.026,
+      "end": 126.28,
+      "pause_end": 127.63
+    },
+    {
+      "id": "L07_A046",
+      "speaker": "instructor",
+      "text": "I want two.",
+      "start": 127.63,
+      "end": 129.31,
+      "pause_end": 129.91
+    },
+    {
+      "id": "L07_A047",
+      "speaker": "arabic_female",
+      "text": "أبغي اثنين",
+      "start": 129.91,
+      "end": 130.932,
+      "pause_end": 132.282
+    },
+    {
+      "id": "L07_A048",
+      "speaker": "instructor",
+      "text": "What is the total?",
+      "start": 132.282,
+      "end": 133.362,
+      "pause_end": 133.962
+    },
+    {
+      "id": "L07_A049",
+      "speaker": "arabic",
+      "text": "كم المجموع؟",
+      "start": 133.962,
+      "end": 135.076,
+      "pause_end": 136.426
+    },
+    {
+      "id": "L07_A050",
+      "speaker": "instructor",
+      "text": "Twenty dirhams.",
+      "start": 136.426,
+      "end": 138.186,
+      "pause_end": 138.786
+    },
+    {
+      "id": "L07_A051",
+      "speaker": "arabic_female",
+      "text": "عشرين درهم",
+      "start": 138.786,
+      "end": 139.994,
+      "pause_end": 141.344
+    },
+    {
+      "id": "L07_A052",
+      "speaker": "instructor",
+      "text": "Now answer in Arabic, before you hear the speaker.",
+      "start": 141.344,
+      "end": 144.384,
+      "pause_end": 145.234
+    },
+    {
+      "id": "L07_A053",
+      "speaker": "instructor",
+      "text": "Say in Arabic: One.",
+      "start": 145.234,
+      "end": 147.074,
+      "pause_end": 152.324
+    },
+    {
+      "id": "L07_A054",
+      "speaker": "arabic",
+      "text": "واحد",
+      "start": 152.324,
+      "end": 153.16,
+      "pause_end": 154.11
+    },
+    {
+      "id": "L07_A055",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 154.11,
+      "end": 155.11,
+      "pause_end": 158.66
+    },
+    {
+      "id": "L07_A056",
+      "speaker": "arabic",
+      "text": "واحد",
+      "start": 158.66,
+      "end": 159.496,
+      "pause_end": 160.396
+    },
+    {
+      "id": "L07_A057",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Two.",
+      "start": 160.396,
+      "end": 162.436,
+      "pause_end": 167.686
+    },
+    {
+      "id": "L07_A058",
+      "speaker": "arabic_female",
+      "text": "اثنين",
+      "start": 167.686,
+      "end": 168.568,
+      "pause_end": 169.518
+    },
+    {
+      "id": "L07_A059",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 169.518,
+      "end": 170.518,
+      "pause_end": 174.068
+    },
+    {
+      "id": "L07_A060",
+      "speaker": "arabic_female",
+      "text": "اثنين",
+      "start": 174.068,
+      "end": 174.951,
+      "pause_end": 175.851
+    },
+    {
+      "id": "L07_A061",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Three.",
+      "start": 175.851,
+      "end": 177.451,
+      "pause_end": 182.701
+    },
+    {
+      "id": "L07_A062",
+      "speaker": "arabic",
+      "text": "ثلاثة",
+      "start": 182.701,
+      "end": 183.537,
+      "pause_end": 184.487
+    },
+    {
+      "id": "L07_A063",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 184.487,
+      "end": 185.487,
+      "pause_end": 189.037
+    },
+    {
+      "id": "L07_A064",
+      "speaker": "arabic",
+      "text": "ثلاثة",
+      "start": 189.037,
+      "end": 189.873,
+      "pause_end": 190.773
+    },
+    {
+      "id": "L07_A065",
+      "speaker": "instructor",
+      "text": "Remember: One.",
+      "start": 190.773,
+      "end": 192.453,
+      "pause_end": 197.503
+    },
+    {
+      "id": "L07_A066",
+      "speaker": "arabic",
+      "text": "واحد",
+      "start": 197.503,
+      "end": 198.339,
+      "pause_end": 199.289
+    },
+    {
+      "id": "L07_A067",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man how he is.",
+      "start": 199.289,
+      "end": 202.249,
+      "pause_end": 207.299
+    },
+    {
+      "id": "L07_A068",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 207.299,
+      "end": 208.274,
+      "pause_end": 209.224
+    },
+    {
+      "id": "L07_A069",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Four.",
+      "start": 209.224,
+      "end": 210.944,
+      "pause_end": 216.194
+    },
+    {
+      "id": "L07_A070",
+      "speaker": "arabic_female",
+      "text": "أربعة",
+      "start": 216.194,
+      "end": 216.937,
+      "pause_end": 217.887
+    },
+    {
+      "id": "L07_A071",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 217.887,
+      "end": 218.887,
+      "pause_end": 222.437
+    },
+    {
+      "id": "L07_A072",
+      "speaker": "arabic_female",
+      "text": "أربعة",
+      "start": 222.437,
+      "end": 223.18,
+      "pause_end": 224.08
+    },
+    {
+      "id": "L07_A073",
+      "speaker": "instructor",
+      "text": "Remember: Two.",
+      "start": 224.08,
+      "end": 225.56,
+      "pause_end": 230.61
+    },
+    {
+      "id": "L07_A074",
+      "speaker": "arabic_female",
+      "text": "اثنين",
+      "start": 230.61,
+      "end": 231.492,
+      "pause_end": 232.442
+    },
+    {
+      "id": "L07_A075",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Five.",
+      "start": 232.442,
+      "end": 234.482,
+      "pause_end": 239.732
+    },
+    {
+      "id": "L07_A076",
+      "speaker": "arabic",
+      "text": "خمسة",
+      "start": 239.732,
+      "end": 240.522,
+      "pause_end": 241.472
+    },
+    {
+      "id": "L07_A077",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 241.472,
+      "end": 242.472,
+      "pause_end": 246.022
+    },
+    {
+      "id": "L07_A078",
+      "speaker": "arabic",
+      "text": "خمسة",
+      "start": 246.022,
+      "end": 246.811,
+      "pause_end": 247.711
+    },
+    {
+      "id": "L07_A079",
+      "speaker": "instructor",
+      "text": "Remember: Three.",
+      "start": 247.711,
+      "end": 249.311,
+      "pause_end": 254.361
+    },
+    {
+      "id": "L07_A080",
+      "speaker": "arabic",
+      "text": "ثلاثة",
+      "start": 254.361,
+      "end": 255.197,
+      "pause_end": 256.147
+    },
+    {
+      "id": "L07_A081",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ten.",
+      "start": 256.147,
+      "end": 258.347,
+      "pause_end": 263.597
+    },
+    {
+      "id": "L07_A082",
+      "speaker": "arabic_female",
+      "text": "عشرة",
+      "start": 263.597,
+      "end": 264.341,
+      "pause_end": 265.291
+    },
+    {
+      "id": "L07_A083",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 265.291,
+      "end": 266.291,
+      "pause_end": 269.841
+    },
+    {
+      "id": "L07_A084",
+      "speaker": "arabic_female",
+      "text": "عشرة",
+      "start": 269.841,
+      "end": 270.584,
+      "pause_end": 271.484
+    },
+    {
+      "id": "L07_A085",
+      "speaker": "instructor",
+      "text": "Remember: Four.",
+      "start": 271.484,
+      "end": 273.124,
+      "pause_end": 278.174
+    },
+    {
+      "id": "L07_A086",
+      "speaker": "arabic_female",
+      "text": "أربعة",
+      "start": 278.174,
+      "end": 278.917,
+      "pause_end": 279.867
+    },
+    {
+      "id": "L07_A087",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man where he lives.",
+      "start": 279.867,
+      "end": 282.787,
+      "pause_end": 287.837
+    },
+    {
+      "id": "L07_A088",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 287.837,
+      "end": 288.905,
+      "pause_end": 289.855
+    },
+    {
+      "id": "L07_A089",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Twenty.",
+      "start": 289.855,
+      "end": 292.255,
+      "pause_end": 297.505
+    },
+    {
+      "id": "L07_A090",
+      "speaker": "arabic",
+      "text": "عشرين",
+      "start": 297.505,
+      "end": 298.387,
+      "pause_end": 299.337
+    },
+    {
+      "id": "L07_A091",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 299.337,
+      "end": 300.337,
+      "pause_end": 303.887
+    },
+    {
+      "id": "L07_A092",
+      "speaker": "arabic",
+      "text": "عشرين",
+      "start": 303.887,
+      "end": 304.77,
+      "pause_end": 305.67
+    },
+    {
+      "id": "L07_A093",
+      "speaker": "instructor",
+      "text": "Remember: Five.",
+      "start": 305.67,
+      "end": 307.31,
+      "pause_end": 312.36
+    },
+    {
+      "id": "L07_A094",
+      "speaker": "arabic",
+      "text": "خمسة",
+      "start": 312.36,
+      "end": 313.149,
+      "pause_end": 314.099
+    },
+    {
+      "id": "L07_A095",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Fifty.",
+      "start": 314.099,
+      "end": 316.419,
+      "pause_end": 321.669
+    },
+    {
+      "id": "L07_A096",
+      "speaker": "arabic_female",
+      "text": "خمسين",
+      "start": 321.669,
+      "end": 322.552,
+      "pause_end": 323.502
+    },
+    {
+      "id": "L07_A097",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 323.502,
+      "end": 324.502,
+      "pause_end": 328.052
+    },
+    {
+      "id": "L07_A098",
+      "speaker": "arabic_female",
+      "text": "خمسين",
+      "start": 328.052,
+      "end": 328.934,
+      "pause_end": 329.834
+    },
+    {
+      "id": "L07_A099",
+      "speaker": "instructor",
+      "text": "Remember: Ten.",
+      "start": 329.834,
+      "end": 331.194,
+      "pause_end": 336.244
+    },
+    {
+      "id": "L07_A100",
+      "speaker": "arabic_female",
+      "text": "عشرة",
+      "start": 336.244,
+      "end": 336.987,
+      "pause_end": 337.937
+    },
+    {
+      "id": "L07_A101",
+      "speaker": "instructor",
+      "text": "Say in Arabic: One hundred.",
+      "start": 337.937,
+      "end": 340.297,
+      "pause_end": 345.547
+    },
+    {
+      "id": "L07_A102",
+      "speaker": "arabic",
+      "text": "مية",
+      "start": 345.547,
+      "end": 346.197,
+      "pause_end": 347.147
+    },
+    {
+      "id": "L07_A103",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 347.147,
+      "end": 348.147,
+      "pause_end": 351.697
+    },
+    {
+      "id": "L07_A104",
+      "speaker": "arabic",
+      "text": "مية",
+      "start": 351.697,
+      "end": 352.348,
+      "pause_end": 353.248
+    },
+    {
+      "id": "L07_A105",
+      "speaker": "instructor",
+      "text": "Remember: Twenty.",
+      "start": 353.248,
+      "end": 354.808,
+      "pause_end": 359.858
+    },
+    {
+      "id": "L07_A106",
+      "speaker": "arabic",
+      "text": "عشرين",
+      "start": 359.858,
+      "end": 360.74,
+      "pause_end": 361.69
+    },
+    {
+      "id": "L07_A107",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Say pleased to meet you.",
+      "start": 361.69,
+      "end": 364.29,
+      "pause_end": 369.34
+    },
+    {
+      "id": "L07_A108",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 369.34,
+      "end": 370.269,
+      "pause_end": 371.219
+    },
+    {
+      "id": "L07_A109",
+      "speaker": "instructor",
+      "text": "Say in Arabic: How much is this?",
+      "start": 371.219,
+      "end": 373.539,
+      "pause_end": 378.789
+    },
+    {
+      "id": "L07_A110",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 378.789,
+      "end": 379.671,
+      "pause_end": 380.621
+    },
+    {
+      "id": "L07_A111",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 380.621,
+      "end": 381.621,
+      "pause_end": 385.171
+    },
+    {
+      "id": "L07_A112",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 385.171,
+      "end": 386.054,
+      "pause_end": 386.954
+    },
+    {
+      "id": "L07_A113",
+      "speaker": "instructor",
+      "text": "Remember: Fifty.",
+      "start": 386.954,
+      "end": 388.714,
+      "pause_end": 393.764
+    },
+    {
+      "id": "L07_A114",
+      "speaker": "arabic_female",
+      "text": "خمسين",
+      "start": 393.764,
+      "end": 394.646,
+      "pause_end": 395.596
+    },
+    {
+      "id": "L07_A115",
+      "speaker": "instructor",
+      "text": "Say in Arabic: For ten dirhams.",
+      "start": 395.596,
+      "end": 398.276,
+      "pause_end": 403.526
+    },
+    {
+      "id": "L07_A116",
+      "speaker": "arabic",
+      "text": "بعشرة دراهم",
+      "start": 403.526,
+      "end": 404.966,
+      "pause_end": 405.916
+    },
+    {
+      "id": "L07_A117",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 405.916,
+      "end": 406.916,
+      "pause_end": 410.466
+    },
+    {
+      "id": "L07_A118",
+      "speaker": "arabic",
+      "text": "بعشرة دراهم",
+      "start": 410.466,
+      "end": 411.905,
+      "pause_end": 412.805
+    },
+    {
+      "id": "L07_A119",
+      "speaker": "instructor",
+      "text": "Remember: One hundred.",
+      "start": 412.805,
+      "end": 414.485,
+      "pause_end": 419.535
+    },
+    {
+      "id": "L07_A120",
+      "speaker": "arabic",
+      "text": "مية",
+      "start": 419.535,
+      "end": 420.186,
+      "pause_end": 421.136
+    },
+    {
+      "id": "L07_A121",
+      "speaker": "instructor",
+      "text": "Say in Arabic: This is expensive.",
+      "start": 421.136,
+      "end": 423.976,
+      "pause_end": 429.226
+    },
+    {
+      "id": "L07_A122",
+      "speaker": "arabic_female",
+      "text": "هذا غالي",
+      "start": 429.226,
+      "end": 430.247,
+      "pause_end": 431.197
+    },
+    {
+      "id": "L07_A123",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 431.197,
+      "end": 432.197,
+      "pause_end": 435.747
+    },
+    {
+      "id": "L07_A124",
+      "speaker": "arabic_female",
+      "text": "هذا غالي",
+      "start": 435.747,
+      "end": 436.769,
+      "pause_end": 437.669
+    },
+    {
+      "id": "L07_A125",
+      "speaker": "instructor",
+      "text": "Remember: How much is this?",
+      "start": 437.669,
+      "end": 439.629,
+      "pause_end": 444.679
+    },
+    {
+      "id": "L07_A126",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 444.679,
+      "end": 445.561,
+      "pause_end": 446.511
+    },
+    {
+      "id": "L07_A127",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Ask a man his name.",
+      "start": 446.511,
+      "end": 449.151,
+      "pause_end": 454.201
+    },
+    {
+      "id": "L07_A128",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 454.201,
+      "end": 455.037,
+      "pause_end": 455.987
+    },
+    {
+      "id": "L07_A129",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Do you have something cheaper?",
+      "start": 455.987,
+      "end": 460.147,
+      "pause_end": 465.397
+    },
+    {
+      "id": "L07_A130",
+      "speaker": "arabic",
+      "text": "عندك أرخص؟",
+      "start": 465.397,
+      "end": 466.651,
+      "pause_end": 467.601
+    },
+    {
+      "id": "L07_A131",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 467.601,
+      "end": 468.601,
+      "pause_end": 472.151
+    },
+    {
+      "id": "L07_A132",
+      "speaker": "arabic",
+      "text": "عندك أرخص؟",
+      "start": 472.151,
+      "end": 473.405,
+      "pause_end": 474.305
+    },
+    {
+      "id": "L07_A133",
+      "speaker": "instructor",
+      "text": "Remember: For ten dirhams.",
+      "start": 474.305,
+      "end": 477.025,
+      "pause_end": 482.075
+    },
+    {
+      "id": "L07_A134",
+      "speaker": "arabic",
+      "text": "بعشرة دراهم",
+      "start": 482.075,
+      "end": 483.515,
+      "pause_end": 484.465
+    },
+    {
+      "id": "L07_A135",
+      "speaker": "instructor",
+      "text": "Say in Arabic: I want two.",
+      "start": 484.465,
+      "end": 486.945,
+      "pause_end": 492.195
+    },
+    {
+      "id": "L07_A136",
+      "speaker": "arabic_female",
+      "text": "أبغي اثنين",
+      "start": 492.195,
+      "end": 493.216,
+      "pause_end": 494.166
+    },
+    {
+      "id": "L07_A137",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 494.166,
+      "end": 495.166,
+      "pause_end": 498.716
+    },
+    {
+      "id": "L07_A138",
+      "speaker": "arabic_female",
+      "text": "أبغي اثنين",
+      "start": 498.716,
+      "end": 499.738,
+      "pause_end": 500.638
+    },
+    {
+      "id": "L07_A139",
+      "speaker": "instructor",
+      "text": "Remember: This is expensive.",
+      "start": 500.638,
+      "end": 502.958,
+      "pause_end": 508.008
+    },
+    {
+      "id": "L07_A140",
+      "speaker": "arabic_female",
+      "text": "هذا غالي",
+      "start": 508.008,
+      "end": 509.03,
+      "pause_end": 509.98
+    },
+    {
+      "id": "L07_A141",
+      "speaker": "instructor",
+      "text": "Say in Arabic: What is the total?",
+      "start": 509.98,
+      "end": 512.74,
+      "pause_end": 517.99
+    },
+    {
+      "id": "L07_A142",
+      "speaker": "arabic",
+      "text": "كم المجموع؟",
+      "start": 517.99,
+      "end": 519.105,
+      "pause_end": 520.055
+    },
+    {
+      "id": "L07_A143",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 520.055,
+      "end": 521.055,
+      "pause_end": 524.605
+    },
+    {
+      "id": "L07_A144",
+      "speaker": "arabic",
+      "text": "كم المجموع؟",
+      "start": 524.605,
+      "end": 525.719,
+      "pause_end": 526.619
+    },
+    {
+      "id": "L07_A145",
+      "speaker": "instructor",
+      "text": "Remember: Do you have something cheaper?",
+      "start": 526.619,
+      "end": 529.139,
+      "pause_end": 534.189
+    },
+    {
+      "id": "L07_A146",
+      "speaker": "arabic",
+      "text": "عندك أرخص؟",
+      "start": 534.189,
+      "end": 535.443,
+      "pause_end": 536.393
+    },
+    {
+      "id": "L07_A147",
+      "speaker": "instructor",
+      "text": "Earlier lesson. Say that you want water.",
+      "start": 536.393,
+      "end": 538.993,
+      "pause_end": 544.043
+    },
+    {
+      "id": "L07_A148",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 544.043,
+      "end": 545.018,
+      "pause_end": 545.968
+    },
+    {
+      "id": "L07_A149",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Twenty dirhams.",
+      "start": 545.968,
+      "end": 549.408,
+      "pause_end": 554.658
+    },
+    {
+      "id": "L07_A150",
+      "speaker": "arabic_female",
+      "text": "عشرين درهم",
+      "start": 554.658,
+      "end": 555.866,
+      "pause_end": 556.816
+    },
+    {
+      "id": "L07_A151",
+      "speaker": "instructor",
+      "text": "Say it again.",
+      "start": 556.816,
+      "end": 557.816,
+      "pause_end": 561.366
+    },
+    {
+      "id": "L07_A152",
+      "speaker": "arabic_female",
+      "text": "عشرين درهم",
+      "start": 561.366,
+      "end": 562.573,
+      "pause_end": 563.473
+    },
+    {
+      "id": "L07_A153",
+      "speaker": "instructor",
+      "text": "Remember: I want two.",
+      "start": 563.473,
+      "end": 565.513,
+      "pause_end": 570.563
+    },
+    {
+      "id": "L07_A154",
+      "speaker": "arabic_female",
+      "text": "أبغي اثنين",
+      "start": 570.563,
+      "end": 571.585,
+      "pause_end": 572.535
+    },
+    {
+      "id": "L07_A155",
+      "speaker": "instructor",
+      "text": "Now practice responding without a translation first.",
+      "start": 572.535,
+      "end": 576.095,
+      "pause_end": 576.945
+    },
+    {
+      "id": "L07_A156",
+      "speaker": "instructor",
+      "text": "Recall this phrase: One.",
+      "start": 576.945,
+      "end": 578.665,
+      "pause_end": 584.415
+    },
+    {
+      "id": "L07_A157",
+      "speaker": "arabic",
+      "text": "واحد",
+      "start": 584.415,
+      "end": 585.251,
+      "pause_end": 586.201
+    },
+    {
+      "id": "L07_A158",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Three.",
+      "start": 586.201,
+      "end": 588.161,
+      "pause_end": 593.911
+    },
+    {
+      "id": "L07_A159",
+      "speaker": "arabic",
+      "text": "ثلاثة",
+      "start": 593.911,
+      "end": 594.747,
+      "pause_end": 595.697
+    },
+    {
+      "id": "L07_A160",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Five.",
+      "start": 595.697,
+      "end": 598.017,
+      "pause_end": 603.767
+    },
+    {
+      "id": "L07_A161",
+      "speaker": "arabic",
+      "text": "خمسة",
+      "start": 603.767,
+      "end": 604.557,
+      "pause_end": 605.507
+    },
+    {
+      "id": "L07_A162",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Twenty.",
+      "start": 605.507,
+      "end": 607.667,
+      "pause_end": 613.417
+    },
+    {
+      "id": "L07_A163",
+      "speaker": "arabic",
+      "text": "عشرين",
+      "start": 613.417,
+      "end": 614.299,
+      "pause_end": 615.249
+    },
+    {
+      "id": "L07_A164",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man his name.",
+      "start": 615.249,
+      "end": 617.809,
+      "pause_end": 622.859
+    },
+    {
+      "id": "L07_A165",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 622.859,
+      "end": 623.695,
+      "pause_end": 624.645
+    },
+    {
+      "id": "L07_A166",
+      "speaker": "instructor",
+      "text": "Recall this phrase: One hundred.",
+      "start": 624.645,
+      "end": 627.285,
+      "pause_end": 633.035
+    },
+    {
+      "id": "L07_A167",
+      "speaker": "arabic",
+      "text": "مية",
+      "start": 633.035,
+      "end": 633.685,
+      "pause_end": 634.635
+    },
+    {
+      "id": "L07_A168",
+      "speaker": "instructor",
+      "text": "Recall this phrase: For ten dirhams.",
+      "start": 634.635,
+      "end": 638.075,
+      "pause_end": 643.825
+    },
+    {
+      "id": "L07_A169",
+      "speaker": "arabic",
+      "text": "بعشرة دراهم",
+      "start": 643.825,
+      "end": 645.265,
+      "pause_end": 646.215
+    },
+    {
+      "id": "L07_A170",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Do you have something cheaper?",
+      "start": 646.215,
+      "end": 649.215,
+      "pause_end": 654.965
+    },
+    {
+      "id": "L07_A171",
+      "speaker": "arabic",
+      "text": "عندك أرخص؟",
+      "start": 654.965,
+      "end": 656.219,
+      "pause_end": 657.169
+    },
+    {
+      "id": "L07_A172",
+      "speaker": "instructor",
+      "text": "Recall this phrase: What is the total?",
+      "start": 657.169,
+      "end": 660.089,
+      "pause_end": 665.839
+    },
+    {
+      "id": "L07_A173",
+      "speaker": "arabic",
+      "text": "كم المجموع؟",
+      "start": 665.839,
+      "end": 666.953,
+      "pause_end": 667.903
+    },
+    {
+      "id": "L07_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 667.903,
+      "end": 669.983,
+      "pause_end": 675.033
+    },
+    {
+      "id": "L07_A175",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 675.033,
+      "end": 676.194,
+      "pause_end": 677.144
+    },
+    {
+      "id": "L07_A176",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Two.",
+      "start": 677.144,
+      "end": 679.264,
+      "pause_end": 685.014
+    },
+    {
+      "id": "L07_A177",
+      "speaker": "arabic_female",
+      "text": "اثنين",
+      "start": 685.014,
+      "end": 685.897,
+      "pause_end": 686.847
+    },
+    {
+      "id": "L07_A178",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Four.",
+      "start": 686.847,
+      "end": 688.767,
+      "pause_end": 694.517
+    },
+    {
+      "id": "L07_A179",
+      "speaker": "arabic_female",
+      "text": "أربعة",
+      "start": 694.517,
+      "end": 695.26,
+      "pause_end": 696.21
+    },
+    {
+      "id": "L07_A180",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Ten.",
+      "start": 696.21,
+      "end": 698.33,
+      "pause_end": 704.08
+    },
+    {
+      "id": "L07_A181",
+      "speaker": "arabic_female",
+      "text": "عشرة",
+      "start": 704.08,
+      "end": 704.823,
+      "pause_end": 705.773
+    },
+    {
+      "id": "L07_A182",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Fifty.",
+      "start": 705.773,
+      "end": 708.213,
+      "pause_end": 713.963
+    },
+    {
+      "id": "L07_A183",
+      "speaker": "arabic_female",
+      "text": "خمسين",
+      "start": 713.963,
+      "end": 714.845,
+      "pause_end": 715.795
+    },
+    {
+      "id": "L07_A184",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man his name.",
+      "start": 715.795,
+      "end": 718.355,
+      "pause_end": 723.405
+    },
+    {
+      "id": "L07_A185",
+      "speaker": "arabic_female",
+      "text": "شو اسمك؟",
+      "start": 723.405,
+      "end": 724.241,
+      "pause_end": 725.191
+    },
+    {
+      "id": "L07_A186",
+      "speaker": "instructor",
+      "text": "Recall this phrase: How much is this?",
+      "start": 725.191,
+      "end": 727.871,
+      "pause_end": 733.621
+    },
+    {
+      "id": "L07_A187",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 733.621,
+      "end": 734.504,
+      "pause_end": 735.454
+    },
+    {
+      "id": "L07_A188",
+      "speaker": "instructor",
+      "text": "Recall this phrase: This is expensive.",
+      "start": 735.454,
+      "end": 738.214,
+      "pause_end": 743.964
+    },
+    {
+      "id": "L07_A189",
+      "speaker": "arabic_female",
+      "text": "هذا غالي",
+      "start": 743.964,
+      "end": 744.986,
+      "pause_end": 745.936
+    },
+    {
+      "id": "L07_A190",
+      "speaker": "instructor",
+      "text": "Recall this phrase: I want two.",
+      "start": 745.936,
+      "end": 748.896,
+      "pause_end": 754.646
+    },
+    {
+      "id": "L07_A191",
+      "speaker": "arabic_female",
+      "text": "أبغي اثنين",
+      "start": 754.646,
+      "end": 755.667,
+      "pause_end": 756.617
+    },
+    {
+      "id": "L07_A192",
+      "speaker": "instructor",
+      "text": "Recall this phrase: Twenty dirhams.",
+      "start": 756.617,
+      "end": 759.657,
+      "pause_end": 765.407
+    },
+    {
+      "id": "L07_A193",
+      "speaker": "arabic_female",
+      "text": "عشرين درهم",
+      "start": 765.407,
+      "end": 766.615,
+      "pause_end": 767.565
+    },
+    {
+      "id": "L07_A194",
+      "speaker": "instructor",
+      "text": "Quick review. Ask for the bill.",
+      "start": 767.565,
+      "end": 769.645,
+      "pause_end": 774.695
+    },
+    {
+      "id": "L07_A195",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 774.695,
+      "end": 775.856,
+      "pause_end": 776.806
+    },
+    {
+      "id": "L07_A196",
+      "speaker": "instructor",
+      "text": "How would you say: Twenty dirhams.",
+      "start": 776.806,
+      "end": 779.846,
+      "pause_end": 785.596
+    },
+    {
+      "id": "L07_A197",
+      "speaker": "arabic_female",
+      "text": "عشرين درهم",
+      "start": 785.596,
+      "end": 786.803,
+      "pause_end": 787.753
+    },
+    {
+      "id": "L07_A198",
+      "speaker": "instructor",
+      "text": "How would you say: What is the total?",
+      "start": 787.753,
+      "end": 791.433,
+      "pause_end": 797.183
+    },
+    {
+      "id": "L07_A199",
+      "speaker": "arabic",
+      "text": "كم المجموع؟",
+      "start": 797.183,
+      "end": 798.298,
+      "pause_end": 799.248
+    },
+    {
+      "id": "L07_A200",
+      "speaker": "instructor",
+      "text": "How would you say: I want two.",
+      "start": 799.248,
+      "end": 801.768,
+      "pause_end": 807.518
+    },
+    {
+      "id": "L07_A201",
+      "speaker": "arabic_female",
+      "text": "أبغي اثنين",
+      "start": 807.518,
+      "end": 808.54,
+      "pause_end": 809.49
+    },
+    {
+      "id": "L07_A202",
+      "speaker": "instructor",
+      "text": "How would you say: Do you have something cheaper?",
+      "start": 809.49,
+      "end": 812.49,
+      "pause_end": 818.24
+    },
+    {
+      "id": "L07_A203",
+      "speaker": "arabic",
+      "text": "عندك أرخص؟",
+      "start": 818.24,
+      "end": 819.494,
+      "pause_end": 820.444
+    },
+    {
+      "id": "L07_A204",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he is from.",
+      "start": 820.444,
+      "end": 823.324,
+      "pause_end": 828.374
+    },
+    {
+      "id": "L07_A205",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 828.374,
+      "end": 829.395,
+      "pause_end": 830.345
+    },
+    {
+      "id": "L07_A206",
+      "speaker": "instructor",
+      "text": "How would you say: This is expensive.",
+      "start": 830.345,
+      "end": 832.825,
+      "pause_end": 838.575
+    },
+    {
+      "id": "L07_A207",
+      "speaker": "arabic_female",
+      "text": "هذا غالي",
+      "start": 838.575,
+      "end": 839.597,
+      "pause_end": 840.547
+    },
+    {
+      "id": "L07_A208",
+      "speaker": "instructor",
+      "text": "How would you say: For ten dirhams.",
+      "start": 840.547,
+      "end": 844.067,
+      "pause_end": 849.817
+    },
+    {
+      "id": "L07_A209",
+      "speaker": "arabic",
+      "text": "بعشرة دراهم",
+      "start": 849.817,
+      "end": 851.257,
+      "pause_end": 852.207
+    },
+    {
+      "id": "L07_A210",
+      "speaker": "instructor",
+      "text": "How would you say: How much is this?",
+      "start": 852.207,
+      "end": 854.447,
+      "pause_end": 860.197
+    },
+    {
+      "id": "L07_A211",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 860.197,
+      "end": 861.079,
+      "pause_end": 862.029
+    },
+    {
+      "id": "L07_A212",
+      "speaker": "instructor",
+      "text": "How would you say: One hundred.",
+      "start": 862.029,
+      "end": 864.669,
+      "pause_end": 870.419
+    },
+    {
+      "id": "L07_A213",
+      "speaker": "arabic",
+      "text": "مية",
+      "start": 870.419,
+      "end": 871.069,
+      "pause_end": 872.019
+    },
+    {
+      "id": "L07_A214",
+      "speaker": "instructor",
+      "text": "Quick review. Say pleased to meet you.",
+      "start": 872.019,
+      "end": 874.899,
+      "pause_end": 879.949
+    },
+    {
+      "id": "L07_A215",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 879.949,
+      "end": 880.878,
+      "pause_end": 881.828
+    },
+    {
+      "id": "L07_A216",
+      "speaker": "instructor",
+      "text": "How would you say: Fifty.",
+      "start": 881.828,
+      "end": 883.508,
+      "pause_end": 889.258
+    },
+    {
+      "id": "L07_A217",
+      "speaker": "arabic_female",
+      "text": "خمسين",
+      "start": 889.258,
+      "end": 890.141,
+      "pause_end": 891.091
+    },
+    {
+      "id": "L07_A218",
+      "speaker": "instructor",
+      "text": "How would you say: Twenty.",
+      "start": 891.091,
+      "end": 892.491,
+      "pause_end": 898.241
+    },
+    {
+      "id": "L07_A219",
+      "speaker": "arabic",
+      "text": "عشرين",
+      "start": 898.241,
+      "end": 899.123,
+      "pause_end": 900.073
+    },
+    {
+      "id": "L07_A220",
+      "speaker": "instructor",
+      "text": "How would you say: Ten.",
+      "start": 900.073,
+      "end": 902.033,
+      "pause_end": 907.783
+    },
+    {
+      "id": "L07_A221",
+      "speaker": "arabic_female",
+      "text": "عشرة",
+      "start": 907.783,
+      "end": 908.526,
+      "pause_end": 909.476
+    },
+    {
+      "id": "L07_A222",
+      "speaker": "instructor",
+      "text": "How would you say: Five.",
+      "start": 909.476,
+      "end": 911.316,
+      "pause_end": 917.066
+    },
+    {
+      "id": "L07_A223",
+      "speaker": "arabic",
+      "text": "خمسة",
+      "start": 917.066,
+      "end": 917.856,
+      "pause_end": 918.806
+    },
+    {
+      "id": "L07_A224",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he is from.",
+      "start": 918.806,
+      "end": 921.686,
+      "pause_end": 926.736
+    },
+    {
+      "id": "L07_A225",
+      "speaker": "arabic_female",
+      "text": "من وين إنت؟",
+      "start": 926.736,
+      "end": 927.757,
+      "pause_end": 928.707
+    },
+    {
+      "id": "L07_A226",
+      "speaker": "instructor",
+      "text": "How would you say: Four.",
+      "start": 928.707,
+      "end": 930.627,
+      "pause_end": 936.377
+    },
+    {
+      "id": "L07_A227",
+      "speaker": "arabic_female",
+      "text": "أربعة",
+      "start": 936.377,
+      "end": 937.12,
+      "pause_end": 938.07
+    },
+    {
+      "id": "L07_A228",
+      "speaker": "instructor",
+      "text": "How would you say: Three.",
+      "start": 938.07,
+      "end": 940.15,
+      "pause_end": 945.9
+    },
+    {
+      "id": "L07_A229",
+      "speaker": "arabic",
+      "text": "ثلاثة",
+      "start": 945.9,
+      "end": 946.736,
+      "pause_end": 947.686
+    },
+    {
+      "id": "L07_A230",
+      "speaker": "instructor",
+      "text": "How would you say: Two.",
+      "start": 947.686,
+      "end": 949.206,
+      "pause_end": 954.956
+    },
+    {
+      "id": "L07_A231",
+      "speaker": "arabic_female",
+      "text": "اثنين",
+      "start": 954.956,
+      "end": 955.839,
+      "pause_end": 956.789
+    },
+    {
+      "id": "L07_A232",
+      "speaker": "instructor",
+      "text": "How would you say: One.",
+      "start": 956.789,
+      "end": 958.749,
+      "pause_end": 964.499
+    },
+    {
+      "id": "L07_A233",
+      "speaker": "arabic",
+      "text": "واحد",
+      "start": 964.499,
+      "end": 965.335,
+      "pause_end": 966.285
+    },
+    {
+      "id": "L07_A234",
+      "speaker": "instructor",
+      "text": "Quick review. Say pleased to meet you.",
+      "start": 966.285,
+      "end": 969.165,
+      "pause_end": 974.215
+    },
+    {
+      "id": "L07_A235",
+      "speaker": "arabic_female",
+      "text": "تشرفنا",
+      "start": 974.215,
+      "end": 975.144,
+      "pause_end": 976.094
+    },
+    {
+      "id": "L07_A236",
+      "speaker": "instructor",
+      "text": "Final practice. Respond naturally.",
+      "start": 976.094,
+      "end": 979.614,
+      "pause_end": 980.464
+    },
+    {
+      "id": "L07_A237",
+      "speaker": "instructor",
+      "text": "One.",
+      "start": 980.464,
+      "end": 981.064,
+      "pause_end": 987.014
+    },
+    {
+      "id": "L07_A238",
+      "speaker": "arabic",
+      "text": "واحد",
+      "start": 987.014,
+      "end": 987.85,
+      "pause_end": 988.8
+    },
+    {
+      "id": "L07_A239",
+      "speaker": "instructor",
+      "text": "Fifty.",
+      "start": 988.8,
+      "end": 989.6,
+      "pause_end": 995.55
+    },
+    {
+      "id": "L07_A240",
+      "speaker": "arabic_female",
+      "text": "خمسين",
+      "start": 995.55,
+      "end": 996.432,
+      "pause_end": 997.382
+    },
+    {
+      "id": "L07_A241",
+      "speaker": "instructor",
+      "text": "What is the total?",
+      "start": 997.382,
+      "end": 998.462,
+      "pause_end": 1004.412
+    },
+    {
+      "id": "L07_A242",
+      "speaker": "arabic",
+      "text": "كم المجموع؟",
+      "start": 1004.412,
+      "end": 1005.527,
+      "pause_end": 1006.477
+    },
+    {
+      "id": "L07_A243",
+      "speaker": "instructor",
+      "text": "Ten.",
+      "start": 1006.477,
+      "end": 1007.037,
+      "pause_end": 1012.987
+    },
+    {
+      "id": "L07_A244",
+      "speaker": "arabic_female",
+      "text": "عشرة",
+      "start": 1012.987,
+      "end": 1013.73,
+      "pause_end": 1014.68
+    },
+    {
+      "id": "L07_A245",
+      "speaker": "instructor",
+      "text": "Do you have something cheaper?",
+      "start": 1014.68,
+      "end": 1016.36,
+      "pause_end": 1022.31
+    },
+    {
+      "id": "L07_A246",
+      "speaker": "arabic",
+      "text": "عندك أرخص؟",
+      "start": 1022.31,
+      "end": 1023.564,
+      "pause_end": 1024.514
+    },
+    {
+      "id": "L07_A247",
+      "speaker": "instructor",
+      "text": "Four.",
+      "start": 1024.514,
+      "end": 1025.114,
+      "pause_end": 1031.064
+    },
+    {
+      "id": "L07_A248",
+      "speaker": "arabic_female",
+      "text": "أربعة",
+      "start": 1031.064,
+      "end": 1031.807,
+      "pause_end": 1032.757
+    },
+    {
+      "id": "L07_A249",
+      "speaker": "instructor",
+      "text": "For ten dirhams.",
+      "start": 1032.757,
+      "end": 1034.717,
+      "pause_end": 1040.667
+    },
+    {
+      "id": "L07_A250",
+      "speaker": "arabic",
+      "text": "بعشرة دراهم",
+      "start": 1040.667,
+      "end": 1042.106,
+      "pause_end": 1043.056
+    },
+    {
+      "id": "L07_A251",
+      "speaker": "instructor",
+      "text": "Two.",
+      "start": 1043.056,
+      "end": 1043.536,
+      "pause_end": 1049.486
+    },
+    {
+      "id": "L07_A252",
+      "speaker": "arabic_female",
+      "text": "اثنين",
+      "start": 1049.486,
+      "end": 1050.369,
+      "pause_end": 1051.319
+    },
+    {
+      "id": "L07_A253",
+      "speaker": "instructor",
+      "text": "One hundred.",
+      "start": 1051.319,
+      "end": 1052.439,
+      "pause_end": 1058.389
+    },
+    {
+      "id": "L07_A254",
+      "speaker": "arabic",
+      "text": "مية",
+      "start": 1058.389,
+      "end": 1059.039,
+      "pause_end": 1059.989
+    },
+    {
+      "id": "L07_A255",
+      "speaker": "instructor",
+      "text": "Twenty dirhams.",
+      "start": 1059.989,
+      "end": 1061.749,
+      "pause_end": 1067.699
+    },
+    {
+      "id": "L07_A256",
+      "speaker": "arabic_female",
+      "text": "عشرين درهم",
+      "start": 1067.699,
+      "end": 1068.907,
+      "pause_end": 1069.857
+    },
+    {
+      "id": "L07_A257",
+      "speaker": "instructor",
+      "text": "Twenty.",
+      "start": 1069.857,
+      "end": 1070.657,
+      "pause_end": 1076.607
+    },
+    {
+      "id": "L07_A258",
+      "speaker": "arabic",
+      "text": "عشرين",
+      "start": 1076.607,
+      "end": 1077.489,
+      "pause_end": 1078.439
+    },
+    {
+      "id": "L07_A259",
+      "speaker": "instructor",
+      "text": "I want two.",
+      "start": 1078.439,
+      "end": 1080.119,
+      "pause_end": 1086.069
+    },
+    {
+      "id": "L07_A260",
+      "speaker": "arabic_female",
+      "text": "أبغي اثنين",
+      "start": 1086.069,
+      "end": 1087.091,
+      "pause_end": 1088.041
+    },
+    {
+      "id": "L07_A261",
+      "speaker": "instructor",
+      "text": "Five.",
+      "start": 1088.041,
+      "end": 1088.681,
+      "pause_end": 1094.631
+    },
+    {
+      "id": "L07_A262",
+      "speaker": "arabic",
+      "text": "خمسة",
+      "start": 1094.631,
+      "end": 1095.42,
+      "pause_end": 1096.37
+    },
+    {
+      "id": "L07_A263",
+      "speaker": "instructor",
+      "text": "This is expensive.",
+      "start": 1096.37,
+      "end": 1097.69,
+      "pause_end": 1103.64
+    },
+    {
+      "id": "L07_A264",
+      "speaker": "arabic_female",
+      "text": "هذا غالي",
+      "start": 1103.64,
+      "end": 1104.662,
+      "pause_end": 1105.612
+    },
+    {
+      "id": "L07_A265",
+      "speaker": "instructor",
+      "text": "Three.",
+      "start": 1105.612,
+      "end": 1106.212,
+      "pause_end": 1112.162
+    },
+    {
+      "id": "L07_A266",
+      "speaker": "arabic",
+      "text": "ثلاثة",
+      "start": 1112.162,
+      "end": 1112.998,
+      "pause_end": 1113.948
+    },
+    {
+      "id": "L07_A267",
+      "speaker": "instructor",
+      "text": "How much is this?",
+      "start": 1113.948,
+      "end": 1114.948,
+      "pause_end": 1120.898
+    },
+    {
+      "id": "L07_A268",
+      "speaker": "arabic_female",
+      "text": "بكم هذا؟",
+      "start": 1120.898,
+      "end": 1121.78,
+      "pause_end": 1122.73
+    },
+    {
+      "id": "L07_A269",
+      "speaker": "instructor",
+      "text": "End of lesson. Practice again before moving on.",
+      "start": 1122.73,
+      "end": 1125.93,
+      "pause_end": 1126.88
+    }
+  ]
+}

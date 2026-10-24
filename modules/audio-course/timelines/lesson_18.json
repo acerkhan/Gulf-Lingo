@@ -1,0 +1,1868 @@
+{
+  "events": [
+    {
+      "id": "L18_A001",
+      "speaker": "instructor",
+      "text": "Lesson 18. Phone Calls and Messages. Listen, then speak when prompted.",
+      "start": 0.0,
+      "end": 6.52,
+      "pause_end": 7.47
+    },
+    {
+      "id": "L18_A002",
+      "speaker": "instructor",
+      "text": "First, recall some expressions you already know.",
+      "start": 7.47,
+      "end": 10.83,
+      "pause_end": 11.68
+    },
+    {
+      "id": "L18_A003",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Greet someone.",
+      "start": 11.68,
+      "end": 14.2,
+      "pause_end": 18.65
+    },
+    {
+      "id": "L18_A004",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 18.65,
+      "end": 19.811,
+      "pause_end": 20.911
+    },
+    {
+      "id": "L18_A005",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man how he is.",
+      "start": 20.911,
+      "end": 24.071,
+      "pause_end": 28.521
+    },
+    {
+      "id": "L18_A006",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 28.521,
+      "end": 29.496,
+      "pause_end": 30.596
+    },
+    {
+      "id": "L18_A007",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man where he lives.",
+      "start": 30.596,
+      "end": 33.996,
+      "pause_end": 38.446
+    },
+    {
+      "id": "L18_A008",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 38.446,
+      "end": 39.514,
+      "pause_end": 40.614
+    },
+    {
+      "id": "L18_A009",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Say you want water.",
+      "start": 40.614,
+      "end": 44.254,
+      "pause_end": 48.704
+    },
+    {
+      "id": "L18_A010",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 48.704,
+      "end": 49.68,
+      "pause_end": 50.78
+    },
+    {
+      "id": "L18_A011",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask how much the bill is.",
+      "start": 50.78,
+      "end": 54.14,
+      "pause_end": 58.59
+    },
+    {
+      "id": "L18_A012",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 58.59,
+      "end": 59.751,
+      "pause_end": 60.851
+    },
+    {
+      "id": "L18_A013",
+      "speaker": "instructor",
+      "text": "Say in Arabic: Ask a man when he starts work.",
+      "start": 60.851,
+      "end": 64.251,
+      "pause_end": 68.701
+    },
+    {
+      "id": "L18_A014",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 68.701,
+      "end": 69.815,
+      "pause_end": 70.915
+    },
+    {
+      "id": "L18_A015",
+      "speaker": "instructor",
+      "text": "Listen to a few new expressions.",
+      "start": 70.915,
+      "end": 72.875,
+      "pause_end": 73.625
+    },
+    {
+      "id": "L18_A016",
+      "speaker": "instructor",
+      "text": "Listen. Hello, peace be upon you.",
+      "start": 73.625,
+      "end": 77.345,
+      "pause_end": 77.995
+    },
+    {
+      "id": "L18_A017",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 77.995,
+      "end": 79.899,
+      "pause_end": 81.149
+    },
+    {
+      "id": "L18_A018",
+      "speaker": "instructor",
+      "text": "Listen. And peace be upon you.",
+      "start": 81.149,
+      "end": 84.189,
+      "pause_end": 84.839
+    },
+    {
+      "id": "L18_A019",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 84.839,
+      "end": 86.14,
+      "pause_end": 87.39
+    },
+    {
+      "id": "L18_A020",
+      "speaker": "instructor",
+      "text": "Listen. Who is speaking?",
+      "start": 87.39,
+      "end": 89.43,
+      "pause_end": 90.08
+    },
+    {
+      "id": "L18_A021",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 90.08,
+      "end": 91.009,
+      "pause_end": 92.259
+    },
+    {
+      "id": "L18_A022",
+      "speaker": "instructor",
+      "text": "Listen. This is Khalid.",
+      "start": 92.259,
+      "end": 94.179,
+      "pause_end": 94.829
+    },
+    {
+      "id": "L18_A023",
+      "speaker": "arabic",
+      "text": "أنا خالد",
+      "start": 94.829,
+      "end": 95.804,
+      "pause_end": 97.054
+    },
+    {
+      "id": "L18_A024",
+      "speaker": "instructor",
+      "text": "Listen. Can you hear me clearly?",
+      "start": 97.054,
+      "end": 99.054,
+      "pause_end": 99.704
+    },
+    {
+      "id": "L18_A025",
+      "speaker": "arabic",
+      "text": "تسمعني زين؟",
+      "start": 99.704,
+      "end": 100.818,
+      "pause_end": 102.068
+    },
+    {
+      "id": "L18_A026",
+      "speaker": "instructor",
+      "text": "Now speak before you hear the answer.",
+      "start": 102.068,
+      "end": 105.308,
+      "pause_end": 106.058
+    },
+    {
+      "id": "L18_A027",
+      "speaker": "instructor",
+      "text": "Listen. Hello, peace be upon you.",
+      "start": 106.058,
+      "end": 109.778,
+      "pause_end": 110.378
+    },
+    {
+      "id": "L18_A028",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 110.378,
+      "end": 112.283,
+      "pause_end": 113.533
+    },
+    {
+      "id": "L18_A029",
+      "speaker": "instructor",
+      "text": "Your turn. Hello, peace be upon you.",
+      "start": 113.533,
+      "end": 117.253,
+      "pause_end": 122.003
+    },
+    {
+      "id": "L18_A030",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 122.003,
+      "end": 123.907,
+      "pause_end": 125.007
+    },
+    {
+      "id": "L18_A031",
+      "speaker": "instructor",
+      "text": "Listen. And peace be upon you.",
+      "start": 125.007,
+      "end": 128.047,
+      "pause_end": 128.647
+    },
+    {
+      "id": "L18_A032",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 128.647,
+      "end": 129.947,
+      "pause_end": 131.197
+    },
+    {
+      "id": "L18_A033",
+      "speaker": "instructor",
+      "text": "Your turn. And peace be upon you.",
+      "start": 131.197,
+      "end": 134.397,
+      "pause_end": 139.147
+    },
+    {
+      "id": "L18_A034",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 139.147,
+      "end": 140.447,
+      "pause_end": 141.547
+    },
+    {
+      "id": "L18_A035",
+      "speaker": "instructor",
+      "text": "Listen. Who is speaking?",
+      "start": 141.547,
+      "end": 143.587,
+      "pause_end": 144.187
+    },
+    {
+      "id": "L18_A036",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 144.187,
+      "end": 145.116,
+      "pause_end": 146.366
+    },
+    {
+      "id": "L18_A037",
+      "speaker": "instructor",
+      "text": "Your turn. Who is speaking?",
+      "start": 146.366,
+      "end": 149.126,
+      "pause_end": 153.876
+    },
+    {
+      "id": "L18_A038",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 153.876,
+      "end": 154.805,
+      "pause_end": 155.905
+    },
+    {
+      "id": "L18_A039",
+      "speaker": "instructor",
+      "text": "From a moment ago: Hello, peace be upon you.",
+      "start": 155.905,
+      "end": 159.945,
+      "pause_end": 165.395
+    },
+    {
+      "id": "L18_A040",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 165.395,
+      "end": 167.299,
+      "pause_end": 168.399
+    },
+    {
+      "id": "L18_A041",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man where he lives.",
+      "start": 168.399,
+      "end": 171.279,
+      "pause_end": 176.029
+    },
+    {
+      "id": "L18_A042",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 176.029,
+      "end": 177.097,
+      "pause_end": 178.197
+    },
+    {
+      "id": "L18_A043",
+      "speaker": "instructor",
+      "text": "Listen. This is Khalid.",
+      "start": 178.197,
+      "end": 180.117,
+      "pause_end": 180.717
+    },
+    {
+      "id": "L18_A044",
+      "speaker": "arabic",
+      "text": "أنا خالد",
+      "start": 180.717,
+      "end": 181.692,
+      "pause_end": 182.942
+    },
+    {
+      "id": "L18_A045",
+      "speaker": "instructor",
+      "text": "Your turn. This is Khalid.",
+      "start": 182.942,
+      "end": 185.222,
+      "pause_end": 189.972
+    },
+    {
+      "id": "L18_A046",
+      "speaker": "arabic",
+      "text": "أنا خالد",
+      "start": 189.972,
+      "end": 190.948,
+      "pause_end": 192.048
+    },
+    {
+      "id": "L18_A047",
+      "speaker": "instructor",
+      "text": "From a moment ago: And peace be upon you.",
+      "start": 192.048,
+      "end": 194.488,
+      "pause_end": 199.938
+    },
+    {
+      "id": "L18_A048",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 199.938,
+      "end": 201.238,
+      "pause_end": 202.338
+    },
+    {
+      "id": "L18_A049",
+      "speaker": "instructor",
+      "text": "Listen. Can you hear me clearly?",
+      "start": 202.338,
+      "end": 204.338,
+      "pause_end": 204.938
+    },
+    {
+      "id": "L18_A050",
+      "speaker": "arabic",
+      "text": "تسمعني زين؟",
+      "start": 204.938,
+      "end": 206.052,
+      "pause_end": 207.302
+    },
+    {
+      "id": "L18_A051",
+      "speaker": "instructor",
+      "text": "Your turn. Can you hear me clearly?",
+      "start": 207.302,
+      "end": 209.862,
+      "pause_end": 214.612
+    },
+    {
+      "id": "L18_A052",
+      "speaker": "arabic",
+      "text": "تسمعني زين؟",
+      "start": 214.612,
+      "end": 215.727,
+      "pause_end": 216.827
+    },
+    {
+      "id": "L18_A053",
+      "speaker": "instructor",
+      "text": "From a moment ago: Who is speaking?",
+      "start": 216.827,
+      "end": 219.467,
+      "pause_end": 224.917
+    },
+    {
+      "id": "L18_A054",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 224.917,
+      "end": 225.846,
+      "pause_end": 226.946
+    },
+    {
+      "id": "L18_A055",
+      "speaker": "instructor",
+      "text": "Listen. Yes, I can hear you.",
+      "start": 226.946,
+      "end": 229.306,
+      "pause_end": 229.906
+    },
+    {
+      "id": "L18_A056",
+      "speaker": "arabic_female",
+      "text": "هيه، أسمعك",
+      "start": 229.906,
+      "end": 231.113,
+      "pause_end": 232.363
+    },
+    {
+      "id": "L18_A057",
+      "speaker": "instructor",
+      "text": "Your turn. Yes, I can hear you.",
+      "start": 232.363,
+      "end": 235.563,
+      "pause_end": 240.313
+    },
+    {
+      "id": "L18_A058",
+      "speaker": "arabic_female",
+      "text": "هيه، أسمعك",
+      "start": 240.313,
+      "end": 241.521,
+      "pause_end": 242.621
+    },
+    {
+      "id": "L18_A059",
+      "speaker": "instructor",
+      "text": "From a moment ago: This is Khalid.",
+      "start": 242.621,
+      "end": 244.941,
+      "pause_end": 250.391
+    },
+    {
+      "id": "L18_A060",
+      "speaker": "arabic",
+      "text": "أنا خالد",
+      "start": 250.391,
+      "end": 251.366,
+      "pause_end": 252.466
+    },
+    {
+      "id": "L18_A061",
+      "speaker": "instructor",
+      "text": "Remember this: Say you want water.",
+      "start": 252.466,
+      "end": 255.186,
+      "pause_end": 259.936
+    },
+    {
+      "id": "L18_A062",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 259.936,
+      "end": 260.911,
+      "pause_end": 262.011
+    },
+    {
+      "id": "L18_A063",
+      "speaker": "instructor",
+      "text": "Listen. The sound is not clear.",
+      "start": 262.011,
+      "end": 264.451,
+      "pause_end": 265.051
+    },
+    {
+      "id": "L18_A064",
+      "speaker": "arabic",
+      "text": "الصوت مب واضح",
+      "start": 265.051,
+      "end": 266.352,
+      "pause_end": 267.602
+    },
+    {
+      "id": "L18_A065",
+      "speaker": "instructor",
+      "text": "Your turn. The sound is not clear.",
+      "start": 267.602,
+      "end": 270.402,
+      "pause_end": 275.152
+    },
+    {
+      "id": "L18_A066",
+      "speaker": "arabic",
+      "text": "الصوت مب واضح",
+      "start": 275.152,
+      "end": 276.452,
+      "pause_end": 277.552
+    },
+    {
+      "id": "L18_A067",
+      "speaker": "instructor",
+      "text": "From a moment ago: Can you hear me clearly?",
+      "start": 277.552,
+      "end": 280.672,
+      "pause_end": 286.122
+    },
+    {
+      "id": "L18_A068",
+      "speaker": "arabic",
+      "text": "تسمعني زين؟",
+      "start": 286.122,
+      "end": 287.237,
+      "pause_end": 288.337
+    },
+    {
+      "id": "L18_A069",
+      "speaker": "instructor",
+      "text": "Listen. Call me a little later. Said to a man.",
+      "start": 288.337,
+      "end": 291.537,
+      "pause_end": 292.137
+    },
+    {
+      "id": "L18_A070",
+      "speaker": "arabic_female",
+      "text": "دق علي عقب شوي",
+      "start": 292.137,
+      "end": 293.437,
+      "pause_end": 294.687
+    },
+    {
+      "id": "L18_A071",
+      "speaker": "instructor",
+      "text": "Your turn. Call me a little later. Said to a man.",
+      "start": 294.687,
+      "end": 298.127,
+      "pause_end": 302.877
+    },
+    {
+      "id": "L18_A072",
+      "speaker": "arabic_female",
+      "text": "دق علي عقب شوي",
+      "start": 302.877,
+      "end": 304.177,
+      "pause_end": 305.277
+    },
+    {
+      "id": "L18_A073",
+      "speaker": "instructor",
+      "text": "From a moment ago: Yes, I can hear you.",
+      "start": 305.277,
+      "end": 308.237,
+      "pause_end": 313.687
+    },
+    {
+      "id": "L18_A074",
+      "speaker": "arabic_female",
+      "text": "هيه، أسمعك",
+      "start": 313.687,
+      "end": 314.895,
+      "pause_end": 315.995
+    },
+    {
+      "id": "L18_A075",
+      "speaker": "instructor",
+      "text": "Listen. I will send you a message.",
+      "start": 315.995,
+      "end": 318.235,
+      "pause_end": 318.835
+    },
+    {
+      "id": "L18_A076",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 318.835,
+      "end": 320.181,
+      "pause_end": 321.431
+    },
+    {
+      "id": "L18_A077",
+      "speaker": "instructor",
+      "text": "Your turn. I will send you a message.",
+      "start": 321.431,
+      "end": 324.271,
+      "pause_end": 329.021
+    },
+    {
+      "id": "L18_A078",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 329.021,
+      "end": 330.368,
+      "pause_end": 331.468
+    },
+    {
+      "id": "L18_A079",
+      "speaker": "instructor",
+      "text": "From a moment ago: The sound is not clear.",
+      "start": 331.468,
+      "end": 334.468,
+      "pause_end": 339.918
+    },
+    {
+      "id": "L18_A080",
+      "speaker": "arabic",
+      "text": "الصوت مب واضح",
+      "start": 339.918,
+      "end": 341.218,
+      "pause_end": 342.318
+    },
+    {
+      "id": "L18_A081",
+      "speaker": "instructor",
+      "text": "Remember this: Ask how much the bill is.",
+      "start": 342.318,
+      "end": 345.318,
+      "pause_end": 350.068
+    },
+    {
+      "id": "L18_A082",
+      "speaker": "arabic",
+      "text": "كم الحساب؟",
+      "start": 350.068,
+      "end": 351.229,
+      "pause_end": 352.329
+    },
+    {
+      "id": "L18_A083",
+      "speaker": "instructor",
+      "text": "Listen. Did you get the message?",
+      "start": 352.329,
+      "end": 354.329,
+      "pause_end": 354.929
+    },
+    {
+      "id": "L18_A084",
+      "speaker": "arabic_female",
+      "text": "وصلتك الرسالة؟",
+      "start": 354.929,
+      "end": 356.276,
+      "pause_end": 357.526
+    },
+    {
+      "id": "L18_A085",
+      "speaker": "instructor",
+      "text": "Your turn. Did you get the message?",
+      "start": 357.526,
+      "end": 360.006,
+      "pause_end": 364.756
+    },
+    {
+      "id": "L18_A086",
+      "speaker": "arabic_female",
+      "text": "وصلتك الرسالة؟",
+      "start": 364.756,
+      "end": 366.103,
+      "pause_end": 367.203
+    },
+    {
+      "id": "L18_A087",
+      "speaker": "instructor",
+      "text": "From a moment ago: Call me a little later. Said to a man.",
+      "start": 367.203,
+      "end": 371.163,
+      "pause_end": 376.613
+    },
+    {
+      "id": "L18_A088",
+      "speaker": "arabic_female",
+      "text": "دق علي عقب شوي",
+      "start": 376.613,
+      "end": 377.913,
+      "pause_end": 379.013
+    },
+    {
+      "id": "L18_A089",
+      "speaker": "instructor",
+      "text": "Listen. Yes, I received it.",
+      "start": 379.013,
+      "end": 381.133,
+      "pause_end": 381.733
+    },
+    {
+      "id": "L18_A090",
+      "speaker": "arabic",
+      "text": "هيه، وصلتني",
+      "start": 381.733,
+      "end": 382.987,
+      "pause_end": 384.237
+    },
+    {
+      "id": "L18_A091",
+      "speaker": "instructor",
+      "text": "Your turn. Yes, I received it.",
+      "start": 384.237,
+      "end": 387.357,
+      "pause_end": 392.107
+    },
+    {
+      "id": "L18_A092",
+      "speaker": "arabic",
+      "text": "هيه، وصلتني",
+      "start": 392.107,
+      "end": 393.361,
+      "pause_end": 394.461
+    },
+    {
+      "id": "L18_A093",
+      "speaker": "instructor",
+      "text": "From a moment ago: I will send you a message.",
+      "start": 394.461,
+      "end": 397.261,
+      "pause_end": 402.711
+    },
+    {
+      "id": "L18_A094",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 402.711,
+      "end": 404.058,
+      "pause_end": 405.158
+    },
+    {
+      "id": "L18_A095",
+      "speaker": "instructor",
+      "text": "Listen. Where are you now?",
+      "start": 405.158,
+      "end": 407.398,
+      "pause_end": 407.998
+    },
+    {
+      "id": "L18_A096",
+      "speaker": "arabic_female",
+      "text": "وينك الحين؟",
+      "start": 407.998,
+      "end": 409.159,
+      "pause_end": 410.409
+    },
+    {
+      "id": "L18_A097",
+      "speaker": "instructor",
+      "text": "Your turn. Where are you now?",
+      "start": 410.409,
+      "end": 412.409,
+      "pause_end": 417.159
+    },
+    {
+      "id": "L18_A098",
+      "speaker": "arabic_female",
+      "text": "وينك الحين؟",
+      "start": 417.159,
+      "end": 418.32,
+      "pause_end": 419.42
+    },
+    {
+      "id": "L18_A099",
+      "speaker": "instructor",
+      "text": "From a moment ago: Did you get the message?",
+      "start": 419.42,
+      "end": 422.38,
+      "pause_end": 427.83
+    },
+    {
+      "id": "L18_A100",
+      "speaker": "arabic_female",
+      "text": "وصلتك الرسالة؟",
+      "start": 427.83,
+      "end": 429.176,
+      "pause_end": 430.276
+    },
+    {
+      "id": "L18_A101",
+      "speaker": "instructor",
+      "text": "Remember this: Ask a man when he starts work.",
+      "start": 430.276,
+      "end": 433.276,
+      "pause_end": 438.026
+    },
+    {
+      "id": "L18_A102",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 438.026,
+      "end": 439.141,
+      "pause_end": 440.241
+    },
+    {
+      "id": "L18_A103",
+      "speaker": "instructor",
+      "text": "Listen. I am at work.",
+      "start": 440.241,
+      "end": 442.121,
+      "pause_end": 442.721
+    },
+    {
+      "id": "L18_A104",
+      "speaker": "arabic",
+      "text": "أنا في الدوام",
+      "start": 442.721,
+      "end": 443.836,
+      "pause_end": 445.086
+    },
+    {
+      "id": "L18_A105",
+      "speaker": "instructor",
+      "text": "Your turn. I am at work.",
+      "start": 445.086,
+      "end": 447.206,
+      "pause_end": 451.956
+    },
+    {
+      "id": "L18_A106",
+      "speaker": "arabic",
+      "text": "أنا في الدوام",
+      "start": 451.956,
+      "end": 453.07,
+      "pause_end": 454.17
+    },
+    {
+      "id": "L18_A107",
+      "speaker": "instructor",
+      "text": "From a moment ago: Yes, I received it.",
+      "start": 454.17,
+      "end": 456.69,
+      "pause_end": 462.14
+    },
+    {
+      "id": "L18_A108",
+      "speaker": "arabic",
+      "text": "هيه، وصلتني",
+      "start": 462.14,
+      "end": 463.394,
+      "pause_end": 464.494
+    },
+    {
+      "id": "L18_A109",
+      "speaker": "instructor",
+      "text": "Listen. I will call you after work.",
+      "start": 464.494,
+      "end": 466.734,
+      "pause_end": 467.334
+    },
+    {
+      "id": "L18_A110",
+      "speaker": "arabic_female",
+      "text": "بكلمك عقب الدوام",
+      "start": 467.334,
+      "end": 468.867,
+      "pause_end": 470.117
+    },
+    {
+      "id": "L18_A111",
+      "speaker": "instructor",
+      "text": "Your turn. I will call you after work.",
+      "start": 470.117,
+      "end": 472.677,
+      "pause_end": 477.427
+    },
+    {
+      "id": "L18_A112",
+      "speaker": "arabic_female",
+      "text": "بكلمك عقب الدوام",
+      "start": 477.427,
+      "end": 478.959,
+      "pause_end": 480.059
+    },
+    {
+      "id": "L18_A113",
+      "speaker": "instructor",
+      "text": "From a moment ago: Where are you now?",
+      "start": 480.059,
+      "end": 482.659,
+      "pause_end": 488.109
+    },
+    {
+      "id": "L18_A114",
+      "speaker": "arabic_female",
+      "text": "وينك الحين؟",
+      "start": 488.109,
+      "end": 489.27,
+      "pause_end": 490.37
+    },
+    {
+      "id": "L18_A115",
+      "speaker": "instructor",
+      "text": "Practice the conversation. Speak before the recording.",
+      "start": 490.37,
+      "end": 493.45,
+      "pause_end": 494.4
+    },
+    {
+      "id": "L18_A116",
+      "speaker": "instructor",
+      "text": "Say: Hello, peace be upon you.",
+      "start": 494.4,
+      "end": 497.8,
+      "pause_end": 502.85
+    },
+    {
+      "id": "L18_A117",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 502.85,
+      "end": 504.754,
+      "pause_end": 505.854
+    },
+    {
+      "id": "L18_A118",
+      "speaker": "instructor",
+      "text": "Say: And peace be upon you.",
+      "start": 505.854,
+      "end": 508.814,
+      "pause_end": 513.864
+    },
+    {
+      "id": "L18_A119",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 513.864,
+      "end": 515.165,
+      "pause_end": 516.265
+    },
+    {
+      "id": "L18_A120",
+      "speaker": "instructor",
+      "text": "Say: Who is speaking?",
+      "start": 516.265,
+      "end": 518.065,
+      "pause_end": 523.115
+    },
+    {
+      "id": "L18_A121",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 523.115,
+      "end": 524.043,
+      "pause_end": 525.143
+    },
+    {
+      "id": "L18_A122",
+      "speaker": "instructor",
+      "text": "Say: This is Khalid.",
+      "start": 525.143,
+      "end": 527.783,
+      "pause_end": 532.833
+    },
+    {
+      "id": "L18_A123",
+      "speaker": "arabic",
+      "text": "أنا خالد",
+      "start": 532.833,
+      "end": 533.809,
+      "pause_end": 534.909
+    },
+    {
+      "id": "L18_A124",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 534.909,
+      "end": 537.869,
+      "pause_end": 542.819
+    },
+    {
+      "id": "L18_A125",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 542.819,
+      "end": 543.794,
+      "pause_end": 544.894
+    },
+    {
+      "id": "L18_A126",
+      "speaker": "instructor",
+      "text": "Say: Can you hear me clearly?",
+      "start": 544.894,
+      "end": 547.254,
+      "pause_end": 552.304
+    },
+    {
+      "id": "L18_A127",
+      "speaker": "arabic",
+      "text": "تسمعني زين؟",
+      "start": 552.304,
+      "end": 553.419,
+      "pause_end": 554.519
+    },
+    {
+      "id": "L18_A128",
+      "speaker": "instructor",
+      "text": "Say: Yes, I can hear you.",
+      "start": 554.519,
+      "end": 557.159,
+      "pause_end": 562.209
+    },
+    {
+      "id": "L18_A129",
+      "speaker": "arabic_female",
+      "text": "هيه، أسمعك",
+      "start": 562.209,
+      "end": 563.416,
+      "pause_end": 564.516
+    },
+    {
+      "id": "L18_A130",
+      "speaker": "instructor",
+      "text": "Say: The sound is not clear.",
+      "start": 564.516,
+      "end": 567.116,
+      "pause_end": 572.166
+    },
+    {
+      "id": "L18_A131",
+      "speaker": "arabic",
+      "text": "الصوت مب واضح",
+      "start": 572.166,
+      "end": 573.466,
+      "pause_end": 574.566
+    },
+    {
+      "id": "L18_A132",
+      "speaker": "instructor",
+      "text": "Say: Call me a little later. Said to a man.",
+      "start": 574.566,
+      "end": 577.886,
+      "pause_end": 582.936
+    },
+    {
+      "id": "L18_A133",
+      "speaker": "arabic_female",
+      "text": "دق علي عقب شوي",
+      "start": 582.936,
+      "end": 584.237,
+      "pause_end": 585.337
+    },
+    {
+      "id": "L18_A134",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man when he starts work.",
+      "start": 585.337,
+      "end": 588.497,
+      "pause_end": 593.447
+    },
+    {
+      "id": "L18_A135",
+      "speaker": "arabic_female",
+      "text": "متى تداوم؟",
+      "start": 593.447,
+      "end": 594.561,
+      "pause_end": 595.661
+    },
+    {
+      "id": "L18_A136",
+      "speaker": "instructor",
+      "text": "Say: I will send you a message.",
+      "start": 595.661,
+      "end": 597.981,
+      "pause_end": 603.031
+    },
+    {
+      "id": "L18_A137",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 603.031,
+      "end": 604.378,
+      "pause_end": 605.478
+    },
+    {
+      "id": "L18_A138",
+      "speaker": "instructor",
+      "text": "Say: Did you get the message?",
+      "start": 605.478,
+      "end": 607.798,
+      "pause_end": 612.848
+    },
+    {
+      "id": "L18_A139",
+      "speaker": "arabic_female",
+      "text": "وصلتك الرسالة؟",
+      "start": 612.848,
+      "end": 614.195,
+      "pause_end": 615.295
+    },
+    {
+      "id": "L18_A140",
+      "speaker": "instructor",
+      "text": "Say: Yes, I received it.",
+      "start": 615.295,
+      "end": 617.135,
+      "pause_end": 622.185
+    },
+    {
+      "id": "L18_A141",
+      "speaker": "arabic",
+      "text": "هيه، وصلتني",
+      "start": 622.185,
+      "end": 623.439,
+      "pause_end": 624.539
+    },
+    {
+      "id": "L18_A142",
+      "speaker": "instructor",
+      "text": "Say: Where are you now?",
+      "start": 624.539,
+      "end": 626.659,
+      "pause_end": 631.709
+    },
+    {
+      "id": "L18_A143",
+      "speaker": "arabic_female",
+      "text": "وينك الحين؟",
+      "start": 631.709,
+      "end": 632.87,
+      "pause_end": 633.97
+    },
+    {
+      "id": "L18_A144",
+      "speaker": "instructor",
+      "text": "Quick review. Say you will send a message.",
+      "start": 633.97,
+      "end": 637.13,
+      "pause_end": 642.08
+    },
+    {
+      "id": "L18_A145",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 642.08,
+      "end": 643.426,
+      "pause_end": 644.526
+    },
+    {
+      "id": "L18_A146",
+      "speaker": "instructor",
+      "text": "Say: I am at work.",
+      "start": 644.526,
+      "end": 646.246,
+      "pause_end": 651.296
+    },
+    {
+      "id": "L18_A147",
+      "speaker": "arabic",
+      "text": "أنا في الدوام",
+      "start": 651.296,
+      "end": 652.411,
+      "pause_end": 653.511
+    },
+    {
+      "id": "L18_A148",
+      "speaker": "instructor",
+      "text": "Say: I will call you after work.",
+      "start": 653.511,
+      "end": 656.511,
+      "pause_end": 661.561
+    },
+    {
+      "id": "L18_A149",
+      "speaker": "arabic_female",
+      "text": "بكلمك عقب الدوام",
+      "start": 661.561,
+      "end": 663.093,
+      "pause_end": 664.193
+    },
+    {
+      "id": "L18_A150",
+      "speaker": "instructor",
+      "text": "Say: Hello, peace be upon you.",
+      "start": 664.193,
+      "end": 667.593,
+      "pause_end": 672.643
+    },
+    {
+      "id": "L18_A151",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 672.643,
+      "end": 674.548,
+      "pause_end": 675.648
+    },
+    {
+      "id": "L18_A152",
+      "speaker": "instructor",
+      "text": "Say: Who is speaking?",
+      "start": 675.648,
+      "end": 677.448,
+      "pause_end": 682.498
+    },
+    {
+      "id": "L18_A153",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 682.498,
+      "end": 683.426,
+      "pause_end": 684.526
+    },
+    {
+      "id": "L18_A154",
+      "speaker": "instructor",
+      "text": "Say: Can you hear me clearly?",
+      "start": 684.526,
+      "end": 686.886,
+      "pause_end": 691.936
+    },
+    {
+      "id": "L18_A155",
+      "speaker": "arabic",
+      "text": "تسمعني زين؟",
+      "start": 691.936,
+      "end": 693.051,
+      "pause_end": 694.151
+    },
+    {
+      "id": "L18_A156",
+      "speaker": "instructor",
+      "text": "Say: The sound is not clear.",
+      "start": 694.151,
+      "end": 696.751,
+      "pause_end": 701.801
+    },
+    {
+      "id": "L18_A157",
+      "speaker": "arabic",
+      "text": "الصوت مب واضح",
+      "start": 701.801,
+      "end": 703.101,
+      "pause_end": 704.201
+    },
+    {
+      "id": "L18_A158",
+      "speaker": "instructor",
+      "text": "Say: I will send you a message.",
+      "start": 704.201,
+      "end": 706.521,
+      "pause_end": 711.571
+    },
+    {
+      "id": "L18_A159",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 711.571,
+      "end": 712.918,
+      "pause_end": 714.018
+    },
+    {
+      "id": "L18_A160",
+      "speaker": "instructor",
+      "text": "Say: Yes, I received it.",
+      "start": 714.018,
+      "end": 715.858,
+      "pause_end": 720.908
+    },
+    {
+      "id": "L18_A161",
+      "speaker": "arabic",
+      "text": "هيه، وصلتني",
+      "start": 720.908,
+      "end": 722.162,
+      "pause_end": 723.262
+    },
+    {
+      "id": "L18_A162",
+      "speaker": "instructor",
+      "text": "Say: I am at work.",
+      "start": 723.262,
+      "end": 724.982,
+      "pause_end": 730.032
+    },
+    {
+      "id": "L18_A163",
+      "speaker": "arabic",
+      "text": "أنا في الدوام",
+      "start": 730.032,
+      "end": 731.147,
+      "pause_end": 732.247
+    },
+    {
+      "id": "L18_A164",
+      "speaker": "instructor",
+      "text": "Say: And peace be upon you.",
+      "start": 732.247,
+      "end": 735.207,
+      "pause_end": 740.257
+    },
+    {
+      "id": "L18_A165",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 740.257,
+      "end": 741.557,
+      "pause_end": 742.657
+    },
+    {
+      "id": "L18_A166",
+      "speaker": "instructor",
+      "text": "Say: This is Khalid.",
+      "start": 742.657,
+      "end": 745.297,
+      "pause_end": 750.347
+    },
+    {
+      "id": "L18_A167",
+      "speaker": "arabic",
+      "text": "أنا خالد",
+      "start": 750.347,
+      "end": 751.322,
+      "pause_end": 752.422
+    },
+    {
+      "id": "L18_A168",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man where he lives.",
+      "start": 752.422,
+      "end": 755.382,
+      "pause_end": 760.332
+    },
+    {
+      "id": "L18_A169",
+      "speaker": "arabic_female",
+      "text": "وين ساكن؟",
+      "start": 760.332,
+      "end": 761.4,
+      "pause_end": 762.5
+    },
+    {
+      "id": "L18_A170",
+      "speaker": "instructor",
+      "text": "Say: Yes, I can hear you.",
+      "start": 762.5,
+      "end": 765.14,
+      "pause_end": 770.19
+    },
+    {
+      "id": "L18_A171",
+      "speaker": "arabic_female",
+      "text": "هيه، أسمعك",
+      "start": 770.19,
+      "end": 771.398,
+      "pause_end": 772.498
+    },
+    {
+      "id": "L18_A172",
+      "speaker": "instructor",
+      "text": "Say: Call me a little later. Said to a man.",
+      "start": 772.498,
+      "end": 775.818,
+      "pause_end": 780.868
+    },
+    {
+      "id": "L18_A173",
+      "speaker": "arabic_female",
+      "text": "دق علي عقب شوي",
+      "start": 780.868,
+      "end": 782.168,
+      "pause_end": 783.268
+    },
+    {
+      "id": "L18_A174",
+      "speaker": "instructor",
+      "text": "Quick review. Say tomorrow morning.",
+      "start": 783.268,
+      "end": 785.348,
+      "pause_end": 790.298
+    },
+    {
+      "id": "L18_A175",
+      "speaker": "arabic",
+      "text": "باجر الصبح",
+      "start": 790.298,
+      "end": 791.413,
+      "pause_end": 792.513
+    },
+    {
+      "id": "L18_A176",
+      "speaker": "instructor",
+      "text": "Say: Did you get the message?",
+      "start": 792.513,
+      "end": 794.833,
+      "pause_end": 799.883
+    },
+    {
+      "id": "L18_A177",
+      "speaker": "arabic_female",
+      "text": "وصلتك الرسالة؟",
+      "start": 799.883,
+      "end": 801.229,
+      "pause_end": 802.329
+    },
+    {
+      "id": "L18_A178",
+      "speaker": "instructor",
+      "text": "Say: Where are you now?",
+      "start": 802.329,
+      "end": 804.449,
+      "pause_end": 809.499
+    },
+    {
+      "id": "L18_A179",
+      "speaker": "arabic_female",
+      "text": "وينك الحين؟",
+      "start": 809.499,
+      "end": 810.66,
+      "pause_end": 811.76
+    },
+    {
+      "id": "L18_A180",
+      "speaker": "instructor",
+      "text": "Quick review. Greet someone.",
+      "start": 811.76,
+      "end": 814.04,
+      "pause_end": 818.99
+    },
+    {
+      "id": "L18_A181",
+      "speaker": "arabic",
+      "text": "السلام عليكم",
+      "start": 818.99,
+      "end": 820.151,
+      "pause_end": 821.251
+    },
+    {
+      "id": "L18_A182",
+      "speaker": "instructor",
+      "text": "Say: I will call you after work.",
+      "start": 821.251,
+      "end": 824.251,
+      "pause_end": 829.301
+    },
+    {
+      "id": "L18_A183",
+      "speaker": "arabic_female",
+      "text": "بكلمك عقب الدوام",
+      "start": 829.301,
+      "end": 830.834,
+      "pause_end": 831.934
+    },
+    {
+      "id": "L18_A184",
+      "speaker": "instructor",
+      "text": "How do you say: I will call you after work.",
+      "start": 831.934,
+      "end": 835.334,
+      "pause_end": 840.784
+    },
+    {
+      "id": "L18_A185",
+      "speaker": "arabic_female",
+      "text": "بكلمك عقب الدوام",
+      "start": 840.784,
+      "end": 842.316,
+      "pause_end": 843.416
+    },
+    {
+      "id": "L18_A186",
+      "speaker": "instructor",
+      "text": "How do you say: I am at work.",
+      "start": 843.416,
+      "end": 845.936,
+      "pause_end": 851.386
+    },
+    {
+      "id": "L18_A187",
+      "speaker": "arabic",
+      "text": "أنا في الدوام",
+      "start": 851.386,
+      "end": 852.501,
+      "pause_end": 853.601
+    },
+    {
+      "id": "L18_A188",
+      "speaker": "instructor",
+      "text": "How do you say: Where are you now?",
+      "start": 853.601,
+      "end": 856.121,
+      "pause_end": 861.571
+    },
+    {
+      "id": "L18_A189",
+      "speaker": "arabic_female",
+      "text": "وينك الحين؟",
+      "start": 861.571,
+      "end": 862.732,
+      "pause_end": 863.832
+    },
+    {
+      "id": "L18_A190",
+      "speaker": "instructor",
+      "text": "Quick review. Ask a man how he is.",
+      "start": 863.832,
+      "end": 866.792,
+      "pause_end": 871.742
+    },
+    {
+      "id": "L18_A191",
+      "speaker": "arabic_female",
+      "text": "شحالك؟",
+      "start": 871.742,
+      "end": 872.717,
+      "pause_end": 873.817
+    },
+    {
+      "id": "L18_A192",
+      "speaker": "instructor",
+      "text": "How do you say: Yes, I received it.",
+      "start": 873.817,
+      "end": 876.297,
+      "pause_end": 881.747
+    },
+    {
+      "id": "L18_A193",
+      "speaker": "arabic",
+      "text": "هيه، وصلتني",
+      "start": 881.747,
+      "end": 883.001,
+      "pause_end": 884.101
+    },
+    {
+      "id": "L18_A194",
+      "speaker": "instructor",
+      "text": "How do you say: Did you get the message?",
+      "start": 884.101,
+      "end": 886.341,
+      "pause_end": 891.791
+    },
+    {
+      "id": "L18_A195",
+      "speaker": "arabic_female",
+      "text": "وصلتك الرسالة؟",
+      "start": 891.791,
+      "end": 893.138,
+      "pause_end": 894.238
+    },
+    {
+      "id": "L18_A196",
+      "speaker": "instructor",
+      "text": "How do you say: I will send you a message.",
+      "start": 894.238,
+      "end": 896.758,
+      "pause_end": 902.208
+    },
+    {
+      "id": "L18_A197",
+      "speaker": "arabic",
+      "text": "بطرش لك رسالة",
+      "start": 902.208,
+      "end": 903.555,
+      "pause_end": 904.655
+    },
+    {
+      "id": "L18_A198",
+      "speaker": "instructor",
+      "text": "How do you say: Call me a little later. Said to a man.",
+      "start": 904.655,
+      "end": 910.015,
+      "pause_end": 915.465
+    },
+    {
+      "id": "L18_A199",
+      "speaker": "arabic_female",
+      "text": "دق علي عقب شوي",
+      "start": 915.465,
+      "end": 916.765,
+      "pause_end": 917.865
+    },
+    {
+      "id": "L18_A200",
+      "speaker": "instructor",
+      "text": "Quick review. Say you cannot today.",
+      "start": 917.865,
+      "end": 921.105,
+      "pause_end": 926.055
+    },
+    {
+      "id": "L18_A201",
+      "speaker": "arabic",
+      "text": "ما أقدر اليوم",
+      "start": 926.055,
+      "end": 927.262,
+      "pause_end": 928.362
+    },
+    {
+      "id": "L18_A202",
+      "speaker": "instructor",
+      "text": "How do you say: The sound is not clear.",
+      "start": 928.362,
+      "end": 931.442,
+      "pause_end": 936.892
+    },
+    {
+      "id": "L18_A203",
+      "speaker": "arabic",
+      "text": "الصوت مب واضح",
+      "start": 936.892,
+      "end": 938.193,
+      "pause_end": 939.293
+    },
+    {
+      "id": "L18_A204",
+      "speaker": "instructor",
+      "text": "How do you say: Yes, I can hear you.",
+      "start": 939.293,
+      "end": 942.253,
+      "pause_end": 947.703
+    },
+    {
+      "id": "L18_A205",
+      "speaker": "arabic_female",
+      "text": "هيه، أسمعك",
+      "start": 947.703,
+      "end": 948.91,
+      "pause_end": 950.01
+    },
+    {
+      "id": "L18_A206",
+      "speaker": "instructor",
+      "text": "How do you say: Can you hear me clearly?",
+      "start": 950.01,
+      "end": 952.93,
+      "pause_end": 958.38
+    },
+    {
+      "id": "L18_A207",
+      "speaker": "arabic",
+      "text": "تسمعني زين؟",
+      "start": 958.38,
+      "end": 959.495,
+      "pause_end": 960.595
+    },
+    {
+      "id": "L18_A208",
+      "speaker": "instructor",
+      "text": "How do you say: This is Khalid.",
+      "start": 960.595,
+      "end": 963.315,
+      "pause_end": 968.765
+    },
+    {
+      "id": "L18_A209",
+      "speaker": "arabic",
+      "text": "أنا خالد",
+      "start": 968.765,
+      "end": 969.74,
+      "pause_end": 970.84
+    },
+    {
+      "id": "L18_A210",
+      "speaker": "instructor",
+      "text": "Quick review. Say you want water.",
+      "start": 970.84,
+      "end": 973.04,
+      "pause_end": 977.99
+    },
+    {
+      "id": "L18_A211",
+      "speaker": "arabic",
+      "text": "أبغي ماي",
+      "start": 977.99,
+      "end": 978.965,
+      "pause_end": 980.065
+    },
+    {
+      "id": "L18_A212",
+      "speaker": "instructor",
+      "text": "How do you say: Who is speaking?",
+      "start": 980.065,
+      "end": 983.345,
+      "pause_end": 988.795
+    },
+    {
+      "id": "L18_A213",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 988.795,
+      "end": 989.724,
+      "pause_end": 990.824
+    },
+    {
+      "id": "L18_A214",
+      "speaker": "instructor",
+      "text": "How do you say: And peace be upon you.",
+      "start": 990.824,
+      "end": 993.944,
+      "pause_end": 999.394
+    },
+    {
+      "id": "L18_A215",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 999.394,
+      "end": 1000.694,
+      "pause_end": 1001.794
+    },
+    {
+      "id": "L18_A216",
+      "speaker": "instructor",
+      "text": "How do you say: Hello, peace be upon you.",
+      "start": 1001.794,
+      "end": 1005.034,
+      "pause_end": 1010.484
+    },
+    {
+      "id": "L18_A217",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 1010.484,
+      "end": 1012.388,
+      "pause_end": 1013.488
+    },
+    {
+      "id": "L18_A218",
+      "speaker": "instructor",
+      "text": "Final recall. Try to answer naturally.",
+      "start": 1013.488,
+      "end": 1016.168,
+      "pause_end": 1017.018
+    },
+    {
+      "id": "L18_A219",
+      "speaker": "instructor",
+      "text": "Say: I will call you after work.",
+      "start": 1017.018,
+      "end": 1020.018,
+      "pause_end": 1025.668
+    },
+    {
+      "id": "L18_A220",
+      "speaker": "arabic_female",
+      "text": "بكلمك عقب الدوام",
+      "start": 1025.668,
+      "end": 1027.201,
+      "pause_end": 1028.301
+    },
+    {
+      "id": "L18_A221",
+      "speaker": "instructor",
+      "text": "Say: Who is speaking?",
+      "start": 1028.301,
+      "end": 1030.101,
+      "pause_end": 1035.751
+    },
+    {
+      "id": "L18_A222",
+      "speaker": "arabic_female",
+      "text": "منو معاي؟",
+      "start": 1035.751,
+      "end": 1036.68,
+      "pause_end": 1037.78
+    },
+    {
+      "id": "L18_A223",
+      "speaker": "instructor",
+      "text": "Say: Hello, peace be upon you.",
+      "start": 1037.78,
+      "end": 1041.18,
+      "pause_end": 1046.83
+    },
+    {
+      "id": "L18_A224",
+      "speaker": "arabic",
+      "text": "ألو، السلام عليكم",
+      "start": 1046.83,
+      "end": 1048.734,
+      "pause_end": 1049.834
+    },
+    {
+      "id": "L18_A225",
+      "speaker": "instructor",
+      "text": "Say: Call me a little later. Said to a man.",
+      "start": 1049.834,
+      "end": 1053.154,
+      "pause_end": 1058.804
+    },
+    {
+      "id": "L18_A226",
+      "speaker": "arabic_female",
+      "text": "دق علي عقب شوي",
+      "start": 1058.804,
+      "end": 1060.104,
+      "pause_end": 1061.204
+    },
+    {
+      "id": "L18_A227",
+      "speaker": "instructor",
+      "text": "Say: Yes, I can hear you.",
+      "start": 1061.204,
+      "end": 1063.844,
+      "pause_end": 1069.494
+    },
+    {
+      "id": "L18_A228",
+      "speaker": "arabic_female",
+      "text": "هيه، أسمعك",
+      "start": 1069.494,
+      "end": 1070.702,
+      "pause_end": 1071.802
+    },
+    {
+      "id": "L18_A229",
+      "speaker": "instructor",
+      "text": "Say: Where are you now?",
+      "start": 1071.802,
+      "end": 1073.922,
+      "pause_end": 1079.572
+    },
+    {
+      "id": "L18_A230",
+      "speaker": "arabic_female",
+      "text": "وينك الحين؟",
+      "start": 1079.572,
+      "end": 1080.733,
+      "pause_end": 1081.833
+    },
+    {
+      "id": "L18_A231",
+      "speaker": "instructor",
+      "text": "Say: And peace be upon you.",
+      "start": 1081.833,
+      "end": 1084.793,
+      "pause_end": 1090.443
+    },
+    {
+      "id": "L18_A232",
+      "speaker": "arabic_female",
+      "text": "وعليكم السلام",
+      "start": 1090.443,
+      "end": 1091.743,
+      "pause_end": 1092.843
+    },
+    {
+      "id": "L18_A233",
+      "speaker": "instructor",
+      "text": "That is the end of this lesson. Review it before moving on.",
+      "start": 1092.843,
+      "end": 1096.923,
+      "pause_end": 1097.873
+    }
+  ]
+}
